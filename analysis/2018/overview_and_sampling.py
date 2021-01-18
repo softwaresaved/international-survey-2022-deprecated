@@ -104,7 +104,7 @@ def add_table(name, data):
 def add_figure(name, plt):
     figpath = "fig/%s.png" % name
     plt.savefig(figpath)
-    DATA["f_" + name] = "![%s][%s]" % (name, figpath)
+    DATA["f_" + name] = "![%s](%s)" % (name, figpath)
 
 
 df_countries = (

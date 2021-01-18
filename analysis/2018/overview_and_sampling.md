@@ -33,31 +33,31 @@ We can see the distribution of participants among the countries as follow:
 |  4 | Netherlands        |                                      54 |
 |  5 | New Zealand        |                                      37 |
 |  6 | South Africa       |                                      23 |
-|  7 | Norway             |                                       6 |
-|  8 | Czech Republic     |                                       6 |
+|  7 | Czech Republic     |                                       6 |
+|  8 | Norway             |                                       6 |
 |  9 | France             |                                       5 |
 | 10 | Italy              |                                       4 |
 | 11 | Spain              |                                       4 |
 | 12 | Denmark            |                                       3 |
-| 13 | Belgium            |                                       3 |
-| 14 | Brazil             |                                       3 |
-| 15 | Botswana           |                                       2 |
-| 16 | Ireland            |                                       2 |
+| 13 | Brazil             |                                       3 |
+| 14 | Belgium            |                                       3 |
+| 15 | Ireland            |                                       2 |
+| 16 | Botswana           |                                       2 |
 | 17 | Switzerland        |                                       2 |
 | 18 | Sweden             |                                       2 |
-| 19 | Benin              |                                       1 |
-| 20 | Poland             |                                       1 |
-| 21 | Nigeria            |                                       1 |
-| 22 | Russian Federation |                                       1 |
-| 23 | Malawi             |                                       1 |
-| 24 | Greece             |                                       1 |
-| 25 | Ethiopia           |                                       1 |
+| 19 | Nigeria            |                                       1 |
+| 20 | Japan              |                                       1 |
+| 21 | Ethiopia           |                                       1 |
+| 22 | Malawi             |                                       1 |
+| 23 | Benin              |                                       1 |
+| 24 | Russian Federation |                                       1 |
+| 25 | Greece             |                                       1 |
 | 26 | Portugal           |                                       1 |
 | 27 | Mauritius          |                                       1 |
-| 28 | Saudi Arabia       |                                       1 |
-| 29 | Turkey             |                                       1 |
-| 30 | Japan              |                                       1 |
-| 31 | India              |                                       1 |
+| 28 | Turkey             |                                       1 |
+| 29 | Poland             |                                       1 |
+| 30 | India              |                                       1 |
+| 31 | Saudi Arabia       |                                       1 |
 
 [Download CSV](csv/participant.csv)
 
@@ -68,7 +68,7 @@ We can see the distribution of participants among the countries as follow:
 
 ## Date of participation
 
-![participation_date][fig/participation_date.png]
+![participation_date](fig/participation_date.png)
 
 ## Difference with the previous year
 
@@ -84,7 +84,7 @@ Several countries did the survey last year, here a summary of the difference in 
 
 [Download CSV](csv/difference_with_previous_year.csv)
 
-![difference_with_previous_year][fig/difference_with_previous_year.png]
+![difference_with_previous_year](fig/difference_with_previous_year.png)
 
 # Subsetting
 
