@@ -9,7 +9,7 @@ import matplotlib.dates as mdates
 from pathlib import Path
 
 sys.path.insert(0, "../include")
-from report import table, figure, make_report, convert_time, COUNTRIES
+from report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
 
 @make_report(__file__)
@@ -212,6 +212,7 @@ def run(year, data="data/public_merged.csv"):
     df = df[df["any_rse"] == "Yes"]
     # drop the column `any_rse` as no use anymore
     df.drop(["any_rse"], axis=1, inplace=True)
+    write_cache("processed_data", df)
 
     # This brings the number of participants analysed to:
     results = pd.DataFrame.from_dict(

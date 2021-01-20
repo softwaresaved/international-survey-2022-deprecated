@@ -1,6 +1,7 @@
 import sys
 import chevron
 import datetime
+import pandas as pd
 from pathlib import Path
 
 # List of all countries of interest
@@ -22,6 +23,18 @@ def convert_time(x):
         return datetime.datetime.strptime(str(x), "%Y-%m-%d %H:%M:%S").date()
     except ValueError:
         return x
+
+def write_cache(name, data):
+    cache_folder = Path("cache")
+    if not cache_folder.exists():
+        cache_folder.mkdir()
+    data.to_csv(cache_folder / (name + ".csv"))
+
+def read_cache(name):
+    cache_folder = Path("cache")
+    if not cache_folder.exists():
+        raise ValueError("Cached item '%s' not found, run overview_and_sampling to generate")
+    return pd.read_csv(cache_folder / (name + ".csv"))
 
 
 def make_report(file):
