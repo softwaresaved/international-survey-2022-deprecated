@@ -20,7 +20,7 @@ selected at least one option.
 
 {{#education_level}}
 
-### {{#country}}
+### {{country}}
 
 {{t_education_level}}
 
@@ -49,7 +49,7 @@ despite lot of overlapping in the categories.
 
 {{#academic_field_edu}}
 
-### {{#country}}
+### {{country}}
 
 {{t_academic_field_edu}}
 
@@ -61,7 +61,7 @@ despite lot of overlapping in the categories.
 
 {{#academic_field_work}}
 
-### {{#country}}
+### {{country}}
 
 {{t_academic_field_work}}
 
