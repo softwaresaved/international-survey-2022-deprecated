@@ -66,11 +66,15 @@ def run(year, data="data/public_merged.csv"):
     #
     # We can see the distribution of participants among the countries as follow
 
+    country_of_work_c = "socio1. In which country do you work?"
     df_countries = (
-        df[df["Year"] == year]["socio1. In which country do you work?"]
+        df[df["Year"] == year][country_of_work_c]
         .value_counts()
         .to_frame()
         .reset_index()
+        .sort_values([country_of_work_c, "index"], ascending=[False, True])
+        # ^^ Sort descending by counts, but then ascending by country
+        #    This makes the CSV reproducible
     )
     report.update(table("participant", df_countries))
     df_countries.columns = ["name", "count"]
