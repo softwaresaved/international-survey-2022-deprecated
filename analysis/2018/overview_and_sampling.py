@@ -59,10 +59,11 @@ def make_report(generator):
             if not p.exists():
                 p.mkdir()
 
-        report, extra_data = generator(year=year, **kwargs)
+        report = generator(year=year, **kwargs)
         with template.open() as fp:
             Path(filename).write_text(chevron.render(fp, report))
-        return extra_data
+        return report
+    return func
 
 
 def convert_time(x):
@@ -279,4 +280,4 @@ def run(data="data/public_merged.csv", year=None):
         ]
     )
     report.update(table("participant_analysed", results))
-    return report, None
+    return report
