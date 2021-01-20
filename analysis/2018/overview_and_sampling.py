@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import sys
+import fire
 import chevron
 import numpy as np
 import datetime
@@ -281,3 +282,7 @@ def run(data="data/public_merged.csv", year=None):
     )
     report.update(table("participant_analysed", results))
     return report
+
+
+if __name__ == "__main__":
+    fire.Fire(run)
