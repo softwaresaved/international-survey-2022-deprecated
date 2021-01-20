@@ -53,10 +53,10 @@ def make_report(file):
     return inner_decorator
 
 
-def table(name, data):
+def table(name, data, index=True):
     csv = "csv/%s.csv" % name
-    data.to_csv(csv, index=False)
-    return {"t_" + name: data.to_markdown() + "\n\n[Download CSV](%s)" % ("../" + csv)}
+    data.to_csv(csv, index=index)
+    return {"t_" + name: data.to_markdown(index=index) + "\n\n[Download CSV](%s)" % ("../" + csv)}
 
 
 def figure(name, plt):

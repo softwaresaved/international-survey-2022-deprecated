@@ -76,7 +76,7 @@ def run(year, data="data/public_merged.csv"):
         # ^^ Sort descending by counts, but then ascending by country
         #    This makes the CSV reproducible
     )
-    report.update(table("participant", df_countries))
+    report.update(table("participant", df_countries, index=False))
     df_countries.columns = ["name", "count"]
 
     df["Date"] = df["startdate. Date started"].apply(lambda x: convert_time(x))
