@@ -18,6 +18,11 @@ COUNTRIES = [
 REQUIRED_PATHS = ["csv", "fig", "report"]
 
 
+def slugify(x):
+    x = x.replace("&", "")
+    return "-".join(x.lower().split())
+
+
 def convert_time(x):
     try:
         return datetime.datetime.strptime(str(x), "%Y-%m-%d %H:%M:%S").date()
@@ -87,8 +92,24 @@ def table(name, data, index=True):
     }
 
 
+def table_country(country, name, data, index=True):
+    csv = "csv/%s_%s.csv" % (name, slugify(country))
+    data.to_csv(csv, index=index)
+    return {
+        "t_"
+        + name: data.to_markdown(index=index)
+        + "\n\n[Download CSV](%s)" % ("../" + csv)
+    }
+
+
 def figure(name, plt):
     figpath = "fig/%s.png" % name
+    plt.savefig(figpath)
+    return {"f_" + name: "![%s](%s)" % (name, "../" + figpath)}
+
+
+def figure_country(country, name, plt):
+    figpath = "fig/%s_%s.png" % (name, slugify(country))
     plt.savefig(figpath)
     return {"f_" + name: "![%s](%s)" % (name, "../" + figpath)}
 
