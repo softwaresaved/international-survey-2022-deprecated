@@ -5,7 +5,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 from likertScalePlot import likert_scale
-from textCleaning import plot_wordcloud as wordcloud
+from textCleaning import plot_wordcloud as _plot_wordcloud
 from textCleaning import wrap_clean_text
 
 
@@ -628,7 +628,6 @@ def plot_cat_comparison(df, country, category, order_index=False):
             )  # Vertically align label differently for
             # positive and negative values.
     plt.xticks(ind, df.index, rotation=90)
-    plt.show()
 
 
 def plot_ranking(df, category, country):
@@ -669,8 +668,6 @@ def plot_ranking(df, category, country):
                 ha="center",
             )
 
-    plt.show()
-
 
 def plot_wordcloud(df, columns, country, category):
     df_to_sample = get_sampled_df(df, columns=columns)
@@ -679,11 +676,10 @@ def plot_wordcloud(df, columns, country, category):
     ]
     txt_to_plot = wrap_clean_text(df, columns)
     plt.ion()
-    plot = wordcloud(txt_to_plot)
-    plt.imshow(plot, cmap=plt.cm.gray, interpolation="bilinear")
+    plot = _plot_wordcloud(txt_to_plot)
+    # plt.imshow(plot, cmap=plt.cm.gray, interpolation="bilinear")
     plt.axis("off")
     plt.title("{}: {}".format(category, country))
-    plt.show()
 
 
 def radar_plotting(
