@@ -55,6 +55,8 @@ despite lot of overlapping in the categories.
 
 {{f_academic_field_edu}}
 
+{{f_academic_field_edu_wordcloud}}
+
 {{/academic_field_edu}}
 
 ## Academic field of work
