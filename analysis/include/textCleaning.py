@@ -4,10 +4,10 @@
 import re
 import string
 import itertools
+import wordcloud
 import numpy as np
-from wordcloud import WordCloud, STOPWORDS
 
-to_remove = set(string.punctuation) | STOPWORDS | set(['nan', np.NaN])
+to_remove = set(string.punctuation) | wordcloud.STOPWORDS | set(['nan', np.NaN])
 
 
 def clean_column(df, column):
@@ -181,7 +181,7 @@ def wordcloud(df, columns):
     # value without modifying the corresponding value in _setup_matplotlib() in generate_notebook.py
     if isinstance(text_to_plot, list):
         text_to_plot = ' '.join(text_to_plot)
-    return WordCloud(background_color='white', width=1500, height=800).generate(text_to_plot)
+    return wordcloud.WordCloud(background_color='white', width=1500, height=800).generate(text_to_plot)
 
 
 def wrap_clean_text(df, columns, conference=False, skills=False):
@@ -210,34 +210,4 @@ def plot_wordcloud(text_to_plot):
     # value without modifying the corresponding value in _setup_matplotlib() in generate_notebook.py
     if isinstance(text_to_plot, list):
         text_to_plot = ' '.join(text_to_plot)
-    return WordCloud(background_color='white', width=1500, height=800).generate(text_to_plot)
-
-
-if __name__ == "__main__":
-
-    import pandas as pd
-    import matplotlib
-    # When using Ipython within vim
-    matplotlib.use('TkAgg')
-
-    # When using within jupyter
-    # get_ipython().magic('matplotlib inline')  # Activat that line to use in Jupyter
-
-    import matplotlib.pyplot as plt
-
-    #  When using this script with ipython and vdf = pd.read_csv('../uk_2017/data/cleaned_data.csv')
-
-    df = pd.read_csv('../2018/data/clean_merged.csv')
-    column = 'conf2can. At which conference(s)/workshop(s) have you presented your software work?'
-    column2 = 'ukrse3. How did you learn the skills you need to become an Research Software Engineer / Research Software Developer?'
-
-    cleaned_text = wrap_clean_text(df, column2, conference=True)
-
-    # for i in cleaned_text:
-    #     print(i)
-    print('Size of all: {}'.format(len(cleaned_text)))
-    print('Size of unique: {}'.format(len(set(cleaned_text))))
-    plt.imshow(plot_wordcloud(cleaned_text), cmap=plt.cm.gray, interpolation="bilinear")
-
-    plt.axis('off')
-    plt.show()
+    return wordcloud.WordCloud(background_color='white', width=1500, height=800).generate(text_to_plot)
