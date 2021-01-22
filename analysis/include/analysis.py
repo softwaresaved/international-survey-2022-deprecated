@@ -109,7 +109,7 @@ def count_multi_choice(df, category, dropna=True):
     df_final["Percentage"] = (df_final["Count"] / total_answered) * 100
 
     # Get the category information between Bracket
-    df_final[category] = df_final[category].str.replace("]", "").str.split("[").str[1]
+    df_final[category] = df_final[category].str.replace("]", "", regex=False).str.split("[").str[1]
 
     # Reorder the df
     df_final = df_final.sort_values("Percentage", ascending=False)
@@ -537,6 +537,7 @@ def plot_density_func(df, columns, category, country, remove_outliers=True):
 
 def plot_cat_comparison(df, country, category, order_index=False):
     # Plotting the current categories and the difference with the last year
+    plt.ioff()
     if order_index:
         if isinstance(order_index, list):
             df = df.reindex(order_index)
@@ -573,17 +574,13 @@ def plot_cat_comparison(df, country, category, order_index=False):
     except KeyError:
         # Set up columns
         # fig = plt.figure()
+        plt.figure()
         if order_index is False:
             df.sort_values("Percentage", ascending=False, inplace=True)
 
-        ax = df.plot(
-            kind="bar", y="Percentage", use_index=True, grid=False, legend=False
-        )
-
-        ax.spines["top"].set_visible(False)
-        ax.spines["right"].set_visible(False)
-        ax.spines["left"].set_visible(False)
-        rects = ax.patches
+        # current field
+        plt.bar(ind, df["Percentage"], align="center")
+        plt.title("Current proportion of {} for {}".format(category, country))
 
     # For each bar: Place a label
     for rect in rects:
@@ -670,12 +667,13 @@ def plot_ranking(df, category, country):
 
 
 def plot_wordcloud(df, columns, country, category):
+    plt.ioff()
     df_to_sample = get_sampled_df(df, columns=columns)
     df = df_to_sample[
         (df_to_sample["Country"] == country) & (df_to_sample["Year"] == 2018)
     ]
     txt_to_plot = wrap_clean_text(df, columns)
-    plt.ion()
+    plt.ioff()
     plot = _plot_wordcloud(txt_to_plot)
     # plt.imshow(plot, cmap=plt.cm.gray, interpolation="bilinear")
     plt.axis("off")

@@ -109,9 +109,10 @@ def figure(name, plt):
 
 
 def figure_country(country, name, plt):
-    figpath = "fig/%s_%s.png" % (name, slugify(country))
+    slug = slugify(country)
+    figpath = "fig/%s_%s.png" % (name, slug)
     plt.savefig(figpath)
-    return {"f_" + name: "![%s](%s)" % (name, "../" + figpath)}
+    return {"f_" + name: "![%s](%s)" % (name + "_" + slug, "../" + figpath)}
 
 
 def first_existing(paths):

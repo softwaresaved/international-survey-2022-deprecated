@@ -34,8 +34,8 @@ def run(year, data="data/public_merged.csv"):
             country=country,
         )
         education_level[-1].update(table_country(country, "education_level", result))
-        # plot_cat_comparison(result, country, education_level_category)
-        # education_level[-1].update(figure_country(country, "education_level", plt))
+        plot_cat_comparison(result, country, education_level_category)
+        education_level[-1].update(figure_country(country, "education_level", plt))
 
     # Rest of the World
     education_level.append({"country": "Rest of the World"})
@@ -65,9 +65,9 @@ def run(year, data="data/public_merged.csv"):
     }
     df.loc[df["Country"] == "World", education_column] = (
         df.loc[df["Country"] == "World", education_column]
-        .str.replace(".", "")
-        .str.replace("'", "")
-        .str.replace("degree", "")
+        .str.replace(".", "", regex=False)
+        .str.replace("'", "", regex=False)
+        .str.replace("degree", "", regex=False)
         .str.strip()
         .str.lower()
     )
@@ -79,8 +79,8 @@ def run(year, data="data/public_merged.csv"):
         df, columns=education_column, category=education_level_category, country="World"
     )
     education_level[-1].update(table_country("World", "education_level", result))
-    # plot_cat_comparison(result, "World", education_level_category)
-    # education_level[-1].update(figure_country("World", "education_level", plt))
+    plot_cat_comparison(result, "World", education_level_category)
+    education_level[-1].update(figure_country("World", "education_level", plt))
     report["education_level"] = education_level
 
     # Comparison between countries
@@ -134,10 +134,9 @@ def run(year, data="data/public_merged.csv"):
     ).round(2)
 
     # Display the results
-    report.update(table("edu_comparison", df_edu_comparison))
+    report.update(table("compare_education_level", df_edu_comparison))
 
     # In[22]:
-
     fig, ax = plt.subplots()
     df_plot = df_edu_comparison.pivot(
         index="Country",
@@ -165,7 +164,7 @@ def run(year, data="data/public_merged.csv"):
                 xytext=(5, -9),
                 textcoords="offset points",
             )
-    report.update(figure("edu_comparison", plt))
+    report.update(figure("compare_education_level", plt))
 
     # Academic field for education and professional development
 
@@ -207,19 +206,19 @@ def run(year, data="data/public_merged.csv"):
         academic_field_edu[-1].update(
             table_country(country, "academic_field_edu", result)
         )
-        # plot_cat_comparison(result, country, academic_field_edu_cat)
-        # academic_field_edu[-1].update(
-        #     figure_country(country, "academic_field_edu", plt)
-        # )
-        # plot_wordcloud(
-        #     df,
-        #     country=country,
-        #     category="Professional qualification",
-        #     columns=prof_qual,
-        # )
-        # academic_field_edu[-1].update(
-        #     figure_country(country, "academic_field_edu_wordcloud", plt)
-        # )
+        plot_cat_comparison(result, country, academic_field_edu_cat)
+        academic_field_edu[-1].update(
+            figure_country(country, "academic_field_edu", plt)
+        )
+        plot_wordcloud(
+            df,
+            country=country,
+            category="Professional qualification",
+            columns=prof_qual,
+        )
+        academic_field_edu[-1].update(
+            figure_country(country, "academic_field_edu_wordcloud", plt)
+        )
 
     # Academic field of work
 
@@ -240,10 +239,10 @@ def run(year, data="data/public_merged.csv"):
         academic_field_work[-1].update(
             table_country(country, "academic_field_work", result)
         )
-        # plot_cat_comparison(result, country, academic_field_work_cat)
-        # academic_field_work[-1].update(
-        #     figure_country(country, "academic_field_work", plt)
-        # )
+        plot_cat_comparison(result, country, academic_field_work_cat)
+        academic_field_work[-1].update(
+            figure_country(country, "academic_field_work", plt)
+        )
 
     report.update(
         {
