@@ -6,13 +6,13 @@ from pathlib import Path
 
 # List of all countries of interest
 COUNTRIES = [
-    "United Kingdom",
     "Australia",
-    "United States",
     "Germany",
-    "New Zealand",
     "Netherlands",
+    "New Zealand",
     "South Africa",
+    "United Kingdom",
+    "United States",
 ]
 
 REQUIRED_PATHS = ["csv", "fig", "report"]
