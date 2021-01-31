@@ -172,6 +172,7 @@ def count_diff(
     columns,
     country,
     category,
+    survey_year,
     multi_choice=False,
     multi_column=False,
     y_n=False,
@@ -182,94 +183,91 @@ def count_diff(
     Check if it is possible to get the difference from previous year.
     Return a dataframe with the count of each category
     """
-    # Get the count for the 2018 year
+    # Get the count for the survey year
+    survey_year_prev = survey_year - 1
     df_to_use = get_sampled_df(df, columns)
     try:
         df_to_use[columns].astype("category")
     except NotImplementedError:
         pass
     if country == "all":
-        df_country_2018 = df_to_use[(df_to_use["Year"] == 2018)]
+        df_country_survey_year = df_to_use[(df_to_use["Year"] == survey_year)]
     else:
-        df_country_2018 = df_to_use[
-            (df_to_use["Country"] == country) & (df_to_use["Year"] == 2018)
+        df_country_survey_year = df_to_use[
+            (df_to_use["Country"] == country) & (df_to_use["Year"] == survey_year)
         ]
 
-    if multi_choice is True:
-        count_current_field_2018 = count_multi_choice(df_country_2018, category)
-
-    elif y_n is True:
-        count_current_field_2018 = count_y_n(df_country_2018, category)
-
-    elif multi_column is True:
-        count_current_field_2018 = count_multi_column(df_country_2018, category)
-
+    if multi_choice:
+        count_current_field_survey_year = count_multi_choice(df_country_survey_year, category)
+    elif y_n:
+        count_current_field_survey_year = count_y_n(df_country_survey_year, category)
+    elif multi_column:
+        count_current_field_survey_year = count_multi_column(df_country_survey_year, category)
     else:
-        count_current_field_2018 = count_one_choice(df_country_2018, category)
+        count_current_field_survey_year = count_one_choice(df_country_survey_year, category)
 
-    # Get the count for the 2017 year if it exists
-    if disable_past_year is False:
+    # Get the count for the previous year if it exists
+    if not disable_past_year:
         if country == "all":
-            df_country_2017 = df_to_use[(df_to_use["Year"] == 2017)]
+            df_country_survey_year_prev = df_to_use[(df_to_use["Year"] == survey_year_prev)]
         else:
-            df_country_2017 = df_to_use[
-                (df_to_use["Country"] == country) & (df_to_use["Year"] == 2017)
+            df_country_survey_year_prev = df_to_use[
+                (df_to_use["Country"] == country) & (df_to_use["Year"] == survey_year_prev)
             ]
 
         if multi_choice is True:
             try:
-                count_current_field_2017 = count_multi_choice(df_country_2017, category)
+                count_current_field_survey_year_prev = count_multi_choice(df_country_survey_year_prev, category)
             except KeyError:
-                count_current_field_2017 = None
+                count_current_field_survey_year_prev = None
 
         elif y_n is True:
-            count_current_field_2017 = count_y_n(df_country_2017, category)
+            count_current_field_survey_year_prev = count_y_n(df_country_survey_year_prev, category)
 
         else:
-            count_current_field_2017 = count_one_choice(df_country_2017, category)
+            count_current_field_survey_year_prev = count_one_choice(df_country_survey_year_prev, category)
     else:
-        count_current_field_2017 = None
+        count_current_field_survey_year_prev = None
     # Calculate the difference
     try:
-        count_current_field_2018["Percentage in 2017"] = count_current_field_2017[
+        count_current_field_survey_year[f"Percentage in {survey_year_prev}"] = count_current_field_survey_year_prev[
             "Percentage"
         ]
-        count_current_field_2018["Difference with previous year"] = (
-            count_current_field_2018["Percentage"]
-            - count_current_field_2017["Percentage"]
+        count_current_field_survey_year["Difference with previous year"] = (
+            count_current_field_survey_year["Percentage"]
+            - count_current_field_survey_year_prev["Percentage"]
         ).to_frame()
     except TypeError:
         pass
     except Exception:
-        print(count_current_field_2018)
-        print("2017")
-        print(count_current_field_2017)
+        print(count_current_field_survey_year)
+        print(survey_year_prev)
+        print(count_current_field_survey_year_prev)
         raise
 
     # Drop all columns with full na. It removes Difference if it does not exists
-    count_current_field_2018.dropna(axis=1, how="all", inplace=True)
+    count_current_field_survey_year.dropna(axis=1, how="all", inplace=True)
 
     # Change name of index
     col_name = "{} for {}".format(category, country)
-    count_current_field_2018.index.name = col_name
+    count_current_field_survey_year.index.name = col_name
 
     if order_index:
         if isinstance(order_index, list):
-            count_current_field_2018 = count_current_field_2018.reindex(order_index)
+            count_current_field_survey_year = count_current_field_survey_year.reindex(order_index)
         else:
-            count_current_field_2018 = count_current_field_2018.sort_index()
+            count_current_field_survey_year = count_current_field_survey_year.sort_index()
 
-    return count_current_field_2018
+    return count_current_field_survey_year
 
 
 def describe_quant(df, category, remove_outliers):
     """
     """
-    # print(df)
 
     df = df.iloc[:, 2]
     df.dropna(inplace=True)
-    if remove_outliers is True:
+    if remove_outliers:
         try:
             df = df[(df < np.percentile(df, 95))]
         except IndexError:  # In case 2017 is empty
@@ -280,35 +278,32 @@ def describe_quant(df, category, remove_outliers):
     return result
 
 
-def describe_diff(df, columns, country, category, remove_outliers=True):
+def describe_diff(df, columns, country, category, survey_year, remove_outliers=True):
     """
     """
     df_to_use = get_sampled_df(df, columns)
+    survey_year_prev = survey_year - 1
 
-    df_country_2018 = df_to_use[
-        (df_to_use["Country"] == country) & (df_to_use["Year"] == 2018)
+    df_country_survey_year = df_to_use[
+        (df_to_use["Country"] == country) & (df_to_use["Year"] == survey_year)
     ]
-    df_country_2017 = df_to_use[
-        (df_to_use["Country"] == country) & (df_to_use["Year"] == 2017)
+    df_country_survey_year_prev = df_to_use[
+        (df_to_use["Country"] == country) & (df_to_use["Year"] == survey_year_prev)
     ]
-    result_2018 = describe_quant(df_country_2018, category, remove_outliers)
-    if remove_outliers is True:
-        index_name = "{} for {} (without 95 percentile)".format(category, country)
-    else:
-        index_name = "{} for {}".format(category, country)
+    result_survey_year = describe_quant(df_country_survey_year, category, remove_outliers)
+    index_name = f"{category} for {country}" + (" (without 95 percentile)" if remove_outliers else "")
+    result_survey_year.index.name = index_name
+    result_survey_year.columns = [f"Results in {survey_year}"]
+    result_survey_year_prev = describe_quant(df_country_survey_year_prev, category, remove_outliers)
+    if result_survey_year_prev.iloc[0, 0] > 0:
+        result_survey_year[f"Results in {survey_year_prev}"] = result_survey_year_prev.iloc[:, 0]
 
-    result_2018.index.name = index_name
-    result_2018.columns = ["Results in 2018"]
-    result_2017 = describe_quant(df_country_2017, category, remove_outliers)
-    if result_2017.iloc[0, 0] > 0:
-        result_2018["Results in 2017"] = result_2017.iloc[:, 0]
+    result_survey_year.dropna(axis=1, how="all", inplace=True)
 
-    result_2018.dropna(axis=1, how="all", inplace=True)
-
-    return result_2018
+    return result_survey_year
 
 
-def count_ranking(df, columns, country, category):
+def count_ranking(df, columns, country, category, survey_year):
     """
     Count the number of time a value appears in one columns and do that for all the columns
     provided. Assuming the format of the column name is "$code. $Question text [rank$numb]",
@@ -322,10 +317,10 @@ def count_ranking(df, columns, country, category):
         :result_df pd.df(): dataframe with the count of each answer for each columns
     """
     df_to_use = get_sampled_df(df, columns)
-    df_country_2018 = df_to_use[
-        (df_to_use["Country"] == country) & (df_to_use["Year"] == 2018)
+    df_country_survey_year = df_to_use[
+        (df_to_use["Country"] == country) & (df_to_use["Year"] == survey_year)
     ]
-    df_one_count = df_country_2018.iloc[:, 2:].apply(pd.Series.value_counts)
+    df_one_count = df_country_survey_year.iloc[:, 2:].apply(pd.Series.value_counts)
     df_one_count.columns = [x.split("[")[1][:-1] for x in df_one_count.columns]
     df_one_count = df_one_count.apply(lambda x: x / x.sum() * 100)
     df_one_count.sort_values("Rank 1", inplace=True, ascending=False)
@@ -335,7 +330,7 @@ def count_ranking(df, columns, country, category):
 
 # TODO: accept several list of likert
 def plotting_likert(
-    df, country, category, to_plots, type_orga="horizontal", order_scale=None
+    df, country, category, to_plots, survey_year, type_orga="horizontal", order_scale=None
 ):
     """"""
     # nbr_plots = len(to_plots)
@@ -352,13 +347,13 @@ def plotting_likert(
         category = category
         df_sub = get_sampled_df(df, columns=columns)
 
-        df_country_2018 = df_sub[
-            (df_sub["Country"] == country) & (df_sub["Year"] == 2018)
+        df_country_survey_year = df_sub[
+            (df_sub["Country"] == country) & (df_sub["Year"] == survey_year)
         ]
-        df_country_2018 = df_country_2018.drop("Year", axis="columns")
+        df_country_survey_year = df_country_survey_year.drop("Year", axis="columns")
         try:
             axs[i] = likert_scale(
-                count_likert(df_country_2018, order_scale).transpose(),
+                count_likert(df_country_survey_year, order_scale).transpose(),
                 normalise=True,
                 legend=True,
                 title_plot="{}: {}".format(category, country),
@@ -369,7 +364,7 @@ def plotting_likert(
 
         except TypeError:
             axs = likert_scale(
-                count_likert(df_country_2018, order_scale).transpose(),
+                count_likert(df_country_survey_year, order_scale).transpose(),
                 normalise=True,
                 legend=True,
                 title_plot="{}: {}".format(category, country),
@@ -484,23 +479,24 @@ def plotting_time_likert(
         ax.invert_yaxis()
 
 
-def plot_density_func(df, columns, category, country, remove_outliers=True):
+def plot_density_func(df, columns, category, country, survey_year, remove_outliers=True):
+    survey_year_prev = survey_year - 1
     df_sampled = get_sampled_df(df, columns=columns)
     df_sampled.columns = ["Country", "Year", "Value"]
     df = df_sampled[df_sampled.Country == country]
     # Remove na
     df.dropna(inplace=True)
     # Remove the outliers
-    if remove_outliers is True:
-        df_2018 = df[df.Year == 2018]
-        df_2018 = df_2018[(df_2018.Value < np.percentile(df_2018.Value, 95))]
-        df_2017 = df[df.Year == 2017]
-        if len(df[df["Year"] == 2017]) > 0:
+    if remove_outliers:
+        df_survey_year = df[df.Year == survey_year]
+        df_survey_year = df_survey_year[(df_survey_year.Value < np.percentile(df_survey_year.Value, 95))]
+        df_survey_year_prev = df[df.Year == survey_year_prev]
+        if len(df[df["Year"] == survey_year_prev]) > 0:
 
-            df_2017 = df_2017[(df_2017.Value < np.percentile(df_2017.Value, 95))]
-            df = pd.concat([df_2018, df_2017])
+            df_survey_year_prev = df_survey_year_prev[(df_survey_year_prev.Value < np.percentile(df_survey_year_prev.Value, 95))]
+            df = pd.concat([df_survey_year, df_survey_year_prev])
         else:
-            df = df_2018
+            df = df_survey_year
         df.dropna(inplace=True)
 
     fig, axarr = plt.subplots(1, 2, figsize=(20, 10))
@@ -510,27 +506,23 @@ def plot_density_func(df, columns, category, country, remove_outliers=True):
         x="Year", y="Value", data=df, ax=axarr[0], color="grey", alpha=0.75
     )  # .set_title('{}: {}'.format(category, country))
 
-    if len(df[df["Year"] == 2017]) > 0:
+    if len(df[df["Year"] == survey_year_prev]) > 0:
         sns.distplot(
-            df[df["Year"] == 2017]["Value"].dropna(),
-            bins=int(len(df[df["Year"] == 2017]) / 2),
-            label="2017",
+            df[df["Year"] == survey_year_prev]["Value"].dropna(),
+            bins=int(len(df[df["Year"] == survey_year_prev]) / 2),
+            label=str(survey_year_prev),
             ax=axarr[1],
         )
 
     sns.distplot(
-        df[df["Year"] == 2018]["Value"].dropna(),
-        bins=int(len(df[df["Year"] == 2018]) / 2),
-        label="2018",
+        df[df["Year"] == survey_year]["Value"].dropna(),
+        bins=int(len(df[df["Year"] == survey_year]) / 2),
+        label=str(survey_year),
         ax=axarr[1],
     )
 
     sns.despine(offset=10, trim=True)
-    if remove_outliers is True:
-        title = "{} for {} (without 95 percentile)".format(category, country)
-    else:
-        title = "{} for {}".format(category, country)
-
+    title = f"{category} for {country}" + (" (without 95 percentile)" if remove_outliers else "")
     fig.suptitle(title)
     plt.legend()
 
@@ -666,11 +658,11 @@ def plot_ranking(df, category, country):
             )
 
 
-def plot_wordcloud(df, columns, country, category):
+def plot_wordcloud(df, columns, country, category, survey_year):
     plt.ioff()
     df_to_sample = get_sampled_df(df, columns=columns)
     df = df_to_sample[
-        (df_to_sample["Country"] == country) & (df_to_sample["Year"] == 2018)
+        (df_to_sample["Country"] == country) & (df_to_sample["Year"] == survey_year)
     ]
     txt_to_plot = wrap_clean_text(df, columns)
     plt.ioff()
