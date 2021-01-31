@@ -7,6 +7,7 @@
 # 2018 survey
 !/2018/data/public_merged.csv
 !/2018/data/public_data.csv
+!/2018/csv/*
 
 # 2017 survey
 !/2017/de/data/public_data.csv
