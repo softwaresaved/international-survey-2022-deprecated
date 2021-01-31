@@ -13,7 +13,7 @@ from report import table, figure, make_report, convert_time, write_cache, COUNTR
 
 
 @make_report(__file__)
-def run(year, data="data/public_merged.csv"):
+def run(survey_year, data="data/public_merged.csv"):
     """Prepares overview report and sampling.
 
     This function creates the figures and tables, as well as doing data

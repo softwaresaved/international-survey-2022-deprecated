@@ -17,7 +17,7 @@ from report import (
 
 
 @make_report(__file__)
-def run(year, data="data/public_merged.csv"):
+def run(survey_year, data="data/public_merged.csv"):
     plt.rcParams["figure.figsize"] = [20.0, 10.0]
     report = {}
 

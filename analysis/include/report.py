@@ -14,6 +14,7 @@ COUNTRIES = [
     "United Kingdom",
     "United States",
 ]
+COUNTRIES_WITH_WORLD = COUNTRIES + ["World"]
 
 REQUIRED_PATHS = ["csv", "fig", "report"]
 
@@ -72,7 +73,7 @@ def make_report(file):
                 if not p.exists():
                     p.mkdir()
 
-            report = generator(year=year, **kwargs)
+            report = generator(survey_year=year, **kwargs)
             with template.open() as fp:
                 (Path("report") / (filename)).write_text(chevron.render(fp, report))
             return report
