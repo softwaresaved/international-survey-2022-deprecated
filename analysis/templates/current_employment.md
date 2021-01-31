@@ -19,39 +19,39 @@ Questions in the sections:
 
 ### Type of organization
 
-{{t_type_of_organization}}
+{{t_organisation-type}}
 
-{{f_type_of_organization}}
+{{f_organisation-type}}
 
 ### In which field are you working
 
-{{t_which_field_working}}
+{{t_in-which-field}}
 
-{{f_which_field_working}}
+{{f_in-which-field}}
 
 ### Which university or organization
 
-{{t_which_university}}
+{{t_which-university}}
 
-{{f_which_university}}
+{{f_which-university}}
 
 ### Type of contract
 
-{{t_type_contract}}
+{{t_contract-type}}
 
-{{f_type_contract}}
+{{f_contract-type}}
 
 ### Full time or part-time
 
-{{t_full_part_time}}
+{{t_nature_of-employment}}
 
-{{f_full_part_time}}
+{{f_nature_of_employment}}
 
 ### Length of current position
 
-{{t_length_current_position}}
+{{t_duration-of-contract-in-year}}
 
-{{f_length_current_position}}
+{{f_duration-of-contract-in-year}}
 
 ### Salary
 
@@ -61,14 +61,14 @@ Questions in the sections:
 
 ### Funding
 
-{{t_funding}}
+{{t_type-of-funding}}
 
-{{f_funding}}
+{{f_type-of-funding}}
 
 ### Job title
 
-{{f_job_title_wordcloud_official}}
+{{f_official-job-title}}
 
-{{f_job_title_wordcloud_different}}
+{{f_different-job-title}}
 
 {{/countries}}
