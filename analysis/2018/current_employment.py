@@ -191,7 +191,6 @@ def run(survey_year, data="data/public_merged.csv"):
                 countries[-1].update(table_country(country, name, result))
                 plot_cat_comparison(result, country, category, order_index=True)
                 countries[-1].update(figure_country(country, name, plt))
-                continue
 
             elif category == "Duration of contract in year":
                 result = describe_diff(
@@ -211,26 +210,24 @@ def run(survey_year, data="data/public_merged.csv"):
                     remove_outliers=True,
                 )
                 countries[-1].update(figure_country(country, name, plt))
-                continue
 
             elif category in ["Official job title", "Different job title"]:
                 plot_wordcloud(df, title_job, country, category)
                 countries[-1].update(figure_country(country, name, plt))
-                continue
 
-            # general case
-            result = count_diff(
-                df,
-                columns,
-                category=category,
-                country=country,
-                survey_year=survey_year,
-                multi_choice=multi_choice,
-            )
-            name = slugify(category)
-            countries[-1].update(table_country(country, name, result))
-            plot_cat_comparison(result, country, category)
-            countries[-1].update(figure_country(country, name, plt))
+            else:  # general case
+                result = count_diff(
+                    df,
+                    columns,
+                    category=category,
+                    country=country,
+                    survey_year=survey_year,
+                    multi_choice=multi_choice,
+                )
+                if not result.empty:
+                    countries[-1].update(table_country(country, name, result))
+                    plot_cat_comparison(result, country, category)
+                    countries[-1].update(figure_country(country, name, plt))
     return {"countries": countries}
 
 
