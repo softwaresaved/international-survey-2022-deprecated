@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 import fire
 import sys
-import datetime
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-from pathlib import Path
 
 sys.path.insert(0, "../include")
 from report import table, figure, make_report, convert_time, write_cache, COUNTRIES
@@ -50,7 +48,7 @@ def run(survey_year, data="data/public_merged.csv"):
     # This is the total of participants. A participants is defined as a person
     # that have reached, at least the second section in the survey.
 
-    report = {"n_participants": len(df[df["Year"] == year])}
+    report = {"n_participants": len(df[df["Year"] == survey_year])}
 
     # Repartition per country
 
@@ -68,7 +66,7 @@ def run(survey_year, data="data/public_merged.csv"):
 
     country_of_work_c = "socio1. In which country do you work?"
     df_countries = (
-        df[df["Year"] == year][country_of_work_c]
+        df[df["Year"] == survey_year][country_of_work_c]
         .value_counts()
         .to_frame()
         .reset_index()
@@ -128,13 +126,13 @@ def run(survey_year, data="data/public_merged.csv"):
     # difference in the amount of participants.
 
     results = dict()
-    for country in df[df["Year"] == year - 1]["Country"].unique():
-        current_year = df[df["Year"] == year]["Country"].value_counts()[country]
-        previous_year = df[df["Year"] == year - 1]["Country"].value_counts()[country]
-        results[country] = {"%d" % (year - 1): previous_year, "%d" % year: current_year}
+    for country in df[df["Year"] == survey_year - 1]["Country"].unique():
+        current_year = df[df["Year"] == survey_year]["Country"].value_counts()[country]
+        previous_year = df[df["Year"] == survey_year - 1]["Country"].value_counts()[country]
+        results[country] = {"%d" % (survey_year - 1): previous_year, "%d" % survey_year: current_year}
     diff_year_participants = pd.DataFrame.from_dict(results, orient="index")
-    diff_year_participants["Difference between %d and %d" % (year - 1, year)] = (
-        diff_year_participants["%d" % year] - diff_year_participants["%d" % (year - 1)]
+    diff_year_participants["Difference between %d and %d" % (survey_year - 1, survey_year)] = (
+        diff_year_participants["%d" % survey_year] - diff_year_participants["%d" % (survey_year - 1)]
     )
     report.update(table("difference_with_previous_year", diff_year_participants))
 
@@ -218,8 +216,8 @@ def run(survey_year, data="data/public_merged.csv"):
     results = pd.DataFrame.from_dict(
         [
             {
-                "Participants in %d" % (year - 1): len(df[df["Year"] == year - 1]),
-                "Participants in %d" % year: len(df[df["Year"] == year]),
+                "Participants in %d" % (survey_year - 1): len(df[df["Year"] == survey_year - 1]),
+                "Participants in %d" % survey_year: len(df[df["Year"] == survey_year]),
             }
         ]
     )
