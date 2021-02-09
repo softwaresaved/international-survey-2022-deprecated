@@ -66,6 +66,7 @@ def run(survey_year, data="data/public_merged.csv"):
         countries[-1].update(
             figure_country(country, "density-years-professional-developer", plt)
         )
+    return {"countries": countries}
 
 
 if __name__ == "__main__":
