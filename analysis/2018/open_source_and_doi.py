@@ -1,4 +1,4 @@
-# Professional development
+# Open source and DOI
 import sys
 import matplotlib
 
