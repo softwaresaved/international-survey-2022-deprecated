@@ -33,7 +33,7 @@ def run(survey_year, data="data/public_merged.csv"):
         ]:
             results = count_diff(df, columns, country, category, survey_year, **kwargs)
             countries[-1].update(table_country(country, slugify(category), results))
-            plot_cat_comparison(results, country=country, category=category)
+            plot_cat_comparison(results, country=country, category=category, figsize=(8, 8))
             countries[-1].update(figure_country(country, slugify(category), plt))
     return {"countries": countries}
 
