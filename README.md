@@ -1,22 +1,41 @@
-# International collaboration for survey
+# RSE International Survey Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1194668.svg)](https://doi.org/10.5281/zenodo.1194668) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-
-
-***Collaboration tool to create surveys and analyse data about Research Software Engineers around the world***
-
-This repository is used to create and analyse international surveys. It use csv files to store questions and answers that are later transformed into a limesurvey TSV file. The analysis are using python and are shared within jupyter notebooks.
-
+This repository is used to analyse international surveys conducted by the Software Sustainability Institute.
 
 In **2016** the Software Sustainability Institute ran the first survey of Research Software Engineers (RSEs) - the people who write code in academia. This produced the first insight into the demographics, job satisfaction, and practices of RSEs. To support and broaden this work, the Institute will run the UK survey every year and - it is hoped - will expand the survey so that insight and comparison can be made across different countries. Ultimately, we hope that these results, the anonymised version of which will all be open licensed, will act as a valuable resource to understand and improve the working conditions for RSEs.
 
-In **2017** we also surveyed Canadian RSEs and we added four further countries, Germany, Netherlands, South Africa and USA. 
+In **2017** we also surveyed Canadian RSEs and we added four further countries, Germany, Netherlands, South Africa and USA.
 Our thanks to our partners: Scott Henwood (Canada), Stephan Janosch and Martin Hammitzsch (Germany), Ben van Werkhoven and Tom Bakker (Netherlands), Anelda van der Walt (South Africa) and Daniel Katz and Sandra Gesing (USA).
 
-In **2018** we have worked differently and created a survey for all countries (rather than one survey for each ones). 
+In **2018** we have worked differently and created a survey for all countries (rather than one survey for each ones).
 
+## Setup
 
+This repository is only for the survey analysis. Here's how to reproduce the analysis on your own computer. The following instructions only apply for the 2018 and 2021 survey.
+
+### Installation
+
+```bash
+git clone https://github.com/softwaresaved/international-survey-analysis
+cd international-survey-analysis
+python -m venv venv  # use python3 if your default python is still Python 2
+source venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+Then change to the year you wish to reproduce: `cd analysis/2018`. First, the overview and sampling file needs to be run which does some initial processing for the other sections:
+
+```bash
+python overview_and_sampling.py
+```
+
+This should create a `cache/processed_data.csv` file. Once this is generated, you can run any of the sections in any order:
+
+```bash
+python <section>.py
+```
+
+This utilises the template file found in [analysis/templates](https://github.com/softwaresaved/international-survey-analysis/tree/main/analysis/templates) corresponding to the section. The template file uses the [Mustache](https://mustache.github.io) templating languages via the [chevron](https://pypi.org/project/chevron/) module. Generated reports are stored in the [**report**](analysis/2018/report) folder, with linked [CSV](analysis/2018/csv) files and [figures](analysis/2018/fig). All data files used for the analysis are in the [data](analysis/2018/data) folder.
 
 ## Published results
 We publish the results under the form of notebooks. All surveys have an attached 'public.csv' file. Theses files have been cleaned of all sensitive data. Therefore, the jupyter notebooks show some results that are not contained in the 'public.csv'.
@@ -35,22 +54,22 @@ We publish the results under the form of notebooks. All surveys have an attached
             <td>Australia</td>
             <td>N/A</td>
             <td>N/A</td>
-            <td rowspan=8><a href="https://github.com/softwaresaved/international-survey/tree/master/analysis/2018">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2018/data/public_data.csv">Public data</a></td>
+            <td rowspan=8><a href="https://github.com/softwaresaved/international-survey-analysis/tree/master/analysis/2018">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2018/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>Canada</td>
             <td>N/A</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_can.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/can/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_can.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/can/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>Germany</td>
             <td>N/A</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_de_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/de/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_de_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/de/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>Netherlands</td>
             <td>N/A</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_nl_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/nl/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_nl_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/nl/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>New Zealand</td>
@@ -59,18 +78,18 @@ We publish the results under the form of notebooks. All surveys have an attached
         </tr>
         <tr>
             <td>United Kingdom</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2016/results_uk_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2016/uk/data/public_data.csv">Public data</a></td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_uk_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/uk/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2016/results_uk_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2016/uk/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_uk_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/uk/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>United States</td>
             <td>N/A</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_us_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/us/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_us_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/us/data/public_data.csv">Public data</a></td>
         </tr>
         <tr>
             <td>South Africa</td>
             <td>N/A</td>
-            <td><a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/results_zaf_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey/blob/master/analysis/2017/zaf/data/public_data.csv">Public data</a></td>
+            <td><a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/results_zaf_narrative.ipynb">Analysis</a> / <a href="https://github.com/softwaresaved/international-survey-analysis/blob/master/analysis/2017/zaf/data/public_data.csv">Public data</a></td>
         </tr>
     </tbody>
 </table>
@@ -89,13 +108,8 @@ The [base questions](https://github.com/softwaresaved/international-survey/blob/
    1. **Network**: how do RSEs meet and gain representation?
 These subjects are not necessarily  investigated under this order, neither published with that order. 
 
-## Contribution
+## Contributors
 
-### Contributing
-If you wish to contribute and being involved in the survey creation please follow the [HOWTOCONTRIBUTE](https://github.com/softwaresaved/international-survey/blob/master/HOW%20TO%20CONTRIBUTE.md).
-If you have discover an issue in the survey or wish to participate to the conversation we welcome any [issue submission](https://github.com/softwaresaved/international-survey/issues).
-
-### Current contributors
 Here is a list of contributors for the 2017/2018 version of the survey (alphabetic order). They are also mentioned in the [.zenodo.json](https://github.com/softwaresaved/international-survey/blob/master/.zenodo.json) to be automatically added to the DOI.
 * Stephan Druskat
 * Sandra Gesing
