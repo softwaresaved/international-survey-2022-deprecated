@@ -40,7 +40,7 @@ All questions were asked on a 1 to 10 Likert scale.
 * On average, how much of your time is spent on teaching?
 * On average, how much of your time is spent on other activities?
 
-{{countries}}
+{{#countries}}
 
 ## {{country}}
 
