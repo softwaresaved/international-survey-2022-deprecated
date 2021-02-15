@@ -659,15 +659,14 @@ def plot_ranking(df, category, country):
 
 
 def plot_wordcloud(df, columns, country, category, survey_year):
-    plt.ioff()
+    plt.figure()
     df_to_sample = get_sampled_df(df, columns=columns)
     df = df_to_sample[
         (df_to_sample["Country"] == country) & (df_to_sample["Year"] == survey_year)
     ]
     txt_to_plot = wrap_clean_text(df, columns)
-    plt.ioff()
     plot = _plot_wordcloud(txt_to_plot)
-    # plt.imshow(plot, cmap=plt.cm.gray, interpolation="bilinear")
+    plt.imshow(plot, cmap=plt.cm.gray, interpolation="bilinear")
     plt.axis("off")
     plt.title("{}: {}".format(category, country))
 

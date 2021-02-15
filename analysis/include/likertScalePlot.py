@@ -118,9 +118,9 @@ def create_bars(df, ax, y_pos, colors, left_gap):
 
 
 def compute_middle_sum(df, first_half, middle):
-    try:
+    if middle:
         return df[first_half].sum(axis=1) + df[middle] *.5
-    except ValueError:  # In case middle value is none
+    else:  # In case middle value is none
         return df[first_half].sum(axis=1)
 
 

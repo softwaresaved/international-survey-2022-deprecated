@@ -20,7 +20,7 @@ REQUIRED_PATHS = ["csv", "fig", "report"]
 
 
 def slugify(x):
-    x = x.replace("&", "")
+    x = x.replace("&", "").replace("/", "-")
     return "-".join(x.lower().split())
 
 
