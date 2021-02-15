@@ -527,8 +527,10 @@ def plot_density_func(df, columns, category, country, survey_year, remove_outlie
     plt.legend()
 
 
-def plot_cat_comparison(df, country, category, order_index=False):
+def plot_cat_comparison(df, country, category, order_index=False, figsize=(6.4, 4.8)):
     # Plotting the current categories and the difference with the last year
+    from matplotlib import rcParams
+    rcParams.update({'figure.autolayout': True})
     plt.ioff()
     if order_index:
         if isinstance(order_index, list):
@@ -539,25 +541,27 @@ def plot_cat_comparison(df, country, category, order_index=False):
 
     try:
         fig, axs = plt.subplots(
-            2, 1, sharex=True, gridspec_kw={"height_ratios": [7, 1]}
+            1, 2, sharey=True, figsize=figsize, gridspec_kw={"width_ratios": [7, 1]}
         )
 
+        plt.gcf().subplots_adjust(left=0.2)
         # current field
-        axs[0].bar(ind, df["Percentage"], align="center")
+        axs[0].barh(ind, df["Percentage"], align="center")
 
         axs[0].set_title("Current proportion of {} for {}".format(category, country))
         rects = axs[0].patches
 
         # Difference from last year
 
-        axs[1].bar(
+        axs[1].barh(
             ind,
             df["Difference with previous year"],
             color=df["Difference with previous year"].apply(
                 lambda x: "g" if x > 0 else "orange"
             ),
         )
-        axs[1].set_title("Difference with previous year")
+        axs[1].set_title("Δ")
+
         for ax in axs:
             ax.spines["top"].set_visible(False)
             ax.spines["right"].set_visible(False)
@@ -565,42 +569,45 @@ def plot_cat_comparison(df, country, category, order_index=False):
 
     except KeyError:
         # Set up columns
-        # fig = plt.figure()
-        plt.figure()
+        fig, ax = plt.subplots(figsize=figsize)
         if order_index is False:
             df.sort_values("Percentage", ascending=False, inplace=True)
 
         # current field
-        plt.bar(ind, df["Percentage"], align="center")
+        plt.barh(ind, df["Percentage"], align="center")
         plt.title("Current proportion of {} for {}".format(category, country))
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+        ax.spines['bottom'].set_visible(False)
+        ax.spines['left'].set_visible(False)
+
 
     # For each bar: Place a label
     for rect in rects:
         # Get X and Y placement of label from rect.
-        y_value = rect.get_height()
-        x_value = rect.get_x() + rect.get_width() / 2
+        x_value = rect.get_width()
+        y_value = rect.get_y() + rect.get_height() / 2
 
         # Number of points between bar and label
-        space = 5
+        space = 15
         # Vertical alignment for positive values
-        va = "bottom"
+        va = "center"
 
         # If value of bar is negative: Place label below bar
-        if y_value < 0:
+        if x_value < 0:
             # Invert space to place label below
             space *= -1
             # Vertically align label at top
-            va = "top"
 
         # Use Y value as label and format number with one decimal place
-        label = "{:.0f}%".format(y_value)
+        label = "{:.0f}%".format(x_value)
 
         # Create annotation
         try:
             axs[0].annotate(
                 label,  # Use `label` as label
                 (x_value, y_value),  # Place label at end of the bar
-                xytext=(0, space),  # Vertically shift label by `space`
+                xytext=(space, 0),  # Vertically shift label by `space`
                 textcoords="offset points",  # Interpret `xytext` as offset in points
                 ha="center",  # Horizontally center label
                 va=va,
@@ -616,7 +623,7 @@ def plot_cat_comparison(df, country, category, order_index=False):
                 va=va,
             )  # Vertically align label differently for
             # positive and negative values.
-    plt.xticks(ind, df.index, rotation=90)
+    plt.yticks(ind, df.index)
 
 
 def plot_ranking(df, category, country):

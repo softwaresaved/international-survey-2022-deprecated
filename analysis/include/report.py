@@ -106,6 +106,7 @@ def table_country(country, name, data, index=True):
 def figure(name, plt):
     figpath = "fig/%s.png" % name
     plt.savefig(figpath)
+    plt.close('all')
     return {"f_" + name: "![%s](%s)" % (name, "../" + figpath)}
 
 
@@ -113,6 +114,7 @@ def figure_country(country, name, plt):
     slug = slugify(country)
     figpath = "fig/%s_%s.png" % (name, slug)
     plt.savefig(figpath)
+    plt.close('all')
     return {"f_" + name: "![%s](%s)" % (name + "_" + slug, "../" + figpath)}
 
 
