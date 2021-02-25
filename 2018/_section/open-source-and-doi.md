@@ -1,4 +1,11 @@
+---
+layout: page
+title: Open source and DOI
+---
 # Open source and DOI
+
+1. TOC
+{:toc}
 
 RSEs is an hybrid role between a researcher and a software developer. We
 investigated both of these aspects concerning publication and dissemination of
@@ -39,9 +46,9 @@ Questions in this section:
 | 9                               |      10 |     11.3636  |
 | 10 (All the time)               |      35 |     39.7727  |
 
-[Download CSV](../csv/open-source-use_australia.csv)
+[Download CSV](/csv/open-source-use_australia.csv)
 
-![open-source-use_australia](../fig/open-source-use_australia.png)
+![open-source-use_australia](/fig/open-source-use_australia.png)
 
 ### Referencing software
 
@@ -58,9 +65,9 @@ Questions in this section:
 | 9                                    |       8 |      9.09091 |
 | 10 (All the time)                    |      28 |     31.8182  |
 
-[Download CSV](../csv/citation-of-software_australia.csv)
+[Download CSV](/csv/citation-of-software_australia.csv)
 
-![citation-of-software_australia](../fig/citation-of-software_australia.png)
+![citation-of-software_australia](/fig/citation-of-software_australia.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -77,13 +84,13 @@ Questions in this section:
 | 9                                                |       2 |      2.27273 |
 | 10 (All the time)                                |       6 |      6.81818 |
 
-[Download CSV](../csv/use-of-digital-object-identifier_australia.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_australia.csv)
 
-![use-of-digital-object-identifier_australia](../fig/use-of-digital-object-identifier_australia.png)
+![use-of-digital-object-identifier_australia](/fig/use-of-digital-object-identifier_australia.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_australia](../fig/tool-used-for-doi-wordcloud_australia.png)
+![tool-used-for-doi-wordcloud_australia](/fig/tool-used-for-doi-wordcloud_australia.png)
 
 ### ORCID
 
@@ -92,9 +99,9 @@ Questions in this section:
 | Yes                         |      68 |      78.1609 |
 | No                          |       8 |       9.1954 |
 
-[Download CSV](../csv/using-orcid_australia.csv)
+[Download CSV](/csv/using-orcid_australia.csv)
 
-![using-orcid_australia](../fig/using-orcid_australia.png)
+![using-orcid_australia](/fig/using-orcid_australia.png)
 
 
 ## Germany
@@ -114,9 +121,9 @@ Questions in this section:
 | 9                             |      29 |      9.7973  |             10.1604  |                       -0.363131 |
 | 10 (All the time)             |      89 |     30.0676  |            nan       |                      nan        |
 
-[Download CSV](../csv/open-source-use_germany.csv)
+[Download CSV](/csv/open-source-use_germany.csv)
 
-![open-source-use_germany](../fig/open-source-use_germany.png)
+![open-source-use_germany](/fig/open-source-use_germany.png)
 
 ### Referencing software
 
@@ -133,9 +140,9 @@ Questions in this section:
 | 9                                  |      17 |      5.74324 |
 | 10 (All the time)                  |      67 |     22.6351  |
 
-[Download CSV](../csv/citation-of-software_germany.csv)
+[Download CSV](/csv/citation-of-software_germany.csv)
 
-![citation-of-software_germany](../fig/citation-of-software_germany.png)
+![citation-of-software_germany](/fig/citation-of-software_germany.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -152,13 +159,13 @@ Questions in this section:
 | 9                                              |       7 |      2.36486 |              1.88679 |                        0.478072 |
 | 10 (All the time)                              |      14 |      4.72973 |            nan       |                      nan        |
 
-[Download CSV](../csv/use-of-digital-object-identifier_germany.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_germany.csv)
 
-![use-of-digital-object-identifier_germany](../fig/use-of-digital-object-identifier_germany.png)
+![use-of-digital-object-identifier_germany](/fig/use-of-digital-object-identifier_germany.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_germany](../fig/tool-used-for-doi-wordcloud_germany.png)
+![tool-used-for-doi-wordcloud_germany](/fig/tool-used-for-doi-wordcloud_germany.png)
 
 ### ORCID
 
@@ -167,9 +174,9 @@ Questions in this section:
 | Yes                       |     154 |      52.5597 |
 | No                        |      58 |      19.7952 |
 
-[Download CSV](../csv/using-orcid_germany.csv)
+[Download CSV](/csv/using-orcid_germany.csv)
 
-![using-orcid_germany](../fig/using-orcid_germany.png)
+![using-orcid_germany](/fig/using-orcid_germany.png)
 
 
 ## Netherlands
@@ -189,9 +196,9 @@ Questions in this section:
 | 9                                 |       5 |      9.80392 |             16.129   |                       -6.32511  |
 | 10 (All the time)                 |      31 |     60.7843  |            nan       |                      nan        |
 
-[Download CSV](../csv/open-source-use_netherlands.csv)
+[Download CSV](/csv/open-source-use_netherlands.csv)
 
-![open-source-use_netherlands](../fig/open-source-use_netherlands.png)
+![open-source-use_netherlands](/fig/open-source-use_netherlands.png)
 
 ### Referencing software
 
@@ -208,9 +215,9 @@ Questions in this section:
 | 9                                      |       2 |      3.92157 |
 | 10 (All the time)                      |      15 |     29.4118  |
 
-[Download CSV](../csv/citation-of-software_netherlands.csv)
+[Download CSV](/csv/citation-of-software_netherlands.csv)
 
-![citation-of-software_netherlands](../fig/citation-of-software_netherlands.png)
+![citation-of-software_netherlands](/fig/citation-of-software_netherlands.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -227,13 +234,13 @@ Questions in this section:
 | 9                                                  |     nan |    nan       |            nan       |                      nan        |
 | 10 (All the time)                                  |       4 |      7.84314 |            nan       |                      nan        |
 
-[Download CSV](../csv/use-of-digital-object-identifier_netherlands.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_netherlands.csv)
 
-![use-of-digital-object-identifier_netherlands](../fig/use-of-digital-object-identifier_netherlands.png)
+![use-of-digital-object-identifier_netherlands](/fig/use-of-digital-object-identifier_netherlands.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_netherlands](../fig/tool-used-for-doi-wordcloud_netherlands.png)
+![tool-used-for-doi-wordcloud_netherlands](/fig/tool-used-for-doi-wordcloud_netherlands.png)
 
 ### ORCID
 
@@ -242,9 +249,9 @@ Questions in this section:
 | Yes                           |      26 |           52 |
 | No                            |      10 |           20 |
 
-[Download CSV](../csv/using-orcid_netherlands.csv)
+[Download CSV](/csv/using-orcid_netherlands.csv)
 
-![using-orcid_netherlands](../fig/using-orcid_netherlands.png)
+![using-orcid_netherlands](/fig/using-orcid_netherlands.png)
 
 
 ## New Zealand
@@ -264,9 +271,9 @@ Questions in this section:
 | 9                                 |       5 |     14.7059  |
 | 10 (All the time)                 |      17 |     50       |
 
-[Download CSV](../csv/open-source-use_new-zealand.csv)
+[Download CSV](/csv/open-source-use_new-zealand.csv)
 
-![open-source-use_new-zealand](../fig/open-source-use_new-zealand.png)
+![open-source-use_new-zealand](/fig/open-source-use_new-zealand.png)
 
 ### Referencing software
 
@@ -283,9 +290,9 @@ Questions in this section:
 | 9                                      |       1 |      2.94118 |
 | 10 (All the time)                      |      10 |     29.4118  |
 
-[Download CSV](../csv/citation-of-software_new-zealand.csv)
+[Download CSV](/csv/citation-of-software_new-zealand.csv)
 
-![citation-of-software_new-zealand](../fig/citation-of-software_new-zealand.png)
+![citation-of-software_new-zealand](/fig/citation-of-software_new-zealand.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -302,13 +309,13 @@ Questions in this section:
 | 9                                                  |       2 |      5.88235 |
 | 10 (All the time)                                  |       1 |      2.94118 |
 
-[Download CSV](../csv/use-of-digital-object-identifier_new-zealand.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_new-zealand.csv)
 
-![use-of-digital-object-identifier_new-zealand](../fig/use-of-digital-object-identifier_new-zealand.png)
+![use-of-digital-object-identifier_new-zealand](/fig/use-of-digital-object-identifier_new-zealand.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_new-zealand](../fig/tool-used-for-doi-wordcloud_new-zealand.png)
+![tool-used-for-doi-wordcloud_new-zealand](/fig/tool-used-for-doi-wordcloud_new-zealand.png)
 
 ### ORCID
 
@@ -317,9 +324,9 @@ Questions in this section:
 | Yes                           |      20 |        62.5  |
 | No                            |       6 |        18.75 |
 
-[Download CSV](../csv/using-orcid_new-zealand.csv)
+[Download CSV](/csv/using-orcid_new-zealand.csv)
 
-![using-orcid_new-zealand](../fig/using-orcid_new-zealand.png)
+![using-orcid_new-zealand](/fig/using-orcid_new-zealand.png)
 
 
 ## South Africa
@@ -339,9 +346,9 @@ Questions in this section:
 | 9                                  |       1 |      4.7619  |
 | 10 (All the time)                  |      13 |     61.9048  |
 
-[Download CSV](../csv/open-source-use_south-africa.csv)
+[Download CSV](/csv/open-source-use_south-africa.csv)
 
-![open-source-use_south-africa](../fig/open-source-use_south-africa.png)
+![open-source-use_south-africa](/fig/open-source-use_south-africa.png)
 
 ### Referencing software
 
@@ -358,9 +365,9 @@ Questions in this section:
 | 9                                       |       2 |      9.52381 |
 | 10 (All the time)                       |       4 |     19.0476  |
 
-[Download CSV](../csv/citation-of-software_south-africa.csv)
+[Download CSV](/csv/citation-of-software_south-africa.csv)
 
-![citation-of-software_south-africa](../fig/citation-of-software_south-africa.png)
+![citation-of-software_south-africa](/fig/citation-of-software_south-africa.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -377,13 +384,13 @@ Questions in this section:
 | 9                                                   |       1 |       4.7619 |
 | 10 (All the time)                                   |     nan |     nan      |
 
-[Download CSV](../csv/use-of-digital-object-identifier_south-africa.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_south-africa.csv)
 
-![use-of-digital-object-identifier_south-africa](../fig/use-of-digital-object-identifier_south-africa.png)
+![use-of-digital-object-identifier_south-africa](/fig/use-of-digital-object-identifier_south-africa.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_south-africa](../fig/tool-used-for-doi-wordcloud_south-africa.png)
+![tool-used-for-doi-wordcloud_south-africa](/fig/tool-used-for-doi-wordcloud_south-africa.png)
 
 ### ORCID
 
@@ -392,9 +399,9 @@ Questions in this section:
 | Yes                            |      14 |      66.6667 |
 | No                             |       3 |      14.2857 |
 
-[Download CSV](../csv/using-orcid_south-africa.csv)
+[Download CSV](/csv/using-orcid_south-africa.csv)
 
-![using-orcid_south-africa](../fig/using-orcid_south-africa.png)
+![using-orcid_south-africa](/fig/using-orcid_south-africa.png)
 
 
 ## United Kingdom
@@ -414,9 +421,9 @@ Questions in this section:
 | 9                                    |      30 |     14.0187  |
 | 10 (All the time)                    |      93 |     43.4579  |
 
-[Download CSV](../csv/open-source-use_united-kingdom.csv)
+[Download CSV](/csv/open-source-use_united-kingdom.csv)
 
-![open-source-use_united-kingdom](../fig/open-source-use_united-kingdom.png)
+![open-source-use_united-kingdom](/fig/open-source-use_united-kingdom.png)
 
 ### Referencing software
 
@@ -433,9 +440,9 @@ Questions in this section:
 | 9                                         |      11 |      5.14019 |
 | 10 (All the time)                         |      73 |     34.1121  |
 
-[Download CSV](../csv/citation-of-software_united-kingdom.csv)
+[Download CSV](/csv/citation-of-software_united-kingdom.csv)
 
-![citation-of-software_united-kingdom](../fig/citation-of-software_united-kingdom.png)
+![citation-of-software_united-kingdom](/fig/citation-of-software_united-kingdom.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -452,13 +459,13 @@ Questions in this section:
 | 9                                                     |       6 |      2.80374 |
 | 10 (All the time)                                     |      21 |      9.81308 |
 
-[Download CSV](../csv/use-of-digital-object-identifier_united-kingdom.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_united-kingdom.csv)
 
-![use-of-digital-object-identifier_united-kingdom](../fig/use-of-digital-object-identifier_united-kingdom.png)
+![use-of-digital-object-identifier_united-kingdom](/fig/use-of-digital-object-identifier_united-kingdom.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_united-kingdom](../fig/tool-used-for-doi-wordcloud_united-kingdom.png)
+![tool-used-for-doi-wordcloud_united-kingdom](/fig/tool-used-for-doi-wordcloud_united-kingdom.png)
 
 ### ORCID
 
@@ -467,9 +474,9 @@ Questions in this section:
 | Yes                              |     154 |      73.3333 |
 | No                               |      22 |      10.4762 |
 
-[Download CSV](../csv/using-orcid_united-kingdom.csv)
+[Download CSV](/csv/using-orcid_united-kingdom.csv)
 
-![using-orcid_united-kingdom](../fig/using-orcid_united-kingdom.png)
+![using-orcid_united-kingdom](/fig/using-orcid_united-kingdom.png)
 
 
 ## United States
@@ -489,9 +496,9 @@ Questions in this section:
 | 9                                   |      25 |     18.1159  |             13.4454  |                         4.67056 |
 | 10 (All the time)                   |      74 |     53.6232  |            nan       |                       nan       |
 
-[Download CSV](../csv/open-source-use_united-states.csv)
+[Download CSV](/csv/open-source-use_united-states.csv)
 
-![open-source-use_united-states](../fig/open-source-use_united-states.png)
+![open-source-use_united-states](/fig/open-source-use_united-states.png)
 
 ### Referencing software
 
@@ -508,9 +515,9 @@ Questions in this section:
 | 9                                        |       9 |      6.52174 |
 | 10 (All the time)                        |      31 |     22.4638  |
 
-[Download CSV](../csv/citation-of-software_united-states.csv)
+[Download CSV](/csv/citation-of-software_united-states.csv)
 
-![citation-of-software_united-states](../fig/citation-of-software_united-states.png)
+![citation-of-software_united-states](/fig/citation-of-software_united-states.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -527,13 +534,13 @@ Questions in this section:
 | 9                                                    |       5 |     3.62319  |              6.38298 |                        -2.75979 |
 | 10 (All the time)                                    |       7 |     5.07246  |            nan       |                       nan       |
 
-[Download CSV](../csv/use-of-digital-object-identifier_united-states.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_united-states.csv)
 
-![use-of-digital-object-identifier_united-states](../fig/use-of-digital-object-identifier_united-states.png)
+![use-of-digital-object-identifier_united-states](/fig/use-of-digital-object-identifier_united-states.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_united-states](../fig/tool-used-for-doi-wordcloud_united-states.png)
+![tool-used-for-doi-wordcloud_united-states](/fig/tool-used-for-doi-wordcloud_united-states.png)
 
 ### ORCID
 
@@ -542,9 +549,9 @@ Questions in this section:
 | Yes                             |      81 |      60.9023 |
 | No                              |      19 |      14.2857 |
 
-[Download CSV](../csv/using-orcid_united-states.csv)
+[Download CSV](/csv/using-orcid_united-states.csv)
 
-![using-orcid_united-states](../fig/using-orcid_united-states.png)
+![using-orcid_united-states](/fig/using-orcid_united-states.png)
 
 
 ## World
@@ -564,9 +571,9 @@ Questions in this section:
 | 9                           |       1 |      2.43902 |
 | 10 (All the time)           |      28 |     68.2927  |
 
-[Download CSV](../csv/open-source-use_world.csv)
+[Download CSV](/csv/open-source-use_world.csv)
 
-![open-source-use_world](../fig/open-source-use_world.png)
+![open-source-use_world](/fig/open-source-use_world.png)
 
 ### Referencing software
 
@@ -583,9 +590,9 @@ Questions in this section:
 | 9                                |       1 |      2.43902 |
 | 10 (All the time)                |      16 |     39.0244  |
 
-[Download CSV](../csv/citation-of-software_world.csv)
+[Download CSV](/csv/citation-of-software_world.csv)
 
-![citation-of-software_world](../fig/citation-of-software_world.png)
+![citation-of-software_world](/fig/citation-of-software_world.png)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -602,13 +609,13 @@ Questions in this section:
 | 9                                            |       1 |      2.43902 |
 | 10 (All the time)                            |       6 |     14.6341  |
 
-[Download CSV](../csv/use-of-digital-object-identifier_world.csv)
+[Download CSV](/csv/use-of-digital-object-identifier_world.csv)
 
-![use-of-digital-object-identifier_world](../fig/use-of-digital-object-identifier_world.png)
+![use-of-digital-object-identifier_world](/fig/use-of-digital-object-identifier_world.png)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_world](../fig/tool-used-for-doi-wordcloud_world.png)
+![tool-used-for-doi-wordcloud_world](/fig/tool-used-for-doi-wordcloud_world.png)
 
 ### ORCID
 
@@ -617,7 +624,7 @@ Questions in this section:
 | Yes                     |      29 |         72.5 |
 | No                      |       4 |         10   |
 
-[Download CSV](../csv/using-orcid_world.csv)
+[Download CSV](/csv/using-orcid_world.csv)
 
-![using-orcid_world](../fig/using-orcid_world.png)
+![using-orcid_world](/fig/using-orcid_world.png)
 
