@@ -32,6 +32,7 @@ def run(survey_year, data="data/public_merged.csv"):
             columns=education_column,
             category=education_level_category,
             country=country,
+            survey_year=survey_year
         )
         education_level[-1].update(table_country(country, "education_level", result))
         plot_cat_comparison(result, country, education_level_category)
@@ -76,7 +77,8 @@ def run(survey_year, data="data/public_merged.csv"):
     ].replace(clean_education_levels)
 
     result = count_diff(
-        df, columns=education_column, category=education_level_category, country="World"
+        df, columns=education_column, category=education_level_category, country="World",
+        survey_year=survey_year
     )
     education_level[-1].update(table_country("World", "education_level", result))
     plot_cat_comparison(result, "World", education_level_category)
@@ -202,6 +204,7 @@ def run(survey_year, data="data/public_merged.csv"):
             columns=academic_field_edu_col,
             category=academic_field_edu_cat,
             country=country,
+            survey_year=survey_year
         )
         academic_field_edu[-1].update(
             table_country(country, "academic_field_edu", result)
@@ -215,6 +218,7 @@ def run(survey_year, data="data/public_merged.csv"):
             country=country,
             category="Professional qualification",
             columns=prof_qual,
+            survey_year=survey_year
         )
         academic_field_edu[-1].update(
             figure_country(country, "academic_field_edu_wordcloud", plt)
@@ -234,6 +238,7 @@ def run(survey_year, data="data/public_merged.csv"):
             columns=academic_field_work_cols,
             category=academic_field_work_cat,
             country=country,
+            survey_year=survey_year,
             multi_choice=True,
         )
         academic_field_work[-1].update(
