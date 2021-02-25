@@ -2,8 +2,8 @@ title: RSE International Survey
 remote_theme: pmarsceill/just-the-docs
 description: >- # this means to ignore newlines until "baseurl:"
   International Research Software Engineering survey
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://softwaresaved.github.io/international-survey-analysis"
+baseurl: "/international-survey-analysis" # the subpath of your site, e.g. /blog
+url: "https://softwaresaved.github.io"
 
 theme: just-the-docs
 search_enabled: true
