@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education and academic field
+nav_order: 2
 ---
 # Education and academic field
 
@@ -32,8 +33,8 @@ selected at least one option.
 |:--------------------------------------------------------------------------|--------:|-------------:|
 | AQF 10 - Doctoral Degree                                                  |      63 |      64.2857 |
 | AQF 8 - Bachelor Honours Degree / Graduate Certificate / Graduate Diploma |      13 |      13.2653 |
-| AQF 9 - Masters Degree                                                    |      11 |      11.2245 |
 | AQF 7 - Bachelor Degree                                                   |      11 |      11.2245 |
+| AQF 9 - Masters Degree                                                    |      11 |      11.2245 |
 
 [Download CSV](/csv/education_level_australia.csv)
 
@@ -75,8 +76,8 @@ selected at least one option.
 | Highest level of education for New Zealand   |   Count |   Percentage |
 |:---------------------------------------------|--------:|-------------:|
 | Doctorate                                    |      14 |     37.8378  |
-| Undergraduate degree                         |      10 |     27.027   |
 | Master degree                                |      10 |     27.027   |
+| Undergraduate degree                         |      10 |     27.027   |
 | Further Education (NVQ A-Level, ...)         |       2 |      5.40541 |
 | Other                                        |       1 |      2.7027  |
 
@@ -90,8 +91,8 @@ selected at least one option.
 | Highest level of education for South Africa   |   Count |   Percentage |   Percentage in 2017 |   Difference with previous year |
 |:----------------------------------------------|--------:|-------------:|---------------------:|--------------------------------:|
 | Doctorate                                     |       7 |     30.4348  |              73.6842 |                        -43.2494 |
-| Undergraduate degree                          |       6 |     26.087   |             nan      |                        nan      |
 | Master degree                                 |       6 |     26.087   |              15.7895 |                         10.2975 |
+| Undergraduate degree                          |       6 |     26.087   |             nan      |                        nan      |
 | Other                                         |       2 |      8.69565 |             nan      |                        nan      |
 | Further Education (NVQ A-Level, ...)          |       2 |      8.69565 |             nan      |                        nan      |
 
@@ -196,15 +197,15 @@ despite lot of overlapping in the categories.
 | Information and Computing Sciences   |      21 |     21.6495  |
 | Biological Sciences                  |      15 |     15.4639  |
 | Engineering                          |      10 |     10.3093  |
-| Mathematical Sciences                |       8 |      8.24742 |
 | Earth Sciences                       |       8 |      8.24742 |
+| Mathematical Sciences                |       8 |      8.24742 |
 | Medical and Health Sciences          |       2 |      2.06186 |
-| Philosophy and Religious Studies     |       1 |      1.03093 |
-| Environmental Sciences               |       1 |      1.03093 |
 | Technology                           |       1 |      1.03093 |
 | Studies in Creative Arts and Writing |       1 |      1.03093 |
-| Chemical Sciences                    |       1 |      1.03093 |
+| Philosophy and Religious Studies     |       1 |      1.03093 |
 | Psychology and Cognitive Sciences    |       1 |      1.03093 |
+| Chemical Sciences                    |       1 |      1.03093 |
+| Environmental Sciences               |       1 |      1.03093 |
 
 [Download CSV](/csv/academic_field_edu_australia.csv)
 
@@ -226,29 +227,29 @@ despite lot of overlapping in the categories.
 | Mechanical Engineering                   |      11 |     3.34347  |             1.53846  |                      1.805      |
 | Geology                                  |       9 |     2.73556  |             1.84615  |                      0.889408   |
 | Materials Technology                     |       6 |     1.82371  |           nan        |                    nan          |
-| History                                  |       5 |     1.51976  |             0.923077 |                      0.59668    |
 | General Engineering                      |       5 |     1.51976  |             0.923077 |                      0.59668    |
+| History                                  |       5 |     1.51976  |             0.923077 |                      0.59668    |
 | Chemical Engineering                     |       5 |     1.51976  |             1.23077  |                      0.288988   |
 | Civil Engineering                        |       4 |     1.21581  |             0.615385 |                      0.600421   |
+| Philosophy                               |       3 |     0.911854 |             0.615385 |                      0.296469   |
+| Librarianship &amp; Information Management   |       3 |     0.911854 |             0.923077 |                     -0.0112228  |
 | Chemistry                                |       3 |     0.911854 |             1.84615  |                     -0.9343     |
 | Economics                                |       3 |     0.911854 |             0.307692 |                      0.604162   |
-| Librarianship &amp; Information Management   |       3 |     0.911854 |             0.923077 |                     -0.0112228  |
 | German                                   |       3 |     0.911854 |             0.923077 |                     -0.0112228  |
-| Philosophy                               |       3 |     0.911854 |             0.615385 |                      0.296469   |
-| Psychology                               |       2 |     0.607903 |             2.46154  |                     -1.85364    |
-| Robotics                                 |       2 |     0.607903 |           nan        |                    nan          |
-| Classics &amp; Ancient History               |       2 |     0.607903 |             0.923077 |                     -0.315174   |
 | Linguistics                              |       2 |     0.607903 |             0.307692 |                      0.30021    |
-| Agriculture &amp; Forestry                   |       1 |     0.303951 |             0.923077 |                     -0.619126   |
-| Art &amp; Design                             |       1 |     0.303951 |           nan        |                    nan          |
-| Communication &amp; Media Studies            |       1 |     0.303951 |             0.615385 |                     -0.311433   |
-| Criminology                              |       1 |     0.303951 |           nan        |                    nan          |
+| Classics &amp; Ancient History               |       2 |     0.607903 |             0.923077 |                     -0.315174   |
+| Robotics                                 |       2 |     0.607903 |           nan        |                    nan          |
+| Psychology                               |       2 |     0.607903 |             2.46154  |                     -1.85364    |
 | Medicine                                 |       1 |     0.303951 |             0.307692 |                     -0.00374094 |
-| English                                  |       1 |     0.303951 |             0.307692 |                     -0.00374094 |
-| Theology &amp; Religious Studies             |       1 |     0.303951 |           nan        |                    nan          |
-| Education                                |       1 |     0.303951 |           nan        |                    nan          |
-| Aeronautical &amp; Manufacturing Engineering |       1 |     0.303951 |             0.615385 |                     -0.311433   |
+| Criminology                              |       1 |     0.303951 |           nan        |                    nan          |
+| Communication &amp; Media Studies            |       1 |     0.303951 |             0.615385 |                     -0.311433   |
 | Business &amp; Management Studies            |       1 |     0.303951 |           nan        |                    nan          |
+| Theology &amp; Religious Studies             |       1 |     0.303951 |           nan        |                    nan          |
+| Art &amp; Design                             |       1 |     0.303951 |           nan        |                    nan          |
+| Agriculture &amp; Forestry                   |       1 |     0.303951 |             0.923077 |                     -0.619126   |
+| Aeronautical &amp; Manufacturing Engineering |       1 |     0.303951 |             0.615385 |                     -0.311433   |
+| Education                                |       1 |     0.303951 |           nan        |                    nan          |
+| English                                  |       1 |     0.303951 |             0.307692 |                     -0.00374094 |
 
 [Download CSV](/csv/academic_field_edu_germany.csv)
 
@@ -265,16 +266,16 @@ despite lot of overlapping in the categories.
 | Computer Science                         |      11 |     20.3704  |             26.6667  |                       -6.2963   |
 | Biological Sciences                      |       8 |     14.8148  |             12       |                        2.81481  |
 | Chemistry                                |       3 |      5.55556 |              9.33333 |                       -3.77778  |
+| Electrical &amp; Electronic Engineering      |       2 |      3.7037  |              1.33333 |                        2.37037  |
 | Geography &amp; Environmental Sciences       |       2 |      3.7037  |              5.33333 |                       -1.62963  |
 | Civil Engineering                        |       2 |      3.7037  |            nan       |                      nan        |
-| Electrical &amp; Electronic Engineering      |       2 |      3.7037  |              1.33333 |                        2.37037  |
 | Politics                                 |       1 |      1.85185 |            nan       |                      nan        |
-| Aeronautical &amp; Manufacturing Engineering |       1 |      1.85185 |            nan       |                      nan        |
 | Chemical Engineering                     |       1 |      1.85185 |            nan       |                      nan        |
 | Mathematics                              |       1 |      1.85185 |              2.66667 |                       -0.814815 |
 | Communication &amp; Media Studies            |       1 |      1.85185 |              4       |                       -2.14815  |
-| Art &amp; Design                             |       1 |      1.85185 |            nan       |                      nan        |
 | General Engineering                      |       1 |      1.85185 |            nan       |                      nan        |
+| Aeronautical &amp; Manufacturing Engineering |       1 |      1.85185 |            nan       |                      nan        |
+| Art &amp; Design                             |       1 |      1.85185 |            nan       |                      nan        |
 | Psychology                               |       1 |      1.85185 |            nan       |                      nan        |
 
 [Download CSV](/csv/academic_field_edu_netherlands.csv)
@@ -290,16 +291,16 @@ despite lot of overlapping in the categories.
 |:-------------------------------------|--------:|-------------:|
 | Computer Science                     |      11 |     29.7297  |
 | Biological Sciences                  |       7 |     18.9189  |
-| Mathematics                          |       4 |     10.8108  |
 | Physics and Astronomy                |       4 |     10.8108  |
+| Mathematics                          |       4 |     10.8108  |
 | Mechanical Engineering               |       2 |      5.40541 |
 | Electrical &amp; Electronic Engineering  |       2 |      5.40541 |
 | Business &amp; Management Studies        |       2 |      5.40541 |
+| Geography &amp; Environmental Sciences   |       1 |      2.7027  |
+| Chemical Engineering                 |       1 |      2.7027  |
+| Chemistry                            |       1 |      2.7027  |
 | Civil Engineering                    |       1 |      2.7027  |
 | General Engineering                  |       1 |      2.7027  |
-| Chemistry                            |       1 |      2.7027  |
-| Chemical Engineering                 |       1 |      2.7027  |
-| Geography &amp; Environmental Sciences   |       1 |      2.7027  |
 
 [Download CSV](/csv/academic_field_edu_new-zealand.csv)
 
@@ -316,10 +317,10 @@ despite lot of overlapping in the categories.
 | Biological Sciences                   |       4 |     18.1818  |            nan       |                      nan        |
 | Mathematics                           |       3 |     13.6364  |            nan       |                      nan        |
 | Economics                             |       1 |      4.54545 |              5.26316 |                       -0.717703 |
-| Communication &amp; Media Studies         |       1 |      4.54545 |            nan       |                      nan        |
-| Physics and Astronomy                 |       1 |      4.54545 |             63.1579  |                      -58.6124   |
-| Business &amp; Management Studies         |       1 |      4.54545 |            nan       |                      nan        |
 | Psychology                            |       1 |      4.54545 |            nan       |                      nan        |
+| Physics and Astronomy                 |       1 |      4.54545 |             63.1579  |                      -58.6124   |
+| Communication &amp; Media Studies         |       1 |      4.54545 |            nan       |                      nan        |
+| Business &amp; Management Studies         |       1 |      4.54545 |            nan       |                      nan        |
 
 [Download CSV](/csv/academic_field_edu_south-africa.csv)
 
@@ -339,18 +340,18 @@ despite lot of overlapping in the categories.
 | Chemistry                                |      12 |     5.10638  |             6.53061  |                      -1.42423   |
 | Geography &amp; Environmental Sciences       |      11 |     4.68085  |             4.08163  |                       0.599218  |
 | Electrical &amp; Electronic Engineering      |       6 |     2.55319  |             3.26531  |                      -0.712115  |
-| Geology                                  |       4 |     1.70213  |             1.22449  |                       0.477638  |
 | General Engineering                      |       4 |     1.70213  |             1.22449  |                       0.477638  |
-| Medicine                                 |       2 |     0.851064 |             0.816327 |                       0.0347373 |
+| Geology                                  |       4 |     1.70213  |             1.22449  |                       0.477638  |
 | Mechanical Engineering                   |       2 |     0.851064 |             1.63265  |                      -0.781589  |
-| Sociology                                |       2 |     0.851064 |           nan        |                     nan         |
-| Aeronautical &amp; Manufacturing Engineering |       2 |     0.851064 |             0.816327 |                       0.0347373 |
 | English                                  |       2 |     0.851064 |           nan        |                     nan         |
+| Aeronautical &amp; Manufacturing Engineering |       2 |     0.851064 |             0.816327 |                       0.0347373 |
+| Sociology                                |       2 |     0.851064 |           nan        |                     nan         |
+| Medicine                                 |       2 |     0.851064 |             0.816327 |                       0.0347373 |
+| Civil Engineering                        |       1 |     0.425532 |             2.44898  |                      -2.02345   |
 | Robotics                                 |       1 |     0.425532 |             0.408163 |                       0.0173686 |
 | Theology &amp; Religious Studies             |       1 |     0.425532 |             0.408163 |                       0.0173686 |
 | Materials Technology                     |       1 |     0.425532 |             1.22449  |                      -0.798958  |
 | History                                  |       1 |     0.425532 |             0.408163 |                       0.0173686 |
-| Civil Engineering                        |       1 |     0.425532 |             2.44898  |                      -2.02345   |
 
 [Download CSV](/csv/academic_field_edu_united-kingdom.csv)
 
@@ -369,23 +370,23 @@ despite lot of overlapping in the categories.
 | Mathematics                            |      13 |     8.96552  |             5.52147  |                       3.44404   |
 | Electrical &amp; Electronic Engineering    |       6 |     4.13793  |             3.06748  |                       1.07045   |
 | Geography &amp; Environmental Sciences     |       4 |     2.75862  |             0.613497 |                       2.14512   |
+| Philosophy                             |       2 |     1.37931  |           nan        |                     nan         |
+| Materials Technology                   |       2 |     1.37931  |           nan        |                     nan         |
 | History                                |       2 |     1.37931  |           nan        |                     nan         |
 | Music                                  |       2 |     1.37931  |             0.613497 |                       0.765813  |
-| Economics                              |       2 |     1.37931  |           nan        |                     nan         |
-| Philosophy                             |       2 |     1.37931  |           nan        |                     nan         |
-| Chemical Engineering                   |       2 |     1.37931  |             1.84049  |                      -0.46118   |
-| Materials Technology                   |       2 |     1.37931  |           nan        |                     nan         |
-| Chemistry                              |       2 |     1.37931  |             8.58896  |                      -7.20965   |
-| Mechanical Engineering                 |       2 |     1.37931  |             4.29448  |                      -2.91517   |
 | Geology                                |       2 |     1.37931  |             2.45399  |                      -1.07468   |
-| Politics                               |       1 |     0.689655 |             0.613497 |                       0.0761582 |
-| Civil Engineering                      |       1 |     0.689655 |             1.22699  |                      -0.537339  |
+| Mechanical Engineering                 |       2 |     1.37931  |             4.29448  |                      -2.91517   |
+| Economics                              |       2 |     1.37931  |           nan        |                     nan         |
+| Chemical Engineering                   |       2 |     1.37931  |             1.84049  |                      -0.46118   |
+| Chemistry                              |       2 |     1.37931  |             8.58896  |                      -7.20965   |
 | East &amp; South Asian Studies             |       1 |     0.689655 |           nan        |                     nan         |
-| Linguistics                            |       1 |     0.689655 |             0.613497 |                       0.0761582 |
-| Education                              |       1 |     0.689655 |           nan        |                     nan         |
-| Psychology                             |       1 |     0.689655 |             1.22699  |                      -0.537339  |
 | Business &amp; Management Studies          |       1 |     0.689655 |             0.613497 |                       0.0761582 |
+| Civil Engineering                      |       1 |     0.689655 |             1.22699  |                      -0.537339  |
+| Linguistics                            |       1 |     0.689655 |             0.613497 |                       0.0761582 |
+| Psychology                             |       1 |     0.689655 |             1.22699  |                      -0.537339  |
+| Education                              |       1 |     0.689655 |           nan        |                     nan         |
 | Accounting &amp; Finance                   |       1 |     0.689655 |           nan        |                     nan         |
+| Politics                               |       1 |     0.689655 |             0.613497 |                       0.0761582 |
 
 [Download CSV](/csv/academic_field_edu_united-states.csv)
 
@@ -403,19 +404,19 @@ despite lot of overlapping in the categories.
 | Computer Science                       |       9 |     16.6667  |
 | Mathematics                            |       6 |     11.1111  |
 | Geography &amp; Environmental Sciences     |       3 |      5.55556 |
-| Psychology                             |       2 |      3.7037  |
 | Electrical &amp; Electronic Engineering    |       2 |      3.7037  |
 | Education                              |       2 |      3.7037  |
-| Business &amp; Management Studies          |       1 |      1.85185 |
-| Chemistry                              |       1 |      1.85185 |
-| History of Art, Architecture &amp; Design  |       1 |      1.85185 |
-| Accounting &amp; Finance                   |       1 |      1.85185 |
-| Librarianship &amp; Information Management |       1 |      1.85185 |
-| Medicine                               |       1 |      1.85185 |
-| Chemical Engineering                   |       1 |      1.85185 |
-| Marketing                              |       1 |      1.85185 |
+| Psychology                             |       2 |      3.7037  |
 | Pharmacology &amp; Pharmacy                |       1 |      1.85185 |
 | Geology                                |       1 |      1.85185 |
+| Accounting &amp; Finance                   |       1 |      1.85185 |
+| Librarianship &amp; Information Management |       1 |      1.85185 |
+| Chemical Engineering                   |       1 |      1.85185 |
+| Medicine                               |       1 |      1.85185 |
+| Business &amp; Management Studies          |       1 |      1.85185 |
+| Marketing                              |       1 |      1.85185 |
+| Chemistry                              |       1 |      1.85185 |
+| History of Art, Architecture &amp; Design  |       1 |      1.85185 |
 
 [Download CSV](/csv/academic_field_edu_world.csv)
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Previous employment
+nav_order: 6
 ---
 # Previous employment
 
@@ -79,8 +80,8 @@ position among 8 different ones:
 | Leibniz Association                              |      11 |      3.51438 |             3.79747  |                       -0.283091 |
 | Fraunhofer Society                               |      10 |      3.19489 |           nan        |                      nan        |
 | Max Planck Society                               |       9 |      2.8754  |            11.0759   |                       -8.20055  |
-| Government                                       |       5 |      1.59744 |             2.21519  |                       -0.617746 |
 | University of Applied Sciences                   |       5 |      1.59744 |             0.949367 |                        0.648077 |
+| Government                                       |       5 |      1.59744 |             2.21519  |                       -0.617746 |
 
 [Download CSV](/csv/where-previous-job-based_germany.csv)
 
@@ -150,9 +151,9 @@ position among 8 different ones:
 | University                                          |      13 |     61.9048  |              57.8947 |                         4.01003 |
 | National laboratory                                 |       3 |     14.2857  |             nan      |                       nan       |
 | Non-profit organization                             |       2 |      9.52381 |             nan      |                       nan       |
-| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
-| Government                                          |       1 |      4.7619  |             nan      |                       nan       |
 | Private company                                     |       1 |      4.7619  |             nan      |                       nan       |
+| Government                                          |       1 |      4.7619  |             nan      |                       nan       |
+| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
 
 [Download CSV](/csv/where-previous-job-based_south-africa.csv)
 
