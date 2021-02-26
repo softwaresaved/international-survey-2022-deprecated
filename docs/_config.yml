@@ -17,6 +17,16 @@ collections:
 kramdown:
   toc_levels: 2..2
 
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+footer_content: "Copyright &copy; 2020 Software Sustainability Institute, <a href=\"https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE\">BSD 3-Clause License</a>"
+
+aux_links:
+  "Source on GitHub":
+    - "//github.com/softwaresaved/international-survey-analysis"
+
 just_the_docs:
   collections:
     section:
