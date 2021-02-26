@@ -80,8 +80,8 @@ position among 8 different ones:
 | Leibniz Association                              |      11 |      3.51438 |             3.79747  |                       -0.283091 |
 | Fraunhofer Society                               |      10 |      3.19489 |           nan        |                      nan        |
 | Max Planck Society                               |       9 |      2.8754  |            11.0759   |                       -8.20055  |
-| University of Applied Sciences                   |       5 |      1.59744 |             0.949367 |                        0.648077 |
 | Government                                       |       5 |      1.59744 |             2.21519  |                       -0.617746 |
+| University of Applied Sciences                   |       5 |      1.59744 |             0.949367 |                        0.648077 |
 
 [Download CSV](/international-survey-analysis/csv/where-previous-job-based_germany.csv)
 
@@ -259,8 +259,8 @@ position among 8 different ones:
 | University                                   |      24 |     48.9796  |
 | Private company                              |      11 |     22.449   |
 | National laboratory                          |       5 |     10.2041  |
-| Non-profit organization                      |       3 |      6.12245 |
 | Government                                   |       3 |      6.12245 |
+| Non-profit organization                      |       3 |      6.12245 |
 | Other                                        |       2 |      4.08163 |
 | NGO                                          |       1 |      2.04082 |
 
