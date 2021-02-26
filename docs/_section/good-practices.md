@@ -72,9 +72,9 @@ using for their most important project.
 |                          4 |       2 |      2.27273 |
 |                          5 |       3 |      3.40909 |
 
-[Download CSV](/csv/bus-factor_australia.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_australia.csv)
 
-![bus-factor_australia](/fig/bus-factor_australia.png)
+![bus-factor_australia](/international-survey-analysis/fig/bus-factor_australia.png)
 
 ### Presence of transition plan
 
@@ -83,9 +83,9 @@ using for their most important project.
 | Yes                                         |       9 |      10.2273 |
 | No                                          |      79 |      89.7727 |
 
-[Download CSV](/csv/presence-of-transition-plan_australia.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_australia.csv)
 
-![presence-of-transition-plan_australia](/fig/presence-of-transition-plan_australia.png)
+![presence-of-transition-plan_australia](/international-survey-analysis/fig/presence-of-transition-plan_australia.png)
 
 ### Use of version control
 
@@ -97,9 +97,9 @@ using for their most important project.
 | Mercurial                              |       4 |      4.0404  |
 | None                                   |       2 |      2.0202  |
 
-[Download CSV](/csv/use-of-version-control_australia.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_australia.csv)
 
-![use-of-version-control_australia](/fig/use-of-version-control_australia.png)
+![use-of-version-control_australia](/international-survey-analysis/fig/use-of-version-control_australia.png)
 
 ### Testing strategies
 
@@ -110,13 +110,13 @@ using for their most important project.
 | The developers do their own testing          |      73 |      73.7374 |
 | Test engineers conduct testing               |       4 |       4.0404 |
 
-[Download CSV](/csv/testing-strategies_australia.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_australia.csv)
 
-![testing-strategies_australia](/fig/testing-strategies_australia.png)
+![testing-strategies_australia](/international-survey-analysis/fig/testing-strategies_australia.png)
 
 ### Repository
 
-![repository-wordcloud_australia](/fig/repository-wordcloud_australia.png)
+![repository-wordcloud_australia](/international-survey-analysis/fig/repository-wordcloud_australia.png)
 
 
 
@@ -139,9 +139,9 @@ using for their most important project.
 |                     50   |       1 |     0.338983 |
 |                    200   |       1 |     0.338983 |
 
-[Download CSV](/csv/bus-factor_germany.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_germany.csv)
 
-![bus-factor_germany](/fig/bus-factor_germany.png)
+![bus-factor_germany](/international-survey-analysis/fig/bus-factor_germany.png)
 
 ### Presence of transition plan
 
@@ -150,9 +150,9 @@ using for their most important project.
 | Yes                                       |      48 |      16.2162 |              18.6667 |                        -2.45045 |
 | No                                        |     248 |      83.7838 |              81.3333 |                         2.45045 |
 
-[Download CSV](/csv/presence-of-transition-plan_germany.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_germany.csv)
 
-![presence-of-transition-plan_germany](/fig/presence-of-transition-plan_germany.png)
+![presence-of-transition-plan_germany](/international-survey-analysis/fig/presence-of-transition-plan_germany.png)
 
 ### Use of version control
 
@@ -164,9 +164,9 @@ using for their most important project.
 | Mercurial                            |      15 |      4.5045  |
 | CVS                                  |      13 |      3.9039  |
 
-[Download CSV](/csv/use-of-version-control_germany.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_germany.csv)
 
-![use-of-version-control_germany](/fig/use-of-version-control_germany.png)
+![use-of-version-control_germany](/international-survey-analysis/fig/use-of-version-control_germany.png)
 
 ### Testing strategies
 
@@ -177,13 +177,13 @@ using for their most important project.
 | The developers do their own testing          |     257 |      77.1772 |             80.9231  |                        -3.7459  |
 | Test engineers conduct testing               |      14 |       4.2042 |              6.15385 |                        -1.94964 |
 
-[Download CSV](/csv/testing-strategies_germany.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_germany.csv)
 
-![testing-strategies_germany](/fig/testing-strategies_germany.png)
+![testing-strategies_germany](/international-survey-analysis/fig/testing-strategies_germany.png)
 
 ### Repository
 
-![repository-wordcloud_germany](/fig/repository-wordcloud_germany.png)
+![repository-wordcloud_germany](/international-survey-analysis/fig/repository-wordcloud_germany.png)
 
 
 
@@ -199,9 +199,9 @@ using for their most important project.
 |                            4 |       1 |      1.96078 |
 |                           10 |       2 |      3.92157 |
 
-[Download CSV](/csv/bus-factor_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_netherlands.csv)
 
-![bus-factor_netherlands](/fig/bus-factor_netherlands.png)
+![bus-factor_netherlands](/international-survey-analysis/fig/bus-factor_netherlands.png)
 
 ### Presence of transition plan
 
@@ -210,9 +210,9 @@ using for their most important project.
 | Yes                                           |      10 |      19.6078 |              20.5479 |                       -0.940102 |
 | No                                            |      41 |      80.3922 |              79.4521 |                        0.940102 |
 
-[Download CSV](/csv/presence-of-transition-plan_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_netherlands.csv)
 
-![presence-of-transition-plan_netherlands](/fig/presence-of-transition-plan_netherlands.png)
+![presence-of-transition-plan_netherlands](/international-survey-analysis/fig/presence-of-transition-plan_netherlands.png)
 
 ### Use of version control
 
@@ -224,9 +224,9 @@ using for their most important project.
 | CVS                                      |       1 |      1.85185 |
 | None                                     |       0 |      0       |
 
-[Download CSV](/csv/use-of-version-control_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_netherlands.csv)
 
-![use-of-version-control_netherlands](/fig/use-of-version-control_netherlands.png)
+![use-of-version-control_netherlands](/international-survey-analysis/fig/use-of-version-control_netherlands.png)
 
 ### Testing strategies
 
@@ -237,13 +237,13 @@ using for their most important project.
 | The developers do their own testing          |      42 |     77.7778  |             84       |                        -6.22222 |
 | Test engineers conduct testing               |       1 |      1.85185 |              9.33333 |                        -7.48148 |
 
-[Download CSV](/csv/testing-strategies_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_netherlands.csv)
 
-![testing-strategies_netherlands](/fig/testing-strategies_netherlands.png)
+![testing-strategies_netherlands](/international-survey-analysis/fig/testing-strategies_netherlands.png)
 
 ### Repository
 
-![repository-wordcloud_netherlands](/fig/repository-wordcloud_netherlands.png)
+![repository-wordcloud_netherlands](/international-survey-analysis/fig/repository-wordcloud_netherlands.png)
 
 
 
@@ -259,9 +259,9 @@ using for their most important project.
 |                            4 |       1 |      2.94118 |
 |                            5 |       1 |      2.94118 |
 
-[Download CSV](/csv/bus-factor_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_new-zealand.csv)
 
-![bus-factor_new-zealand](/fig/bus-factor_new-zealand.png)
+![bus-factor_new-zealand](/international-survey-analysis/fig/bus-factor_new-zealand.png)
 
 ### Presence of transition plan
 
@@ -270,9 +270,9 @@ using for their most important project.
 | Yes                                           |       3 |      8.82353 |
 | No                                            |      31 |     91.1765  |
 
-[Download CSV](/csv/presence-of-transition-plan_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_new-zealand.csv)
 
-![presence-of-transition-plan_new-zealand](/fig/presence-of-transition-plan_new-zealand.png)
+![presence-of-transition-plan_new-zealand](/international-survey-analysis/fig/presence-of-transition-plan_new-zealand.png)
 
 ### Use of version control
 
@@ -284,9 +284,9 @@ using for their most important project.
 | CVS                                      |       0 |       0      |
 | None                                     |       0 |       0      |
 
-[Download CSV](/csv/use-of-version-control_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_new-zealand.csv)
 
-![use-of-version-control_new-zealand](/fig/use-of-version-control_new-zealand.png)
+![use-of-version-control_new-zealand](/international-survey-analysis/fig/use-of-version-control_new-zealand.png)
 
 ### Testing strategies
 
@@ -297,13 +297,13 @@ using for their most important project.
 | The developers do their own testing          |      29 |      78.3784 |
 | Test engineers conduct testing               |       0 |       0      |
 
-[Download CSV](/csv/testing-strategies_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_new-zealand.csv)
 
-![testing-strategies_new-zealand](/fig/testing-strategies_new-zealand.png)
+![testing-strategies_new-zealand](/international-survey-analysis/fig/testing-strategies_new-zealand.png)
 
 ### Repository
 
-![repository-wordcloud_new-zealand](/fig/repository-wordcloud_new-zealand.png)
+![repository-wordcloud_new-zealand](/international-survey-analysis/fig/repository-wordcloud_new-zealand.png)
 
 
 
@@ -318,9 +318,9 @@ using for their most important project.
 |                             2 |       3 |     14.2857  |
 |                             3 |       2 |      9.52381 |
 
-[Download CSV](/csv/bus-factor_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_south-africa.csv)
 
-![bus-factor_south-africa](/fig/bus-factor_south-africa.png)
+![bus-factor_south-africa](/international-survey-analysis/fig/bus-factor_south-africa.png)
 
 ### Presence of transition plan
 
@@ -329,9 +329,9 @@ using for their most important project.
 | Yes                                            |       5 |      23.8095 |              13.3333 |                         10.4762 |
 | No                                             |      16 |      76.1905 |              86.6667 |                        -10.4762 |
 
-[Download CSV](/csv/presence-of-transition-plan_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_south-africa.csv)
 
-![presence-of-transition-plan_south-africa](/fig/presence-of-transition-plan_south-africa.png)
+![presence-of-transition-plan_south-africa](/international-survey-analysis/fig/presence-of-transition-plan_south-africa.png)
 
 ### Use of version control
 
@@ -343,9 +343,9 @@ using for their most important project.
 | CVS                                       |       0 |       0      |              5.26316 |                        -5.26316 |
 | Mercurial                                 |       0 |       0      |              0       |                         0       |
 
-[Download CSV](/csv/use-of-version-control_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_south-africa.csv)
 
-![use-of-version-control_south-africa](/fig/use-of-version-control_south-africa.png)
+![use-of-version-control_south-africa](/international-survey-analysis/fig/use-of-version-control_south-africa.png)
 
 ### Testing strategies
 
@@ -356,13 +356,13 @@ using for their most important project.
 | The developers do their own testing          |      14 |     60.8696  |              57.8947 |                         2.97483 |
 | Test engineers conduct testing               |       1 |      4.34783 |              10.5263 |                        -6.17849 |
 
-[Download CSV](/csv/testing-strategies_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_south-africa.csv)
 
-![testing-strategies_south-africa](/fig/testing-strategies_south-africa.png)
+![testing-strategies_south-africa](/international-survey-analysis/fig/testing-strategies_south-africa.png)
 
 ### Repository
 
-![repository-wordcloud_south-africa](/fig/repository-wordcloud_south-africa.png)
+![repository-wordcloud_south-africa](/international-survey-analysis/fig/repository-wordcloud_south-africa.png)
 
 
 
@@ -386,9 +386,9 @@ using for their most important project.
 |                              11 |       1 |      0.46729 |
 |                             700 |       1 |      0.46729 |
 
-[Download CSV](/csv/bus-factor_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_united-kingdom.csv)
 
-![bus-factor_united-kingdom](/fig/bus-factor_united-kingdom.png)
+![bus-factor_united-kingdom](/international-survey-analysis/fig/bus-factor_united-kingdom.png)
 
 ### Presence of transition plan
 
@@ -397,9 +397,9 @@ using for their most important project.
 | Yes                                              |      52 |      24.2991 |              25.3275 |                        -1.02845 |
 | No                                               |     162 |      75.7009 |              74.6725 |                         1.02845 |
 
-[Download CSV](/csv/presence-of-transition-plan_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_united-kingdom.csv)
 
-![presence-of-transition-plan_united-kingdom](/fig/presence-of-transition-plan_united-kingdom.png)
+![presence-of-transition-plan_united-kingdom](/international-survey-analysis/fig/presence-of-transition-plan_united-kingdom.png)
 
 ### Use of version control
 
@@ -411,9 +411,9 @@ using for their most important project.
 | CVS                                         |      11 |      4.66102 |
 | None                                        |       4 |      1.69492 |
 
-[Download CSV](/csv/use-of-version-control_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_united-kingdom.csv)
 
-![use-of-version-control_united-kingdom](/fig/use-of-version-control_united-kingdom.png)
+![use-of-version-control_united-kingdom](/international-survey-analysis/fig/use-of-version-control_united-kingdom.png)
 
 ### Testing strategies
 
@@ -424,13 +424,13 @@ using for their most important project.
 | The developers do their own testing          |     192 |     81.3559  |             80.4878  |                        0.868127 |
 | Test engineers conduct testing               |       7 |      2.9661  |              7.31707 |                       -4.35097  |
 
-[Download CSV](/csv/testing-strategies_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_united-kingdom.csv)
 
-![testing-strategies_united-kingdom](/fig/testing-strategies_united-kingdom.png)
+![testing-strategies_united-kingdom](/international-survey-analysis/fig/testing-strategies_united-kingdom.png)
 
 ### Repository
 
-![repository-wordcloud_united-kingdom](/fig/repository-wordcloud_united-kingdom.png)
+![repository-wordcloud_united-kingdom](/international-survey-analysis/fig/repository-wordcloud_united-kingdom.png)
 
 
 
@@ -449,9 +449,9 @@ using for their most important project.
 |                              7 |       1 |     0.724638 |
 |                             20 |       1 |     0.724638 |
 
-[Download CSV](/csv/bus-factor_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_united-states.csv)
 
-![bus-factor_united-states](/fig/bus-factor_united-states.png)
+![bus-factor_united-states](/international-survey-analysis/fig/bus-factor_united-states.png)
 
 ### Presence of transition plan
 
@@ -460,9 +460,9 @@ using for their most important project.
 | Yes                                             |      28 |      20.2899 |              18.2482 |                         2.04168 |
 | No                                              |     110 |      79.7101 |              81.7518 |                        -2.04168 |
 
-[Download CSV](/csv/presence-of-transition-plan_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_united-states.csv)
 
-![presence-of-transition-plan_united-states](/fig/presence-of-transition-plan_united-states.png)
+![presence-of-transition-plan_united-states](/international-survey-analysis/fig/presence-of-transition-plan_united-states.png)
 
 ### Use of version control
 
@@ -474,9 +474,9 @@ using for their most important project.
 | Mercurial                                  |       6 |      4.08163 |
 | None                                       |       5 |      3.40136 |
 
-[Download CSV](/csv/use-of-version-control_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_united-states.csv)
 
-![use-of-version-control_united-states](/fig/use-of-version-control_united-states.png)
+![use-of-version-control_united-states](/international-survey-analysis/fig/use-of-version-control_united-states.png)
 
 ### Testing strategies
 
@@ -487,13 +487,13 @@ using for their most important project.
 | The developers do their own testing          |     125 |     85.034   |             83.4356  |                         1.59843 |
 | Test engineers conduct testing               |      16 |     10.8844  |              9.20245 |                         1.6819  |
 
-[Download CSV](/csv/testing-strategies_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_united-states.csv)
 
-![testing-strategies_united-states](/fig/testing-strategies_united-states.png)
+![testing-strategies_united-states](/international-survey-analysis/fig/testing-strategies_united-states.png)
 
 ### Repository
 
-![repository-wordcloud_united-states](/fig/repository-wordcloud_united-states.png)
+![repository-wordcloud_united-states](/international-survey-analysis/fig/repository-wordcloud_united-states.png)
 
 
 
@@ -510,9 +510,9 @@ using for their most important project.
 |                      5 |       1 |      2.43902 |
 |                      6 |       1 |      2.43902 |
 
-[Download CSV](/csv/bus-factor_world.csv)
+[Download CSV](/international-survey-analysis/csv/bus-factor_world.csv)
 
-![bus-factor_world](/fig/bus-factor_world.png)
+![bus-factor_world](/international-survey-analysis/fig/bus-factor_world.png)
 
 ### Presence of transition plan
 
@@ -521,9 +521,9 @@ using for their most important project.
 | Yes                                     |       6 |      14.6341 |
 | No                                      |      35 |      85.3659 |
 
-[Download CSV](/csv/presence-of-transition-plan_world.csv)
+[Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_world.csv)
 
-![presence-of-transition-plan_world](/fig/presence-of-transition-plan_world.png)
+![presence-of-transition-plan_world](/international-survey-analysis/fig/presence-of-transition-plan_world.png)
 
 ### Use of version control
 
@@ -535,9 +535,9 @@ using for their most important project.
 | None                               |       2 |      3.63636 |
 | CVS                                |       0 |      0       |
 
-[Download CSV](/csv/use-of-version-control_world.csv)
+[Download CSV](/international-survey-analysis/csv/use-of-version-control_world.csv)
 
-![use-of-version-control_world](/fig/use-of-version-control_world.png)
+![use-of-version-control_world](/international-survey-analysis/fig/use-of-version-control_world.png)
 
 ### Testing strategies
 
@@ -548,13 +548,13 @@ using for their most important project.
 | The developers do their own testing          |      35 |     63.6364  |
 | Test engineers conduct testing               |       4 |      7.27273 |
 
-[Download CSV](/csv/testing-strategies_world.csv)
+[Download CSV](/international-survey-analysis/csv/testing-strategies_world.csv)
 
-![testing-strategies_world](/fig/testing-strategies_world.png)
+![testing-strategies_world](/international-survey-analysis/fig/testing-strategies_world.png)
 
 ### Repository
 
-![repository-wordcloud_world](/fig/repository-wordcloud_world.png)
+![repository-wordcloud_world](/international-survey-analysis/fig/repository-wordcloud_world.png)
 
 
 

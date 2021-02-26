@@ -80,198 +80,198 @@ References
 
 ### General satisfaction
 
-![general-satisfaction_australia](/fig/general-satisfaction_australia.png)
+![general-satisfaction_australia](/international-survey-analysis/fig/general-satisfaction_australia.png)
 
 ### Recognition
 
-![recognition_australia](/fig/recognition_australia.png)
+![recognition_australia](/international-survey-analysis/fig/recognition_australia.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_australia](/fig/consider-leaving-job_australia.png)
+![consider-leaving-job_australia](/international-survey-analysis/fig/consider-leaving-job_australia.png)
 
-![would-accept-another-job-at-same-compensation_australia](/fig/would-accept-another-job-at-same-compensation_australia.png)
+![would-accept-another-job-at-same-compensation_australia](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_australia.png)
 
 ### Perceived employability
 
-![perceived-employability_australia](/fig/perceived-employability_australia.png)
+![perceived-employability_australia](/international-survey-analysis/fig/perceived-employability_australia.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_australia](/fig/progression-in-the-current-role_australia.png)
+![progression-in-the-current-role_australia](/international-survey-analysis/fig/progression-in-the-current-role_australia.png)
 
 
 ## Germany
 
 ### General satisfaction
 
-![general-satisfaction_germany](/fig/general-satisfaction_germany.png)
+![general-satisfaction_germany](/international-survey-analysis/fig/general-satisfaction_germany.png)
 
 ### Recognition
 
-![recognition_germany](/fig/recognition_germany.png)
+![recognition_germany](/international-survey-analysis/fig/recognition_germany.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_germany](/fig/consider-leaving-job_germany.png)
+![consider-leaving-job_germany](/international-survey-analysis/fig/consider-leaving-job_germany.png)
 
-![would-accept-another-job-at-same-compensation_germany](/fig/would-accept-another-job-at-same-compensation_germany.png)
+![would-accept-another-job-at-same-compensation_germany](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_germany.png)
 
 ### Perceived employability
 
-![perceived-employability_germany](/fig/perceived-employability_germany.png)
+![perceived-employability_germany](/international-survey-analysis/fig/perceived-employability_germany.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_germany](/fig/progression-in-the-current-role_germany.png)
+![progression-in-the-current-role_germany](/international-survey-analysis/fig/progression-in-the-current-role_germany.png)
 
 
 ## Netherlands
 
 ### General satisfaction
 
-![general-satisfaction_netherlands](/fig/general-satisfaction_netherlands.png)
+![general-satisfaction_netherlands](/international-survey-analysis/fig/general-satisfaction_netherlands.png)
 
 ### Recognition
 
-![recognition_netherlands](/fig/recognition_netherlands.png)
+![recognition_netherlands](/international-survey-analysis/fig/recognition_netherlands.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_netherlands](/fig/consider-leaving-job_netherlands.png)
+![consider-leaving-job_netherlands](/international-survey-analysis/fig/consider-leaving-job_netherlands.png)
 
-![would-accept-another-job-at-same-compensation_netherlands](/fig/would-accept-another-job-at-same-compensation_netherlands.png)
+![would-accept-another-job-at-same-compensation_netherlands](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_netherlands.png)
 
 ### Perceived employability
 
-![perceived-employability_netherlands](/fig/perceived-employability_netherlands.png)
+![perceived-employability_netherlands](/international-survey-analysis/fig/perceived-employability_netherlands.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_netherlands](/fig/progression-in-the-current-role_netherlands.png)
+![progression-in-the-current-role_netherlands](/international-survey-analysis/fig/progression-in-the-current-role_netherlands.png)
 
 
 ## New Zealand
 
 ### General satisfaction
 
-![general-satisfaction_new-zealand](/fig/general-satisfaction_new-zealand.png)
+![general-satisfaction_new-zealand](/international-survey-analysis/fig/general-satisfaction_new-zealand.png)
 
 ### Recognition
 
-![recognition_new-zealand](/fig/recognition_new-zealand.png)
+![recognition_new-zealand](/international-survey-analysis/fig/recognition_new-zealand.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_new-zealand](/fig/consider-leaving-job_new-zealand.png)
+![consider-leaving-job_new-zealand](/international-survey-analysis/fig/consider-leaving-job_new-zealand.png)
 
-![would-accept-another-job-at-same-compensation_new-zealand](/fig/would-accept-another-job-at-same-compensation_new-zealand.png)
+![would-accept-another-job-at-same-compensation_new-zealand](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_new-zealand.png)
 
 ### Perceived employability
 
-![perceived-employability_new-zealand](/fig/perceived-employability_new-zealand.png)
+![perceived-employability_new-zealand](/international-survey-analysis/fig/perceived-employability_new-zealand.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_new-zealand](/fig/progression-in-the-current-role_new-zealand.png)
+![progression-in-the-current-role_new-zealand](/international-survey-analysis/fig/progression-in-the-current-role_new-zealand.png)
 
 
 ## South Africa
 
 ### General satisfaction
 
-![general-satisfaction_south-africa](/fig/general-satisfaction_south-africa.png)
+![general-satisfaction_south-africa](/international-survey-analysis/fig/general-satisfaction_south-africa.png)
 
 ### Recognition
 
-![recognition_south-africa](/fig/recognition_south-africa.png)
+![recognition_south-africa](/international-survey-analysis/fig/recognition_south-africa.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_south-africa](/fig/consider-leaving-job_south-africa.png)
+![consider-leaving-job_south-africa](/international-survey-analysis/fig/consider-leaving-job_south-africa.png)
 
-![would-accept-another-job-at-same-compensation_south-africa](/fig/would-accept-another-job-at-same-compensation_south-africa.png)
+![would-accept-another-job-at-same-compensation_south-africa](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_south-africa.png)
 
 ### Perceived employability
 
-![perceived-employability_south-africa](/fig/perceived-employability_south-africa.png)
+![perceived-employability_south-africa](/international-survey-analysis/fig/perceived-employability_south-africa.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_south-africa](/fig/progression-in-the-current-role_south-africa.png)
+![progression-in-the-current-role_south-africa](/international-survey-analysis/fig/progression-in-the-current-role_south-africa.png)
 
 
 ## United Kingdom
 
 ### General satisfaction
 
-![general-satisfaction_united-kingdom](/fig/general-satisfaction_united-kingdom.png)
+![general-satisfaction_united-kingdom](/international-survey-analysis/fig/general-satisfaction_united-kingdom.png)
 
 ### Recognition
 
-![recognition_united-kingdom](/fig/recognition_united-kingdom.png)
+![recognition_united-kingdom](/international-survey-analysis/fig/recognition_united-kingdom.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_united-kingdom](/fig/consider-leaving-job_united-kingdom.png)
+![consider-leaving-job_united-kingdom](/international-survey-analysis/fig/consider-leaving-job_united-kingdom.png)
 
-![would-accept-another-job-at-same-compensation_united-kingdom](/fig/would-accept-another-job-at-same-compensation_united-kingdom.png)
+![would-accept-another-job-at-same-compensation_united-kingdom](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_united-kingdom.png)
 
 ### Perceived employability
 
-![perceived-employability_united-kingdom](/fig/perceived-employability_united-kingdom.png)
+![perceived-employability_united-kingdom](/international-survey-analysis/fig/perceived-employability_united-kingdom.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_united-kingdom](/fig/progression-in-the-current-role_united-kingdom.png)
+![progression-in-the-current-role_united-kingdom](/international-survey-analysis/fig/progression-in-the-current-role_united-kingdom.png)
 
 
 ## United States
 
 ### General satisfaction
 
-![general-satisfaction_united-states](/fig/general-satisfaction_united-states.png)
+![general-satisfaction_united-states](/international-survey-analysis/fig/general-satisfaction_united-states.png)
 
 ### Recognition
 
-![recognition_united-states](/fig/recognition_united-states.png)
+![recognition_united-states](/international-survey-analysis/fig/recognition_united-states.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_united-states](/fig/consider-leaving-job_united-states.png)
+![consider-leaving-job_united-states](/international-survey-analysis/fig/consider-leaving-job_united-states.png)
 
-![would-accept-another-job-at-same-compensation_united-states](/fig/would-accept-another-job-at-same-compensation_united-states.png)
+![would-accept-another-job-at-same-compensation_united-states](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_united-states.png)
 
 ### Perceived employability
 
-![perceived-employability_united-states](/fig/perceived-employability_united-states.png)
+![perceived-employability_united-states](/international-survey-analysis/fig/perceived-employability_united-states.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_united-states](/fig/progression-in-the-current-role_united-states.png)
+![progression-in-the-current-role_united-states](/international-survey-analysis/fig/progression-in-the-current-role_united-states.png)
 
 
 ## World
 
 ### General satisfaction
 
-![general-satisfaction_world](/fig/general-satisfaction_world.png)
+![general-satisfaction_world](/international-survey-analysis/fig/general-satisfaction_world.png)
 
 ### Recognition
 
-![recognition_world](/fig/recognition_world.png)
+![recognition_world](/international-survey-analysis/fig/recognition_world.png)
 
 ### Turn-over intention
 
-![consider-leaving-job_world](/fig/consider-leaving-job_world.png)
+![consider-leaving-job_world](/international-survey-analysis/fig/consider-leaving-job_world.png)
 
-![would-accept-another-job-at-same-compensation_world](/fig/would-accept-another-job-at-same-compensation_world.png)
+![would-accept-another-job-at-same-compensation_world](/international-survey-analysis/fig/would-accept-another-job-at-same-compensation_world.png)
 
 ### Perceived employability
 
-![perceived-employability_world](/fig/perceived-employability_world.png)
+![perceived-employability_world](/international-survey-analysis/fig/perceived-employability_world.png)
 
 ### Progression in the current role
 
-![progression-in-the-current-role_world](/fig/progression-in-the-current-role_world.png)
+![progression-in-the-current-role_world](/international-survey-analysis/fig/progression-in-the-current-role_world.png)
 

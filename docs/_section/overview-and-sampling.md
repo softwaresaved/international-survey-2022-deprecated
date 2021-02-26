@@ -67,7 +67,7 @@ We can see the distribution of participants among the countries as follow:
 | Saudi Arabia       |                                       1 |
 | Turkey             |                                       1 |
 
-[Download CSV](/csv/participant.csv)
+[Download CSV](/international-survey-analysis/csv/participant.csv)
 
 
 ## Visual representation of countries repartition   
@@ -76,7 +76,7 @@ We can see the distribution of participants among the countries as follow:
 
 ## Date of participation
 
-![participation_date](/fig/participation_date.png)
+![participation_date](/international-survey-analysis/fig/participation_date.png)
 
 ## Difference with the previous year
 
@@ -90,9 +90,9 @@ Several countries did the survey last year, here a summary of the difference in 
 | South Africa   |     22 |     23 |                                  1 |
 | United Kingdom |    253 |    237 |                                -16 |
 
-[Download CSV](/csv/difference_with_previous_year.csv)
+[Download CSV](/international-survey-analysis/csv/difference_with_previous_year.csv)
 
-![difference_with_previous_year](/fig/difference_with_previous_year.png)
+![difference_with_previous_year](/international-survey-analysis/fig/difference_with_previous_year.png)
 
 # Subsetting
 
@@ -113,7 +113,7 @@ We will only select the participants who answered `Yes` to at least one question
 | (2018, 'No')  |               40 |                                  787 |                         1 |
 | (2018, 'Yes') |              945 |                                  166 |                       984 |
 
-[Download CSV](/csv/valid_participants.csv)
+[Download CSV](/international-survey-analysis/csv/valid_participants.csv)
 
 For any further analysis, we remove the participants that answered 'No' at both of the question to only keep the ones that have work involving software development for both year to ensure a proper comparison. This brings the number of participants analysed to:
 
@@ -121,4 +121,4 @@ For any further analysis, we remove the participants that answered 'No' at both 
 |---:|-----------------------:|-----------------------:|
 |  0 |                    828 |                    984 |
 
-[Download CSV](/csv/participant_analysed.csv)
+[Download CSV](/international-survey-analysis/csv/participant_analysed.csv)

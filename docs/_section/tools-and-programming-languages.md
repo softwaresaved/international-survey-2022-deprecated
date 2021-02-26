@@ -62,9 +62,9 @@ Questions in this section:
 | Objective-C                           |       0 |      0       |
 | Assembly                              |       0 |      0       |
 
-[Download CSV](/csv/programming-languages_australia.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_australia.csv)
 
-![programming-languages_australia](/fig/programming-languages_australia.png)
+![programming-languages_australia](/international-survey-analysis/fig/programming-languages_australia.png)
 
 ### Operating systems
 
@@ -75,9 +75,9 @@ Questions in this section:
 | Windows                           |      15 |     17.6471  |
 | Other                             |       2 |      2.35294 |
 
-[Download CSV](/csv/operating-systems_australia.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_australia.csv)
 
-![operating-systems_australia](/fig/operating-systems_australia.png)
+![operating-systems_australia](/international-survey-analysis/fig/operating-systems_australia.png)
 
 
 ## Germany
@@ -123,9 +123,9 @@ Questions in this section:
 | Smalltalk                           |       0 |     0        |             0        |                        0        |
 | Clojure                             |       0 |     0        |             0.307692 |                       -0.307692 |
 
-[Download CSV](/csv/programming-languages_germany.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_germany.csv)
 
-![programming-languages_germany](/fig/programming-languages_germany.png)
+![programming-languages_germany](/international-survey-analysis/fig/programming-languages_germany.png)
 
 ### Operating systems
 
@@ -136,9 +136,9 @@ Questions in this section:
 | OS X                            |      28 |      9.96441 |             14.9194  |                       -4.95494  |
 | Other                           |       5 |      1.77936 |              2.41935 |                       -0.639995 |
 
-[Download CSV](/csv/operating-systems_germany.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_germany.csv)
 
-![operating-systems_germany](/fig/operating-systems_germany.png)
+![operating-systems_germany](/international-survey-analysis/fig/operating-systems_germany.png)
 
 
 ## Netherlands
@@ -184,9 +184,9 @@ Questions in this section:
 | C#                                      |       0 |      0       |
 | Visual Basic                            |       0 |      0       |
 
-[Download CSV](/csv/programming-languages_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_netherlands.csv)
 
-![programming-languages_netherlands](/fig/programming-languages_netherlands.png)
+![programming-languages_netherlands](/international-survey-analysis/fig/programming-languages_netherlands.png)
 
 ### Operating systems
 
@@ -197,9 +197,9 @@ Questions in this section:
 | OS X                                |       7 |     14.5833  |
 | Other                               |       1 |      2.08333 |
 
-[Download CSV](/csv/operating-systems_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_netherlands.csv)
 
-![operating-systems_netherlands](/fig/operating-systems_netherlands.png)
+![operating-systems_netherlands](/international-survey-analysis/fig/operating-systems_netherlands.png)
 
 
 ## New Zealand
@@ -245,9 +245,9 @@ Questions in this section:
 | Hack                                    |       0 |      0       |
 | Elixir                                  |       0 |      0       |
 
-[Download CSV](/csv/programming-languages_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_new-zealand.csv)
 
-![programming-languages_new-zealand](/fig/programming-languages_new-zealand.png)
+![programming-languages_new-zealand](/international-survey-analysis/fig/programming-languages_new-zealand.png)
 
 ### Operating systems
 
@@ -257,9 +257,9 @@ Questions in this section:
 | OS X                                |       6 |      17.6471 |
 | Windows                             |       5 |      14.7059 |
 
-[Download CSV](/csv/operating-systems_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_new-zealand.csv)
 
-![operating-systems_new-zealand](/fig/operating-systems_new-zealand.png)
+![operating-systems_new-zealand](/international-survey-analysis/fig/operating-systems_new-zealand.png)
 
 
 ## South Africa
@@ -305,9 +305,9 @@ Questions in this section:
 | Lua                                      |       0 |      0       |              0       |                        0        |
 | Dart                                     |       0 |      0       |              0       |                        0        |
 
-[Download CSV](/csv/programming-languages_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_south-africa.csv)
 
-![programming-languages_south-africa](/fig/programming-languages_south-africa.png)
+![programming-languages_south-africa](/international-survey-analysis/fig/programming-languages_south-africa.png)
 
 ### Operating systems
 
@@ -316,9 +316,9 @@ Questions in this section:
 | GNU/Linux                            |      14 |      73.6842 |              54.5455 |                        19.1388  |
 | Windows                              |       5 |      26.3158 |              18.1818 |                         8.13397 |
 
-[Download CSV](/csv/operating-systems_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_south-africa.csv)
 
-![operating-systems_south-africa](/fig/operating-systems_south-africa.png)
+![operating-systems_south-africa](/international-survey-analysis/fig/operating-systems_south-africa.png)
 
 
 ## United Kingdom
@@ -364,9 +364,9 @@ Questions in this section:
 | Hack                                       |       0 |     0        |             0        |                       0         |
 | Dart                                       |       0 |     0        |             0        |                       0         |
 
-[Download CSV](/csv/programming-languages_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_united-kingdom.csv)
 
-![programming-languages_united-kingdom](/fig/programming-languages_united-kingdom.png)
+![programming-languages_united-kingdom](/international-survey-analysis/fig/programming-languages_united-kingdom.png)
 
 ### Operating systems
 
@@ -375,13 +375,13 @@ Questions in this section:
 | GNU/Linux                              |     126 |    61.4634   |            61.2903   |                        0.173092 |
 | OS X                                   |      39 |    19.0244   |            23.5023   |                       -4.47791  |
 | Windows                                |      37 |    18.0488   |            14.2857   |                        3.76307  |
-| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 | iOS                                    |       1 |     0.487805 |           nan        |                      nan        |
+| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 | Other                                  |       1 |     0.487805 |             0.921659 |                       -0.433854 |
 
-[Download CSV](/csv/operating-systems_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_united-kingdom.csv)
 
-![operating-systems_united-kingdom](/fig/operating-systems_united-kingdom.png)
+![operating-systems_united-kingdom](/international-survey-analysis/fig/operating-systems_united-kingdom.png)
 
 
 ## United States
@@ -427,9 +427,9 @@ Questions in this section:
 | VB.NET                                    |       0 |     0        |             0        |                       0         |
 | Haskell                                   |       0 |     0        |             0.613497 |                      -0.613497  |
 
-[Download CSV](/csv/programming-languages_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_united-states.csv)
 
-![programming-languages_united-states](/fig/programming-languages_united-states.png)
+![programming-languages_united-states](/international-survey-analysis/fig/programming-languages_united-states.png)
 
 ### Operating systems
 
@@ -439,9 +439,9 @@ Questions in this section:
 | OS X                                  |      36 |     27.0677  |             34.8485  |                      -7.78082   |
 | Windows                               |      13 |      9.77444 |              9.84848 |                      -0.0740488 |
 
-[Download CSV](/csv/operating-systems_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_united-states.csv)
 
-![operating-systems_united-states](/fig/operating-systems_united-states.png)
+![operating-systems_united-states](/international-survey-analysis/fig/operating-systems_united-states.png)
 
 
 ## World
@@ -487,9 +487,9 @@ Questions in this section:
 | Clojure                           |       0 |      0       |
 | Visual Basic                      |       0 |      0       |
 
-[Download CSV](/csv/programming-languages_world.csv)
+[Download CSV](/international-survey-analysis/csv/programming-languages_world.csv)
 
-![programming-languages_world](/fig/programming-languages_world.png)
+![programming-languages_world](/international-survey-analysis/fig/programming-languages_world.png)
 
 ### Operating systems
 
@@ -499,7 +499,7 @@ Questions in this section:
 | OS X                          |       5 |      12.8205 |
 | Windows                       |       5 |      12.8205 |
 
-[Download CSV](/csv/operating-systems_world.csv)
+[Download CSV](/international-survey-analysis/csv/operating-systems_world.csv)
 
-![operating-systems_world](/fig/operating-systems_world.png)
+![operating-systems_world](/international-survey-analysis/fig/operating-systems_world.png)
 

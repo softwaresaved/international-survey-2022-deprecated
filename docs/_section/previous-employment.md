@@ -44,9 +44,9 @@ position among 8 different ones:
 | Other                                            |       3 |      3.19149 |
 | Non-profit organization                          |       1 |      1.06383 |
 
-[Download CSV](/csv/where-previous-job-based_australia.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_australia.csv)
 
-![where-previous-job-based_australia](/fig/where-previous-job-based_australia.png)
+![where-previous-job-based_australia](/international-survey-analysis/fig/where-previous-job-based_australia.png)
 
 ### What were the reasons to choose the current job
 
@@ -62,9 +62,9 @@ position among 8 different ones:
 | Flexible working hours                   |  5.10204 | 12.2449  | 10.3093  | 11.3402  | 13.4021  |      nan |      nan |      nan |
 | The salary                               |  1.02041 |  5.10204 | 11.3402  | 12.3711  |  9.27835 |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_australia.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_australia.csv)
 
-![reasons-to-choose-current-job_australia](/fig/reasons-to-choose-current-job_australia.png)
+![reasons-to-choose-current-job_australia](/international-survey-analysis/fig/reasons-to-choose-current-job_australia.png)
 
 
 ## Germany
@@ -83,9 +83,9 @@ position among 8 different ones:
 | University of Applied Sciences                   |       5 |      1.59744 |             0.949367 |                        0.648077 |
 | Government                                       |       5 |      1.59744 |             2.21519  |                       -0.617746 |
 
-[Download CSV](/csv/where-previous-job-based_germany.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_germany.csv)
 
-![where-previous-job-based_germany](/fig/where-previous-job-based_germany.png)
+![where-previous-job-based_germany](/international-survey-analysis/fig/where-previous-job-based_germany.png)
 
 ### What were the reasons to choose the current job
 
@@ -101,9 +101,9 @@ position among 8 different ones:
 | Flexible working hours                   |  3.41615 |  9.62733 | 11.838   | 17.4455  |  18.4375 |      nan |      nan |      nan |
 | The salary                               |  2.79503 |  2.17391 |  3.42679 |  7.47664 |   9.6875 |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_germany.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_germany.csv)
 
-![reasons-to-choose-current-job_germany](/fig/reasons-to-choose-current-job_germany.png)
+![reasons-to-choose-current-job_germany](/international-survey-analysis/fig/reasons-to-choose-current-job_germany.png)
 
 
 ## New Zealand
@@ -119,9 +119,9 @@ position among 8 different ones:
 | National laboratory                                |       3 |      8.57143 |
 | Other                                              |       1 |      2.85714 |
 
-[Download CSV](/csv/where-previous-job-based_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_new-zealand.csv)
 
-![where-previous-job-based_new-zealand](/fig/where-previous-job-based_new-zealand.png)
+![where-previous-job-based_new-zealand](/international-survey-analysis/fig/where-previous-job-based_new-zealand.png)
 
 ### What were the reasons to choose the current job
 
@@ -137,9 +137,9 @@ position among 8 different ones:
 | Opportunity for career advancement       |  5.55556 |  5.55556 |   2.77778 |   5.55556 | 16.6667  |      nan |      nan |      nan |
 | Flexible working hours                   |  2.77778 | 19.4444  |  19.4444  |   8.33333 | 11.1111  |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_new-zealand.csv)
 
-![reasons-to-choose-current-job_new-zealand](/fig/reasons-to-choose-current-job_new-zealand.png)
+![reasons-to-choose-current-job_new-zealand](/international-survey-analysis/fig/reasons-to-choose-current-job_new-zealand.png)
 
 
 ## South Africa
@@ -151,13 +151,13 @@ position among 8 different ones:
 | University                                          |      13 |     61.9048  |              57.8947 |                         4.01003 |
 | National laboratory                                 |       3 |     14.2857  |             nan      |                       nan       |
 | Non-profit organization                             |       2 |      9.52381 |             nan      |                       nan       |
+| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
 | Private company                                     |       1 |      4.7619  |             nan      |                       nan       |
 | Government                                          |       1 |      4.7619  |             nan      |                       nan       |
-| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
 
-[Download CSV](/csv/where-previous-job-based_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_south-africa.csv)
 
-![where-previous-job-based_south-africa](/fig/where-previous-job-based_south-africa.png)
+![where-previous-job-based_south-africa](/international-survey-analysis/fig/where-previous-job-based_south-africa.png)
 
 ### What were the reasons to choose the current job
 
@@ -173,9 +173,9 @@ position among 8 different ones:
 | Opportunity to develop software          |   4.34783 |  4.34783 |  13.0435  |  8.69565 |   8.69565 |      nan |      nan |      nan |
 | Ability to work across disciplines       | nan       | 13.0435  | nan       | 30.4348  |  21.7391  |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_south-africa.csv)
 
-![reasons-to-choose-current-job_south-africa](/fig/reasons-to-choose-current-job_south-africa.png)
+![reasons-to-choose-current-job_south-africa](/international-survey-analysis/fig/reasons-to-choose-current-job_south-africa.png)
 
 
 ## United Kingdom
@@ -191,9 +191,9 @@ position among 8 different ones:
 | Government                                            |       6 |      2.8169  |              3.33333 |                       -0.516432 |
 | Non-profit organization                               |       4 |      1.87793 |            nan       |                      nan        |
 
-[Download CSV](/csv/where-previous-job-based_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_united-kingdom.csv)
 
-![where-previous-job-based_united-kingdom](/fig/where-previous-job-based_united-kingdom.png)
+![where-previous-job-based_united-kingdom](/international-survey-analysis/fig/where-previous-job-based_united-kingdom.png)
 
 ### What were the reasons to choose the current job
 
@@ -209,9 +209,9 @@ position among 8 different ones:
 | Ability to work across disciplines       |  2.64317 |  7.52212 | 10.6195  | 15.9292  | 10.6195  |      nan |      nan |      nan |
 | The salary                               |  2.64317 |  3.53982 |  7.9646  |  7.07965 |  8.40708 |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_united-kingdom.csv)
 
-![reasons-to-choose-current-job_united-kingdom](/fig/reasons-to-choose-current-job_united-kingdom.png)
+![reasons-to-choose-current-job_united-kingdom](/international-survey-analysis/fig/reasons-to-choose-current-job_united-kingdom.png)
 
 
 ## United States
@@ -227,9 +227,9 @@ position among 8 different ones:
 | Non-profit organization                              |       6 |      4.25532 |            nan       |                      nan        |
 | Government                                           |       4 |      2.83688 |            nan       |                      nan        |
 
-[Download CSV](/csv/where-previous-job-based_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_united-states.csv)
 
-![where-previous-job-based_united-states](/fig/where-previous-job-based_united-states.png)
+![where-previous-job-based_united-states](/international-survey-analysis/fig/where-previous-job-based_united-states.png)
 
 ### What were the reasons to choose the current job
 
@@ -245,9 +245,9 @@ position among 8 different ones:
 | Flexible working hours                   |  2.77778 |  6.25    | 10.4167  | 16.0839  | 17.4825  |      nan |      nan |      nan |
 | Ability to work across disciplines       |  1.38889 | 10.4167  |  9.72222 |  9.09091 | 13.986   |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_united-states.csv)
 
-![reasons-to-choose-current-job_united-states](/fig/reasons-to-choose-current-job_united-states.png)
+![reasons-to-choose-current-job_united-states](/international-survey-analysis/fig/reasons-to-choose-current-job_united-states.png)
 
 
 ## World
@@ -264,9 +264,9 @@ position among 8 different ones:
 | Other                                        |       2 |      4.08163 |
 | NGO                                          |       1 |      2.04082 |
 
-[Download CSV](/csv/where-previous-job-based_world.csv)
+[Download CSV](/international-survey-analysis/csv/where-previous-job-based_world.csv)
 
-![where-previous-job-based_world](/fig/where-previous-job-based_world.png)
+![where-previous-job-based_world](/international-survey-analysis/fig/where-previous-job-based_world.png)
 
 ### What were the reasons to choose the current job
 
@@ -282,7 +282,7 @@ position among 8 different ones:
 | The salary                               |        4 |        4 |        8 |        6 |       12 |      nan |      nan |      nan |
 | Ability to work across disciplines       |      nan |        6 |       20 |       14 |       12 |      nan |      nan |      nan |
 
-[Download CSV](/csv/reasons-to-choose-current-job_world.csv)
+[Download CSV](/international-survey-analysis/csv/reasons-to-choose-current-job_world.csv)
 
-![reasons-to-choose-current-job_world](/fig/reasons-to-choose-current-job_world.png)
+![reasons-to-choose-current-job_world](/international-survey-analysis/fig/reasons-to-choose-current-job_world.png)
 

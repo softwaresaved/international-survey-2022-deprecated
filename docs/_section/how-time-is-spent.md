@@ -51,40 +51,40 @@ All questions were asked on a 1 to 10 Likert scale.
 
 ## Australia
 
-![how-time-is-spent_australia](/fig/how-time-is-spent_australia.png)
+![how-time-is-spent_australia](/international-survey-analysis/fig/how-time-is-spent_australia.png)
 
 
 ## Germany
 
-![how-time-is-spent_germany](/fig/how-time-is-spent_germany.png)
+![how-time-is-spent_germany](/international-survey-analysis/fig/how-time-is-spent_germany.png)
 
 
 ## Netherlands
 
-![how-time-is-spent_netherlands](/fig/how-time-is-spent_netherlands.png)
+![how-time-is-spent_netherlands](/international-survey-analysis/fig/how-time-is-spent_netherlands.png)
 
 
 ## New Zealand
 
-![how-time-is-spent_new-zealand](/fig/how-time-is-spent_new-zealand.png)
+![how-time-is-spent_new-zealand](/international-survey-analysis/fig/how-time-is-spent_new-zealand.png)
 
 
 ## South Africa
 
-![how-time-is-spent_south-africa](/fig/how-time-is-spent_south-africa.png)
+![how-time-is-spent_south-africa](/international-survey-analysis/fig/how-time-is-spent_south-africa.png)
 
 
 ## United Kingdom
 
-![how-time-is-spent_united-kingdom](/fig/how-time-is-spent_united-kingdom.png)
+![how-time-is-spent_united-kingdom](/international-survey-analysis/fig/how-time-is-spent_united-kingdom.png)
 
 
 ## United States
 
-![how-time-is-spent_united-states](/fig/how-time-is-spent_united-states.png)
+![how-time-is-spent_united-states](/international-survey-analysis/fig/how-time-is-spent_united-states.png)
 
 
 ## World
 
-![how-time-is-spent_world](/fig/how-time-is-spent_world.png)
+![how-time-is-spent_world](/international-survey-analysis/fig/how-time-is-spent_world.png)
 

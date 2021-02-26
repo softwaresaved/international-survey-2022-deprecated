@@ -36,9 +36,9 @@ Questions in this section:
 | 4                                          |      19 |     19.1919  |
 | 5 - Mostly other people                    |      25 |     25.2525  |
 
-[Download CSV](/csv/developing-code-for-others_australia.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_australia.csv)
 
-![developing-code-for-others_australia](/fig/developing-code-for-others_australia.png)
+![developing-code-for-others_australia](/international-survey-analysis/fig/developing-code-for-others_australia.png)
 
 ### Working with same researchers
 
@@ -48,9 +48,9 @@ Questions in this section:
 | Regularly change researcher(s)                |      45 |      50.5618 |
 | Same researcher(s)                            |      26 |      29.2135 |
 
-[Download CSV](/csv/working-with-same-researchers_australia.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_australia.csv)
 
-![working-with-same-researchers_australia](/fig/working-with-same-researchers_australia.png)
+![working-with-same-researchers_australia](/international-survey-analysis/fig/working-with-same-researchers_australia.png)
 
 ### Part of dedicated group
 
@@ -59,9 +59,9 @@ Questions in this section:
 | No                                          |      57 |      64.0449 |
 | Yes                                         |      32 |      35.9551 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_australia.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_australia.csv)
 
-![member-of-a-dedicated-group_australia](/fig/member-of-a-dedicated-group_australia.png)
+![member-of-a-dedicated-group_australia](/international-survey-analysis/fig/member-of-a-dedicated-group_australia.png)
 
 ### Number of projects
 
@@ -76,9 +76,9 @@ Questions in this section:
 |                                          10 |       3 |      3.61446 |
 |                                          14 |       1 |      1.20482 |
 
-[Download CSV](/csv/number-of-software-projects_australia.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_australia.csv)
 
-![number-of-software-projects_australia](/fig/number-of-software-projects_australia.png)
+![number-of-software-projects_australia](/international-survey-analysis/fig/number-of-software-projects_australia.png)
 
 |   Number of software developers per projects for Australia |   Count |   Percentage |
 |-----------------------------------------------------------:|--------:|-------------:|
@@ -95,9 +95,9 @@ Questions in this section:
 |                                                       10   |       1 |      1.20482 |
 |                                                       30   |       1 |      1.20482 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_australia.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_australia.csv)
 
-![number-of-software-developers-per-projects_australia](/fig/number-of-software-developers-per-projects_australia.png)
+![number-of-software-developers-per-projects_australia](/international-survey-analysis/fig/number-of-software-developers-per-projects_australia.png)
 
 ### Training
 
@@ -112,11 +112,11 @@ Questions in this section:
 | 75%                                                                                |           3       |
 | max                                                                                |          10       |
 
-[Download CSV](/csv/training-frequency_australia.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_australia.csv)
 
-![training-frequency_australia](/fig/training-frequency_australia.png)
+![training-frequency_australia](/international-survey-analysis/fig/training-frequency_australia.png)
 
-![training-name-wordcloud_australia](/fig/training-name-wordcloud_australia.png)
+![training-name-wordcloud_australia](/international-survey-analysis/fig/training-name-wordcloud_australia.png)
 
 
 ## Germany
@@ -132,9 +132,9 @@ Questions in this section:
 | 4                                        |      56 |     16.8168  |             16.6154  |                        0.201432 |
 | 5 - Mostly other people                  |      63 |     18.9189  |             15.6923  |                        3.22661  |
 
-[Download CSV](/csv/developing-code-for-others_germany.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_germany.csv)
 
-![developing-code-for-others_germany](/fig/developing-code-for-others_germany.png)
+![developing-code-for-others_germany](/international-survey-analysis/fig/developing-code-for-others_germany.png)
 
 ### Working with same researchers
 
@@ -144,9 +144,9 @@ Questions in this section:
 | Regularly change researcher(s)              |      98 |      33.2203 |               35.786 |                        -2.56561 |
 | Same researcher(s)                          |     144 |      48.8136 |               64.214 |                       -15.4005  |
 
-[Download CSV](/csv/working-with-same-researchers_germany.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_germany.csv)
 
-![working-with-same-researchers_germany](/fig/working-with-same-researchers_germany.png)
+![working-with-same-researchers_germany](/international-survey-analysis/fig/working-with-same-researchers_germany.png)
 
 ### Part of dedicated group
 
@@ -155,9 +155,9 @@ Questions in this section:
 | No                                        |     115 |      38.8514 |              43.6667 |                        -4.81532 |
 | Yes                                       |     181 |      61.1486 |              56.3333 |                         4.81532 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_germany.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_germany.csv)
 
-![member-of-a-dedicated-group_germany](/fig/member-of-a-dedicated-group_germany.png)
+![member-of-a-dedicated-group_germany](/international-survey-analysis/fig/member-of-a-dedicated-group_germany.png)
 
 ### Number of projects
 
@@ -176,9 +176,9 @@ Questions in this section:
 |                                        10 |       2 |     0.714286 |             3.33333  |                      -2.61905   |
 |                                        20 |       1 |     0.357143 |             0.333333 |                       0.0238095 |
 
-[Download CSV](/csv/number-of-software-projects_germany.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_germany.csv)
 
-![number-of-software-projects_germany](/fig/number-of-software-projects_germany.png)
+![number-of-software-projects_germany](/international-survey-analysis/fig/number-of-software-projects_germany.png)
 
 |   Number of software developers per projects for Germany |   Count |   Percentage |
 |---------------------------------------------------------:|--------:|-------------:|
@@ -196,9 +196,9 @@ Questions in this section:
 |                                                       20 |       2 |     0.706714 |
 |                                                       30 |       1 |     0.353357 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_germany.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_germany.csv)
 
-![number-of-software-developers-per-projects_germany](/fig/number-of-software-developers-per-projects_germany.png)
+![number-of-software-developers-per-projects_germany](/international-survey-analysis/fig/number-of-software-developers-per-projects_germany.png)
 
 ### Training
 
@@ -213,11 +213,11 @@ Questions in this section:
 | 75%                                                                              |          1        |           2       |
 | max                                                                              |          4        |           7       |
 
-[Download CSV](/csv/training-frequency_germany.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_germany.csv)
 
-![training-frequency_germany](/fig/training-frequency_germany.png)
+![training-frequency_germany](/international-survey-analysis/fig/training-frequency_germany.png)
 
-![training-name-wordcloud_germany](/fig/training-name-wordcloud_germany.png)
+![training-name-wordcloud_germany](/international-survey-analysis/fig/training-name-wordcloud_germany.png)
 
 
 ## Netherlands
@@ -233,9 +233,9 @@ Questions in this section:
 | 4                                            |      14 |     25.9259  |             22.6667  |                        3.25926  |
 | 5 - Mostly other people                      |      12 |     22.2222  |             24       |                       -1.77778  |
 
-[Download CSV](/csv/developing-code-for-others_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_netherlands.csv)
 
-![developing-code-for-others_netherlands](/fig/developing-code-for-others_netherlands.png)
+![developing-code-for-others_netherlands](/international-survey-analysis/fig/developing-code-for-others_netherlands.png)
 
 ### Working with same researchers
 
@@ -245,9 +245,9 @@ Questions in this section:
 | Regularly change researcher(s)                  |      27 |      52.9412 |
 | Same researcher(s)                              |      15 |      29.4118 |
 
-[Download CSV](/csv/working-with-same-researchers_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_netherlands.csv)
 
-![working-with-same-researchers_netherlands](/fig/working-with-same-researchers_netherlands.png)
+![working-with-same-researchers_netherlands](/international-survey-analysis/fig/working-with-same-researchers_netherlands.png)
 
 ### Part of dedicated group
 
@@ -256,9 +256,9 @@ Questions in this section:
 | No                                            |      30 |      58.8235 |
 | Yes                                           |      21 |      41.1765 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_netherlands.csv)
 
-![member-of-a-dedicated-group_netherlands](/fig/member-of-a-dedicated-group_netherlands.png)
+![member-of-a-dedicated-group_netherlands](/international-survey-analysis/fig/member-of-a-dedicated-group_netherlands.png)
 
 ### Number of projects
 
@@ -275,9 +275,9 @@ Questions in this section:
 |                                            25 |       1 |            2 |              1.36986 |                        0.630137 |
 |                                            30 |       2 |            4 |            nan       |                      nan        |
 
-[Download CSV](/csv/number-of-software-projects_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_netherlands.csv)
 
-![number-of-software-projects_netherlands](/fig/number-of-software-projects_netherlands.png)
+![number-of-software-projects_netherlands](/international-survey-analysis/fig/number-of-software-projects_netherlands.png)
 
 |   Number of software developers per projects for Netherlands |   Count |   Percentage |
 |-------------------------------------------------------------:|--------:|-------------:|
@@ -289,9 +289,9 @@ Questions in this section:
 |                                                            6 |       1 |      2.04082 |
 |                                                            7 |       1 |      2.04082 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_netherlands.csv)
 
-![number-of-software-developers-per-projects_netherlands](/fig/number-of-software-developers-per-projects_netherlands.png)
+![number-of-software-developers-per-projects_netherlands](/international-survey-analysis/fig/number-of-software-developers-per-projects_netherlands.png)
 
 ### Training
 
@@ -306,11 +306,11 @@ Questions in this section:
 | 75%                                                                                  |           2       |           2       |
 | max                                                                                  |           5       |           8       |
 
-[Download CSV](/csv/training-frequency_netherlands.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_netherlands.csv)
 
-![training-frequency_netherlands](/fig/training-frequency_netherlands.png)
+![training-frequency_netherlands](/international-survey-analysis/fig/training-frequency_netherlands.png)
 
-![training-name-wordcloud_netherlands](/fig/training-name-wordcloud_netherlands.png)
+![training-name-wordcloud_netherlands](/international-survey-analysis/fig/training-name-wordcloud_netherlands.png)
 
 
 ## New Zealand
@@ -326,9 +326,9 @@ Questions in this section:
 | 4                                            |       6 |     16.2162  |
 | 5 - Mostly other people                      |      12 |     32.4324  |
 
-[Download CSV](/csv/developing-code-for-others_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_new-zealand.csv)
 
-![developing-code-for-others_new-zealand](/fig/developing-code-for-others_new-zealand.png)
+![developing-code-for-others_new-zealand](/international-survey-analysis/fig/developing-code-for-others_new-zealand.png)
 
 ### Working with same researchers
 
@@ -338,9 +338,9 @@ Questions in this section:
 | Regularly change researcher(s)                  |      14 |     41.1765  |
 | Same researcher(s)                              |      17 |     50       |
 
-[Download CSV](/csv/working-with-same-researchers_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_new-zealand.csv)
 
-![working-with-same-researchers_new-zealand](/fig/working-with-same-researchers_new-zealand.png)
+![working-with-same-researchers_new-zealand](/international-survey-analysis/fig/working-with-same-researchers_new-zealand.png)
 
 ### Part of dedicated group
 
@@ -349,9 +349,9 @@ Questions in this section:
 | No                                            |      20 |      58.8235 |
 | Yes                                           |      14 |      41.1765 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_new-zealand.csv)
 
-![member-of-a-dedicated-group_new-zealand](/fig/member-of-a-dedicated-group_new-zealand.png)
+![member-of-a-dedicated-group_new-zealand](/international-survey-analysis/fig/member-of-a-dedicated-group_new-zealand.png)
 
 ### Number of projects
 
@@ -366,9 +366,9 @@ Questions in this section:
 |                                             6 |       2 |        6.25  |
 |                                             8 |       1 |        3.125 |
 
-[Download CSV](/csv/number-of-software-projects_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_new-zealand.csv)
 
-![number-of-software-projects_new-zealand](/fig/number-of-software-projects_new-zealand.png)
+![number-of-software-projects_new-zealand](/international-survey-analysis/fig/number-of-software-projects_new-zealand.png)
 
 |   Number of software developers per projects for New Zealand |   Count |   Percentage |
 |-------------------------------------------------------------:|--------:|-------------:|
@@ -378,9 +378,9 @@ Questions in this section:
 |                                                            5 |       3 |      9.09091 |
 |                                                            6 |       1 |      3.0303  |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_new-zealand.csv)
 
-![number-of-software-developers-per-projects_new-zealand](/fig/number-of-software-developers-per-projects_new-zealand.png)
+![number-of-software-developers-per-projects_new-zealand](/international-survey-analysis/fig/number-of-software-developers-per-projects_new-zealand.png)
 
 ### Training
 
@@ -395,11 +395,11 @@ Questions in this section:
 | 75%                                                                                  |           2       |
 | max                                                                                  |           5       |
 
-[Download CSV](/csv/training-frequency_new-zealand.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_new-zealand.csv)
 
-![training-frequency_new-zealand](/fig/training-frequency_new-zealand.png)
+![training-frequency_new-zealand](/international-survey-analysis/fig/training-frequency_new-zealand.png)
 
-![training-name-wordcloud_new-zealand](/fig/training-name-wordcloud_new-zealand.png)
+![training-name-wordcloud_new-zealand](/international-survey-analysis/fig/training-name-wordcloud_new-zealand.png)
 
 
 ## South Africa
@@ -415,9 +415,9 @@ Questions in this section:
 | 4                                             |       1 |      4.34783 |              5.26316 |                       -0.915332 |
 | 5 - Mostly other people                       |       5 |     21.7391  |             10.5263  |                       11.2128   |
 
-[Download CSV](/csv/developing-code-for-others_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_south-africa.csv)
 
-![developing-code-for-others_south-africa](/fig/developing-code-for-others_south-africa.png)
+![developing-code-for-others_south-africa](/international-survey-analysis/fig/developing-code-for-others_south-africa.png)
 
 ### Working with same researchers
 
@@ -427,9 +427,9 @@ Questions in this section:
 | Regularly change researcher(s)                   |       9 |      42.8571 |                43.75 |                       -0.892857 |
 | Same researcher(s)                               |       9 |      42.8571 |                56.25 |                      -13.3929   |
 
-[Download CSV](/csv/working-with-same-researchers_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_south-africa.csv)
 
-![working-with-same-researchers_south-africa](/fig/working-with-same-researchers_south-africa.png)
+![working-with-same-researchers_south-africa](/international-survey-analysis/fig/working-with-same-researchers_south-africa.png)
 
 ### Part of dedicated group
 
@@ -438,9 +438,9 @@ Questions in this section:
 | No                                             |      12 |      57.1429 |                81.25 |                        -24.1071 |
 | Yes                                            |       9 |      42.8571 |                18.75 |                         24.1071 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_south-africa.csv)
 
-![member-of-a-dedicated-group_south-africa](/fig/member-of-a-dedicated-group_south-africa.png)
+![member-of-a-dedicated-group_south-africa](/international-survey-analysis/fig/member-of-a-dedicated-group_south-africa.png)
 
 ### Number of projects
 
@@ -456,9 +456,9 @@ Questions in this section:
 |                                              8 |       1 |            5 |              6.66667 |                        -1.66667 |
 |                                             11 |       1 |            5 |            nan       |                       nan       |
 
-[Download CSV](/csv/number-of-software-projects_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_south-africa.csv)
 
-![number-of-software-projects_south-africa](/fig/number-of-software-projects_south-africa.png)
+![number-of-software-projects_south-africa](/international-survey-analysis/fig/number-of-software-projects_south-africa.png)
 
 |   Number of software developers per projects for South Africa |   Count |   Percentage |
 |--------------------------------------------------------------:|--------:|-------------:|
@@ -469,9 +469,9 @@ Questions in this section:
 |                                                             4 |       2 |     11.1111  |
 |                                                             8 |       1 |      5.55556 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_south-africa.csv)
 
-![number-of-software-developers-per-projects_south-africa](/fig/number-of-software-developers-per-projects_south-africa.png)
+![number-of-software-developers-per-projects_south-africa](/international-survey-analysis/fig/number-of-software-developers-per-projects_south-africa.png)
 
 ### Training
 
@@ -486,11 +486,11 @@ Questions in this section:
 | 75%                                                                                   |           3       |          2        |
 | max                                                                                   |           5       |          3        |
 
-[Download CSV](/csv/training-frequency_south-africa.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_south-africa.csv)
 
-![training-frequency_south-africa](/fig/training-frequency_south-africa.png)
+![training-frequency_south-africa](/international-survey-analysis/fig/training-frequency_south-africa.png)
 
-![training-name-wordcloud_south-africa](/fig/training-name-wordcloud_south-africa.png)
+![training-name-wordcloud_south-africa](/international-survey-analysis/fig/training-name-wordcloud_south-africa.png)
 
 
 ## United Kingdom
@@ -506,9 +506,9 @@ Questions in this section:
 | 4                                               |      41 |     17.3729  |             24.3902  |                      -7.01736   |
 | 5 - Mostly other people                         |      73 |     30.9322  |             30.8943  |                       0.0378944 |
 
-[Download CSV](/csv/developing-code-for-others_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_united-kingdom.csv)
 
-![developing-code-for-others_united-kingdom](/fig/developing-code-for-others_united-kingdom.png)
+![developing-code-for-others_united-kingdom](/international-survey-analysis/fig/developing-code-for-others_united-kingdom.png)
 
 ### Working with same researchers
 
@@ -518,9 +518,9 @@ Questions in this section:
 | Regularly change researcher(s)                     |      83 |      38.785  |              51.7391 |                       -12.9541  |
 | Same researcher(s)                                 |      97 |      45.3271 |              48.2609 |                        -2.93377 |
 
-[Download CSV](/csv/working-with-same-researchers_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_united-kingdom.csv)
 
-![working-with-same-researchers_united-kingdom](/fig/working-with-same-researchers_united-kingdom.png)
+![working-with-same-researchers_united-kingdom](/international-survey-analysis/fig/working-with-same-researchers_united-kingdom.png)
 
 ### Part of dedicated group
 
@@ -529,9 +529,9 @@ Questions in this section:
 | No                                               |     110 |      51.4019 |              50.8772 |                        0.524676 |
 | Yes                                              |     104 |      48.5981 |              49.1228 |                       -0.524676 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_united-kingdom.csv)
 
-![member-of-a-dedicated-group_united-kingdom](/fig/member-of-a-dedicated-group_united-kingdom.png)
+![member-of-a-dedicated-group_united-kingdom](/international-survey-analysis/fig/member-of-a-dedicated-group_united-kingdom.png)
 
 ### Number of projects
 
@@ -555,9 +555,9 @@ Questions in this section:
 |                                               30 |       1 |     0.492611 |           nan        |                     nan         |
 |                                               35 |       1 |     0.492611 |           nan        |                     nan         |
 
-[Download CSV](/csv/number-of-software-projects_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_united-kingdom.csv)
 
-![number-of-software-projects_united-kingdom](/fig/number-of-software-projects_united-kingdom.png)
+![number-of-software-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-projects_united-kingdom.png)
 
 |   Number of software developers per projects for United Kingdom |   Count |   Percentage |
 |----------------------------------------------------------------:|--------:|-------------:|
@@ -583,9 +583,9 @@ Questions in this section:
 |                                                            60   |       1 |     0.497512 |
 |                                                           300   |       1 |     0.497512 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_united-kingdom.csv)
 
-![number-of-software-developers-per-projects_united-kingdom](/fig/number-of-software-developers-per-projects_united-kingdom.png)
+![number-of-software-developers-per-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-kingdom.png)
 
 ### Training
 
@@ -600,11 +600,11 @@ Questions in this section:
 | 75%                                                                                     |           3       |           3       |
 | max                                                                                     |          12       |           8       |
 
-[Download CSV](/csv/training-frequency_united-kingdom.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_united-kingdom.csv)
 
-![training-frequency_united-kingdom](/fig/training-frequency_united-kingdom.png)
+![training-frequency_united-kingdom](/international-survey-analysis/fig/training-frequency_united-kingdom.png)
 
-![training-name-wordcloud_united-kingdom](/fig/training-name-wordcloud_united-kingdom.png)
+![training-name-wordcloud_united-kingdom](/international-survey-analysis/fig/training-name-wordcloud_united-kingdom.png)
 
 
 ## United States
@@ -620,9 +620,9 @@ Questions in this section:
 | 4                                              |      31 |     21.0884  |             21.4724  |                       -0.383957 |
 | 5 - Mostly other people                        |      51 |     34.6939  |             25.7669  |                        8.92701  |
 
-[Download CSV](/csv/developing-code-for-others_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_united-states.csv)
 
-![developing-code-for-others_united-states](/fig/developing-code-for-others_united-states.png)
+![developing-code-for-others_united-states](/international-survey-analysis/fig/developing-code-for-others_united-states.png)
 
 ### Working with same researchers
 
@@ -632,9 +632,9 @@ Questions in this section:
 | Regularly change researcher(s)                    |      47 |      34.058  |              51.6556 |                      -17.5977   |
 | Same researcher(s)                                |      67 |      48.5507 |              48.3444 |                        0.206354 |
 
-[Download CSV](/csv/working-with-same-researchers_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_united-states.csv)
 
-![working-with-same-researchers_united-states](/fig/working-with-same-researchers_united-states.png)
+![working-with-same-researchers_united-states](/international-survey-analysis/fig/working-with-same-researchers_united-states.png)
 
 ### Part of dedicated group
 
@@ -643,9 +643,9 @@ Questions in this section:
 | No                                              |      68 |      49.2754 |                56.25 |                        -6.97464 |
 | Yes                                             |      70 |      50.7246 |                43.75 |                         6.97464 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_united-states.csv)
 
-![member-of-a-dedicated-group_united-states](/fig/member-of-a-dedicated-group_united-states.png)
+![member-of-a-dedicated-group_united-states](/international-survey-analysis/fig/member-of-a-dedicated-group_united-states.png)
 
 ### Number of projects
 
@@ -665,9 +665,9 @@ Questions in this section:
 |                                              14 |       1 |     0.763359 |             0.684932 |                       0.0784273 |
 |                                              20 |       1 |     0.763359 |             0.684932 |                       0.0784273 |
 
-[Download CSV](/csv/number-of-software-projects_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_united-states.csv)
 
-![number-of-software-projects_united-states](/fig/number-of-software-projects_united-states.png)
+![number-of-software-projects_united-states](/international-survey-analysis/fig/number-of-software-projects_united-states.png)
 
 |   Number of software developers per projects for United States |   Count |   Percentage |
 |---------------------------------------------------------------:|--------:|-------------:|
@@ -687,9 +687,9 @@ Questions in this section:
 |                                                             30 |       1 |     0.757576 |
 |                                                            100 |       1 |     0.757576 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_united-states.csv)
 
-![number-of-software-developers-per-projects_united-states](/fig/number-of-software-developers-per-projects_united-states.png)
+![number-of-software-developers-per-projects_united-states](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-states.png)
 
 ### Training
 
@@ -704,11 +704,11 @@ Questions in this section:
 | 75%                                                                                    |           2       |           5       |
 | max                                                                                    |           8       |          30       |
 
-[Download CSV](/csv/training-frequency_united-states.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_united-states.csv)
 
-![training-frequency_united-states](/fig/training-frequency_united-states.png)
+![training-frequency_united-states](/international-survey-analysis/fig/training-frequency_united-states.png)
 
-![training-name-wordcloud_united-states](/fig/training-name-wordcloud_united-states.png)
+![training-name-wordcloud_united-states](/international-survey-analysis/fig/training-name-wordcloud_united-states.png)
 
 
 ## World
@@ -724,9 +724,9 @@ Questions in this section:
 | 4                                      |       8 |     14.5455  |
 | 5 - Mostly other people                |      15 |     27.2727  |
 
-[Download CSV](/csv/developing-code-for-others_world.csv)
+[Download CSV](/international-survey-analysis/csv/developing-code-for-others_world.csv)
 
-![developing-code-for-others_world](/fig/developing-code-for-others_world.png)
+![developing-code-for-others_world](/international-survey-analysis/fig/developing-code-for-others_world.png)
 
 ### Working with same researchers
 
@@ -736,9 +736,9 @@ Questions in this section:
 | Regularly change researcher(s)             |      15 |      36.5854 |
 | Same researcher(s)                         |      17 |      41.4634 |
 
-[Download CSV](/csv/working-with-same-researchers_world.csv)
+[Download CSV](/international-survey-analysis/csv/working-with-same-researchers_world.csv)
 
-![working-with-same-researchers_world](/fig/working-with-same-researchers_world.png)
+![working-with-same-researchers_world](/international-survey-analysis/fig/working-with-same-researchers_world.png)
 
 ### Part of dedicated group
 
@@ -747,9 +747,9 @@ Questions in this section:
 | No                                      |      24 |      58.5366 |
 | Yes                                     |      17 |      41.4634 |
 
-[Download CSV](/csv/member-of-a-dedicated-group_world.csv)
+[Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_world.csv)
 
-![member-of-a-dedicated-group_world](/fig/member-of-a-dedicated-group_world.png)
+![member-of-a-dedicated-group_world](/international-survey-analysis/fig/member-of-a-dedicated-group_world.png)
 
 ### Number of projects
 
@@ -766,9 +766,9 @@ Questions in this section:
 |                                      10 |       1 |       2.5641 |
 |                                      20 |       1 |       2.5641 |
 
-[Download CSV](/csv/number-of-software-projects_world.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-projects_world.csv)
 
-![number-of-software-projects_world](/fig/number-of-software-projects_world.png)
+![number-of-software-projects_world](/international-survey-analysis/fig/number-of-software-projects_world.png)
 
 |   Number of software developers per projects for World |   Count |   Percentage |
 |-------------------------------------------------------:|--------:|-------------:|
@@ -783,9 +783,9 @@ Questions in this section:
 |                                                     10 |       2 |      5.26316 |
 |                                                     12 |       1 |      2.63158 |
 
-[Download CSV](/csv/number-of-software-developers-per-projects_world.csv)
+[Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_world.csv)
 
-![number-of-software-developers-per-projects_world](/fig/number-of-software-developers-per-projects_world.png)
+![number-of-software-developers-per-projects_world](/international-survey-analysis/fig/number-of-software-developers-per-projects_world.png)
 
 ### Training
 
@@ -800,9 +800,9 @@ Questions in this section:
 | 75%                                                                            |           3       |
 | max                                                                            |          12       |
 
-[Download CSV](/csv/training-frequency_world.csv)
+[Download CSV](/international-survey-analysis/csv/training-frequency_world.csv)
 
-![training-frequency_world](/fig/training-frequency_world.png)
+![training-frequency_world](/international-survey-analysis/fig/training-frequency_world.png)
 
-![training-name-wordcloud_world](/fig/training-name-wordcloud_world.png)
+![training-name-wordcloud_world](/international-survey-analysis/fig/training-name-wordcloud_world.png)
 
