@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 # RSE International Survey
 
@@ -62,8 +63,8 @@ Here is a list of contributors for the 2017/2018 version of the survey (alphabet
 ## Licence 
 
 This repository contains code and public data. We have different licence for each
-* The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey/blob/master/LICENSE.md).
-* The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey/blob/master/LICENSE_FOR_DATA).
+* The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE).
+* The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE_FOR_DATA).
 
 The repository is also archived on zenodo: https://doi.org/10.5281/zenodo.1194668.
 If you want to cite this work and need a citation in a specific format, you can use the citation service on the zenodo.
