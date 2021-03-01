@@ -375,9 +375,9 @@ Questions in this section:
 | GNU/Linux                              |     126 |    61.4634   |            61.2903   |                        0.173092 |
 | OS X                                   |      39 |    19.0244   |            23.5023   |                       -4.47791  |
 | Windows                                |      37 |    18.0488   |            14.2857   |                        3.76307  |
-| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 | Other                                  |       1 |     0.487805 |             0.921659 |                       -0.433854 |
 | iOS                                    |       1 |     0.487805 |           nan        |                      nan        |
+| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_united-kingdom.csv)
 
@@ -496,8 +496,8 @@ Questions in this section:
 | Operating systems for World   |   Count |   Percentage |
 |:------------------------------|--------:|-------------:|
 | GNU/Linux                     |      29 |      74.359  |
-| Windows                       |       5 |      12.8205 |
 | OS X                          |       5 |      12.8205 |
+| Windows                       |       5 |      12.8205 |
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_world.csv)
 
