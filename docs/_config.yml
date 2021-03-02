@@ -37,3 +37,7 @@ just_the_docs:
       name: Section
       nav_exclude: false
       search_exclude: false
+    country:
+      name: Country
+      nav_exclude: false
+      search_exclude: false
