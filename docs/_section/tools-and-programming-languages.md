@@ -376,8 +376,8 @@ Questions in this section:
 | OS X                                   |      39 |    19.0244   |            23.5023   |                       -4.47791  |
 | Windows                                |      37 |    18.0488   |            14.2857   |                        3.76307  |
 | Other                                  |       1 |     0.487805 |             0.921659 |                       -0.433854 |
-| iOS                                    |       1 |     0.487805 |           nan        |                      nan        |
 | Android                                |       1 |     0.487805 |           nan        |                      nan        |
+| iOS                                    |       1 |     0.487805 |           nan        |                      nan        |
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_united-kingdom.csv)
 
