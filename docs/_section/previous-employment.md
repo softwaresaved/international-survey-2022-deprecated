@@ -152,8 +152,8 @@ position among 8 different ones:
 | National laboratory                                 |       3 |     14.2857  |             nan      |                       nan       |
 | Non-profit organization                             |       2 |      9.52381 |             nan      |                       nan       |
 | Other                                               |       1 |      4.7619  |             nan      |                       nan       |
-| Government                                          |       1 |      4.7619  |             nan      |                       nan       |
 | Private company                                     |       1 |      4.7619  |             nan      |                       nan       |
+| Government                                          |       1 |      4.7619  |             nan      |                       nan       |
 
 [Download CSV](/international-survey-analysis/csv/where-previous-job-based_south-africa.csv)
 
