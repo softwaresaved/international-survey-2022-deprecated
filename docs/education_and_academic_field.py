@@ -139,18 +139,18 @@ def run(survey_year, data="data/public_merged.csv"):
     report.update(table("compare_education_level", df_edu_comparison))
 
     # In[22]:
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(6, 8))
     df_plot = df_edu_comparison.pivot(
         index="Country",
         columns="education comparison",
         values="Percentage per countries",
     )
-    # df_plot.plot(
-    #     kind="barh",
-    #     title="Percentage of Doctorate and Master per country",
-    #     grid=False,
-    #     ax=ax,
-    # )
+    df_plot.plot(
+        kind="barh",
+        title="Percentage of Doctorate and Master per country",
+        grid=False,
+        ax=ax,
+    ).legend(loc='lower center', ncol=3, bbox_to_anchor=(0.5, -0.15))
 
     ax.set(xlabel="Percentage", ylabel="Country")
 
@@ -161,9 +161,9 @@ def run(survey_year, data="data/public_merged.csv"):
     for p in ax.patches:
         if int(round(p.get_width())) > 0:
             ax.annotate(
-                "{}%".format(str(int(round(p.get_width())))),
-                (p.get_x() + p.get_width(), p.get_y()),
-                xytext=(5, -9),
+                str(int(round(p.get_width()))),
+                (p.get_x() + p.get_width(), p.get_y() + p.get_height() / 2 - 0.1),
+                xytext=(5, -9), fontsize=8,
                 textcoords="offset points",
             )
     report.update(figure("compare_education_level", plt))
