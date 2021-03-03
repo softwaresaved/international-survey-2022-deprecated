@@ -151,9 +151,9 @@ position among 8 different ones:
 | University                                          |      13 |     61.9048  |              57.8947 |                         4.01003 |
 | National laboratory                                 |       3 |     14.2857  |             nan      |                       nan       |
 | Non-profit organization                             |       2 |      9.52381 |             nan      |                       nan       |
+| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
 | Government                                          |       1 |      4.7619  |             nan      |                       nan       |
 | Private company                                     |       1 |      4.7619  |             nan      |                       nan       |
-| Other                                               |       1 |      4.7619  |             nan      |                       nan       |
 
 [Download CSV](/international-survey-analysis/csv/where-previous-job-based_south-africa.csv)
 
@@ -259,8 +259,8 @@ position among 8 different ones:
 | University                                   |      24 |     48.9796  |
 | Private company                              |      11 |     22.449   |
 | National laboratory                          |       5 |     10.2041  |
-| Non-profit organization                      |       3 |      6.12245 |
 | Government                                   |       3 |      6.12245 |
+| Non-profit organization                      |       3 |      6.12245 |
 | Other                                        |       2 |      4.08163 |
 | NGO                                          |       1 |      2.04082 |
 
