@@ -130,7 +130,10 @@ def run(survey_year, data="data/public_merged.csv"):
     report.update(table("difference_with_previous_year", diff_year_participants))
 
     # Plotting the difference
-    ax = diff_year_participants.plot(kind="bar")
+    fig, ax = plt.subplots()
+    fig.subplots_adjust(left=0.2, bottom=0.125)
+    ax = diff_year_participants.plot(kind="barh", ax=ax)
+    ax.legend(loc='lower center', ncol=3, bbox_to_anchor=(0.5, -0.18))
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_visible(False)
