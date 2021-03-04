@@ -86,30 +86,24 @@ def run(survey_year, data="data/public_merged.csv"):
         ["Date", "Country"], ascending=True
     )
 
-    fig, axes = plt.subplots(2, 4, figsize=(20, 10))
+    fig, axes = plt.subplots(len(set(df.Country)), 1, figsize=(7, 9), sharex=True)
     fig.tight_layout()
-    fig.subplots_adjust(hspace=0.5)
+    fig.subplots_adjust(left=0.1,bottom=0.15)
     list_plots = list()
     for i, name in enumerate(total_per_country["Country"].unique()):
-        if i < 4:
-            a = 0
-            b = i
-        else:
-            a = 1
-            b = 5 - i
-        axes[a, b] = total_per_country[total_per_country.Country == name].plot(
-            x="Date", y="Count", legend=False, ax=axes[a, b]
+        axes[i] = total_per_country[total_per_country.Country == name].plot(
+            x="Date", y="Count", legend=False, ax=axes[i]
         )
-        axes[a, b].set_title("{}".format(name))
+        axes[i].set_title("{}".format(name))
         # axes[a, b].set_xticklabels(labels=idx)
 
-        axes[a, b].xaxis.set_major_locator(
+        axes[i].xaxis.set_major_locator(
             mdates.DayLocator(interval=10)
         )  # every 10 days
-        axes[a, b].xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # every day
-        for label in axes[a, b].get_xticklabels():
-            label.set_rotation(45)
-        list_plots.append(axes[a, b])
+        axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # every day
+        for label in axes[i].get_xticklabels():
+            label.set_rotation(90)
+        list_plots.append(axes[i])
 
     for ax in list_plots:
         ax.set(xlabel="Date of submission", ylabel="Count")
