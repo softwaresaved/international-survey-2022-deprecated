@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import fire
 import sys
 import numpy as np
 import pandas as pd
@@ -226,4 +225,4 @@ def run(survey_year, data="data/public_merged.csv"):
 
 
 if __name__ == "__main__":
-    fire.Fire(run)
+    run()

@@ -1,6 +1,5 @@
 # How time is spent
 import sys
-import fire
 import collections
 import pandas as pd
 import matplotlib

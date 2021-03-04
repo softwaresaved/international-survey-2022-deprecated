@@ -1,5 +1,4 @@
 import sys
-import fire
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -260,4 +259,4 @@ def run(survey_year, data="data/public_merged.csv"):
 
 
 if __name__ == "__main__":
-    fire.Fire(run)
+    run()

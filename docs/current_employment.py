@@ -1,6 +1,5 @@
 # Current employment
 import sys
-import fire
 import matplotlib.pyplot as plt
 
 sys.path.insert(0, "../include")
@@ -232,4 +231,4 @@ def run(survey_year, data="data/public_merged.csv"):
 
 
 if __name__ == "__main__":
-    fire.Fire(run)
+    run()
