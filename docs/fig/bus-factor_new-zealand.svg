@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="192pt" version="1.1" viewBox="0 0 460.8 192" width="460.8pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-03-09T17:55:46.585980</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 192 
+L 460.8 192 
+L 460.8 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.678125 164.66875 
+L 449.55534 164.66875 
+L 449.55534 25.8 
+L 31.678125 25.8 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p187ad5c088)" d="M 31.678125 158.356534 
+L 429.656425 158.356534 
+L 429.656425 137.315814 
+L 31.678125 137.315814 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p187ad5c088)" d="M 31.678125 132.055634 
+L 135.498551 132.055634 
+L 135.498551 111.014915 
+L 31.678125 111.014915 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p187ad5c088)" d="M 31.678125 105.754735 
+L 83.588338 105.754735 
+L 83.588338 84.714015 
+L 31.678125 84.714015 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p187ad5c088)" d="M 31.678125 79.453835 
+L 48.981529 79.453835 
+L 48.981529 58.413116 
+L 31.678125 58.413116 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#p187ad5c088)" d="M 31.678125 53.152936 
+L 48.981529 53.152936 
+L 48.981529 32.112216 
+L 31.678125 32.112216 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m07d5c3a440" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 31.678125, 179.16875)" x="31.678125" y="179.16875">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="90.5097" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 90.5097, 179.16875)" x="90.5097" y="179.16875">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="149.341274" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 149.341274, 179.16875)" x="149.341274" y="179.16875">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="208.172849" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.172849, 179.16875)" x="208.172849" y="179.16875">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="267.004424" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 267.004424, 179.16875)" x="267.004424" y="179.16875">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="325.835999" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 325.835999, 179.16875)" x="325.835999" y="179.16875">50</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="384.667573" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 384.667573, 179.16875)" x="384.667573" y="179.16875">60</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="443.499148" xlink:href="#m07d5c3a440" y="164.66875"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 443.499148, 179.16875)" x="443.499148" y="179.16875">70</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="m77a5eaa866" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m77a5eaa866" y="147.836174"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 24.678125, 151.586174)" x="24.678125" y="151.586174">1.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m77a5eaa866" y="121.535275"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 24.678125, 125.285275)" x="24.678125" y="125.285275">2.0</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m77a5eaa866" y="95.234375"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 24.678125, 98.984375)" x="24.678125" y="98.984375">3.0</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m77a5eaa866" y="68.933475"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 24.678125, 72.683475)" x="24.678125" y="72.683475">4.0</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="31.678125" xlink:href="#m77a5eaa866" y="42.632576"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 24.678125, 46.382576)" x="24.678125" y="46.382576">5.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_14">
+    <text style="font-family:Roboto;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 240.616732, 19.8)" x="240.616732" y="19.8">Bus factor, New Zealand</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p187ad5c088">
+   <rect height="138.86875" width="417.877215" x="31.678125" y="25.8"/>
+  </clipPath>
+ </defs>
+</svg>

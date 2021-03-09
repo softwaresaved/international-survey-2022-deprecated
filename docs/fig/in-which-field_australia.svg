@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="600pt" version="1.1" viewBox="0 0 460.8 600" width="460.8pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-03-09T17:55:07.282453</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 600 
+L 460.8 600 
+L 460.8 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 153.984375 572.66875 
+L 450 572.66875 
+L 450 25.8 
+L 153.984375 25.8 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 547.81108 
+L 435.904018 547.81108 
+L 435.904018 529.566918 
+L 153.984375 529.566918 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 525.005877 
+L 379.520089 525.005877 
+L 379.520089 506.761715 
+L 153.984375 506.761715 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 502.200675 
+L 366.990327 502.200675 
+L 366.990327 483.956513 
+L 153.984375 483.956513 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 479.395473 
+L 316.87128 479.395473 
+L 316.87128 461.151311 
+L 153.984375 461.151311 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 456.590271 
+L 304.341518 456.590271 
+L 304.341518 438.346109 
+L 153.984375 438.346109 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 433.785068 
+L 304.341518 433.785068 
+L 304.341518 415.540906 
+L 153.984375 415.540906 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 410.979866 
+L 298.076637 410.979866 
+L 298.076637 392.735704 
+L 153.984375 392.735704 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 388.174664 
+L 291.811756 388.174664 
+L 291.811756 369.930502 
+L 153.984375 369.930502 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 365.369462 
+L 285.546875 365.369462 
+L 285.546875 347.1253 
+L 153.984375 347.1253 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 342.564259 
+L 216.633185 342.564259 
+L 216.633185 324.320097 
+L 153.984375 324.320097 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_13">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 319.759057 
+L 216.633185 319.759057 
+L 216.633185 301.514895 
+L 153.984375 301.514895 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_14">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 296.953855 
+L 210.368304 296.953855 
+L 210.368304 278.709693 
+L 153.984375 278.709693 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_15">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 274.148653 
+L 185.30878 274.148653 
+L 185.30878 255.904491 
+L 153.984375 255.904491 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_16">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 251.34345 
+L 179.043899 251.34345 
+L 179.043899 233.099288 
+L 153.984375 233.099288 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_17">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 228.538248 
+L 172.779018 228.538248 
+L 172.779018 210.294086 
+L 153.984375 210.294086 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_18">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 205.733046 
+L 172.779018 205.733046 
+L 172.779018 187.488884 
+L 153.984375 187.488884 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_19">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 182.927844 
+L 172.779018 182.927844 
+L 172.779018 164.683682 
+L 153.984375 164.683682 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_20">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 160.122641 
+L 172.779018 160.122641 
+L 172.779018 141.878479 
+L 153.984375 141.878479 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_21">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 137.317439 
+L 166.514137 137.317439 
+L 166.514137 119.073277 
+L 153.984375 119.073277 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_22">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 114.512237 
+L 166.514137 114.512237 
+L 166.514137 96.268075 
+L 153.984375 96.268075 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_23">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 91.707035 
+L 166.514137 91.707035 
+L 166.514137 73.462873 
+L 153.984375 73.462873 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_24">
+    <path clip-path="url(#pcff6c40b63)" d="M 153.984375 68.901832 
+L 160.249256 68.901832 
+L 160.249256 50.65767 
+L 153.984375 50.65767 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m47aec2fa7f" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#m47aec2fa7f" y="572.66875"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 153.984375, 587.16875)" x="153.984375" y="587.16875">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="216.006696" xlink:href="#m47aec2fa7f" y="572.66875"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 216.006696, 587.16875)" x="216.006696" y="587.16875">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="278.029018" xlink:href="#m47aec2fa7f" y="572.66875"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 278.029018, 587.16875)" x="278.029018" y="587.16875">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="340.051339" xlink:href="#m47aec2fa7f" y="572.66875"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 340.051339, 587.16875)" x="340.051339" y="587.16875">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="402.073661" xlink:href="#m47aec2fa7f" y="572.66875"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 402.073661, 587.16875)" x="402.073661" y="587.16875">40</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="mfef71e90de" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="538.688999"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 537.698374)">08 Information and Computing</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(106.857813 548.782749)">Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="515.883796"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 519.633796)" x="146.984375" y="519.633796">02 Physical Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="493.078594"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 496.828594)" x="146.984375" y="496.828594">06 Biological Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="470.273392"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 474.023392)" x="146.984375" y="474.023392">10 Technology</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="447.46819"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 451.21819)" x="146.984375" y="451.21819">01 Mathematical Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="424.662987"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(47.403125 423.647362)">11 Medical and Health</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(106.857813 434.678612)">Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="401.857785"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 405.581223)" x="146.984375" y="405.581223">09 Engineering</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="379.052583"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 382.802583)" x="146.984375" y="382.802583">04 Earth Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="356.247381"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 359.997381)" x="146.984375" y="359.997381">05 Environmental Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_15">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="333.442178"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 337.192178)" x="146.984375" y="337.192178">03 Chemical Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_16">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="310.636976"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63 309.646351)">07 Agricultural and</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(59.229688 320.730726)">Veterinary Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_17">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="287.831774"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 291.581774)" x="146.984375" y="291.581774">13 Education</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_18">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="265.026572"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(14.160938 263.957822)">20 Language, Communication</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(95.973438 275.042197)">and Culture</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_19">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="242.221369"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.7125 241.257307)">16 Studies in Human</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(114.371875 252.288557)">Society</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_20">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="219.416167"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(50.6 218.400542)">19 Studies in Creative</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(75.54375 229.431792)">Arts and Writing</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_21">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="196.610965"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 200.360965)" x="146.984375" y="200.360965">21 History and Archaeology</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_22">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="173.805763"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(21.846875 172.738575)">22 Philosophy and Religious</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(113.728125 183.87295)">Studies</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_23">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="151.00056"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(18.940625 149.933373)">17 Psychology and Cognitive</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(106.857813 161.067748)">Sciences</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_24">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="128.195358"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(18.946875 127.126608)">15 Commerce, Management,</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(50.884375 138.210983)">Tourism and Services</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_25">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="105.390156"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 109.140156)" x="146.984375" y="109.140156">14 Economics</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_26">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="82.584954"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.940625 81.569329)">12 Built Environment</text>
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(97.307813 92.600579)">and Design</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_27">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.984375" xlink:href="#mfef71e90de" y="59.779751"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-family:Roboto;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 146.984375, 63.529751)" x="146.984375" y="63.529751">18 Law and Legal Studies</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_28">
+    <text style="font-family:Roboto;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 301.992188, 19.8)" x="301.992188" y="19.8">in which field, Australia</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcff6c40b63">
+   <rect height="546.86875" width="296.015625" x="153.984375" y="25.8"/>
+  </clipPath>
+ </defs>
+</svg>
