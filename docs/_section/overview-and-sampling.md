@@ -74,7 +74,7 @@ We can see the distribution of participants among the countries as follow:
 
 ## Date of participation
 
-![participation_date](/international-survey-analysis/fig/participation_date.png)
+![participation_date](/international-survey-analysis/fig/participation_date.svg)
 
 ## Difference with the previous year
 
@@ -90,7 +90,7 @@ Several countries did the survey last year, here a summary of the difference in 
 
 [Download CSV](/international-survey-analysis/csv/difference_with_previous_year.csv)
 
-![difference_with_previous_year](/international-survey-analysis/fig/difference_with_previous_year.png)
+![difference_with_previous_year](/international-survey-analysis/fig/difference_with_previous_year.svg)
 
 ## Subsetting
 
