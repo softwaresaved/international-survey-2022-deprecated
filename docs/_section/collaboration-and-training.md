@@ -38,7 +38,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_australia.csv)
 
-![developing-code-for-others_australia](/international-survey-analysis/fig/developing-code-for-others_australia.png)
+![developing-code-for-others_australia](/international-survey-analysis/fig/developing-code-for-others_australia.svg)
 
 ### Working with same researchers
 
@@ -50,7 +50,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_australia.csv)
 
-![working-with-same-researchers_australia](/international-survey-analysis/fig/working-with-same-researchers_australia.png)
+![working-with-same-researchers_australia](/international-survey-analysis/fig/working-with-same-researchers_australia.svg)
 
 ### Part of dedicated group
 
@@ -61,7 +61,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_australia.csv)
 
-![member-of-a-dedicated-group_australia](/international-survey-analysis/fig/member-of-a-dedicated-group_australia.png)
+![member-of-a-dedicated-group_australia](/international-survey-analysis/fig/member-of-a-dedicated-group_australia.svg)
 
 ### Number of projects
 
@@ -78,7 +78,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_australia.csv)
 
-![number-of-software-projects_australia](/international-survey-analysis/fig/number-of-software-projects_australia.png)
+![number-of-software-projects_australia](/international-survey-analysis/fig/number-of-software-projects_australia.svg)
 
 |   Number of software developers per projects for Australia |   Count |   Percentage |
 |-----------------------------------------------------------:|--------:|-------------:|
@@ -97,7 +97,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_australia.csv)
 
-![number-of-software-developers-per-projects_australia](/international-survey-analysis/fig/number-of-software-developers-per-projects_australia.png)
+![number-of-software-developers-per-projects_australia](/international-survey-analysis/fig/number-of-software-developers-per-projects_australia.svg)
 
 ### Training
 
@@ -114,9 +114,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_australia.csv)
 
-![training-frequency_australia](/international-survey-analysis/fig/training-frequency_australia.png)
+![training-frequency_australia](/international-survey-analysis/fig/training-frequency_australia.svg)
 
-![training-name-wordcloud_australia](/international-survey-analysis/fig/training-name-wordcloud_australia.png)
+![training-name-wordcloud_australia](/international-survey-analysis/fig/training-name-wordcloud_australia.svg)
 
 
 ## Germany
@@ -134,7 +134,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_germany.csv)
 
-![developing-code-for-others_germany](/international-survey-analysis/fig/developing-code-for-others_germany.png)
+![developing-code-for-others_germany](/international-survey-analysis/fig/developing-code-for-others_germany.svg)
 
 ### Working with same researchers
 
@@ -146,7 +146,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_germany.csv)
 
-![working-with-same-researchers_germany](/international-survey-analysis/fig/working-with-same-researchers_germany.png)
+![working-with-same-researchers_germany](/international-survey-analysis/fig/working-with-same-researchers_germany.svg)
 
 ### Part of dedicated group
 
@@ -157,7 +157,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_germany.csv)
 
-![member-of-a-dedicated-group_germany](/international-survey-analysis/fig/member-of-a-dedicated-group_germany.png)
+![member-of-a-dedicated-group_germany](/international-survey-analysis/fig/member-of-a-dedicated-group_germany.svg)
 
 ### Number of projects
 
@@ -178,7 +178,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_germany.csv)
 
-![number-of-software-projects_germany](/international-survey-analysis/fig/number-of-software-projects_germany.png)
+![number-of-software-projects_germany](/international-survey-analysis/fig/number-of-software-projects_germany.svg)
 
 |   Number of software developers per projects for Germany |   Count |   Percentage |
 |---------------------------------------------------------:|--------:|-------------:|
@@ -198,7 +198,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_germany.csv)
 
-![number-of-software-developers-per-projects_germany](/international-survey-analysis/fig/number-of-software-developers-per-projects_germany.png)
+![number-of-software-developers-per-projects_germany](/international-survey-analysis/fig/number-of-software-developers-per-projects_germany.svg)
 
 ### Training
 
@@ -215,9 +215,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_germany.csv)
 
-![training-frequency_germany](/international-survey-analysis/fig/training-frequency_germany.png)
+![training-frequency_germany](/international-survey-analysis/fig/training-frequency_germany.svg)
 
-![training-name-wordcloud_germany](/international-survey-analysis/fig/training-name-wordcloud_germany.png)
+![training-name-wordcloud_germany](/international-survey-analysis/fig/training-name-wordcloud_germany.svg)
 
 
 ## Netherlands
@@ -235,7 +235,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_netherlands.csv)
 
-![developing-code-for-others_netherlands](/international-survey-analysis/fig/developing-code-for-others_netherlands.png)
+![developing-code-for-others_netherlands](/international-survey-analysis/fig/developing-code-for-others_netherlands.svg)
 
 ### Working with same researchers
 
@@ -247,7 +247,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_netherlands.csv)
 
-![working-with-same-researchers_netherlands](/international-survey-analysis/fig/working-with-same-researchers_netherlands.png)
+![working-with-same-researchers_netherlands](/international-survey-analysis/fig/working-with-same-researchers_netherlands.svg)
 
 ### Part of dedicated group
 
@@ -258,7 +258,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_netherlands.csv)
 
-![member-of-a-dedicated-group_netherlands](/international-survey-analysis/fig/member-of-a-dedicated-group_netherlands.png)
+![member-of-a-dedicated-group_netherlands](/international-survey-analysis/fig/member-of-a-dedicated-group_netherlands.svg)
 
 ### Number of projects
 
@@ -277,7 +277,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_netherlands.csv)
 
-![number-of-software-projects_netherlands](/international-survey-analysis/fig/number-of-software-projects_netherlands.png)
+![number-of-software-projects_netherlands](/international-survey-analysis/fig/number-of-software-projects_netherlands.svg)
 
 |   Number of software developers per projects for Netherlands |   Count |   Percentage |
 |-------------------------------------------------------------:|--------:|-------------:|
@@ -291,7 +291,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_netherlands.csv)
 
-![number-of-software-developers-per-projects_netherlands](/international-survey-analysis/fig/number-of-software-developers-per-projects_netherlands.png)
+![number-of-software-developers-per-projects_netherlands](/international-survey-analysis/fig/number-of-software-developers-per-projects_netherlands.svg)
 
 ### Training
 
@@ -308,9 +308,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_netherlands.csv)
 
-![training-frequency_netherlands](/international-survey-analysis/fig/training-frequency_netherlands.png)
+![training-frequency_netherlands](/international-survey-analysis/fig/training-frequency_netherlands.svg)
 
-![training-name-wordcloud_netherlands](/international-survey-analysis/fig/training-name-wordcloud_netherlands.png)
+![training-name-wordcloud_netherlands](/international-survey-analysis/fig/training-name-wordcloud_netherlands.svg)
 
 
 ## New Zealand
@@ -328,7 +328,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_new-zealand.csv)
 
-![developing-code-for-others_new-zealand](/international-survey-analysis/fig/developing-code-for-others_new-zealand.png)
+![developing-code-for-others_new-zealand](/international-survey-analysis/fig/developing-code-for-others_new-zealand.svg)
 
 ### Working with same researchers
 
@@ -340,7 +340,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_new-zealand.csv)
 
-![working-with-same-researchers_new-zealand](/international-survey-analysis/fig/working-with-same-researchers_new-zealand.png)
+![working-with-same-researchers_new-zealand](/international-survey-analysis/fig/working-with-same-researchers_new-zealand.svg)
 
 ### Part of dedicated group
 
@@ -351,7 +351,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_new-zealand.csv)
 
-![member-of-a-dedicated-group_new-zealand](/international-survey-analysis/fig/member-of-a-dedicated-group_new-zealand.png)
+![member-of-a-dedicated-group_new-zealand](/international-survey-analysis/fig/member-of-a-dedicated-group_new-zealand.svg)
 
 ### Number of projects
 
@@ -368,7 +368,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_new-zealand.csv)
 
-![number-of-software-projects_new-zealand](/international-survey-analysis/fig/number-of-software-projects_new-zealand.png)
+![number-of-software-projects_new-zealand](/international-survey-analysis/fig/number-of-software-projects_new-zealand.svg)
 
 |   Number of software developers per projects for New Zealand |   Count |   Percentage |
 |-------------------------------------------------------------:|--------:|-------------:|
@@ -380,7 +380,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_new-zealand.csv)
 
-![number-of-software-developers-per-projects_new-zealand](/international-survey-analysis/fig/number-of-software-developers-per-projects_new-zealand.png)
+![number-of-software-developers-per-projects_new-zealand](/international-survey-analysis/fig/number-of-software-developers-per-projects_new-zealand.svg)
 
 ### Training
 
@@ -397,9 +397,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_new-zealand.csv)
 
-![training-frequency_new-zealand](/international-survey-analysis/fig/training-frequency_new-zealand.png)
+![training-frequency_new-zealand](/international-survey-analysis/fig/training-frequency_new-zealand.svg)
 
-![training-name-wordcloud_new-zealand](/international-survey-analysis/fig/training-name-wordcloud_new-zealand.png)
+![training-name-wordcloud_new-zealand](/international-survey-analysis/fig/training-name-wordcloud_new-zealand.svg)
 
 
 ## South Africa
@@ -417,7 +417,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_south-africa.csv)
 
-![developing-code-for-others_south-africa](/international-survey-analysis/fig/developing-code-for-others_south-africa.png)
+![developing-code-for-others_south-africa](/international-survey-analysis/fig/developing-code-for-others_south-africa.svg)
 
 ### Working with same researchers
 
@@ -429,7 +429,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_south-africa.csv)
 
-![working-with-same-researchers_south-africa](/international-survey-analysis/fig/working-with-same-researchers_south-africa.png)
+![working-with-same-researchers_south-africa](/international-survey-analysis/fig/working-with-same-researchers_south-africa.svg)
 
 ### Part of dedicated group
 
@@ -440,7 +440,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_south-africa.csv)
 
-![member-of-a-dedicated-group_south-africa](/international-survey-analysis/fig/member-of-a-dedicated-group_south-africa.png)
+![member-of-a-dedicated-group_south-africa](/international-survey-analysis/fig/member-of-a-dedicated-group_south-africa.svg)
 
 ### Number of projects
 
@@ -458,7 +458,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_south-africa.csv)
 
-![number-of-software-projects_south-africa](/international-survey-analysis/fig/number-of-software-projects_south-africa.png)
+![number-of-software-projects_south-africa](/international-survey-analysis/fig/number-of-software-projects_south-africa.svg)
 
 |   Number of software developers per projects for South Africa |   Count |   Percentage |
 |--------------------------------------------------------------:|--------:|-------------:|
@@ -471,7 +471,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_south-africa.csv)
 
-![number-of-software-developers-per-projects_south-africa](/international-survey-analysis/fig/number-of-software-developers-per-projects_south-africa.png)
+![number-of-software-developers-per-projects_south-africa](/international-survey-analysis/fig/number-of-software-developers-per-projects_south-africa.svg)
 
 ### Training
 
@@ -488,9 +488,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_south-africa.csv)
 
-![training-frequency_south-africa](/international-survey-analysis/fig/training-frequency_south-africa.png)
+![training-frequency_south-africa](/international-survey-analysis/fig/training-frequency_south-africa.svg)
 
-![training-name-wordcloud_south-africa](/international-survey-analysis/fig/training-name-wordcloud_south-africa.png)
+![training-name-wordcloud_south-africa](/international-survey-analysis/fig/training-name-wordcloud_south-africa.svg)
 
 
 ## United Kingdom
@@ -508,7 +508,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_united-kingdom.csv)
 
-![developing-code-for-others_united-kingdom](/international-survey-analysis/fig/developing-code-for-others_united-kingdom.png)
+![developing-code-for-others_united-kingdom](/international-survey-analysis/fig/developing-code-for-others_united-kingdom.svg)
 
 ### Working with same researchers
 
@@ -520,7 +520,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_united-kingdom.csv)
 
-![working-with-same-researchers_united-kingdom](/international-survey-analysis/fig/working-with-same-researchers_united-kingdom.png)
+![working-with-same-researchers_united-kingdom](/international-survey-analysis/fig/working-with-same-researchers_united-kingdom.svg)
 
 ### Part of dedicated group
 
@@ -531,7 +531,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_united-kingdom.csv)
 
-![member-of-a-dedicated-group_united-kingdom](/international-survey-analysis/fig/member-of-a-dedicated-group_united-kingdom.png)
+![member-of-a-dedicated-group_united-kingdom](/international-survey-analysis/fig/member-of-a-dedicated-group_united-kingdom.svg)
 
 ### Number of projects
 
@@ -557,7 +557,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_united-kingdom.csv)
 
-![number-of-software-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-projects_united-kingdom.png)
+![number-of-software-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-projects_united-kingdom.svg)
 
 |   Number of software developers per projects for United Kingdom |   Count |   Percentage |
 |----------------------------------------------------------------:|--------:|-------------:|
@@ -585,7 +585,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_united-kingdom.csv)
 
-![number-of-software-developers-per-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-kingdom.png)
+![number-of-software-developers-per-projects_united-kingdom](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-kingdom.svg)
 
 ### Training
 
@@ -602,9 +602,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_united-kingdom.csv)
 
-![training-frequency_united-kingdom](/international-survey-analysis/fig/training-frequency_united-kingdom.png)
+![training-frequency_united-kingdom](/international-survey-analysis/fig/training-frequency_united-kingdom.svg)
 
-![training-name-wordcloud_united-kingdom](/international-survey-analysis/fig/training-name-wordcloud_united-kingdom.png)
+![training-name-wordcloud_united-kingdom](/international-survey-analysis/fig/training-name-wordcloud_united-kingdom.svg)
 
 
 ## United States
@@ -622,7 +622,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_united-states.csv)
 
-![developing-code-for-others_united-states](/international-survey-analysis/fig/developing-code-for-others_united-states.png)
+![developing-code-for-others_united-states](/international-survey-analysis/fig/developing-code-for-others_united-states.svg)
 
 ### Working with same researchers
 
@@ -634,7 +634,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_united-states.csv)
 
-![working-with-same-researchers_united-states](/international-survey-analysis/fig/working-with-same-researchers_united-states.png)
+![working-with-same-researchers_united-states](/international-survey-analysis/fig/working-with-same-researchers_united-states.svg)
 
 ### Part of dedicated group
 
@@ -645,7 +645,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_united-states.csv)
 
-![member-of-a-dedicated-group_united-states](/international-survey-analysis/fig/member-of-a-dedicated-group_united-states.png)
+![member-of-a-dedicated-group_united-states](/international-survey-analysis/fig/member-of-a-dedicated-group_united-states.svg)
 
 ### Number of projects
 
@@ -667,7 +667,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_united-states.csv)
 
-![number-of-software-projects_united-states](/international-survey-analysis/fig/number-of-software-projects_united-states.png)
+![number-of-software-projects_united-states](/international-survey-analysis/fig/number-of-software-projects_united-states.svg)
 
 |   Number of software developers per projects for United States |   Count |   Percentage |
 |---------------------------------------------------------------:|--------:|-------------:|
@@ -689,7 +689,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_united-states.csv)
 
-![number-of-software-developers-per-projects_united-states](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-states.png)
+![number-of-software-developers-per-projects_united-states](/international-survey-analysis/fig/number-of-software-developers-per-projects_united-states.svg)
 
 ### Training
 
@@ -706,9 +706,9 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_united-states.csv)
 
-![training-frequency_united-states](/international-survey-analysis/fig/training-frequency_united-states.png)
+![training-frequency_united-states](/international-survey-analysis/fig/training-frequency_united-states.svg)
 
-![training-name-wordcloud_united-states](/international-survey-analysis/fig/training-name-wordcloud_united-states.png)
+![training-name-wordcloud_united-states](/international-survey-analysis/fig/training-name-wordcloud_united-states.svg)
 
 
 ## World
@@ -726,7 +726,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/developing-code-for-others_world.csv)
 
-![developing-code-for-others_world](/international-survey-analysis/fig/developing-code-for-others_world.png)
+![developing-code-for-others_world](/international-survey-analysis/fig/developing-code-for-others_world.svg)
 
 ### Working with same researchers
 
@@ -738,7 +738,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/working-with-same-researchers_world.csv)
 
-![working-with-same-researchers_world](/international-survey-analysis/fig/working-with-same-researchers_world.png)
+![working-with-same-researchers_world](/international-survey-analysis/fig/working-with-same-researchers_world.svg)
 
 ### Part of dedicated group
 
@@ -749,7 +749,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/member-of-a-dedicated-group_world.csv)
 
-![member-of-a-dedicated-group_world](/international-survey-analysis/fig/member-of-a-dedicated-group_world.png)
+![member-of-a-dedicated-group_world](/international-survey-analysis/fig/member-of-a-dedicated-group_world.svg)
 
 ### Number of projects
 
@@ -768,7 +768,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-projects_world.csv)
 
-![number-of-software-projects_world](/international-survey-analysis/fig/number-of-software-projects_world.png)
+![number-of-software-projects_world](/international-survey-analysis/fig/number-of-software-projects_world.svg)
 
 |   Number of software developers per projects for World |   Count |   Percentage |
 |-------------------------------------------------------:|--------:|-------------:|
@@ -785,7 +785,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/number-of-software-developers-per-projects_world.csv)
 
-![number-of-software-developers-per-projects_world](/international-survey-analysis/fig/number-of-software-developers-per-projects_world.png)
+![number-of-software-developers-per-projects_world](/international-survey-analysis/fig/number-of-software-developers-per-projects_world.svg)
 
 ### Training
 
@@ -802,7 +802,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/training-frequency_world.csv)
 
-![training-frequency_world](/international-survey-analysis/fig/training-frequency_world.png)
+![training-frequency_world](/international-survey-analysis/fig/training-frequency_world.svg)
 
-![training-name-wordcloud_world](/international-survey-analysis/fig/training-name-wordcloud_world.png)
+![training-name-wordcloud_world](/international-survey-analysis/fig/training-name-wordcloud_world.svg)
 

@@ -49,7 +49,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_australia.csv)
 
-![open-source-use_australia](/international-survey-analysis/fig/open-source-use_australia.png)
+![open-source-use_australia](/international-survey-analysis/fig/open-source-use_australia.svg)
 
 ### Referencing software
 
@@ -68,7 +68,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_australia.csv)
 
-![citation-of-software_australia](/international-survey-analysis/fig/citation-of-software_australia.png)
+![citation-of-software_australia](/international-survey-analysis/fig/citation-of-software_australia.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -87,11 +87,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_australia.csv)
 
-![use-of-digital-object-identifier_australia](/international-survey-analysis/fig/use-of-digital-object-identifier_australia.png)
+![use-of-digital-object-identifier_australia](/international-survey-analysis/fig/use-of-digital-object-identifier_australia.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_australia](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_australia.png)
+![tool-used-for-doi-wordcloud_australia](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_australia.svg)
 
 ### ORCID
 
@@ -102,7 +102,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_australia.csv)
 
-![using-orcid_australia](/international-survey-analysis/fig/using-orcid_australia.png)
+![using-orcid_australia](/international-survey-analysis/fig/using-orcid_australia.svg)
 
 
 ## Germany
@@ -124,7 +124,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_germany.csv)
 
-![open-source-use_germany](/international-survey-analysis/fig/open-source-use_germany.png)
+![open-source-use_germany](/international-survey-analysis/fig/open-source-use_germany.svg)
 
 ### Referencing software
 
@@ -143,7 +143,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_germany.csv)
 
-![citation-of-software_germany](/international-survey-analysis/fig/citation-of-software_germany.png)
+![citation-of-software_germany](/international-survey-analysis/fig/citation-of-software_germany.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -162,11 +162,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_germany.csv)
 
-![use-of-digital-object-identifier_germany](/international-survey-analysis/fig/use-of-digital-object-identifier_germany.png)
+![use-of-digital-object-identifier_germany](/international-survey-analysis/fig/use-of-digital-object-identifier_germany.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_germany](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_germany.png)
+![tool-used-for-doi-wordcloud_germany](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_germany.svg)
 
 ### ORCID
 
@@ -177,7 +177,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_germany.csv)
 
-![using-orcid_germany](/international-survey-analysis/fig/using-orcid_germany.png)
+![using-orcid_germany](/international-survey-analysis/fig/using-orcid_germany.svg)
 
 
 ## Netherlands
@@ -199,7 +199,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_netherlands.csv)
 
-![open-source-use_netherlands](/international-survey-analysis/fig/open-source-use_netherlands.png)
+![open-source-use_netherlands](/international-survey-analysis/fig/open-source-use_netherlands.svg)
 
 ### Referencing software
 
@@ -218,7 +218,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_netherlands.csv)
 
-![citation-of-software_netherlands](/international-survey-analysis/fig/citation-of-software_netherlands.png)
+![citation-of-software_netherlands](/international-survey-analysis/fig/citation-of-software_netherlands.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -237,11 +237,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_netherlands.csv)
 
-![use-of-digital-object-identifier_netherlands](/international-survey-analysis/fig/use-of-digital-object-identifier_netherlands.png)
+![use-of-digital-object-identifier_netherlands](/international-survey-analysis/fig/use-of-digital-object-identifier_netherlands.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_netherlands](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_netherlands.png)
+![tool-used-for-doi-wordcloud_netherlands](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_netherlands.svg)
 
 ### ORCID
 
@@ -252,7 +252,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_netherlands.csv)
 
-![using-orcid_netherlands](/international-survey-analysis/fig/using-orcid_netherlands.png)
+![using-orcid_netherlands](/international-survey-analysis/fig/using-orcid_netherlands.svg)
 
 
 ## New Zealand
@@ -274,7 +274,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_new-zealand.csv)
 
-![open-source-use_new-zealand](/international-survey-analysis/fig/open-source-use_new-zealand.png)
+![open-source-use_new-zealand](/international-survey-analysis/fig/open-source-use_new-zealand.svg)
 
 ### Referencing software
 
@@ -293,7 +293,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_new-zealand.csv)
 
-![citation-of-software_new-zealand](/international-survey-analysis/fig/citation-of-software_new-zealand.png)
+![citation-of-software_new-zealand](/international-survey-analysis/fig/citation-of-software_new-zealand.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -312,11 +312,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_new-zealand.csv)
 
-![use-of-digital-object-identifier_new-zealand](/international-survey-analysis/fig/use-of-digital-object-identifier_new-zealand.png)
+![use-of-digital-object-identifier_new-zealand](/international-survey-analysis/fig/use-of-digital-object-identifier_new-zealand.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_new-zealand](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_new-zealand.png)
+![tool-used-for-doi-wordcloud_new-zealand](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_new-zealand.svg)
 
 ### ORCID
 
@@ -327,7 +327,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_new-zealand.csv)
 
-![using-orcid_new-zealand](/international-survey-analysis/fig/using-orcid_new-zealand.png)
+![using-orcid_new-zealand](/international-survey-analysis/fig/using-orcid_new-zealand.svg)
 
 
 ## South Africa
@@ -349,7 +349,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_south-africa.csv)
 
-![open-source-use_south-africa](/international-survey-analysis/fig/open-source-use_south-africa.png)
+![open-source-use_south-africa](/international-survey-analysis/fig/open-source-use_south-africa.svg)
 
 ### Referencing software
 
@@ -368,7 +368,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_south-africa.csv)
 
-![citation-of-software_south-africa](/international-survey-analysis/fig/citation-of-software_south-africa.png)
+![citation-of-software_south-africa](/international-survey-analysis/fig/citation-of-software_south-africa.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -387,11 +387,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_south-africa.csv)
 
-![use-of-digital-object-identifier_south-africa](/international-survey-analysis/fig/use-of-digital-object-identifier_south-africa.png)
+![use-of-digital-object-identifier_south-africa](/international-survey-analysis/fig/use-of-digital-object-identifier_south-africa.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_south-africa](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_south-africa.png)
+![tool-used-for-doi-wordcloud_south-africa](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_south-africa.svg)
 
 ### ORCID
 
@@ -402,7 +402,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_south-africa.csv)
 
-![using-orcid_south-africa](/international-survey-analysis/fig/using-orcid_south-africa.png)
+![using-orcid_south-africa](/international-survey-analysis/fig/using-orcid_south-africa.svg)
 
 
 ## United Kingdom
@@ -424,7 +424,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_united-kingdom.csv)
 
-![open-source-use_united-kingdom](/international-survey-analysis/fig/open-source-use_united-kingdom.png)
+![open-source-use_united-kingdom](/international-survey-analysis/fig/open-source-use_united-kingdom.svg)
 
 ### Referencing software
 
@@ -443,7 +443,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_united-kingdom.csv)
 
-![citation-of-software_united-kingdom](/international-survey-analysis/fig/citation-of-software_united-kingdom.png)
+![citation-of-software_united-kingdom](/international-survey-analysis/fig/citation-of-software_united-kingdom.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -462,11 +462,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_united-kingdom.csv)
 
-![use-of-digital-object-identifier_united-kingdom](/international-survey-analysis/fig/use-of-digital-object-identifier_united-kingdom.png)
+![use-of-digital-object-identifier_united-kingdom](/international-survey-analysis/fig/use-of-digital-object-identifier_united-kingdom.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_united-kingdom](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_united-kingdom.png)
+![tool-used-for-doi-wordcloud_united-kingdom](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_united-kingdom.svg)
 
 ### ORCID
 
@@ -477,7 +477,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_united-kingdom.csv)
 
-![using-orcid_united-kingdom](/international-survey-analysis/fig/using-orcid_united-kingdom.png)
+![using-orcid_united-kingdom](/international-survey-analysis/fig/using-orcid_united-kingdom.svg)
 
 
 ## United States
@@ -499,7 +499,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_united-states.csv)
 
-![open-source-use_united-states](/international-survey-analysis/fig/open-source-use_united-states.png)
+![open-source-use_united-states](/international-survey-analysis/fig/open-source-use_united-states.svg)
 
 ### Referencing software
 
@@ -518,7 +518,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_united-states.csv)
 
-![citation-of-software_united-states](/international-survey-analysis/fig/citation-of-software_united-states.png)
+![citation-of-software_united-states](/international-survey-analysis/fig/citation-of-software_united-states.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -537,11 +537,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_united-states.csv)
 
-![use-of-digital-object-identifier_united-states](/international-survey-analysis/fig/use-of-digital-object-identifier_united-states.png)
+![use-of-digital-object-identifier_united-states](/international-survey-analysis/fig/use-of-digital-object-identifier_united-states.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_united-states](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_united-states.png)
+![tool-used-for-doi-wordcloud_united-states](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_united-states.svg)
 
 ### ORCID
 
@@ -552,7 +552,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_united-states.csv)
 
-![using-orcid_united-states](/international-survey-analysis/fig/using-orcid_united-states.png)
+![using-orcid_united-states](/international-survey-analysis/fig/using-orcid_united-states.svg)
 
 
 ## World
@@ -574,7 +574,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/open-source-use_world.csv)
 
-![open-source-use_world](/international-survey-analysis/fig/open-source-use_world.png)
+![open-source-use_world](/international-survey-analysis/fig/open-source-use_world.svg)
 
 ### Referencing software
 
@@ -593,7 +593,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/citation-of-software_world.csv)
 
-![citation-of-software_world](/international-survey-analysis/fig/citation-of-software_world.png)
+![citation-of-software_world](/international-survey-analysis/fig/citation-of-software_world.svg)
 
 ### Use of Digital Object Identifier (DOI)
 
@@ -612,11 +612,11 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/use-of-digital-object-identifier_world.csv)
 
-![use-of-digital-object-identifier_world](/international-survey-analysis/fig/use-of-digital-object-identifier_world.png)
+![use-of-digital-object-identifier_world](/international-survey-analysis/fig/use-of-digital-object-identifier_world.svg)
 
 ### Tools used for DOI
 
-![tool-used-for-doi-wordcloud_world](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_world.png)
+![tool-used-for-doi-wordcloud_world](/international-survey-analysis/fig/tool-used-for-doi-wordcloud_world.svg)
 
 ### ORCID
 
@@ -627,5 +627,5 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/using-orcid_world.csv)
 
-![using-orcid_world](/international-survey-analysis/fig/using-orcid_world.png)
+![using-orcid_world](/international-survey-analysis/fig/using-orcid_world.svg)
 

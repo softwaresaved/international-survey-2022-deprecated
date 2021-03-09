@@ -31,7 +31,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_australia.csv)
 
-![proportion-professional-developer_australia](/international-survey-analysis/fig/proportion-professional-developer_australia.png)
+![proportion-professional-developer_australia](/international-survey-analysis/fig/proportion-professional-developer_australia.svg)
 
 ### Years of software development experience
 
@@ -48,7 +48,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_australia.csv)
 
-![density-years-professional-developer_australia](/international-survey-analysis/fig/density-years-professional-developer_australia.png)
+![density-years-professional-developer_australia](/international-survey-analysis/fig/density-years-professional-developer_australia.svg)
 
 
 ## Germany
@@ -62,7 +62,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_germany.csv)
 
-![proportion-professional-developer_germany](/international-survey-analysis/fig/proportion-professional-developer_germany.png)
+![proportion-professional-developer_germany](/international-survey-analysis/fig/proportion-professional-developer_germany.svg)
 
 ### Years of software development experience
 
@@ -79,7 +79,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_germany.csv)
 
-![density-years-professional-developer_germany](/international-survey-analysis/fig/density-years-professional-developer_germany.png)
+![density-years-professional-developer_germany](/international-survey-analysis/fig/density-years-professional-developer_germany.svg)
 
 
 ## Netherlands
@@ -93,7 +93,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_netherlands.csv)
 
-![proportion-professional-developer_netherlands](/international-survey-analysis/fig/proportion-professional-developer_netherlands.png)
+![proportion-professional-developer_netherlands](/international-survey-analysis/fig/proportion-professional-developer_netherlands.svg)
 
 ### Years of software development experience
 
@@ -110,7 +110,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_netherlands.csv)
 
-![density-years-professional-developer_netherlands](/international-survey-analysis/fig/density-years-professional-developer_netherlands.png)
+![density-years-professional-developer_netherlands](/international-survey-analysis/fig/density-years-professional-developer_netherlands.svg)
 
 
 ## New Zealand
@@ -124,7 +124,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_new-zealand.csv)
 
-![proportion-professional-developer_new-zealand](/international-survey-analysis/fig/proportion-professional-developer_new-zealand.png)
+![proportion-professional-developer_new-zealand](/international-survey-analysis/fig/proportion-professional-developer_new-zealand.svg)
 
 ### Years of software development experience
 
@@ -141,7 +141,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_new-zealand.csv)
 
-![density-years-professional-developer_new-zealand](/international-survey-analysis/fig/density-years-professional-developer_new-zealand.png)
+![density-years-professional-developer_new-zealand](/international-survey-analysis/fig/density-years-professional-developer_new-zealand.svg)
 
 
 ## South Africa
@@ -155,7 +155,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_south-africa.csv)
 
-![proportion-professional-developer_south-africa](/international-survey-analysis/fig/proportion-professional-developer_south-africa.png)
+![proportion-professional-developer_south-africa](/international-survey-analysis/fig/proportion-professional-developer_south-africa.svg)
 
 ### Years of software development experience
 
@@ -172,7 +172,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_south-africa.csv)
 
-![density-years-professional-developer_south-africa](/international-survey-analysis/fig/density-years-professional-developer_south-africa.png)
+![density-years-professional-developer_south-africa](/international-survey-analysis/fig/density-years-professional-developer_south-africa.svg)
 
 
 ## United Kingdom
@@ -186,7 +186,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_united-kingdom.csv)
 
-![proportion-professional-developer_united-kingdom](/international-survey-analysis/fig/proportion-professional-developer_united-kingdom.png)
+![proportion-professional-developer_united-kingdom](/international-survey-analysis/fig/proportion-professional-developer_united-kingdom.svg)
 
 ### Years of software development experience
 
@@ -203,7 +203,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_united-kingdom.csv)
 
-![density-years-professional-developer_united-kingdom](/international-survey-analysis/fig/density-years-professional-developer_united-kingdom.png)
+![density-years-professional-developer_united-kingdom](/international-survey-analysis/fig/density-years-professional-developer_united-kingdom.svg)
 
 
 ## United States
@@ -217,7 +217,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_united-states.csv)
 
-![proportion-professional-developer_united-states](/international-survey-analysis/fig/proportion-professional-developer_united-states.png)
+![proportion-professional-developer_united-states](/international-survey-analysis/fig/proportion-professional-developer_united-states.svg)
 
 ### Years of software development experience
 
@@ -234,7 +234,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_united-states.csv)
 
-![density-years-professional-developer_united-states](/international-survey-analysis/fig/density-years-professional-developer_united-states.png)
+![density-years-professional-developer_united-states](/international-survey-analysis/fig/density-years-professional-developer_united-states.svg)
 
 
 ## World
@@ -248,7 +248,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/proportion-professional-developer_world.csv)
 
-![proportion-professional-developer_world](/international-survey-analysis/fig/proportion-professional-developer_world.png)
+![proportion-professional-developer_world](/international-survey-analysis/fig/proportion-professional-developer_world.svg)
 
 ### Years of software development experience
 
@@ -265,5 +265,5 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/summary-years-professional-developer_world.csv)
 
-![density-years-professional-developer_world](/international-survey-analysis/fig/density-years-professional-developer_world.png)
+![density-years-professional-developer_world](/international-survey-analysis/fig/density-years-professional-developer_world.svg)
 

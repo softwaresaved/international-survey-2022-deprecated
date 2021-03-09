@@ -41,7 +41,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_australia.csv)
 
-![rse-member_australia](/international-survey-analysis/fig/rse-member_australia.png)
+![rse-member_australia](/international-survey-analysis/fig/rse-member_australia.svg)
 
 ### Joining a RSE/RSD association
 
@@ -52,7 +52,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_australia.csv)
 
-![joining-a-rse-rsd-association_australia](/international-survey-analysis/fig/joining-a-rse-rsd-association_australia.png)
+![joining-a-rse-rsd-association_australia](/international-survey-analysis/fig/joining-a-rse-rsd-association_australia.svg)
 
 ### What is important for such an organisation
 
@@ -66,7 +66,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_australia.csv)
 
-![what-is-important-for-such-an-organisation_australia](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_australia.png)
+![what-is-important-for-such-an-organisation_australia](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_australia.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -77,15 +77,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_australia.csv)
 
-![attending-a-national-conference-of-rse-rsd_australia](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_australia.png)
+![attending-a-national-conference-of-rse-rsd_australia](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_australia.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_australia](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_australia.png)
+![learning-skills-rse-rsd-wordcloud_australia](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_australia.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_australia](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_australia.png)
+![which-skills-to-improve-rse-rsd-wordcloud_australia](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_australia.svg)
 
 
 ## Germany
@@ -99,7 +99,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_germany.csv)
 
-![rse-member_germany](/international-survey-analysis/fig/rse-member_germany.png)
+![rse-member_germany](/international-survey-analysis/fig/rse-member_germany.svg)
 
 ### Joining a RSE/RSD association
 
@@ -110,7 +110,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_germany.csv)
 
-![joining-a-rse-rsd-association_germany](/international-survey-analysis/fig/joining-a-rse-rsd-association_germany.png)
+![joining-a-rse-rsd-association_germany](/international-survey-analysis/fig/joining-a-rse-rsd-association_germany.svg)
 
 ### What is important for such an organisation
 
@@ -124,7 +124,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_germany.csv)
 
-![what-is-important-for-such-an-organisation_germany](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_germany.png)
+![what-is-important-for-such-an-organisation_germany](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_germany.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -135,15 +135,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_germany.csv)
 
-![attending-a-national-conference-of-rse-rsd_germany](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_germany.png)
+![attending-a-national-conference-of-rse-rsd_germany](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_germany.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_germany](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_germany.png)
+![learning-skills-rse-rsd-wordcloud_germany](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_germany.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_germany](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_germany.png)
+![which-skills-to-improve-rse-rsd-wordcloud_germany](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_germany.svg)
 
 
 ## Netherlands
@@ -157,7 +157,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_netherlands.csv)
 
-![rse-member_netherlands](/international-survey-analysis/fig/rse-member_netherlands.png)
+![rse-member_netherlands](/international-survey-analysis/fig/rse-member_netherlands.svg)
 
 ### Joining a RSE/RSD association
 
@@ -168,7 +168,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_netherlands.csv)
 
-![joining-a-rse-rsd-association_netherlands](/international-survey-analysis/fig/joining-a-rse-rsd-association_netherlands.png)
+![joining-a-rse-rsd-association_netherlands](/international-survey-analysis/fig/joining-a-rse-rsd-association_netherlands.svg)
 
 ### What is important for such an organisation
 
@@ -182,7 +182,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_netherlands.csv)
 
-![what-is-important-for-such-an-organisation_netherlands](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_netherlands.png)
+![what-is-important-for-such-an-organisation_netherlands](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_netherlands.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -193,15 +193,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_netherlands.csv)
 
-![attending-a-national-conference-of-rse-rsd_netherlands](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_netherlands.png)
+![attending-a-national-conference-of-rse-rsd_netherlands](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_netherlands.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_netherlands](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_netherlands.png)
+![learning-skills-rse-rsd-wordcloud_netherlands](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_netherlands.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_netherlands](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_netherlands.png)
+![which-skills-to-improve-rse-rsd-wordcloud_netherlands](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_netherlands.svg)
 
 
 ## New Zealand
@@ -215,7 +215,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_new-zealand.csv)
 
-![rse-member_new-zealand](/international-survey-analysis/fig/rse-member_new-zealand.png)
+![rse-member_new-zealand](/international-survey-analysis/fig/rse-member_new-zealand.svg)
 
 ### Joining a RSE/RSD association
 
@@ -226,7 +226,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_new-zealand.csv)
 
-![joining-a-rse-rsd-association_new-zealand](/international-survey-analysis/fig/joining-a-rse-rsd-association_new-zealand.png)
+![joining-a-rse-rsd-association_new-zealand](/international-survey-analysis/fig/joining-a-rse-rsd-association_new-zealand.svg)
 
 ### What is important for such an organisation
 
@@ -240,7 +240,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_new-zealand.csv)
 
-![what-is-important-for-such-an-organisation_new-zealand](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_new-zealand.png)
+![what-is-important-for-such-an-organisation_new-zealand](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_new-zealand.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -251,15 +251,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_new-zealand.csv)
 
-![attending-a-national-conference-of-rse-rsd_new-zealand](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_new-zealand.png)
+![attending-a-national-conference-of-rse-rsd_new-zealand](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_new-zealand.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_new-zealand](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_new-zealand.png)
+![learning-skills-rse-rsd-wordcloud_new-zealand](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_new-zealand.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_new-zealand](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_new-zealand.png)
+![which-skills-to-improve-rse-rsd-wordcloud_new-zealand](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_new-zealand.svg)
 
 
 ## South Africa
@@ -273,7 +273,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_south-africa.csv)
 
-![rse-member_south-africa](/international-survey-analysis/fig/rse-member_south-africa.png)
+![rse-member_south-africa](/international-survey-analysis/fig/rse-member_south-africa.svg)
 
 ### Joining a RSE/RSD association
 
@@ -284,7 +284,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_south-africa.csv)
 
-![joining-a-rse-rsd-association_south-africa](/international-survey-analysis/fig/joining-a-rse-rsd-association_south-africa.png)
+![joining-a-rse-rsd-association_south-africa](/international-survey-analysis/fig/joining-a-rse-rsd-association_south-africa.svg)
 
 ### What is important for such an organisation
 
@@ -298,7 +298,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_south-africa.csv)
 
-![what-is-important-for-such-an-organisation_south-africa](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_south-africa.png)
+![what-is-important-for-such-an-organisation_south-africa](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_south-africa.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -309,15 +309,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_south-africa.csv)
 
-![attending-a-national-conference-of-rse-rsd_south-africa](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_south-africa.png)
+![attending-a-national-conference-of-rse-rsd_south-africa](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_south-africa.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_south-africa](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_south-africa.png)
+![learning-skills-rse-rsd-wordcloud_south-africa](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_south-africa.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_south-africa](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_south-africa.png)
+![which-skills-to-improve-rse-rsd-wordcloud_south-africa](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_south-africa.svg)
 
 
 ## United Kingdom
@@ -331,7 +331,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_united-kingdom.csv)
 
-![rse-member_united-kingdom](/international-survey-analysis/fig/rse-member_united-kingdom.png)
+![rse-member_united-kingdom](/international-survey-analysis/fig/rse-member_united-kingdom.svg)
 
 ### Joining a RSE/RSD association
 
@@ -342,7 +342,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_united-kingdom.csv)
 
-![joining-a-rse-rsd-association_united-kingdom](/international-survey-analysis/fig/joining-a-rse-rsd-association_united-kingdom.png)
+![joining-a-rse-rsd-association_united-kingdom](/international-survey-analysis/fig/joining-a-rse-rsd-association_united-kingdom.svg)
 
 ### What is important for such an organisation
 
@@ -356,7 +356,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_united-kingdom.csv)
 
-![what-is-important-for-such-an-organisation_united-kingdom](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_united-kingdom.png)
+![what-is-important-for-such-an-organisation_united-kingdom](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_united-kingdom.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -367,15 +367,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_united-kingdom.csv)
 
-![attending-a-national-conference-of-rse-rsd_united-kingdom](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_united-kingdom.png)
+![attending-a-national-conference-of-rse-rsd_united-kingdom](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_united-kingdom.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_united-kingdom](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_united-kingdom.png)
+![learning-skills-rse-rsd-wordcloud_united-kingdom](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_united-kingdom.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_united-kingdom](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_united-kingdom.png)
+![which-skills-to-improve-rse-rsd-wordcloud_united-kingdom](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_united-kingdom.svg)
 
 
 ## United States
@@ -389,7 +389,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_united-states.csv)
 
-![rse-member_united-states](/international-survey-analysis/fig/rse-member_united-states.png)
+![rse-member_united-states](/international-survey-analysis/fig/rse-member_united-states.svg)
 
 ### Joining a RSE/RSD association
 
@@ -400,7 +400,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_united-states.csv)
 
-![joining-a-rse-rsd-association_united-states](/international-survey-analysis/fig/joining-a-rse-rsd-association_united-states.png)
+![joining-a-rse-rsd-association_united-states](/international-survey-analysis/fig/joining-a-rse-rsd-association_united-states.svg)
 
 ### What is important for such an organisation
 
@@ -414,7 +414,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_united-states.csv)
 
-![what-is-important-for-such-an-organisation_united-states](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_united-states.png)
+![what-is-important-for-such-an-organisation_united-states](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_united-states.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -425,15 +425,15 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_united-states.csv)
 
-![attending-a-national-conference-of-rse-rsd_united-states](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_united-states.png)
+![attending-a-national-conference-of-rse-rsd_united-states](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_united-states.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_united-states](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_united-states.png)
+![learning-skills-rse-rsd-wordcloud_united-states](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_united-states.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_united-states](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_united-states.png)
+![which-skills-to-improve-rse-rsd-wordcloud_united-states](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_united-states.svg)
 
 
 ## World
@@ -447,7 +447,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/rse-member_world.csv)
 
-![rse-member_world](/international-survey-analysis/fig/rse-member_world.png)
+![rse-member_world](/international-survey-analysis/fig/rse-member_world.svg)
 
 ### Joining a RSE/RSD association
 
@@ -458,7 +458,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/joining-a-rse-rsd-association_world.csv)
 
-![joining-a-rse-rsd-association_world](/international-survey-analysis/fig/joining-a-rse-rsd-association_world.png)
+![joining-a-rse-rsd-association_world](/international-survey-analysis/fig/joining-a-rse-rsd-association_world.svg)
 
 ### What is important for such an organisation
 
@@ -472,7 +472,7 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/what-is-important-for-such-an-organisation_world.csv)
 
-![what-is-important-for-such-an-organisation_world](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_world.png)
+![what-is-important-for-such-an-organisation_world](/international-survey-analysis/fig/what-is-important-for-such-an-organisation_world.svg)
 
 ### Attending a national conference of RSE/RSD
 
@@ -483,13 +483,13 @@ and to acquire for their current role.
 
 [Download CSV](/international-survey-analysis/csv/attending-a-national-conference-of-rse-rsd_world.csv)
 
-![attending-a-national-conference-of-rse-rsd_world](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_world.png)
+![attending-a-national-conference-of-rse-rsd_world](/international-survey-analysis/fig/attending-a-national-conference-of-rse-rsd_world.svg)
 
 ### Learning skills for RSE/RSD
 
-![learning-skills-rse-rsd-wordcloud_world](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_world.png)
+![learning-skills-rse-rsd-wordcloud_world](/international-survey-analysis/fig/learning-skills-rse-rsd-wordcloud_world.svg)
 
 ### Which skills to improve
 
-![which-skills-to-improve-rse-rsd-wordcloud_world](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_world.png)
+![which-skills-to-improve-rse-rsd-wordcloud_world](/international-survey-analysis/fig/which-skills-to-improve-rse-rsd-wordcloud_world.svg)
 

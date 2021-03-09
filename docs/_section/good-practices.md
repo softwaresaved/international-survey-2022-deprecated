@@ -74,7 +74,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_australia.csv)
 
-![bus-factor_australia](/international-survey-analysis/fig/bus-factor_australia.png)
+![bus-factor_australia](/international-survey-analysis/fig/bus-factor_australia.svg)
 
 ### Presence of transition plan
 
@@ -85,7 +85,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_australia.csv)
 
-![presence-of-transition-plan_australia](/international-survey-analysis/fig/presence-of-transition-plan_australia.png)
+![presence-of-transition-plan_australia](/international-survey-analysis/fig/presence-of-transition-plan_australia.svg)
 
 ### Use of version control
 
@@ -99,7 +99,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_australia.csv)
 
-![use-of-version-control_australia](/international-survey-analysis/fig/use-of-version-control_australia.png)
+![use-of-version-control_australia](/international-survey-analysis/fig/use-of-version-control_australia.svg)
 
 ### Testing strategies
 
@@ -112,11 +112,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_australia.csv)
 
-![testing-strategies_australia](/international-survey-analysis/fig/testing-strategies_australia.png)
+![testing-strategies_australia](/international-survey-analysis/fig/testing-strategies_australia.svg)
 
 ### Repository
 
-![repository-wordcloud_australia](/international-survey-analysis/fig/repository-wordcloud_australia.png)
+![repository-wordcloud_australia](/international-survey-analysis/fig/repository-wordcloud_australia.svg)
 
 
 
@@ -141,7 +141,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_germany.csv)
 
-![bus-factor_germany](/international-survey-analysis/fig/bus-factor_germany.png)
+![bus-factor_germany](/international-survey-analysis/fig/bus-factor_germany.svg)
 
 ### Presence of transition plan
 
@@ -152,7 +152,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_germany.csv)
 
-![presence-of-transition-plan_germany](/international-survey-analysis/fig/presence-of-transition-plan_germany.png)
+![presence-of-transition-plan_germany](/international-survey-analysis/fig/presence-of-transition-plan_germany.svg)
 
 ### Use of version control
 
@@ -166,7 +166,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_germany.csv)
 
-![use-of-version-control_germany](/international-survey-analysis/fig/use-of-version-control_germany.png)
+![use-of-version-control_germany](/international-survey-analysis/fig/use-of-version-control_germany.svg)
 
 ### Testing strategies
 
@@ -179,11 +179,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_germany.csv)
 
-![testing-strategies_germany](/international-survey-analysis/fig/testing-strategies_germany.png)
+![testing-strategies_germany](/international-survey-analysis/fig/testing-strategies_germany.svg)
 
 ### Repository
 
-![repository-wordcloud_germany](/international-survey-analysis/fig/repository-wordcloud_germany.png)
+![repository-wordcloud_germany](/international-survey-analysis/fig/repository-wordcloud_germany.svg)
 
 
 
@@ -201,7 +201,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_netherlands.csv)
 
-![bus-factor_netherlands](/international-survey-analysis/fig/bus-factor_netherlands.png)
+![bus-factor_netherlands](/international-survey-analysis/fig/bus-factor_netherlands.svg)
 
 ### Presence of transition plan
 
@@ -212,7 +212,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_netherlands.csv)
 
-![presence-of-transition-plan_netherlands](/international-survey-analysis/fig/presence-of-transition-plan_netherlands.png)
+![presence-of-transition-plan_netherlands](/international-survey-analysis/fig/presence-of-transition-plan_netherlands.svg)
 
 ### Use of version control
 
@@ -226,7 +226,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_netherlands.csv)
 
-![use-of-version-control_netherlands](/international-survey-analysis/fig/use-of-version-control_netherlands.png)
+![use-of-version-control_netherlands](/international-survey-analysis/fig/use-of-version-control_netherlands.svg)
 
 ### Testing strategies
 
@@ -239,11 +239,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_netherlands.csv)
 
-![testing-strategies_netherlands](/international-survey-analysis/fig/testing-strategies_netherlands.png)
+![testing-strategies_netherlands](/international-survey-analysis/fig/testing-strategies_netherlands.svg)
 
 ### Repository
 
-![repository-wordcloud_netherlands](/international-survey-analysis/fig/repository-wordcloud_netherlands.png)
+![repository-wordcloud_netherlands](/international-survey-analysis/fig/repository-wordcloud_netherlands.svg)
 
 
 
@@ -261,7 +261,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_new-zealand.csv)
 
-![bus-factor_new-zealand](/international-survey-analysis/fig/bus-factor_new-zealand.png)
+![bus-factor_new-zealand](/international-survey-analysis/fig/bus-factor_new-zealand.svg)
 
 ### Presence of transition plan
 
@@ -272,7 +272,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_new-zealand.csv)
 
-![presence-of-transition-plan_new-zealand](/international-survey-analysis/fig/presence-of-transition-plan_new-zealand.png)
+![presence-of-transition-plan_new-zealand](/international-survey-analysis/fig/presence-of-transition-plan_new-zealand.svg)
 
 ### Use of version control
 
@@ -286,7 +286,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_new-zealand.csv)
 
-![use-of-version-control_new-zealand](/international-survey-analysis/fig/use-of-version-control_new-zealand.png)
+![use-of-version-control_new-zealand](/international-survey-analysis/fig/use-of-version-control_new-zealand.svg)
 
 ### Testing strategies
 
@@ -299,11 +299,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_new-zealand.csv)
 
-![testing-strategies_new-zealand](/international-survey-analysis/fig/testing-strategies_new-zealand.png)
+![testing-strategies_new-zealand](/international-survey-analysis/fig/testing-strategies_new-zealand.svg)
 
 ### Repository
 
-![repository-wordcloud_new-zealand](/international-survey-analysis/fig/repository-wordcloud_new-zealand.png)
+![repository-wordcloud_new-zealand](/international-survey-analysis/fig/repository-wordcloud_new-zealand.svg)
 
 
 
@@ -320,7 +320,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_south-africa.csv)
 
-![bus-factor_south-africa](/international-survey-analysis/fig/bus-factor_south-africa.png)
+![bus-factor_south-africa](/international-survey-analysis/fig/bus-factor_south-africa.svg)
 
 ### Presence of transition plan
 
@@ -331,7 +331,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_south-africa.csv)
 
-![presence-of-transition-plan_south-africa](/international-survey-analysis/fig/presence-of-transition-plan_south-africa.png)
+![presence-of-transition-plan_south-africa](/international-survey-analysis/fig/presence-of-transition-plan_south-africa.svg)
 
 ### Use of version control
 
@@ -345,7 +345,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_south-africa.csv)
 
-![use-of-version-control_south-africa](/international-survey-analysis/fig/use-of-version-control_south-africa.png)
+![use-of-version-control_south-africa](/international-survey-analysis/fig/use-of-version-control_south-africa.svg)
 
 ### Testing strategies
 
@@ -358,11 +358,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_south-africa.csv)
 
-![testing-strategies_south-africa](/international-survey-analysis/fig/testing-strategies_south-africa.png)
+![testing-strategies_south-africa](/international-survey-analysis/fig/testing-strategies_south-africa.svg)
 
 ### Repository
 
-![repository-wordcloud_south-africa](/international-survey-analysis/fig/repository-wordcloud_south-africa.png)
+![repository-wordcloud_south-africa](/international-survey-analysis/fig/repository-wordcloud_south-africa.svg)
 
 
 
@@ -388,7 +388,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_united-kingdom.csv)
 
-![bus-factor_united-kingdom](/international-survey-analysis/fig/bus-factor_united-kingdom.png)
+![bus-factor_united-kingdom](/international-survey-analysis/fig/bus-factor_united-kingdom.svg)
 
 ### Presence of transition plan
 
@@ -399,7 +399,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_united-kingdom.csv)
 
-![presence-of-transition-plan_united-kingdom](/international-survey-analysis/fig/presence-of-transition-plan_united-kingdom.png)
+![presence-of-transition-plan_united-kingdom](/international-survey-analysis/fig/presence-of-transition-plan_united-kingdom.svg)
 
 ### Use of version control
 
@@ -413,7 +413,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_united-kingdom.csv)
 
-![use-of-version-control_united-kingdom](/international-survey-analysis/fig/use-of-version-control_united-kingdom.png)
+![use-of-version-control_united-kingdom](/international-survey-analysis/fig/use-of-version-control_united-kingdom.svg)
 
 ### Testing strategies
 
@@ -426,11 +426,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_united-kingdom.csv)
 
-![testing-strategies_united-kingdom](/international-survey-analysis/fig/testing-strategies_united-kingdom.png)
+![testing-strategies_united-kingdom](/international-survey-analysis/fig/testing-strategies_united-kingdom.svg)
 
 ### Repository
 
-![repository-wordcloud_united-kingdom](/international-survey-analysis/fig/repository-wordcloud_united-kingdom.png)
+![repository-wordcloud_united-kingdom](/international-survey-analysis/fig/repository-wordcloud_united-kingdom.svg)
 
 
 
@@ -451,7 +451,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_united-states.csv)
 
-![bus-factor_united-states](/international-survey-analysis/fig/bus-factor_united-states.png)
+![bus-factor_united-states](/international-survey-analysis/fig/bus-factor_united-states.svg)
 
 ### Presence of transition plan
 
@@ -462,7 +462,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_united-states.csv)
 
-![presence-of-transition-plan_united-states](/international-survey-analysis/fig/presence-of-transition-plan_united-states.png)
+![presence-of-transition-plan_united-states](/international-survey-analysis/fig/presence-of-transition-plan_united-states.svg)
 
 ### Use of version control
 
@@ -476,7 +476,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_united-states.csv)
 
-![use-of-version-control_united-states](/international-survey-analysis/fig/use-of-version-control_united-states.png)
+![use-of-version-control_united-states](/international-survey-analysis/fig/use-of-version-control_united-states.svg)
 
 ### Testing strategies
 
@@ -489,11 +489,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_united-states.csv)
 
-![testing-strategies_united-states](/international-survey-analysis/fig/testing-strategies_united-states.png)
+![testing-strategies_united-states](/international-survey-analysis/fig/testing-strategies_united-states.svg)
 
 ### Repository
 
-![repository-wordcloud_united-states](/international-survey-analysis/fig/repository-wordcloud_united-states.png)
+![repository-wordcloud_united-states](/international-survey-analysis/fig/repository-wordcloud_united-states.svg)
 
 
 
@@ -512,7 +512,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/bus-factor_world.csv)
 
-![bus-factor_world](/international-survey-analysis/fig/bus-factor_world.png)
+![bus-factor_world](/international-survey-analysis/fig/bus-factor_world.svg)
 
 ### Presence of transition plan
 
@@ -523,7 +523,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/presence-of-transition-plan_world.csv)
 
-![presence-of-transition-plan_world](/international-survey-analysis/fig/presence-of-transition-plan_world.png)
+![presence-of-transition-plan_world](/international-survey-analysis/fig/presence-of-transition-plan_world.svg)
 
 ### Use of version control
 
@@ -537,7 +537,7 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/use-of-version-control_world.csv)
 
-![use-of-version-control_world](/international-survey-analysis/fig/use-of-version-control_world.png)
+![use-of-version-control_world](/international-survey-analysis/fig/use-of-version-control_world.svg)
 
 ### Testing strategies
 
@@ -550,11 +550,11 @@ using for their most important project.
 
 [Download CSV](/international-survey-analysis/csv/testing-strategies_world.csv)
 
-![testing-strategies_world](/international-survey-analysis/fig/testing-strategies_world.png)
+![testing-strategies_world](/international-survey-analysis/fig/testing-strategies_world.svg)
 
 ### Repository
 
-![repository-wordcloud_world](/international-survey-analysis/fig/repository-wordcloud_world.png)
+![repository-wordcloud_world](/international-survey-analysis/fig/repository-wordcloud_world.svg)
 
 
 

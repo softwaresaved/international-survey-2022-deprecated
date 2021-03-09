@@ -41,7 +41,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_australia.csv)
 
-![acknowledgment-in-paper_australia](/international-survey-analysis/fig/acknowledgment-in-paper_australia.png)
+![acknowledgment-in-paper_australia](/international-survey-analysis/fig/acknowledgment-in-paper_australia.svg)
 
 ### Participation in conferences
 
@@ -52,11 +52,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_australia.csv)
 
-![did-you-participate-in-conference_australia](/international-survey-analysis/fig/did-you-participate-in-conference_australia.png)
+![did-you-participate-in-conference_australia](/international-survey-analysis/fig/did-you-participate-in-conference_australia.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_australia](/international-survey-analysis/fig/conference-name-wordcloud_australia.png)
+![conference-name-wordcloud_australia](/international-survey-analysis/fig/conference-name-wordcloud_australia.svg)
 
 
 ## Germany
@@ -73,7 +73,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_germany.csv)
 
-![acknowledgment-in-paper_germany](/international-survey-analysis/fig/acknowledgment-in-paper_germany.png)
+![acknowledgment-in-paper_germany](/international-survey-analysis/fig/acknowledgment-in-paper_germany.svg)
 
 ### Participation in conferences
 
@@ -84,11 +84,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_germany.csv)
 
-![did-you-participate-in-conference_germany](/international-survey-analysis/fig/did-you-participate-in-conference_germany.png)
+![did-you-participate-in-conference_germany](/international-survey-analysis/fig/did-you-participate-in-conference_germany.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_germany](/international-survey-analysis/fig/conference-name-wordcloud_germany.png)
+![conference-name-wordcloud_germany](/international-survey-analysis/fig/conference-name-wordcloud_germany.svg)
 
 
 ## Netherlands
@@ -105,7 +105,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_netherlands.csv)
 
-![acknowledgment-in-paper_netherlands](/international-survey-analysis/fig/acknowledgment-in-paper_netherlands.png)
+![acknowledgment-in-paper_netherlands](/international-survey-analysis/fig/acknowledgment-in-paper_netherlands.svg)
 
 ### Participation in conferences
 
@@ -116,11 +116,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_netherlands.csv)
 
-![did-you-participate-in-conference_netherlands](/international-survey-analysis/fig/did-you-participate-in-conference_netherlands.png)
+![did-you-participate-in-conference_netherlands](/international-survey-analysis/fig/did-you-participate-in-conference_netherlands.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_netherlands](/international-survey-analysis/fig/conference-name-wordcloud_netherlands.png)
+![conference-name-wordcloud_netherlands](/international-survey-analysis/fig/conference-name-wordcloud_netherlands.svg)
 
 
 ## New Zealand
@@ -137,7 +137,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_new-zealand.csv)
 
-![acknowledgment-in-paper_new-zealand](/international-survey-analysis/fig/acknowledgment-in-paper_new-zealand.png)
+![acknowledgment-in-paper_new-zealand](/international-survey-analysis/fig/acknowledgment-in-paper_new-zealand.svg)
 
 ### Participation in conferences
 
@@ -148,11 +148,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_new-zealand.csv)
 
-![did-you-participate-in-conference_new-zealand](/international-survey-analysis/fig/did-you-participate-in-conference_new-zealand.png)
+![did-you-participate-in-conference_new-zealand](/international-survey-analysis/fig/did-you-participate-in-conference_new-zealand.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_new-zealand](/international-survey-analysis/fig/conference-name-wordcloud_new-zealand.png)
+![conference-name-wordcloud_new-zealand](/international-survey-analysis/fig/conference-name-wordcloud_new-zealand.svg)
 
 
 ## South Africa
@@ -169,7 +169,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_south-africa.csv)
 
-![acknowledgment-in-paper_south-africa](/international-survey-analysis/fig/acknowledgment-in-paper_south-africa.png)
+![acknowledgment-in-paper_south-africa](/international-survey-analysis/fig/acknowledgment-in-paper_south-africa.svg)
 
 ### Participation in conferences
 
@@ -180,11 +180,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_south-africa.csv)
 
-![did-you-participate-in-conference_south-africa](/international-survey-analysis/fig/did-you-participate-in-conference_south-africa.png)
+![did-you-participate-in-conference_south-africa](/international-survey-analysis/fig/did-you-participate-in-conference_south-africa.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_south-africa](/international-survey-analysis/fig/conference-name-wordcloud_south-africa.png)
+![conference-name-wordcloud_south-africa](/international-survey-analysis/fig/conference-name-wordcloud_south-africa.svg)
 
 
 ## United Kingdom
@@ -201,7 +201,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_united-kingdom.csv)
 
-![acknowledgment-in-paper_united-kingdom](/international-survey-analysis/fig/acknowledgment-in-paper_united-kingdom.png)
+![acknowledgment-in-paper_united-kingdom](/international-survey-analysis/fig/acknowledgment-in-paper_united-kingdom.svg)
 
 ### Participation in conferences
 
@@ -212,11 +212,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_united-kingdom.csv)
 
-![did-you-participate-in-conference_united-kingdom](/international-survey-analysis/fig/did-you-participate-in-conference_united-kingdom.png)
+![did-you-participate-in-conference_united-kingdom](/international-survey-analysis/fig/did-you-participate-in-conference_united-kingdom.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_united-kingdom](/international-survey-analysis/fig/conference-name-wordcloud_united-kingdom.png)
+![conference-name-wordcloud_united-kingdom](/international-survey-analysis/fig/conference-name-wordcloud_united-kingdom.svg)
 
 
 ## United States
@@ -233,7 +233,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_united-states.csv)
 
-![acknowledgment-in-paper_united-states](/international-survey-analysis/fig/acknowledgment-in-paper_united-states.png)
+![acknowledgment-in-paper_united-states](/international-survey-analysis/fig/acknowledgment-in-paper_united-states.svg)
 
 ### Participation in conferences
 
@@ -244,11 +244,11 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_united-states.csv)
 
-![did-you-participate-in-conference_united-states](/international-survey-analysis/fig/did-you-participate-in-conference_united-states.png)
+![did-you-participate-in-conference_united-states](/international-survey-analysis/fig/did-you-participate-in-conference_united-states.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_united-states](/international-survey-analysis/fig/conference-name-wordcloud_united-states.png)
+![conference-name-wordcloud_united-states](/international-survey-analysis/fig/conference-name-wordcloud_united-states.svg)
 
 
 ## World
@@ -265,7 +265,7 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/acknowledgment-in-paper_world.csv)
 
-![acknowledgment-in-paper_world](/international-survey-analysis/fig/acknowledgment-in-paper_world.png)
+![acknowledgment-in-paper_world](/international-survey-analysis/fig/acknowledgment-in-paper_world.svg)
 
 ### Participation in conferences
 
@@ -276,9 +276,9 @@ Questions in the section:
 
 [Download CSV](/international-survey-analysis/csv/did-you-participate-in-conference_world.csv)
 
-![did-you-participate-in-conference_world](/international-survey-analysis/fig/did-you-participate-in-conference_world.png)
+![did-you-participate-in-conference_world](/international-survey-analysis/fig/did-you-participate-in-conference_world.svg)
 
 ### Conference name
 
-![conference-name-wordcloud_world](/international-survey-analysis/fig/conference-name-wordcloud_world.png)
+![conference-name-wordcloud_world](/international-survey-analysis/fig/conference-name-wordcloud_world.svg)
 

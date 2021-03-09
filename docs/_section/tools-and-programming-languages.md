@@ -64,7 +64,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_australia.csv)
 
-![programming-languages_australia](/international-survey-analysis/fig/programming-languages_australia.png)
+![programming-languages_australia](/international-survey-analysis/fig/programming-languages_australia.svg)
 
 ### Operating systems
 
@@ -77,7 +77,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_australia.csv)
 
-![operating-systems_australia](/international-survey-analysis/fig/operating-systems_australia.png)
+![operating-systems_australia](/international-survey-analysis/fig/operating-systems_australia.svg)
 
 
 ## Germany
@@ -125,7 +125,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_germany.csv)
 
-![programming-languages_germany](/international-survey-analysis/fig/programming-languages_germany.png)
+![programming-languages_germany](/international-survey-analysis/fig/programming-languages_germany.svg)
 
 ### Operating systems
 
@@ -138,7 +138,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_germany.csv)
 
-![operating-systems_germany](/international-survey-analysis/fig/operating-systems_germany.png)
+![operating-systems_germany](/international-survey-analysis/fig/operating-systems_germany.svg)
 
 
 ## Netherlands
@@ -186,7 +186,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_netherlands.csv)
 
-![programming-languages_netherlands](/international-survey-analysis/fig/programming-languages_netherlands.png)
+![programming-languages_netherlands](/international-survey-analysis/fig/programming-languages_netherlands.svg)
 
 ### Operating systems
 
@@ -199,7 +199,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_netherlands.csv)
 
-![operating-systems_netherlands](/international-survey-analysis/fig/operating-systems_netherlands.png)
+![operating-systems_netherlands](/international-survey-analysis/fig/operating-systems_netherlands.svg)
 
 
 ## New Zealand
@@ -247,7 +247,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_new-zealand.csv)
 
-![programming-languages_new-zealand](/international-survey-analysis/fig/programming-languages_new-zealand.png)
+![programming-languages_new-zealand](/international-survey-analysis/fig/programming-languages_new-zealand.svg)
 
 ### Operating systems
 
@@ -259,7 +259,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_new-zealand.csv)
 
-![operating-systems_new-zealand](/international-survey-analysis/fig/operating-systems_new-zealand.png)
+![operating-systems_new-zealand](/international-survey-analysis/fig/operating-systems_new-zealand.svg)
 
 
 ## South Africa
@@ -307,7 +307,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_south-africa.csv)
 
-![programming-languages_south-africa](/international-survey-analysis/fig/programming-languages_south-africa.png)
+![programming-languages_south-africa](/international-survey-analysis/fig/programming-languages_south-africa.svg)
 
 ### Operating systems
 
@@ -318,7 +318,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_south-africa.csv)
 
-![operating-systems_south-africa](/international-survey-analysis/fig/operating-systems_south-africa.png)
+![operating-systems_south-africa](/international-survey-analysis/fig/operating-systems_south-africa.svg)
 
 
 ## United Kingdom
@@ -366,7 +366,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_united-kingdom.csv)
 
-![programming-languages_united-kingdom](/international-survey-analysis/fig/programming-languages_united-kingdom.png)
+![programming-languages_united-kingdom](/international-survey-analysis/fig/programming-languages_united-kingdom.svg)
 
 ### Operating systems
 
@@ -375,13 +375,13 @@ Questions in this section:
 | GNU/Linux                              |     126 |    61.4634   |            61.2903   |                        0.173092 |
 | OS X                                   |      39 |    19.0244   |            23.5023   |                       -4.47791  |
 | Windows                                |      37 |    18.0488   |            14.2857   |                        3.76307  |
-| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 | iOS                                    |       1 |     0.487805 |           nan        |                      nan        |
 | Other                                  |       1 |     0.487805 |             0.921659 |                       -0.433854 |
+| Android                                |       1 |     0.487805 |           nan        |                      nan        |
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_united-kingdom.csv)
 
-![operating-systems_united-kingdom](/international-survey-analysis/fig/operating-systems_united-kingdom.png)
+![operating-systems_united-kingdom](/international-survey-analysis/fig/operating-systems_united-kingdom.svg)
 
 
 ## United States
@@ -429,7 +429,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_united-states.csv)
 
-![programming-languages_united-states](/international-survey-analysis/fig/programming-languages_united-states.png)
+![programming-languages_united-states](/international-survey-analysis/fig/programming-languages_united-states.svg)
 
 ### Operating systems
 
@@ -441,7 +441,7 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_united-states.csv)
 
-![operating-systems_united-states](/international-survey-analysis/fig/operating-systems_united-states.png)
+![operating-systems_united-states](/international-survey-analysis/fig/operating-systems_united-states.svg)
 
 
 ## World
@@ -489,17 +489,17 @@ Questions in this section:
 
 [Download CSV](/international-survey-analysis/csv/programming-languages_world.csv)
 
-![programming-languages_world](/international-survey-analysis/fig/programming-languages_world.png)
+![programming-languages_world](/international-survey-analysis/fig/programming-languages_world.svg)
 
 ### Operating systems
 
 | Operating systems for World   |   Count |   Percentage |
 |:------------------------------|--------:|-------------:|
 | GNU/Linux                     |      29 |      74.359  |
-| OS X                          |       5 |      12.8205 |
 | Windows                       |       5 |      12.8205 |
+| OS X                          |       5 |      12.8205 |
 
 [Download CSV](/international-survey-analysis/csv/operating-systems_world.csv)
 
-![operating-systems_world](/international-survey-analysis/fig/operating-systems_world.png)
+![operating-systems_world](/international-survey-analysis/fig/operating-systems_world.svg)
 
