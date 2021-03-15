@@ -13,8 +13,12 @@ In **2018** we have worked differently and created a survey for all countries (r
 
 This repository is only for the survey analysis. Here's how to reproduce the analysis on your own computer. The following instructions only apply for the 2018 and 2021 survey.
 
-### Installation
+Due to a quirk of how we host the survey using [Github Pages](https://pages.github.com),
+the survey analysis data has to be stored in the [docs](docs) folder of the main
+repository.
 
+To reproduce the results on your machine, first clone the repository and setup
+the Python virtual environment:
 ```bash
 git clone https://github.com/softwaresaved/international-survey-analysis
 cd international-survey-analysis
@@ -23,21 +27,62 @@ source venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-Then change to the year you wish to reproduce: `cd analysis/2018`. First, the overview and sampling file needs to be run which does some initial processing for the other sections:
+Then change to the docs folder: `cd docs`. The survey analysis configuration is
+via environment variables. Use the following to set the environment variables on macOS and Linux. If you are on Windows, use the documentation linked [here](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1).
+
+```bash
+export RSE_SURVEY_YEAR=2018  # required
+export RSE_SURVEY_YEAR_PREV=2017  # optional, only needed if previous year != current year - 1
+export RSE_SURVEY_FIGURE_TYPE=svg  # optional, set to pdf or png to generate figures in that format
+export RSE_SURVEY_FIGURE_DPI=300  # optional, set dpi for png or pdf output formats
+```
+
+First, the overview and sampling file needs to be run which does some initial processing for the other sections:
 
 ```bash
 python overview_and_sampling.py
 ```
 
-This should create a `cache/processed_data.csv` file. Once this is generated, you can run any of the sections in any order:
+This should create a `cache/processed_data.csv` file within the `docs` folder. Once this is generated, you can run any of the sections in any order:
 
 ```bash
 python <section>.py
 ```
 
-This utilises the template file found in [analysis/templates](https://github.com/softwaresaved/international-survey-analysis/tree/main/analysis/templates) corresponding to the section. The template file uses the [Mustache](https://mustache.github.io) templating languages via the [chevron](https://pypi.org/project/chevron/) module. Generated reports are stored in the [**report**](analysis/2018/report) folder, with linked [CSV](analysis/2018/csv) files and [figures](analysis/2018/fig). All data files used for the analysis are in the [data](analysis/2018/data) folder.
+You can generate all the sections (except the overview) by running:
 
-## Published results
+```bash
+sh ../make_report.sh
+```
+
+* This utilises the [templates](templates) corresponding to the section. The template file uses the [Mustache](https://mustache.github.io) templating languages via the [chevron](https://pypi.org/project/chevron/) module.
+* Two types of reports are generated: section reports and country reports. Section reports are useful for comparing countries for a particular section of the survey,
+such as demographics or job satisfaction. Country reports give an overview of a country across the different sections of the survey.
+* Section reports are generated in [docs/_section](docs/_section)
+* Country reports are generated in [docs/_country](_docs/country)
+* Each table in the report has a corresponding CSV in [docs/csv](docs/csv)
+* Each figure in the report has a corresponding SVG in [docs/fig](docs/fig)
+* The source data used for the analysis is at [docs/data]
+
+## Software survey website
+
+* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at https://softwaresaved.github.io/international-survey-analysis.
+* Stylesheets for the site are at [docs/_sass](docs/_sass)
+* Configuration of the site is at [docs/_config.yml](docs/_config.yml)
+* The hosted site can be viewed locally by using the command `bundle exec jekyll serve` in the docs folder and following the localhost URL. If this is the first time setting up Jekyll on your computer, ensure that you have Ruby and Bundle installed (`gem install bundler`).
+
+## Creating a survey for the next year
+
+- [ ] Rename the docs folder to the previous year using git. Thus to develop the survey for 2022, we would rename the docs folder to 2021: `git mv docs 2021`, followed by a commit.
+- [ ] Copy the previous year's folder to a new docs folder: `cp -R 2021 docs`.
+- [ ] The analysis for each is contained in their respective folder, except for the common functions in [include](include). Any changes to sections, or creating new graphs and tables can be done now. Keep commiting your changes to the code as usual.
+- [ ] Once you are done, set the configuration variables as above (remember to point RSE_SURVEY_YEAR and RSE_SURVEY_YEAR_PREV to the correct years!) and generate the section and country reports.
+- [ ] View the website using `bundle exec jekyll serve`. Iterate the previous two steps as needed.
+- [ ] Add the docs folder to git and commit: `git add docs && git add -f docs/csv`. All CSVs are excluded in [.gitignore](.gitignore) to prevent accidental commit of personally identifiable information, so have a look before pushing the commit to the main repository.
+- [ ] After a push to Github, the Jekyll configuration should automatically generate the survey analysis website for the new year!
+- [ ] Update copyright (`footer_content:` in [docs/_config.yml](docs/_config.yml)), author information and steps to reproduce in the [README](README.md).
+
+## Published results for previous years
 We publish the results under the form of notebooks. All surveys have an attached 'public.csv' file. Theses files have been cleaned of all sensitive data. Therefore, the jupyter notebooks show some results that are not contained in the 'public.csv'.
 
 <table>
