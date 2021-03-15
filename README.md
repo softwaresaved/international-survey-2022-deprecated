@@ -55,7 +55,14 @@ You can generate all the sections (except the overview) by running:
 sh ../make_report.sh
 ```
 
-* This utilises the [templates](templates) corresponding to the section. The template file uses the [Mustache](https://mustache.github.io) templating languages via the [chevron](https://pypi.org/project/chevron/) module.
+Country reports should be generated _after_ the section specific reports:
+
+```bash
+python ../include/country_report.py
+```
+
+* The section reports utilise the [templates](templates) corresponding to each section; the country report template is at [templates/country_report.md](templates/country_report.md).
+  The template file uses the [Mustache](https://mustache.github.io) templating language via the [chevron](https://pypi.org/project/chevron/) module.
 * Two types of reports are generated: section reports and country reports. Section reports are useful for comparing countries for a particular section of the survey,
 such as demographics or job satisfaction. Country reports give an overview of a country across the different sections of the survey.
 * Section reports are generated in [docs/_section](docs/_section)
