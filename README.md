@@ -62,7 +62,7 @@ such as demographics or job satisfaction. Country reports give an overview of a 
 * Country reports are generated in [docs/_country](_docs/country)
 * Each table in the report has a corresponding CSV in [docs/csv](docs/csv)
 * Each figure in the report has a corresponding SVG in [docs/fig](docs/fig)
-* The source data used for the analysis is at [docs/data]
+* The source data used for the analysis is at [docs/data](docs/data)
 
 ## Software survey website
 
