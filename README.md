@@ -1,4 +1,4 @@
-[![Python 3.8](https://github.com/softwaresaved/international-survey-analysis/actions/workflows/python-package.yml/badge.svg)](https://github.com/softwaresaved/international-survey-analysis/actions/workflows/python-package.yml)
+[![Python 3.8](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml/badge.svg)](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml)
 
 # RSE International Survey Analysis
 
@@ -22,8 +22,8 @@ repository.
 To reproduce the results on your machine, first clone the repository and setup
 the Python virtual environment:
 ```bash
-git clone https://github.com/softwaresaved/international-survey-analysis
-cd international-survey-analysis
+git clone https://github.com/softwaresaved/international-survey-2018
+cd international-survey-2018
 python -m venv venv  # use python3 if your default python is still Python 2
 source venv/bin/activate
 python -m pip install -r requirements.txt
@@ -75,7 +75,7 @@ such as demographics or job satisfaction. Country reports give an overview of a 
 
 ## Software survey website
 
-* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at https://softwaresaved.github.io/international-survey-analysis.
+* We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at https://softwaresaved.github.io/international-survey-2018.
 * Stylesheets for the site are at [docs/_sass](docs/_sass)
 * Configuration of the site is at [docs/_config.yml](docs/_config.yml)
 * The hosted site can be viewed locally by using the command `bundle exec jekyll serve` in the docs folder and following the localhost URL. If this is the first time setting up Jekyll on your computer, ensure that you have Ruby and Bundle installed (`gem install bundler`).
