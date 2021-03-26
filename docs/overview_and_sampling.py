@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
-sys.path.insert(0, "../include")
+sys.path.insert(0, "../lib/include")
 from report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
 

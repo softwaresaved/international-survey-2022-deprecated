@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use("Agg")  # non-interactive
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../include")
+sys.path.insert(0, "../lib/include")
 from analysis import count_diff, plot_cat_comparison, plot_ranking, count_ranking
 from report import (
     make_report,

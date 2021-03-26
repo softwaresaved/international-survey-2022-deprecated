@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../include")
+sys.path.insert(0, "../lib/include")
 from analysis import plotting_likert
 from report import (
     slugify,

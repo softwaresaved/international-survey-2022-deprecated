@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use('Agg')  # non-interactive
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../include")
+sys.path.insert(0, "../lib/include")
 from analysis import plotting_time_likert
 from report import make_report, read_cache, figure_country, COUNTRIES_WITH_WORLD
 
