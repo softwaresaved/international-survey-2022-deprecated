@@ -14,6 +14,6 @@ CACHED_DATA = Path("cache/processed_data.csv")
 def test_overview_and_sampling():
     os.environ["RSE_SURVEY_YEAR"] = "2018"
     sys.path.insert(1, str(Path(__file__).parent.parent))
-    import overview_and_sampling
-    overview_and_sampling.run()
+    import survey.overview_and_sampling
+    survey.overview_and_sampling.run()
     assert sha256sum(CACHED_DATA) == HASH
