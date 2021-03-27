@@ -2,9 +2,8 @@
 import sys
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../lib/include")
-from analysis import count_diff, plot_cat_comparison, plot_density_func, describe_diff
-from report import (
+from lib.analysis import count_diff, plot_cat_comparison, plot_density_func, describe_diff
+from lib.report import (
     make_report,
     read_cache,
     table_country,

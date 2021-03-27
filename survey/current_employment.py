@@ -2,8 +2,7 @@
 import sys
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../lib/include")
-from analysis import (
+from lib.analysis import (
     count_diff,
     plot_cat_comparison,
     plot_wordcloud,
@@ -11,7 +10,7 @@ from analysis import (
     describe_diff,
     get_sampled_df,
 )
-from report import (
+from lib.report import (
     slugify,
     make_report,
     read_cache,

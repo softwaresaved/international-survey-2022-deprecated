@@ -5,9 +5,8 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../lib/include")
-from analysis import plotting_likert
-from report import (
+from lib.analysis import plotting_likert
+from lib.report import (
     slugify,
     make_report,
     read_cache,

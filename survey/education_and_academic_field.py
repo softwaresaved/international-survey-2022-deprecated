@@ -2,9 +2,8 @@ import sys
 import numpy as np
 import matplotlib.pyplot as plt
 
-sys.path.insert(0, "../lib/include")
-from analysis import count_diff, plot_cat_comparison, plot_wordcloud
-from report import (
+from lib.analysis import count_diff, plot_cat_comparison, plot_wordcloud
+from lib.report import (
     table,
     figure,
     make_report,
