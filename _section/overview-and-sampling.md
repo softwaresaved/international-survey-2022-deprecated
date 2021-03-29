@@ -80,7 +80,7 @@ We can see the distribution of participants among the countries as follow:
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-28T00:42:39.519574</dc:date>
+    <dc:date>2021-03-29T12:49:12.801281</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -8385,6 +8385,9 @@ L 485.28 550.8
 
 {% endraw %}
 
+[SVG](international-survey-2018/fig/participation_date.svg){: .button} [PNG](international-survey-2018/fig/participation_date.png){: .button}
+
+
 ## Difference with the previous year
 
 Several countries did the survey last year, here a summary of the difference in the amount of participants.
@@ -8405,7 +8408,7 @@ Several countries did the survey last year, here a summary of the difference in 
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-28T00:42:41.014671</dc:date>
+    <dc:date>2021-03-29T12:49:15.247423</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -8763,6 +8766,9 @@ z
 </svg>
 
 {% endraw %}
+
+[SVG](international-survey-2018/fig/difference_with_previous_year.svg){: .button} [PNG](international-survey-2018/fig/difference_with_previous_year.png){: .button}
+
 
 ## Subsetting
 
