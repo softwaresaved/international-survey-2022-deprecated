@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:50:03.933877</dc:date>
+    <dc:date>2021-03-29T21:57:52.218623</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p73aa916917)" d="M 165.915625 135.312614 
+    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 135.312614 
 L 436.472173 135.312614 
 L 436.472173 113.378882 
 L 165.915625 113.378882 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p73aa916917)" d="M 165.915625 107.895449 
+    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 107.895449 
 L 221.744754 107.895449 
 L 221.744754 85.961717 
 L 165.915625 85.961717 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p73aa916917)" d="M 165.915625 80.478283 
+    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 80.478283 
 L 213.155657 80.478283 
 L 213.155657 58.544551 
 L 165.915625 58.544551 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p73aa916917)" d="M 165.915625 53.061118 
+    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 53.061118 
 L 213.155657 53.061118 
 L 213.155657 31.127386 
 L 165.915625 31.127386 
@@ -169,9 +169,9 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(30.204688 90.289833)">AQF 8 - Bachelor Honours</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(30.204687 90.289833)">AQF 8 - Bachelor Honours</text>
       <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 101.487645)">Degree / Graduate Certificate</text>
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(60.723438 112.685458)">/ Graduate Diploma</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(60.723437 112.685458)">/ Graduate Diploma</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -201,7 +201,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p73aa916917">
+  <clipPath id="pf4a92a5e0d">
    <rect height="114.60375" width="284.084375" x="165.915625" y="25.918125"/>
   </clipPath>
  </defs>

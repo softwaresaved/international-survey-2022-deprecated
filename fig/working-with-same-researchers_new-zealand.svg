@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:49:20.981486</dc:date>
+    <dc:date>2021-03-29T21:56:46.189165</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p5dc0bb7e48)" d="M 174.539063 112.403523 
+    <path clip-path="url(#p4ca4da2e73)" d="M 174.539063 112.403523 
 L 220.835018 112.403523 
 L 220.835018 88.870081 
 L 174.539063 88.870081 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p5dc0bb7e48)" d="M 174.539063 82.986721 
+    <path clip-path="url(#p4ca4da2e73)" d="M 174.539063 82.986721 
 L 390.586857 82.986721 
 L 390.586857 59.453279 
 L 174.539063 59.453279 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p5dc0bb7e48)" d="M 174.539063 53.569919 
+    <path clip-path="url(#p4ca4da2e73)" d="M 174.539063 53.569919 
 L 436.882812 53.569919 
 L 436.882812 30.036477 
 L 174.539063 30.036477 
@@ -80,11 +80,11 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="227.007812" xlink:href="#mc3a356a46d" y="116.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="227.007813" xlink:href="#mc3a356a46d" y="116.521875"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 227.007812, 131.120312)" x="227.007812" y="131.120312">10</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 227.007813, 131.120312)" x="227.007813" y="131.120312">10</text>
      </g>
     </g>
     <g id="xtick_3">
@@ -172,8 +172,8 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p5dc0bb7e48">
-   <rect height="90.60375" width="275.460937" x="174.539063" y="25.918125"/>
+  <clipPath id="p4ca4da2e73">
+   <rect height="90.60375" width="275.460938" x="174.539063" y="25.918125"/>
   </clipPath>
  </defs>
 </svg>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:50:06.354796</dc:date>
+    <dc:date>2021-03-29T21:57:53.296219</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pa5edc1fd5e)" d="M 136.209375 158.221705 
+    <path clip-path="url(#p8518fe64ee)" d="M 136.209375 158.221705 
 L 435.057589 158.221705 
 L 435.057589 137.221136 
 L 136.209375 137.221136 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pa5edc1fd5e)" d="M 136.209375 131.970994 
+    <path clip-path="url(#p8518fe64ee)" d="M 136.209375 131.970994 
 L 349.672385 131.970994 
 L 349.672385 110.970426 
 L 136.209375 110.970426 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pa5edc1fd5e)" d="M 136.209375 105.720284 
+    <path clip-path="url(#p8518fe64ee)" d="M 136.209375 105.720284 
 L 349.672385 105.720284 
 L 349.672385 84.719716 
 L 136.209375 84.719716 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pa5edc1fd5e)" d="M 136.209375 79.469574 
+    <path clip-path="url(#p8518fe64ee)" d="M 136.209375 79.469574 
 L 178.901977 79.469574 
 L 178.901977 58.469006 
 L 136.209375 58.469006 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pa5edc1fd5e)" d="M 136.209375 53.218864 
+    <path clip-path="url(#p8518fe64ee)" d="M 136.209375 53.218864 
 L 157.555676 53.218864 
 L 157.555676 32.218295 
 L 136.209375 32.218295 
@@ -187,7 +187,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 129.209375, 125.269929)" x="129.209375" y="125.269929">Master degree</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 129.209375, 125.269929)" x="129.209375" y="125.269929">Undergraduate degree</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -197,7 +197,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 129.209375, 99.019219)" x="129.209375" y="99.019219">Undergraduate degree</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 129.209375, 99.019219)" x="129.209375" y="99.019219">Master degree</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -223,12 +223,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 293.104687, 19.918125)" x="293.104687" y="19.918125">Highest level of education, New Zealand</text>
+    <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 293.104688, 19.918125)" x="293.104688" y="19.918125">Highest level of education, New Zealand</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pa5edc1fd5e">
+  <clipPath id="p8518fe64ee">
    <rect height="138.60375" width="313.790625" x="136.209375" y="25.918125"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:49:10.893080</dc:date>
+    <dc:date>2021-03-29T21:56:33.822721</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 318.585341 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 318.585341 
 L 62.374979 318.585341 
 L 62.374979 299.688346 
 L 40.065625 299.688346 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 294.964097 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 294.964097 
 L 430.479315 294.964097 
 L 430.479315 276.067101 
 L 40.065625 276.067101 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 271.342852 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 271.342852 
 L 51.220302 271.342852 
 L 51.220302 252.445857 
 L 40.065625 252.445857 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 247.721608 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 247.721608 
 L 51.220302 247.721608 
 L 51.220302 228.824613 
 L 40.065625 228.824613 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 224.100364 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 224.100364 
 L 218.540455 224.100364 
 L 218.540455 205.203369 
 L 40.065625 205.203369 
@@ -78,7 +78,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 200.47912 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 200.47912 
 L 229.695132 200.47912 
 L 229.695132 181.582124 
 L 40.065625 181.582124 
@@ -86,7 +86,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_9">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 176.857876 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 176.857876 
 L 73.529656 176.857876 
 L 73.529656 157.96088 
 L 40.065625 157.96088 
@@ -94,7 +94,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 153.236631 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 153.236631 
 L 73.529656 153.236631 
 L 73.529656 134.339636 
 L 40.065625 134.339636 
@@ -102,7 +102,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_11">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 129.615387 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 129.615387 
 L 62.374979 129.615387 
 L 62.374979 110.718392 
 L 40.065625 110.718392 
@@ -110,7 +110,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_12">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 105.994143 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 105.994143 
 L 51.220302 105.994143 
 L 51.220302 87.097148 
 L 40.065625 87.097148 
@@ -118,7 +118,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_13">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 82.372899 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 82.372899 
 L 51.220302 82.372899 
 L 51.220302 63.475903 
 L 40.065625 63.475903 
@@ -126,7 +126,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_14">
-    <path clip-path="url(#p4379965efe)" d="M 40.065625 58.751654 
+    <path clip-path="url(#p436884abab)" d="M 40.065625 58.751654 
 L 51.220302 58.751654 
 L 51.220302 39.854659 
 L 40.065625 39.854659 
@@ -363,7 +363,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p4379965efe">
+  <clipPath id="p436884abab">
    <rect height="306.60375" width="409.934375" x="40.065625" y="25.918125"/>
   </clipPath>
  </defs>

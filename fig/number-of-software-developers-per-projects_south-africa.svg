@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:49:24.253536</dc:date>
+    <dc:date>2021-03-29T21:56:50.237841</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 181.130795 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 181.130795 
 L 192.292411 181.130795 
 L 192.292411 160.741611 
 L 33.703125 160.741611 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 155.644314 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 155.644314 
 L 430.176339 155.644314 
 L 430.176339 135.255129 
 L 33.703125 135.255129 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 130.157833 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 130.157833 
 L 430.176339 130.157833 
 L 430.176339 109.768648 
 L 33.703125 109.768648 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 104.671352 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 104.671352 
 L 271.587054 104.671352 
 L 271.587054 84.282167 
 L 33.703125 84.282167 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 79.184871 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 79.184871 
 L 192.292411 79.184871 
 L 192.292411 58.795686 
 L 33.703125 58.795686 
@@ -78,7 +78,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p31cf43c05e)" d="M 33.703125 53.698389 
+    <path clip-path="url(#pef21469dce)" d="M 33.703125 53.698389 
 L 112.997768 53.698389 
 L 112.997768 33.309205 
 L 33.703125 33.309205 
@@ -225,7 +225,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p31cf43c05e">
+  <clipPath id="pef21469dce">
    <rect height="162.60375" width="416.296875" x="33.703125" y="25.918125"/>
   </clipPath>
  </defs>

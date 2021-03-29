@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:50:09.765899</dc:date>
+    <dc:date>2021-03-29T21:57:54.634924</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,34 +30,34 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 131.589063 116.521875 
+    <path d="M 131.589062 116.521875 
 L 450 116.521875 
 L 450 25.918125 
-L 131.589063 25.918125 
+L 131.589062 25.918125 
 z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p1a6a246eac)" d="M 131.589063 112.403523 
+    <path clip-path="url(#p4cd3c0d7b0)" d="M 131.589062 112.403523 
 L 434.837574 112.403523 
 L 434.837574 88.870081 
-L 131.589063 88.870081 
+L 131.589062 88.870081 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p1a6a246eac)" d="M 131.589063 82.986721 
+    <path clip-path="url(#p4cd3c0d7b0)" d="M 131.589062 82.986721 
 L 252.888467 82.986721 
 L 252.888467 59.453279 
-L 131.589063 59.453279 
+L 131.589062 59.453279 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p1a6a246eac)" d="M 131.589063 53.569919 
+    <path clip-path="url(#p4cd3c0d7b0)" d="M 131.589062 53.569919 
 L 174.910278 53.569919 
 L 174.910278 30.036477 
-L 131.589063 30.036477 
+L 131.589062 30.036477 
 z
 " style="fill:#1f77b4;"/>
    </g>
@@ -70,11 +70,11 @@ L 0 3.5
 " id="mc3a356a46d" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="131.589063" xlink:href="#mc3a356a46d" y="116.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="131.589062" xlink:href="#mc3a356a46d" y="116.521875"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 131.589063, 131.120312)" x="131.589063" y="131.120312">0</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 131.589062, 131.120312)" x="131.589062" y="131.120312">0</text>
      </g>
     </g>
     <g id="xtick_2">
@@ -147,31 +147,31 @@ L -3.5 0
 " id="m82278324de" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="131.589063" xlink:href="#m82278324de" y="100.636802"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="131.589062" xlink:href="#m82278324de" y="100.636802"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589063, 104.436021)" x="124.589063" y="104.436021">Doctorate</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589062, 104.436021)" x="124.589062" y="104.436021">Doctorate</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_9">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="131.589063" xlink:href="#m82278324de" y="71.22"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="131.589062" xlink:href="#m82278324de" y="71.22"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589063, 75.019219)" x="124.589063" y="75.019219">Master degree</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589062, 75.019219)" x="124.589062" y="75.019219">Master degree</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_10">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="131.589063" xlink:href="#m82278324de" y="41.803198"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="131.589062" xlink:href="#m82278324de" y="41.803198"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589063, 45.602417)" x="124.589063" y="45.602417">Undergraduate degree</text>
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.589062, 45.602417)" x="124.589062" y="45.602417">Undergraduate degree</text>
      </g>
     </g>
    </g>
@@ -181,8 +181,8 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p1a6a246eac">
-   <rect height="90.60375" width="318.410937" x="131.589063" y="25.918125"/>
+  <clipPath id="p4cd3c0d7b0">
+   <rect height="90.60375" width="318.410938" x="131.589062" y="25.918125"/>
   </clipPath>
  </defs>
 </svg>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T15:53:30.905758</dc:date>
+    <dc:date>2021-03-29T22:00:06.486048</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p2b84ea7ea0)" d="M 203.184375 158.221705 
+    <path clip-path="url(#pb5d68776cd)" d="M 203.184375 158.221705 
 L 310.030966 158.221705 
 L 310.030966 137.221136 
 L 203.184375 137.221136 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p2b84ea7ea0)" d="M 203.184375 131.970994 
+    <path clip-path="url(#pb5d68776cd)" d="M 203.184375 131.970994 
 L 224.553693 131.970994 
 L 224.553693 110.970426 
 L 203.184375 110.970426 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p2b84ea7ea0)" d="M 203.184375 105.720284 
+    <path clip-path="url(#pb5d68776cd)" d="M 203.184375 105.720284 
 L 256.60767 105.720284 
 L 256.60767 84.719716 
 L 203.184375 84.719716 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p2b84ea7ea0)" d="M 203.184375 79.469574 
+    <path clip-path="url(#pb5d68776cd)" d="M 203.184375 79.469574 
 L 438.246875 79.469574 
 L 438.246875 58.469006 
 L 203.184375 58.469006 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p2b84ea7ea0)" d="M 203.184375 53.218864 
+    <path clip-path="url(#pb5d68776cd)" d="M 203.184375 53.218864 
 L 224.553693 53.218864 
 L 224.553693 32.218295 
 L 203.184375 32.218295 
@@ -204,12 +204,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_12">
-    <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 326.592187, 19.918125)" x="326.592187" y="19.918125">Acknowledgment in paper, World</text>
+    <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 326.592188, 19.918125)" x="326.592188" y="19.918125">Acknowledgment in paper, World</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p2b84ea7ea0">
+  <clipPath id="pb5d68776cd">
    <rect height="138.60375" width="246.815625" x="203.184375" y="25.918125"/>
   </clipPath>
  </defs>
