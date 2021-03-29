@@ -42,7 +42,7 @@ export RSE_SURVEY_FIGURE_DPI=300  # optional, set dpi for png or pdf output form
 First, the overview and sampling file needs to be run which does some initial processing for the other sections:
 
 ```bash
-python overview_and_sampling.py
+python run.py init
 ```
 
 This should create a `cache/processed_data.csv` file within the `docs` folder. Once this is generated, you can run any of the sections in any order:
