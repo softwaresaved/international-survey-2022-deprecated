@@ -22,7 +22,7 @@ repository.
 To reproduce the results on your machine, first clone the repository and setup
 the Python virtual environment:
 ```bash
-git clone https://github.com/softwaresaved/international-survey-2018
+git clone --recurse-submodules https://github.com/softwaresaved/international-survey-2018
 cd international-survey-2018
 python -m venv venv  # use python3 if your default python is still Python 2
 source venv/bin/activate
