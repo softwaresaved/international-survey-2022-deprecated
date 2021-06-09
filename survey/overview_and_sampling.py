@@ -1,11 +1,36 @@
 #!/usr/bin/env python
 import sys
+import math
+
 import numpy as np
 import pandas as pd
+import geopandas as gpd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 from lib.report import table, figure, make_report, convert_time, write_cache, COUNTRIES
+
+
+def map_category(n):
+    """Returns map category corresponding to N participants"""
+    bounds = [
+        (200, math.inf),
+        (100, 200),
+        (50, 100),
+        (25, 50),
+        (10, 25),
+        (5, 10),
+        (0, 5),
+        (-1, 0)
+    ]
+    for lower, upper in bounds:
+        if n > lower:
+            if upper == math.inf:
+                return f"{lower}+"
+            elif upper == lower + 1:
+                return str(upper)
+            else:
+                return f"{lower + 1} - {upper}"
 
 
 @make_report(__file__)
@@ -74,6 +99,23 @@ def run(survey_year, data="data/public_merged.csv"):
     )
     report.update(table("participant", df_countries, index=False))
     df_countries.columns = ["name", "count"]
+
+    # Map of participants
+    df_map = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+    # Merge datasets together and replace nan with 0
+    df_map = df_map.merge(df_countries, on='name', how='outer')
+    df_map.fillna(0, inplace=True)
+    list_ordering = ['0', '1 - 5', '6 - 10', '11 - 25', '26 - 50', '51 - 100', '101 - 200', '200+']
+    df_map['count_cat'] = df_map['count'].apply(map_category)
+    df_map['count_cat'] = pd.Categorical(df_map['count_cat'], categories=list_ordering)
+    df_map = df_map.sort_values(['count'])
+
+    fig, ax = plt.subplots(1)
+    ax = df_map.plot(ax=ax, column='count', cmap='Reds', linewidth=0.8, edgecolor='0.8',
+                     legend=False, categorical=True)
+
+    ax.axis('off')
+    report.update(figure("participant", plt))
 
     df["Date"] = df["startdate. Date started"].apply(lambda x: convert_time(x))
     df_submission_per_country = df[["Country", "Date"]]  # .dropna()
