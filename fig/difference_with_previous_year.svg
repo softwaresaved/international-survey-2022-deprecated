@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T22:41:43.294906</dc:date>
+    <dc:date>2021-06-09T14:59:29.206846</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.4.0, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -170,7 +170,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 125.766864, 316.998437)" x="125.766864" y="316.998437">0</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 125.766864, 316.557812)" x="125.766864" y="316.557812">0</text>
      </g>
     </g>
     <g id="xtick_2">
@@ -180,7 +180,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_2">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.951747, 316.998437)" x="166.951747" y="316.998437">50</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 166.951747, 316.557812)" x="166.951747" y="316.557812">50</text>
      </g>
     </g>
     <g id="xtick_3">
@@ -190,7 +190,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_3">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.136629, 316.998437)" x="208.136629" y="316.998437">100</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.136629, 316.557812)" x="208.136629" y="316.557812">100</text>
      </g>
     </g>
     <g id="xtick_4">
@@ -200,7 +200,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_4">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 249.321512, 316.998437)" x="249.321512" y="316.998437">150</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 249.321512, 316.557812)" x="249.321512" y="316.557812">150</text>
      </g>
     </g>
     <g id="xtick_5">
@@ -210,7 +210,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_5">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 290.506394, 316.998437)" x="290.506394" y="316.998437">200</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 290.506394, 316.557812)" x="290.506394" y="316.557812">200</text>
      </g>
     </g>
     <g id="xtick_6">
@@ -220,7 +220,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 331.691277, 316.998437)" x="331.691277" y="316.998437">250</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 331.691277, 316.557812)" x="331.691277" y="316.557812">250</text>
      </g>
     </g>
     <g id="xtick_7">
@@ -230,7 +230,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 372.876159, 316.998437)" x="372.876159" y="316.998437">300</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 372.876159, 316.557812)" x="372.876159" y="316.557812">300</text>
      </g>
     </g>
     <g id="xtick_8">
@@ -240,7 +240,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 414.061042, 316.998437)" x="414.061042" y="316.998437">350</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 414.061042, 316.557812)" x="414.061042" y="316.557812">350</text>
      </g>
     </g>
    </g>
@@ -257,7 +257,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 280.106419)" x="85.16" y="280.106419">United States</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 279.886106)" x="85.16" y="279.886106">United States</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -267,7 +267,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 227.920819)" x="85.16" y="227.920819">Germany</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 227.761444)" x="85.16" y="227.761444">Germany</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -277,7 +277,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 175.735219)" x="85.16" y="175.735219">Netherlands</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 175.514906)" x="85.16" y="175.514906">Netherlands</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -287,7 +287,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 123.549619)" x="85.16" y="123.549619">South Africa</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 123.329306)" x="85.16" y="123.329306">South Africa</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -297,7 +297,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 71.364019)" x="85.16" y="71.364019">United Kingdom</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 85.16, 71.143706)" x="85.16" y="71.143706">United Kingdom</text>
      </g>
     </g>
    </g>
@@ -308,50 +308,50 @@ L 414.72 302.4
    </g>
    <g id="legend_1">
     <g id="patch_19">
-     <path d="M 75.304844 344.36704 
-L 431.575156 344.36704 
-Q 433.575156 344.36704 433.575156 342.36704 
-L 433.575156 328.688915 
-Q 433.575156 326.688915 431.575156 326.688915 
-L 75.304844 326.688915 
-Q 73.304844 326.688915 73.304844 328.688915 
-L 73.304844 342.36704 
-Q 73.304844 344.36704 75.304844 344.36704 
+     <path d="M 89.453281 344.36704 
+L 417.426719 344.36704 
+Q 419.426719 344.36704 419.426719 342.36704 
+L 419.426719 329.221727 
+Q 419.426719 327.221727 417.426719 327.221727 
+L 89.453281 327.221727 
+Q 87.453281 327.221727 87.453281 329.221727 
+L 87.453281 342.36704 
+Q 87.453281 344.36704 89.453281 344.36704 
 z
 " style="fill:#ffffff;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;"/>
     </g>
     <g id="patch_20">
-     <path d="M 77.304844 338.287352 
-L 97.304844 338.287352 
-L 97.304844 331.287352 
-L 77.304844 331.287352 
+     <path d="M 91.453281 338.37954 
+L 111.453281 338.37954 
+L 111.453281 331.37954 
+L 91.453281 331.37954 
 z
 " style="fill:#1f77b4;"/>
     </g>
     <g id="text_14">
-     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 105.304844, 338.287352)" x="105.304844" y="338.287352">2017</text>
+     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 119.453281, 338.37954)" x="119.453281" y="338.37954">2017</text>
     </g>
     <g id="patch_21">
-     <path d="M 150.754844 338.287352 
-L 170.754844 338.287352 
-L 170.754844 331.287352 
-L 150.754844 331.287352 
+     <path d="M 161.697031 338.37954 
+L 181.697031 338.37954 
+L 181.697031 331.37954 
+L 161.697031 331.37954 
 z
 " style="fill:#ff7f0e;"/>
     </g>
     <g id="text_15">
-     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 178.754844, 338.287352)" x="178.754844" y="338.287352">2018</text>
+     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 189.697031, 338.37954)" x="189.697031" y="338.37954">2018</text>
     </g>
     <g id="patch_22">
-     <path d="M 224.204844 338.287352 
-L 244.204844 338.287352 
-L 244.204844 331.287352 
-L 224.204844 331.287352 
+     <path d="M 231.940781 338.37954 
+L 251.940781 338.37954 
+L 251.940781 331.37954 
+L 231.940781 331.37954 
 z
 " style="fill:#2ca02c;"/>
     </g>
     <g id="text_16">
-     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 252.204844, 338.287352)" x="252.204844" y="338.287352">Difference between 2017 and 2018</text>
+     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 259.940781, 338.37954)" x="259.940781" y="338.37954">Difference between 2017 and 2018</text>
     </g>
    </g>
   </g>

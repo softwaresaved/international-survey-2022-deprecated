@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-03-29T21:57:52.218623</dc:date>
+    <dc:date>2021-06-09T15:02:10.544769</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.4.0, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -30,42 +30,42 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 165.915625 140.521875 
-L 450 140.521875 
-L 450 25.918125 
-L 165.915625 25.918125 
+    <path d="M 148.410938 141.054687 
+L 450 141.054687 
+L 450 25.535625 
+L 148.410938 25.535625 
 z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 135.312614 
-L 436.472173 135.312614 
-L 436.472173 113.378882 
-L 165.915625 113.378882 
+    <path clip-path="url(#pf46b58c8b9)" d="M 148.410938 135.803821 
+L 435.638616 135.803821 
+L 435.638616 113.69491 
+L 148.410938 113.69491 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 107.895449 
-L 221.744754 107.895449 
-L 221.744754 85.961717 
-L 165.915625 85.961717 
+    <path clip-path="url(#pf46b58c8b9)" d="M 148.410938 108.167682 
+L 207.680141 108.167682 
+L 207.680141 86.05877 
+L 148.410938 86.05877 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 80.478283 
-L 213.155657 80.478283 
-L 213.155657 58.544551 
-L 165.915625 58.544551 
+    <path clip-path="url(#pf46b58c8b9)" d="M 148.410938 80.531542 
+L 198.561802 80.531542 
+L 198.561802 58.422631 
+L 148.410938 58.422631 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pf4a92a5e0d)" d="M 165.915625 53.061118 
-L 213.155657 53.061118 
-L 213.155657 31.127386 
-L 165.915625 31.127386 
+    <path clip-path="url(#pf46b58c8b9)" d="M 148.410938 52.895403 
+L 198.561802 52.895403 
+L 198.561802 30.786491 
+L 148.410938 30.786491 
 z
 " style="fill:#1f77b4;"/>
    </g>
@@ -78,71 +78,71 @@ L 0 3.5
 " id="mc3a356a46d" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="165.915625" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="148.410938" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 165.915625, 155.120312)" x="165.915625" y="155.120312">0</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 148.410938, 155.2125)" x="148.410938" y="155.2125">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="208.002199" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="193.090799" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.002199, 155.120312)" x="208.002199" y="155.120312">10</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 193.090799, 155.2125)" x="193.090799" y="155.2125">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="250.088773" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="237.77066" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 250.088773, 155.120312)" x="250.088773" y="155.120312">20</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 237.77066, 155.2125)" x="237.77066" y="155.2125">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="292.175347" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="282.450521" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 292.175347, 155.120312)" x="292.175347" y="155.120312">30</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 282.450521, 155.2125)" x="282.450521" y="155.2125">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="334.261921" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="327.130382" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 334.261921, 155.120312)" x="334.261921" y="155.120312">40</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 327.130382, 155.2125)" x="327.130382" y="155.2125">40</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="376.348495" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="371.810243" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 376.348495, 155.120312)" x="376.348495" y="155.120312">50</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 371.810243, 155.2125)" x="371.810243" y="155.2125">50</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="418.435069" xlink:href="#mc3a356a46d" y="140.521875"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="416.490104" xlink:href="#mc3a356a46d" y="141.054687"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 418.435069, 155.120312)" x="418.435069" y="155.120312">60</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 416.490104, 155.2125)" x="416.490104" y="155.2125">60</text>
      </g>
     </g>
    </g>
@@ -155,54 +155,54 @@ L -3.5 0
 " id="m82278324de" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="165.915625" xlink:href="#m82278324de" y="124.345748"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="148.410938" xlink:href="#m82278324de" y="124.749365"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 158.915625, 128.144966)" x="158.915625" y="128.144966">AQF 10 - Doctoral Degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 128.392334)" x="141.410938" y="128.392334">AQF 10 - Doctoral Degree</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_9">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="165.915625" xlink:href="#m82278324de" y="96.928583"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="148.410938" xlink:href="#m82278324de" y="97.113226"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(30.204687 90.289833)">AQF 8 - Bachelor Honours</text>
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 101.487645)">Degree / Graduate Certificate</text>
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(60.723437 112.685458)">/ Graduate Diploma</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.590625 90.638382)">AQF 8 - Bachelor Honours</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 101.361507)">Degree / Graduate Certificate</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.707813 112.20182)">/ Graduate Diploma</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_10">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="165.915625" xlink:href="#m82278324de" y="69.511417"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="148.410938" xlink:href="#m82278324de" y="69.477087"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 158.915625, 73.310636)" x="158.915625" y="73.310636">AQF 7 - Bachelor Degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 73.120055)" x="141.410938" y="73.120055">AQF 9 - Masters Degree</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_11">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="165.915625" xlink:href="#m82278324de" y="42.094252"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="148.410938" xlink:href="#m82278324de" y="41.840947"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 158.915625, 45.893471)" x="158.915625" y="45.893471">AQF 9 - Masters Degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 45.483916)" x="141.410938" y="45.483916">AQF 7 - Bachelor Degree</text>
      </g>
     </g>
    </g>
    <g id="text_12">
-    <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 307.957812, 19.918125)" x="307.957812" y="19.918125">Highest level of education, Australia</text>
+    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 299.205469, 19.535625)" x="299.205469" y="19.535625">Highest level of education, Australia</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pf4a92a5e0d">
-   <rect height="114.60375" width="284.084375" x="165.915625" y="25.918125"/>
+  <clipPath id="pf46b58c8b9">
+   <rect height="115.519062" width="301.589062" x="148.410938" y="25.535625"/>
   </clipPath>
  </defs>
 </svg>
