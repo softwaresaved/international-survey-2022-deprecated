@@ -8,7 +8,7 @@ def sha256sum(fn: Path) -> str:
     m.update(fn.read_text().encode("utf-8"))
     return m.hexdigest()
 
-HASH = "aff0bdfa0d01ffad9b2f2af3aa049271ca89e8248cb3c704c8f8cfc2d0096ab7"
+HASH = "b5bd6188b33e451f9a50e3e55fece457ae45352928357b371e0b71a44452f533"
 CACHED_DATA = Path("cache/processed_data.csv")
 
 def test_overview_and_sampling():
