@@ -9,14 +9,14 @@ from lib.report import table, figure, make_report, convert_time, write_cache, CO
 
 
 @make_report(__file__)
-def run(survey_year, data="data/public_merged.csv"):
+def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
     """Prepares overview report and sampling.
 
     This function creates the figures and tables, as well as doing data
     transformations that are used in the other sections.
     """
 
-    df = pd.read_csv(data)
+    df = pd.concat([pd.read_csv(d) for d in data], ignore_index=True)
 
     # The cleaning is about renaming some countries and create a globa category
     # for all countries that are not from one of the participating countries.

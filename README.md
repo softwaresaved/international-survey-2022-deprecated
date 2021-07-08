@@ -1,4 +1,4 @@
-[![Python 3.8](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml/badge.svg)](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml)
+[![Python 3.9](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml/badge.svg)](https://github.com/softwaresaved/international-survey-2018/actions/workflows/python-package.yml)
 
 # RSE International Survey Analysis
 
