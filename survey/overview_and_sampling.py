@@ -7,16 +7,35 @@ import matplotlib.dates as mdates
 
 from lib.report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
+SALARY_COL = 'socio4. Please select the range of your salary'
+
+def read_salary(data="data/2018_salary.csv"):
+    """Merges salary information from countries into a single column"""
+    df = pd.read_csv(data, dtype=str)
+    df["socio4"] = (
+        df.loc[:, df.columns.str.startswith("socio4")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+    df = df[['startdate._.Date started', 'socio4']]
+    df.columns = ['startdate. Date started', SALARY_COL]
+    return df
+
 
 @make_report(__file__)
-def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
+def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
     """Prepares overview report and sampling.
 
     This function creates the figures and tables, as well as doing data
     transformations that are used in the other sections.
     """
 
-    df = pd.concat([pd.read_csv(d) for d in data], ignore_index=True)
+    df_year = pd.read_csv(data_year)
+    df_year = df_year.merge(read_salary(), on='startdate. Date started')
+    df_prev_year = pd.read_csv(data_prev_year)
+    df_prev_year[SALARY_COL] = ''
+    df = pd.concat([df_year, df_prev_year], ignore_index=True)
 
     # The cleaning is about renaming some countries and create a globa category
     # for all countries that are not from one of the participating countries.
@@ -87,7 +106,7 @@ def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
 
     fig, axes = plt.subplots(len(set(df.Country)), 1, figsize=(7, 9), sharex=True)
     fig.tight_layout()
-    fig.subplots_adjust(left=0.1,bottom=0.15)
+    fig.subplots_adjust(left=0.1, bottom=0.15)
     list_plots = list()
     for i, name in enumerate(total_per_country["Country"].unique()):
         axes[i] = total_per_country[total_per_country.Country == name].plot(
@@ -96,9 +115,7 @@ def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
         axes[i].set_title("{}".format(name))
         # axes[a, b].set_xticklabels(labels=idx)
 
-        axes[i].xaxis.set_major_locator(
-            mdates.DayLocator(interval=10)
-        )  # every 10 days
+        axes[i].xaxis.set_major_locator(mdates.DayLocator(interval=10))  # every 10 days
         axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # every day
         for label in axes[i].get_xticklabels():
             label.set_rotation(90)
@@ -120,11 +137,19 @@ def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
     results = dict()
     for country in df[df["Year"] == survey_year - 1]["Country"].unique():
         current_year = df[df["Year"] == survey_year]["Country"].value_counts()[country]
-        previous_year = df[df["Year"] == survey_year - 1]["Country"].value_counts()[country]
-        results[country] = {"%d" % (survey_year - 1): previous_year, "%d" % survey_year: current_year}
+        previous_year = df[df["Year"] == survey_year - 1]["Country"].value_counts()[
+            country
+        ]
+        results[country] = {
+            "%d" % (survey_year - 1): previous_year,
+            "%d" % survey_year: current_year,
+        }
     diff_year_participants = pd.DataFrame.from_dict(results, orient="index")
-    diff_year_participants["Difference between %d and %d" % (survey_year - 1, survey_year)] = (
-        diff_year_participants["%d" % survey_year] - diff_year_participants["%d" % (survey_year - 1)]
+    diff_year_participants[
+        "Difference between %d and %d" % (survey_year - 1, survey_year)
+    ] = (
+        diff_year_participants["%d" % survey_year]
+        - diff_year_participants["%d" % (survey_year - 1)]
     )
     report.update(table("difference_with_previous_year", diff_year_participants))
 
@@ -132,7 +157,7 @@ def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
     fig, ax = plt.subplots()
     fig.subplots_adjust(left=0.2, bottom=0.125)
     ax = diff_year_participants.plot(kind="barh", ax=ax)
-    ax.legend(loc='lower center', ncol=3, bbox_to_anchor=(0.5, -0.18))
+    ax.legend(loc="lower center", ncol=3, bbox_to_anchor=(0.5, -0.18))
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_visible(False)
@@ -211,7 +236,8 @@ def run(survey_year, data=["data/2018.csv", "data/2017.csv"]):
     results = pd.DataFrame.from_dict(
         [
             {
-                "Participants in %d" % (survey_year - 1): len(df[df["Year"] == survey_year - 1]),
+                "Participants in %d"
+                % (survey_year - 1): len(df[df["Year"] == survey_year - 1]),
                 "Participants in %d" % survey_year: len(df[df["Year"] == survey_year]),
             }
         ]

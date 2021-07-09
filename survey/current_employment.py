@@ -147,8 +147,6 @@ def run(survey_year, data="data/public_merged.csv"):
             (duration_contract, "Duration of contract in year"),
             (salary, "Salary"),
             (fund, "Type of funding"),
-            (title_job, "Official job title"),
-            (title_job, "Different job title"),
         ]:
             name = slugify(category)
             # Disable salary and type of funding sections for world
@@ -161,12 +159,12 @@ def run(survey_year, data="data/public_merged.csv"):
                     df_salary = get_sampled_df(df, salary)
                     assert (
                         len(order_question)
-                        == len(
+                        - len(
                             df_salary[df_salary["Country"] == country][
                                 "socio4. Please select the range of your salary"
                             ].unique()
                         )
-                        - 1
+                        in [-1, 0]
                     )
                 except AssertionError:
                     print(
@@ -185,6 +183,7 @@ def run(survey_year, data="data/public_merged.csv"):
                     country=country,
                     order_index=order_question,
                     multi_choice=multi_choice,
+                    survey_year=survey_year
                 )
                 countries[-1].update(table_country(country, name, result))
                 plot_cat_comparison(result, country, category, order_index=True)
@@ -209,10 +208,6 @@ def run(survey_year, data="data/public_merged.csv"):
                 )
                 countries[-1].update(figure_country(country, name, plt))
 
-            elif category in ["Official job title", "Different job title"]:
-                plot_wordcloud(df, title_job, country, category)
-                countries[-1].update(figure_country(country, name, plt))
-
             else:  # general case
                 result = count_diff(
                     df,
@@ -222,10 +217,13 @@ def run(survey_year, data="data/public_merged.csv"):
                     survey_year=survey_year,
                     multi_choice=multi_choice,
                 )
-                if not result.empty:
-                    countries[-1].update(table_country(country, name, result))
-                    plot_cat_comparison(result, country, category)
-                    countries[-1].update(figure_country(country, name, plt))
+                try:
+                    if not result.empty:
+                        countries[-1].update(table_country(country, name, result))
+                        plot_cat_comparison(result, country, category)
+                        countries[-1].update(figure_country(country, name, plt))
+                except KeyError:
+                    pass
     return {"countries": countries}
 
 
