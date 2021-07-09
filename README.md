@@ -39,7 +39,19 @@ export RSE_SURVEY_FIGURE_TYPE=svg  # optional, set to pdf or png to generate fig
 export RSE_SURVEY_FIGURE_DPI=300  # optional, set dpi for png or pdf output formats
 ```
 
-First, the overview and sampling file needs to be run which does some initial processing for the other sections:
+You can generate the full report (other than the country specific reports) by running:
+
+```bash
+python run.py
+```
+
+Country reports should be generated _after_ the section specific reports (do not replace `country` with a specific country, this will generate all country reports):
+
+```bash
+python run.py country
+```
+
+To generate sections individually, first ensure that you have run the initialisation (which is the overview and sampling section) that is required by other sections. This can be done by passing `init` to run.py:
 
 ```bash
 python run.py init
@@ -48,20 +60,11 @@ python run.py init
 This should create a `cache/processed_data.csv` file within the `docs` folder. Once this is generated, you can run any of the sections in any order:
 
 ```bash
-python <section>.py
+python run.py <section>
 ```
 
-You can generate all the sections (except the overview) by running:
+So for example to generate the current-employment section: `python run.py current-employment`
 
-```bash
-sh ../make_report.sh
-```
-
-Country reports should be generated _after_ the section specific reports:
-
-```bash
-python ../include/country_report.py
-```
 
 * The section reports utilise the [templates](templates) corresponding to each section; the country report template is at [templates/country_report.md](templates/country_report.md).
   The template file uses the [Mustache](https://mustache.github.io) templating language via the [chevron](https://pypi.org/project/chevron/) module.
