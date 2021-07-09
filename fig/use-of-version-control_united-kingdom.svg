@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-06-09T14:59:44.976770</dc:date>
+    <dc:date>2021-07-09T14:32:33.331327</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pd28b33cc06)" d="M 58.915625 158.712912 
+    <path clip-path="url(#pef6ef47512)" d="M 58.915625 158.712912 
 L 431.376935 158.712912 
 L 431.376935 137.57366 
 L 58.915625 137.57366 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pd28b33cc06)" d="M 58.915625 132.288847 
+    <path clip-path="url(#pef6ef47512)" d="M 58.915625 132.288847 
 L 158.113863 132.288847 
 L 158.113863 111.149595 
 L 58.915625 111.149595 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pd28b33cc06)" d="M 58.915625 105.864782 
+    <path clip-path="url(#pef6ef47512)" d="M 58.915625 105.864782 
 L 101.963917 105.864782 
 L 101.963917 84.72553 
 L 58.915625 84.72553 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pd28b33cc06)" d="M 58.915625 79.440717 
+    <path clip-path="url(#pef6ef47512)" d="M 58.915625 79.440717 
 L 79.503939 79.440717 
 L 79.503939 58.301465 
 L 58.915625 58.301465 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pd28b33cc06)" d="M 58.915625 53.016652 
+    <path clip-path="url(#pef6ef47512)" d="M 58.915625 53.016652 
 L 66.402284 53.016652 
 L 66.402284 31.877401 
 L 58.915625 31.877401 
@@ -232,12 +232,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_15">
-    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.457812, 19.535625)" x="254.457812" y="19.535625">Use of version control, United Kingdom</text>
+    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.457813, 19.535625)" x="254.457813" y="19.535625">Use of version control, United Kingdom</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pd28b33cc06">
+  <clipPath id="pef6ef47512">
    <rect height="139.519063" width="391.084375" x="58.915625" y="25.535625"/>
   </clipPath>
  </defs>

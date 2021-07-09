@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-06-09T15:02:10.544769</dc:date>
+    <dc:date>2021-07-09T14:34:33.545522</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -181,7 +181,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 73.120055)" x="141.410938" y="73.120055">AQF 9 - Masters Degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 73.120055)" x="141.410938" y="73.120055">AQF 7 - Bachelor Degree</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -191,7 +191,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 45.483916)" x="141.410938" y="45.483916">AQF 7 - Bachelor Degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 141.410938, 45.483916)" x="141.410938" y="45.483916">AQF 9 - Masters Degree</text>
      </g>
     </g>
    </g>

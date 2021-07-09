@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-06-09T14:59:36.848500</dc:date>
+    <dc:date>2021-07-09T14:32:25.668323</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pc35b9255b3)" d="M 58.915625 158.706264 
+    <path clip-path="url(#p09c533ebeb)" d="M 58.915625 158.706264 
 L 431.376935 158.706264 
 L 431.376935 137.544853 
 L 58.915625 137.544853 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pc35b9255b3)" d="M 58.915625 132.2545 
+    <path clip-path="url(#p09c533ebeb)" d="M 58.915625 132.2545 
 L 157.731891 132.2545 
 L 157.731891 111.093089 
 L 58.915625 111.093089 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pc35b9255b3)" d="M 58.915625 105.802737 
+    <path clip-path="url(#p09c533ebeb)" d="M 58.915625 105.802737 
 L 81.719379 105.802737 
 L 81.719379 84.641326 
 L 58.915625 84.641326 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pc35b9255b3)" d="M 58.915625 79.350973 
+    <path clip-path="url(#p09c533ebeb)" d="M 58.915625 79.350973 
 L 66.516876 79.350973 
 L 66.516876 58.189562 
 L 58.915625 58.189562 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pc35b9255b3)" d="M 58.915625 52.899209 
+    <path clip-path="url(#p09c533ebeb)" d="M 58.915625 52.899209 
 L 58.915625 52.899209 
 L 58.915625 31.737798 
 L 58.915625 31.737798 
@@ -167,7 +167,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 51.915625, 98.800938)" x="51.915625" y="98.800938">Mercurial</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 51.915625, 98.800937)" x="51.915625" y="98.800937">Mercurial</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -192,12 +192,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_11">
-    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.457812, 19.389375)" x="254.457812" y="19.389375">Use of version control, Netherlands</text>
+    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.457813, 19.389375)" x="254.457813" y="19.389375">Use of version control, Netherlands</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pc35b9255b3">
+  <clipPath id="p09c533ebeb">
    <rect height="139.665313" width="391.084375" x="58.915625" y="25.389375"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-06-09T15:01:21.887072</dc:date>
+    <dc:date>2021-07-09T14:33:58.288166</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p719c119510)" d="M 181.779688 158.706264 
+    <path clip-path="url(#pa5dbee04df)" d="M 181.779688 158.706264 
 L 283.958854 158.706264 
 L 283.958854 137.544853 
 L 181.779688 137.544853 
@@ -46,7 +46,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p719c119510)" d="M 181.779688 132.2545 
+    <path clip-path="url(#pa5dbee04df)" d="M 181.779688 132.2545 
 L 198.809549 132.2545 
 L 198.809549 111.093089 
 L 181.779688 111.093089 
@@ -54,7 +54,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p719c119510)" d="M 181.779688 105.802737 
+    <path clip-path="url(#pa5dbee04df)" d="M 181.779688 105.802737 
 L 283.958854 105.802737 
 L 283.958854 84.641326 
 L 181.779688 84.641326 
@@ -62,7 +62,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p719c119510)" d="M 181.779688 79.350973 
+    <path clip-path="url(#pa5dbee04df)" d="M 181.779688 79.350973 
 L 437.227604 79.350973 
 L 437.227604 58.189562 
 L 181.779688 58.189562 
@@ -70,7 +70,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p719c119510)" d="M 181.779688 52.899209 
+    <path clip-path="url(#pa5dbee04df)" d="M 181.779688 52.899209 
 L 210.162789 52.899209 
 L 210.162789 31.737798 
 L 181.779688 31.737798 
@@ -178,7 +178,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 94.169688)">Acknowledged in acknowledgements</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 94.169687)">Acknowledged in acknowledgements</text>
       <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(143.096875 104.86375)">section</text>
      </g>
     </g>
@@ -209,7 +209,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p719c119510">
+  <clipPath id="pa5dbee04df">
    <rect height="139.665313" width="268.220312" x="181.779688" y="25.389375"/>
   </clipPath>
  </defs>
