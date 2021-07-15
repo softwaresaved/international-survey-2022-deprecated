@@ -29,7 +29,7 @@ source venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-Then change to the docs folder: `cd docs`. The survey analysis configuration is
+The survey analysis configuration is
 via environment variables. Use the following to set the environment variables on macOS and Linux. If you are on Windows, use the documentation linked [here](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1).
 
 ```bash
@@ -66,21 +66,21 @@ python run.py <section>
 So for example to generate the current-employment section: `python run.py current-employment`
 
 
-* The section reports utilise the [templates](templates) corresponding to each section; the country report template is at [templates/country_report.md](templates/country_report.md).
+* The section reports utilise templates from an [international survey lib submodule repo](https://github.com/softwaresaved/international-survey-lib/tree/main/templates) corresponding to each section; the country report template is at [templates/country_report.md](https://github.com/softwaresaved/international-survey-lib/tree/main/templates/country_report.md).
   The template file uses the [Mustache](https://mustache.github.io) templating language via the [chevron](https://pypi.org/project/chevron/) module.
 * Two types of reports are generated: section reports and country reports. Section reports are useful for comparing countries for a particular section of the survey,
 such as demographics or job satisfaction. Country reports give an overview of a country across the different sections of the survey.
-* Section reports are generated in [docs/_section](docs/_section)
-* Country reports are generated in [docs/_country](_docs/country)
-* Each table in the report has a corresponding CSV in [docs/csv](docs/csv)
-* Each figure in the report has a corresponding SVG in [docs/fig](docs/fig)
-* The source data used for the analysis is at [docs/data](docs/data)
+* Section reports are generated in [_section](_section)
+* Country reports are generated in [_country](_country)
+* Each table in the report has a corresponding CSV in [csv](csv)
+* Each figure in the report has a corresponding SVG in [fig](fig)
+* The source data used for the analysis is at [data](data)
 
 ## Software survey website
 
 * We use [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com) to build the website hosted at https://softwaresaved.github.io/international-survey-2018.
-* Stylesheets for the site are at [docs/_sass](docs/_sass)
-* Configuration of the site is at [docs/_config.yml](docs/_config.yml)
+* Stylesheets for the site are at [_sass](_sass)
+* Configuration of the site is at [_config.yml](_config.yml)
 * The hosted site can be viewed locally by using the command `bundle exec jekyll serve` in the docs folder and following the localhost URL. If this is the first time setting up Jekyll on your computer, ensure that you have Ruby and Bundle installed (`gem install bundler`).
 
 ## Creating a survey for the next year
