@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:55.343569</dc:date>
+    <dc:date>2021-07-31T20:15:10.285912</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -201,8 +201,9 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(41.93125 216.524469)">Permanent -- funded</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.051563 227.247594)">by project funds</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(41.93125 211.177437)">Permanent -- funded</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(55.273438 221.754312)">by Institution core</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.8375 232.594625)">funding</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -212,9 +213,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(41.93125 186.524866)">Permanent -- funded</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(55.273438 197.101741)">by Institution core</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.8375 207.942053)">funding</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(41.93125 191.871897)">Permanent -- funded</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.051563 202.595022)">by project funds</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -256,9 +256,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(43.615625 87.91458)">Fixed term -- funded</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(55.273438 98.491455)">by Institution core</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.8375 109.331768)">funding</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 97.956143)" x="133.642188" y="97.956143">Agency staff</text>
      </g>
     </g>
     <g id="ytick_7">
@@ -268,7 +266,9 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 73.303572)" x="133.642188" y="73.303572">Agency staff</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(43.615625 63.262009)">Fixed term -- funded</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(55.273438 73.838884)">by Institution core</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.8375 84.679197)">funding</text>
      </g>
     </g>
     <g id="ytick_8">

@@ -186,7 +186,7 @@ def run(survey_year, data="data/public_merged.csv"):
                     survey_year=survey_year
                 )
                 countries[-1].update(table_country(country, name, result))
-                plot_cat_comparison(result, country, category, order_index=True)
+                plot_cat_comparison(result, country, category, order_index=order_question)
                 countries[-1].update(figure_country(country, name, plt))
 
             elif category == "Duration of contract in year":

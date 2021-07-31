@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:24.996308</dc:date>
+    <dc:date>2021-07-31T20:14:45.902440</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,15 +38,15 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 181.622003 
-L 149.262014 181.622003 
-L 149.262014 161.118045 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 181.622003 
+L 238.501773 181.622003 
+L 238.501773 161.118045 
 L 131.414062 161.118045 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 155.992056 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 155.992056 
 L 309.893579 155.992056 
 L 309.893579 135.488098 
 L 131.414062 135.488098 
@@ -54,33 +54,33 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 130.362109 
-L 238.501773 130.362109 
-L 238.501773 109.858151 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 130.362109 
+L 434.829241 130.362109 
+L 434.829241 109.858151 
 L 131.414062 109.858151 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 104.732162 
-L 158.18599 104.732162 
-L 158.18599 84.228204 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 104.732162 
+L 211.729845 104.732162 
+L 211.729845 84.228204 
 L 131.414062 84.228204 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 79.102214 
-L 211.729845 79.102214 
-L 211.729845 58.598257 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 79.102214 
+L 158.18599 79.102214 
+L 158.18599 58.598257 
 L 131.414062 58.598257 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p7cdd6f7d39)" d="M 131.414062 53.472267 
-L 434.829241 53.472267 
-L 434.829241 32.96831 
+    <path clip-path="url(#pcc0a0dd169)" d="M 131.414062 53.472267 
+L 149.262014 53.472267 
+L 149.262014 32.96831 
 L 131.414062 32.96831 
 z
 " style="fill:#1f77b4;"/>
@@ -195,7 +195,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.414062, 174.94893)" x="124.414062" y="174.94893">&lt; AUD 45,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.414062, 174.94893)" x="124.414062" y="174.94893">≥ AUD 120,000</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -216,7 +216,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.414062, 123.689036)" x="124.414062" y="123.689036">≥ AUD 120,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 119.11638)">≥ AUD 85,000 and &lt; AUD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(88.270312 129.693255)">105,000</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -226,8 +227,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 93.486433)">≥ AUD 45,000 and &lt; AUD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.83125 104.063308)">65,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 93.486433)">≥ AUD 65,000 and &lt; AUD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.83125 104.063308)">85,000</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -237,8 +238,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 67.856486)">≥ AUD 65,000 and &lt; AUD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.83125 78.433361)">85,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 67.856486)">≥ AUD 45,000 and &lt; AUD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.83125 78.433361)">65,000</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -248,8 +249,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 42.226538)">≥ AUD 85,000 and &lt; AUD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(88.270313 52.803413)">105,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.414062, 46.799195)" x="124.414062" y="46.799195">&lt; AUD 45,000</text>
      </g>
     </g>
    </g>
@@ -259,8 +259,8 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p7cdd6f7d39">
-   <rect height="163.519063" width="318.585938" x="131.414062" y="25.535625"/>
+  <clipPath id="pcc0a0dd169">
+   <rect height="163.519062" width="318.585938" x="131.414062" y="25.535625"/>
   </clipPath>
  </defs>
 </svg>

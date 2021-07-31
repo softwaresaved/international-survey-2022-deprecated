@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:51.456354</dc:date>
+    <dc:date>2021-07-31T20:15:07.194107</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,49 +38,49 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 181.622003 
-L 153.411463 181.622003 
-L 153.411463 161.118045 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 181.622003 
+L 177.610426 181.622003 
+L 177.610426 161.118045 
 L 129.2125 161.118045 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 155.992056 
-L 141.311981 155.992056 
-L 141.311981 135.488098 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 155.992056 
+L 271.381406 155.992056 
+L 271.381406 135.488098 
 L 129.2125 135.488098 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 130.362109 
-L 192.734777 130.362109 
-L 192.734777 109.858151 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 130.362109 
+L 434.724405 130.362109 
+L 434.724405 109.858151 
 L 129.2125 109.858151 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 104.732162 
-L 434.724405 104.732162 
-L 434.724405 84.228204 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 104.732162 
+L 192.734777 104.732162 
+L 192.734777 84.228204 
 L 129.2125 84.228204 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 79.102214 
-L 271.381406 79.102214 
-L 271.381406 58.598257 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 79.102214 
+L 141.311981 79.102214 
+L 141.311981 58.598257 
 L 129.2125 58.598257 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p780e016608)" d="M 129.2125 53.472267 
-L 177.610426 53.472267 
-L 177.610426 32.96831 
+    <path clip-path="url(#pd40ee1ef1c)" d="M 129.2125 53.472267 
+L 153.411463 53.472267 
+L 153.411463 32.96831 
 L 129.2125 32.96831 
 z
 " style="fill:#1f77b4;"/>
@@ -165,7 +165,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 174.94893)" x="122.2125" y="174.94893">&lt; £18,031</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 174.94893)" x="122.2125" y="174.94893">≥ £58,172</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -175,7 +175,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 149.318983)" x="122.2125" y="149.318983">≥ £18,031 and &lt; £24,057</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 149.318983)" x="122.2125" y="149.318983">≥ £43,325 and &lt; £58,172</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -185,7 +185,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 123.689036)" x="122.2125" y="123.689036">≥ £24,057 and &lt; £32,277</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 123.689036)" x="122.2125" y="123.689036">≥ £32,277 and &lt; £43,325</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -195,7 +195,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 98.059089)" x="122.2125" y="98.059089">≥ £32,277 and &lt; £43,325</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 98.059089)" x="122.2125" y="98.059089">≥ £24,057 and &lt; £32,277</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -205,7 +205,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 72.429142)" x="122.2125" y="72.429142">≥ £43,325 and &lt; £58,172</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 72.429142)" x="122.2125" y="72.429142">≥ £18,031 and &lt; £24,057</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -215,7 +215,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 46.799195)" x="122.2125" y="46.799195">≥ £58,172</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 122.2125, 46.799195)" x="122.2125" y="46.799195">&lt; £18,031</text>
      </g>
     </g>
    </g>
@@ -225,8 +225,8 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p780e016608">
-   <rect height="163.519063" width="320.7875" x="129.2125" y="25.535625"/>
+  <clipPath id="pd40ee1ef1c">
+   <rect height="163.519062" width="320.7875" x="129.2125" y="25.535625"/>
   </clipPath>
  </defs>
 </svg>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:23.902281</dc:date>
+    <dc:date>2021-07-31T20:14:45.078282</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -268,7 +268,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 73.242634)" x="133.642188" y="73.242634">Zero hours contract</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 73.303572)" x="133.642188" y="73.303572">Prefer not to say</text>
      </g>
     </g>
     <g id="ytick_8">
@@ -278,7 +278,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_16">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 48.651)" x="133.642188" y="48.651">Prefer not to say</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.642188, 48.590063)" x="133.642188" y="48.590063">Zero hours contract</text>
      </g>
     </g>
    </g>

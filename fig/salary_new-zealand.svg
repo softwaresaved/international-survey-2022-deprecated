@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:41.293297</dc:date>
+    <dc:date>2021-07-31T20:14:58.866814</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,56 +31,56 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 131.389063 189.054688 
-L 445.589454 189.054688 
-L 445.589454 25.535625 
+L 445.59096 189.054688 
+L 445.59096 25.535625 
 L 131.389063 25.535625 
 z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 181.622003 
-L 223.462437 181.622003 
-L 223.462437 161.118045 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 181.622003 
+L 177.425971 181.622003 
+L 177.425971 161.118045 
 L 131.389063 161.118045 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 155.992056 
-L 223.462437 155.992056 
-L 223.462437 135.488098 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 155.992056 
+L 223.462879 155.992056 
+L 223.462879 135.488098 
 L 131.389063 135.488098 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 130.362109 
-L 177.42575 130.362109 
-L 177.42575 109.858151 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 130.362109 
+L 430.628965 130.362109 
+L 430.628965 109.858151 
 L 131.389063 109.858151 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 104.732162 
-L 246.480781 104.732162 
-L 246.480781 84.228204 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 104.732162 
+L 269.499787 104.732162 
+L 269.499787 84.228204 
 L 131.389063 84.228204 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 79.102214 
-L 269.499125 79.102214 
-L 269.499125 58.598257 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 79.102214 
+L 246.481333 79.102214 
+L 246.481333 58.598257 
 L 131.389063 58.598257 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#pf24274288e)" d="M 131.389063 53.472267 
-L 430.627531 53.472267 
-L 430.627531 32.96831 
+    <path clip-path="url(#pec7b643f90)" d="M 131.389063 53.472267 
+L 223.462879 53.472267 
+L 223.462879 32.96831 
 L 131.389063 32.96831 
 z
 " style="fill:#1f77b4;"/>
@@ -104,81 +104,81 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="170.520247" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="170.520434" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 170.520247, 203.2125)" x="170.520247" y="203.2125">5</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 170.520434, 203.2125)" x="170.520434" y="203.2125">5</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="209.651431" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="209.651806" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 209.651431, 203.2125)" x="209.651431" y="203.2125">10</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 209.651806, 203.2125)" x="209.651806" y="203.2125">10</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="248.782615" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="248.783178" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 248.782615, 203.2125)" x="248.782615" y="203.2125">15</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 248.783178, 203.2125)" x="248.783178" y="203.2125">15</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="287.9138" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="287.91455" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 287.9138, 203.2125)" x="287.9138" y="203.2125">20</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 287.91455, 203.2125)" x="287.91455" y="203.2125">20</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="327.044984" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="327.045922" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 327.044984, 203.2125)" x="327.044984" y="203.2125">25</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 327.045922, 203.2125)" x="327.045922" y="203.2125">25</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="366.176168" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="366.177294" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 366.176168, 203.2125)" x="366.176168" y="203.2125">30</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 366.177294, 203.2125)" x="366.177294" y="203.2125">30</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="405.307353" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="405.308666" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 405.307353, 203.2125)" x="405.307353" y="203.2125">35</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 405.308666, 203.2125)" x="405.308666" y="203.2125">35</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="444.438537" xlink:href="#mc3a356a46d" y="189.054688"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="444.440038" xlink:href="#mc3a356a46d" y="189.054688"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 444.438537, 203.2125)" x="444.438537" y="203.2125">40</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 444.440038, 203.2125)" x="444.440038" y="203.2125">40</text>
      </g>
     </g>
    </g>
@@ -195,7 +195,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.389063, 174.94893)" x="124.389063" y="174.94893">&lt; NZD 45,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.389063, 174.94893)" x="124.389063" y="174.94893">≥ NZD 120,000</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -216,7 +216,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.389063, 123.689036)" x="124.389063" y="123.689036">≥ NZD 120,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 119.11638)">≥ NZD 85,000 and &lt; NZD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(88.245313 129.693255)">105,000</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -226,8 +227,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 93.486433)">≥ NZD 45,000 and &lt; NZD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.80625 104.063308)">65,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 93.486433)">≥ NZD 65,000 and &lt; NZD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.80625 104.063308)">85,000</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -237,8 +238,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 67.856486)">≥ NZD 65,000 and &lt; NZD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.80625 78.433361)">85,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 67.856486)">≥ NZD 45,000 and &lt; NZD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.80625 78.433361)">65,000</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -248,19 +249,18 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 42.226538)">≥ NZD 85,000 and &lt; NZD</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(88.245313 52.803413)">105,000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 124.389063, 46.799195)" x="124.389063" y="46.799195">&lt; NZD 45,000</text>
      </g>
     </g>
    </g>
    <g id="text_16">
-    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 288.489258, 19.535625)" x="288.489258" y="19.535625">Salary, New Zealand</text>
+    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 288.490011, 19.535625)" x="288.490011" y="19.535625">Salary, New Zealand</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pf24274288e">
-   <rect height="163.519062" width="314.200392" x="131.389063" y="25.535625"/>
+  <clipPath id="pec7b643f90">
+   <rect height="163.519062" width="314.201898" x="131.389063" y="25.535625"/>
   </clipPath>
  </defs>
 </svg>
