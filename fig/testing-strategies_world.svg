@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:32:39.425915</dc:date>
+    <dc:date>2021-08-04T21:01:41.433382</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,32 +39,32 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#pd747eefa8e)" d="M 122.854688 135.797173 
-L 176.266167 135.797173 
-L 176.266167 113.660271 
+L 158.462341 135.797173 
+L 158.462341 113.660271 
 L 122.854688 113.660271 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#pd747eefa8e)" d="M 122.854688 108.126046 
-L 247.481473 108.126046 
-L 247.481473 85.989144 
+L 434.421652 108.126046 
+L 434.421652 85.989144 
 L 122.854688 85.989144 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
     <path clip-path="url(#pd747eefa8e)" d="M 122.854688 80.454919 
-L 434.421652 80.454919 
-L 434.421652 58.318017 
+L 247.481473 80.454919 
+L 247.481473 58.318017 
 L 122.854688 58.318017 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
     <path clip-path="url(#pd747eefa8e)" d="M 122.854688 52.783791 
-L 158.462341 52.783791 
-L 158.462341 30.646889 
+L 176.266167 52.783791 
+L 176.266167 30.646889 
 L 122.854688 30.646889 
 z
 " style="fill:#1f77b4;"/>
@@ -159,7 +159,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 115.854688, 128.368566)" x="115.854688" y="128.368566">No formal testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(13.025 123.676379)">Test engineers conduct</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(86.39375 134.370441)">testing</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -169,8 +170,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.595313 96.005251)">No formal testing but</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(12.46875 106.845564)">users provide feedback</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 96.063845)">The developers do their</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(65.271875 106.64072)">own testing</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -180,8 +181,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 68.392718)">The developers do their</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(65.271875 78.969593)">own testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.595313 68.334124)">No formal testing but</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(12.46875 79.174436)">users provide feedback</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -191,8 +192,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(13.025 40.662996)">Test engineers conduct</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(86.39375 51.357059)">testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 115.854688, 45.355184)" x="115.854688" y="45.355184">No formal testing</text>
      </g>
     </g>
    </g>

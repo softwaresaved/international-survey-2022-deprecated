@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:35:14.388020</dc:date>
+    <dc:date>2021-08-04T21:04:23.413175</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,16 +39,16 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#pfb6d20f8c2)" d="M 66.704688 61.349616 
-L 462.030145 61.349616 
-L 462.030145 46.19343 
+L 207.892351 61.349616 
+L 207.892351 46.19343 
 L 66.704688 46.19343 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#pfb6d20f8c2)" d="M 66.704688 42.404383 
-L 207.892351 42.404383 
-L 207.892351 27.248196 
+L 462.030145 42.404383 
+L 462.030145 27.248196 
 L 66.704688 27.248196 
 z
 " style="fill:#1f77b4;"/>
@@ -153,7 +153,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 59.704688, 57.350429)" x="59.704688" y="57.350429">GNU/Linux</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 59.704688, 57.350429)" x="59.704688" y="57.350429">Windows</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -163,7 +163,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 59.704688, 38.405196)" x="59.704688" y="38.405196">Windows</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 59.704688, 38.405196)" x="59.704688" y="38.405196">GNU/Linux</text>
      </g>
     </g>
    </g>
@@ -173,10 +173,10 @@ L 481.796418 63.054688
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_11">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 477.030145, 56.356679)" x="477.030145" y="56.356679">74%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.892351, 56.356679)" x="222.892351" y="56.356679">26%</text>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 222.892351, 37.411446)" x="222.892351" y="37.411446">26%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 477.030145, 37.411446)" x="477.030145" y="37.411446">74%</text>
    </g>
    <g id="text_13">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 274.250553, 19.543125)" x="274.250553" y="19.543125">Operating systems, South Africa</text>
@@ -193,16 +193,16 @@ z
    </g>
    <g id="patch_7">
     <path clip-path="url(#p80a37a3c41)" d="M 500.622549 61.349616 
-L 557.097615 61.349616 
-L 557.097615 46.19343 
+L 524.624452 61.349616 
+L 524.624452 46.19343 
 L 500.622549 46.19343 
 z
 " style="fill:#008000;"/>
    </g>
    <g id="patch_8">
     <path clip-path="url(#p80a37a3c41)" d="M 500.622549 42.404383 
-L 524.624452 42.404383 
-L 524.624452 27.248196 
+L 557.097615 42.404383 
+L 557.097615 27.248196 
 L 500.622549 27.248196 
 z
 " style="fill:#008000;"/>

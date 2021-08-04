@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:33:24.299239</dc:date>
+    <dc:date>2021-08-04T21:02:26.810510</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,8 +39,8 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#pbf0a44929a)" d="M 157.853125 112.888082 
-L 269.147173 112.888082 
-L 269.147173 89.07891 
+L 318.611194 112.888082 
+L 318.611194 89.07891 
 L 157.853125 89.07891 
 z
 " style="fill:#1f77b4;"/>
@@ -55,8 +55,8 @@ z
    </g>
    <g id="patch_5">
     <path clip-path="url(#pbf0a44929a)" d="M 157.853125 53.365152 
-L 318.611194 53.365152 
-L 318.611194 29.55598 
+L 269.147173 53.365152 
+L 269.147173 29.55598 
 L 157.853125 29.55598 
 z
 " style="fill:#1f77b4;"/>
@@ -141,8 +141,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 99.989746)">Different researchers,</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 110.566621)">same research group</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 104.62334)" x="150.853125" y="104.62334">Same researcher(s)</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -162,7 +161,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 45.10041)" x="150.853125" y="45.10041">Same researcher(s)</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 40.466816)">Different researchers,</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 51.043691)">same research group</text>
      </g>
     </g>
    </g>

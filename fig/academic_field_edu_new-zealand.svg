@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:34:43.268567</dc:date>
+    <dc:date>2021-08-04T21:03:52.152942</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -243,7 +243,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 265.761538)" x="136.417187" y="265.761538">Mathematics</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 265.761538)" x="136.417187" y="265.761538">Physics and Astronomy</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -253,7 +253,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 242.058509)" x="136.417187" y="242.058509">Physics and Astronomy</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 242.058509)" x="136.417187" y="242.058509">Mathematics</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -263,8 +263,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(25.251562 213.785168)">Business &amp; Management</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(103.064062 224.479231)">Studies</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(39.720312 213.782824)">Electrical &amp; Electronic</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(83.046875 224.359699)">Engineering</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -284,8 +284,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(39.720312 166.376767)">Electrical &amp; Electronic</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(83.046875 176.953642)">Engineering</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(25.251562 166.379111)">Business &amp; Management</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(103.064062 177.073173)">Studies</text>
      </g>
     </g>
     <g id="ytick_8">
@@ -305,7 +305,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_16">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 123.604303)" x="136.417187" y="123.604303">Civil Engineering</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 118.973053)">Geography &amp; Environmental</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(95.842187 129.667116)">Sciences</text>
      </g>
     </g>
     <g id="ytick_10">
@@ -315,8 +316,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_17">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 95.270025)">Geography &amp; Environmental</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(95.842187 105.964087)">Sciences</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 99.901275)" x="136.417187" y="99.901275">General Engineering</text>
      </g>
     </g>
     <g id="ytick_11">
@@ -336,7 +336,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_19">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 52.495217)" x="136.417187" y="52.495217">General Engineering</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 136.417187, 52.495217)" x="136.417187" y="52.495217">Civil Engineering</text>
      </g>
     </g>
    </g>

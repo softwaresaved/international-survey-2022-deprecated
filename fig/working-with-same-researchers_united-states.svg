@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:33:50.310075</dc:date>
+    <dc:date>2021-08-04T21:02:54.654721</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,8 +39,8 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p0bfffcbb5d)" d="M 157.853125 112.89473 
-L 237.411833 112.89473 
-L 237.411833 89.123545 
+L 379.954518 112.89473 
+L 379.954518 89.123545 
 L 157.853125 89.123545 
 z
 " style="fill:#1f77b4;"/>
@@ -55,8 +55,8 @@ z
    </g>
    <g id="patch_5">
     <path clip-path="url(#p0bfffcbb5d)" d="M 157.853125 53.466767 
-L 379.954518 53.466767 
-L 379.954518 29.695582 
+L 237.411833 53.466767 
+L 237.411833 29.695582 
 L 157.853125 29.695582 
 z
 " style="fill:#1f77b4;"/>
@@ -141,8 +141,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 100.015388)">Different researchers,</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 110.592263)">same research group</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 104.648981)" x="150.853125" y="104.648981">Same researcher(s)</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -162,7 +161,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 45.221019)" x="150.853125" y="45.221019">Same researcher(s)</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 40.587425)">Different researchers,</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 51.1643)">same research group</text>
      </g>
     </g>
    </g>
@@ -172,13 +172,13 @@ L 391.059587 117.054688
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_10">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 252.411833, 103.594294)" x="252.411833" y="103.594294">17%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 394.954518, 103.594294)" x="394.954518" y="103.594294">49%</text>
    </g>
    <g id="text_11">
     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 328.655594, 73.880312)" x="328.655594" y="73.880312">34%</text>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 394.954518, 44.166331)" x="394.954518" y="44.166331">49%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 252.411833, 44.166331)" x="252.411833" y="44.166331">17%</text>
    </g>
    <g id="text_13">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 274.456356, 19.535625)" x="274.456356" y="19.535625">Working with same researchers, United States</text>
@@ -194,9 +194,12 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p11d9459ae6)" d="M 0 0 
+    <path clip-path="url(#p11d9459ae6)" d="M 447.218362 112.89473 
+L 447.569392 112.89473 
+L 447.569392 89.123545 
+L 447.218362 89.123545 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#008000;"/>
    </g>
    <g id="patch_9">
     <path clip-path="url(#p11d9459ae6)" d="M 447.218362 83.180749 
@@ -207,12 +210,9 @@ z
 " style="fill:#ffa500;"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#p11d9459ae6)" d="M 447.218362 53.466767 
-L 447.569392 53.466767 
-L 447.569392 29.695582 
-L 447.218362 29.695582 
+    <path clip-path="url(#p11d9459ae6)" d="M 0 0 
 z
-" style="fill:#008000;"/>
+" style="fill:#ffa500;"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_7">

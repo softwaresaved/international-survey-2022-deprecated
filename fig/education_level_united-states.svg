@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:34:35.494689</dc:date>
+    <dc:date>2021-08-04T21:03:43.442441</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,32 +39,32 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#pd6eb95dbd8)" d="M 118.420313 135.803821 
-L 372.752646 135.803821 
-L 372.752646 113.69491 
+L 122.216317 135.803821 
+L 122.216317 113.69491 
 L 118.420313 113.69491 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#pd6eb95dbd8)" d="M 118.420313 108.167682 
-L 293.036541 108.167682 
-L 293.036541 86.05877 
+L 243.688477 108.167682 
+L 243.688477 86.05877 
 L 118.420313 86.05877 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
     <path clip-path="url(#pd6eb95dbd8)" d="M 118.420313 80.531542 
-L 243.688477 80.531542 
-L 243.688477 58.422631 
+L 293.036541 80.531542 
+L 293.036541 58.422631 
 L 118.420313 58.422631 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
     <path clip-path="url(#pd6eb95dbd8)" d="M 118.420313 52.895403 
-L 122.216317 52.895403 
-L 122.216317 30.786491 
+L 372.752646 52.895403 
+L 372.752646 30.786491 
 L 118.420313 30.786491 
 z
 " style="fill:#1f77b4;"/>
@@ -139,7 +139,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 128.328272)" x="111.420313" y="128.328272">Doctorate</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 128.328272)" x="111.420313" y="128.328272">Other</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -149,7 +149,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 100.692132)" x="111.420313" y="100.692132">Master degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 100.692132)" x="111.420313" y="100.692132">Undergraduate degree</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -159,7 +159,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 73.055993)" x="111.420313" y="73.055993">Undergraduate degree</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 73.055993)" x="111.420313" y="73.055993">Master degree</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -169,7 +169,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 45.419853)" x="111.420313" y="45.419853">Other</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 111.420313, 45.419853)" x="111.420313" y="45.419853">Doctorate</text>
      </g>
     </g>
    </g>
@@ -179,16 +179,16 @@ L 385.469262 141.054687
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_10">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 387.752646, 127.334522)" x="387.752646" y="127.334522">46%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 137.216317, 127.334522)" x="137.216317" y="127.334522">1%</text>
    </g>
    <g id="text_11">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 308.036541, 99.698382)" x="308.036541" y="99.698382">31%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 258.688477, 99.698382)" x="258.688477" y="99.698382">22%</text>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 258.688477, 72.062243)" x="258.688477" y="72.062243">22%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 308.036541, 72.062243)" x="308.036541" y="72.062243">31%</text>
    </g>
    <g id="text_13">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 137.216317, 44.426103)" x="137.216317" y="44.426103">1%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 387.752646, 44.426103)" x="387.752646" y="44.426103">46%</text>
    </g>
    <g id="text_14">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 251.944787, 19.535625)" x="251.944787" y="19.535625">Highest level of education, United States</text>
@@ -205,35 +205,35 @@ z
    </g>
    <g id="patch_9">
     <path clip-path="url(#pb27cfc62e2)" d="M 430.74829 135.803821 
-L 410.839599 135.803821 
-L 410.839599 113.69491 
+L 430.839693 135.803821 
+L 430.839693 113.69491 
 L 430.74829 113.69491 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#008000;"/>
    </g>
    <g id="patch_10">
     <path clip-path="url(#pb27cfc62e2)" d="M 430.74829 108.167682 
-L 439.151642 108.167682 
-L 439.151642 86.05877 
+L 445.521281 108.167682 
+L 445.521281 86.05877 
 L 430.74829 86.05877 
 z
 " style="fill:#008000;"/>
    </g>
    <g id="patch_11">
     <path clip-path="url(#pb27cfc62e2)" d="M 430.74829 80.531542 
-L 445.521281 80.531542 
-L 445.521281 58.422631 
+L 439.151642 80.531542 
+L 439.151642 58.422631 
 L 430.74829 58.422631 
 z
 " style="fill:#008000;"/>
    </g>
    <g id="patch_12">
     <path clip-path="url(#pb27cfc62e2)" d="M 430.74829 52.895403 
-L 430.839693 52.895403 
-L 430.839693 30.786491 
+L 410.839599 52.895403 
+L 410.839599 30.786491 
 L 430.74829 30.786491 
 z
-" style="fill:#008000;"/>
+" style="fill:#ffa500;"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_6">

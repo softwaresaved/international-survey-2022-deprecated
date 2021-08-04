@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:36:08.638749</dc:date>
+    <dc:date>2021-08-04T21:05:15.504882</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -142,7 +142,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 214.945126)" x="84.164062" y="214.945126">18 to 24 years</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 214.99122)" x="84.164062" y="214.99122">Prefer not to say</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -152,7 +152,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 183.975835)" x="84.164062" y="183.975835">25 to 34 years</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 183.975835)" x="84.164062" y="183.975835">Age 65 or older</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -162,7 +162,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 153.006543)" x="84.164062" y="153.006543">35 to 44 years</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 153.006543)" x="84.164062" y="153.006543">55 to 64 years</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -182,7 +182,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 91.067959)" x="84.164062" y="91.067959">55 to 64 years</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 91.067959)" x="84.164062" y="91.067959">35 to 44 years</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -192,7 +192,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 60.098667)" x="84.164062" y="60.098667">Age 65 or older</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 60.098667)" x="84.164062" y="60.098667">25 to 34 years</text>
      </g>
     </g>
     <g id="ytick_7">
@@ -202,7 +202,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 29.175469)" x="84.164062" y="29.175469">Prefer not to say</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 84.164062, 29.129375)" x="84.164062" y="29.129375">18 to 24 years</text>
      </g>
     </g>
    </g>

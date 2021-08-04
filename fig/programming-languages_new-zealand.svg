@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:35:11.460199</dc:date>
+    <dc:date>2021-08-04T21:04:21.332379</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -575,7 +575,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_24">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 549.338992)" x="72.485938" y="549.338992">Erlang</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 549.338992)" x="72.485938" y="549.338992">Rust</text>
      </g>
     </g>
     <g id="ytick_16">
@@ -585,7 +585,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_25">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 526.960485)" x="72.485938" y="526.960485">Common Lisp</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 526.899548)" x="72.485938" y="526.899548">Swift</text>
      </g>
     </g>
     <g id="ytick_17">
@@ -595,7 +595,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_26">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 504.460104)" x="72.485938" y="504.460104">Go</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 504.460104)" x="72.485938" y="504.460104">VBA</text>
      </g>
     </g>
     <g id="ytick_18">
@@ -605,7 +605,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_27">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 482.02066)" x="72.485938" y="482.02066">Visual Basic</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 482.02066)" x="72.485938" y="482.02066">Assembly</text>
      </g>
     </g>
     <g id="ytick_19">
@@ -615,7 +615,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_28">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.581215)" x="72.485938" y="459.581215">Assembly</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.581215)" x="72.485938" y="459.581215">Go</text>
      </g>
     </g>
     <g id="ytick_20">
@@ -625,7 +625,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_29">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.141771)" x="72.485938" y="437.141771">VBA</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.202709)" x="72.485938" y="437.202709">Common Lisp</text>
      </g>
     </g>
     <g id="ytick_21">
@@ -635,7 +635,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_30">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 414.702327)" x="72.485938" y="414.702327">Swift</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 414.702327)" x="72.485938" y="414.702327">Erlang</text>
      </g>
     </g>
     <g id="ytick_22">
@@ -645,7 +645,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_31">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 392.262883)" x="72.485938" y="392.262883">Rust</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 392.262883)" x="72.485938" y="392.262883">Visual Basic</text>
      </g>
     </g>
     <g id="ytick_23">
@@ -655,7 +655,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_32">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 369.823439)" x="72.485938" y="369.823439">Lua</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 369.823439)" x="72.485938" y="369.823439">Hack</text>
      </g>
     </g>
     <g id="ytick_24">
@@ -665,7 +665,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_33">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 347.383994)" x="72.485938" y="347.383994">Hack</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 347.383994)" x="72.485938" y="347.383994">Haskell</text>
      </g>
     </g>
     <g id="ytick_25">
@@ -715,7 +715,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_38">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 235.186773)" x="72.485938" y="235.186773">Smalltalk</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 235.186773)" x="72.485938" y="235.186773">Lua</text>
      </g>
     </g>
     <g id="ytick_30">
@@ -725,7 +725,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_39">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 212.747329)" x="72.485938" y="212.747329">Haskell</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 212.747329)" x="72.485938" y="212.747329">Dart</text>
      </g>
     </g>
     <g id="ytick_31">
@@ -735,7 +735,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_40">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 190.307885)" x="72.485938" y="190.307885">Dart</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 190.307885)" x="72.485938" y="190.307885">Smalltalk</text>
      </g>
     </g>
     <g id="ytick_32">

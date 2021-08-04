@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:35:19.866525</dc:date>
+    <dc:date>2021-08-04T21:04:28.325564</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -575,7 +575,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_24">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 504.521041)" x="72.485938" y="504.521041">CoffeeScript</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 504.460104)" x="72.485938" y="504.460104">Scala</text>
      </g>
     </g>
     <g id="ytick_18">
@@ -585,7 +585,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_25">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 482.02066)" x="72.485938" y="482.02066">Elixir</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 482.02066)" x="72.485938" y="482.02066">Erlang</text>
      </g>
     </g>
     <g id="ytick_19">
@@ -595,7 +595,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_26">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.581215)" x="72.485938" y="459.581215">Erlang</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.642153)" x="72.485938" y="459.642153">CoffeeScript</text>
      </g>
     </g>
     <g id="ytick_20">
@@ -605,7 +605,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_27">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.141771)" x="72.485938" y="437.141771">Scala</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.141771)" x="72.485938" y="437.141771">Elixir</text>
      </g>
     </g>
     <g id="ytick_21">
@@ -625,7 +625,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_29">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 392.32382)" x="72.485938" y="392.32382">Common Lisp</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 392.262883)" x="72.485938" y="392.262883">Lua</text>
      </g>
     </g>
     <g id="ytick_23">
@@ -635,7 +635,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_30">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 369.823439)" x="72.485938" y="369.823439">Dart</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 369.884376)" x="72.485938" y="369.884376">Common Lisp</text>
      </g>
     </g>
     <g id="ytick_24">
@@ -645,7 +645,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_31">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 347.383994)" x="72.485938" y="347.383994">F#</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 347.383994)" x="72.485938" y="347.383994">Dart</text>
      </g>
     </g>
     <g id="ytick_25">
@@ -655,7 +655,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_32">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 325.005488)" x="72.485938" y="325.005488">Groovy</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 324.94455)" x="72.485938" y="324.94455">F#</text>
      </g>
     </g>
     <g id="ytick_26">
@@ -665,7 +665,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_33">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 302.505106)" x="72.485938" y="302.505106">Hack</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 302.566044)" x="72.485938" y="302.566044">Groovy</text>
      </g>
     </g>
     <g id="ytick_27">
@@ -675,7 +675,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_34">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 280.065662)" x="72.485938" y="280.065662">Haskell</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 280.065662)" x="72.485938" y="280.065662">Hack</text>
      </g>
     </g>
     <g id="ytick_28">
@@ -685,7 +685,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_35">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 257.626218)" x="72.485938" y="257.626218">Lua</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 257.626218)" x="72.485938" y="257.626218">Haskell</text>
      </g>
     </g>
     <g id="ytick_29">

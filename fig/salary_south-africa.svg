@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-31T20:15:01.994908</dc:date>
+    <dc:date>2021-08-04T21:05:48.261966</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,7 +38,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 227.440185 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 227.440185 
 L 310.755804 227.440185 
 L 310.755804 207.718128 
 L 125.096875 207.718128 
@@ -46,12 +46,12 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pe0c9009c3f)" d="M 0 0 
+    <path clip-path="url(#p8765ca87ab)" d="M 0 0 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 178.135042 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 178.135042 
 L 310.755804 178.135042 
 L 310.755804 158.412985 
 L 125.096875 158.412985 
@@ -59,7 +59,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 153.48247 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 153.48247 
 L 372.642113 153.48247 
 L 372.642113 133.760413 
 L 125.096875 133.760413 
@@ -67,7 +67,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 128.829899 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 128.829899 
 L 434.528423 128.829899 
 L 434.528423 109.107842 
 L 125.096875 109.107842 
@@ -75,7 +75,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 104.177328 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 104.177328 
 L 186.983185 104.177328 
 L 186.983185 84.455271 
 L 125.096875 84.455271 
@@ -83,7 +83,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_9">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 79.524756 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 79.524756 
 L 248.869494 79.524756 
 L 248.869494 59.802699 
 L 125.096875 59.802699 
@@ -91,7 +91,7 @@ z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#pe0c9009c3f)" d="M 125.096875 54.872185 
+    <path clip-path="url(#p8765ca87ab)" d="M 125.096875 54.872185 
 L 186.983185 54.872185 
 L 186.983185 35.150128 
 L 125.096875 35.150128 
@@ -199,7 +199,7 @@ L -3.5 0
      </g>
      <g id="text_9">
       <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(11.5375 167.280263)">Between R 708 311 and</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.614062 177.857138)">R 1 500 000</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.614063 177.857138)">R 1 500 000</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -258,12 +258,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_15">
-    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 287.548437, 19.535625)" x="287.548437" y="19.535625">Salary, South Africa</text>
+    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 287.548438, 19.535625)" x="287.548438" y="19.535625">Salary, South Africa</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pe0c9009c3f">
+  <clipPath id="p8765ca87ab">
    <rect height="211.519063" width="324.903125" x="125.096875" y="25.535625"/>
   </clipPath>
  </defs>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:32:33.632940</dc:date>
+    <dc:date>2021-08-04T21:01:35.053652</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,32 +39,32 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p3663450734)" d="M 122.854688 135.797173 
-L 146.604299 135.797173 
-L 146.604299 113.660271 
+L 132.090647 135.797173 
+L 132.090647 113.660271 
 L 122.854688 113.660271 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#p3663450734)" d="M 122.854688 108.126046 
-L 192.784098 108.126046 
-L 192.784098 85.989144 
+L 376.183873 108.126046 
+L 376.183873 85.989144 
 L 122.854688 85.989144 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_5">
     <path clip-path="url(#p3663450734)" d="M 122.854688 80.454919 
-L 376.183873 80.454919 
-L 376.183873 58.318017 
+L 192.784098 80.454919 
+L 192.784098 58.318017 
 L 122.854688 58.318017 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_6">
     <path clip-path="url(#p3663450734)" d="M 122.854688 52.783791 
-L 132.090647 52.783791 
-L 132.090647 30.646889 
+L 146.604299 52.783791 
+L 146.604299 30.646889 
 L 122.854688 30.646889 
 z
 " style="fill:#1f77b4;"/>
@@ -139,7 +139,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 115.854688, 128.368566)" x="115.854688" y="128.368566">No formal testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(13.025 123.676379)">Test engineers conduct</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(86.39375 134.370441)">testing</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -149,8 +150,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.595313 96.005251)">No formal testing but</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(12.46875 106.845564)">users provide feedback</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 96.063845)">The developers do their</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(65.271875 106.64072)">own testing</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -160,8 +161,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 68.392718)">The developers do their</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(65.271875 78.969593)">own testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.595313 68.334124)">No formal testing but</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(12.46875 79.174436)">users provide feedback</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -171,8 +172,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(13.025 40.662996)">Test engineers conduct</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(86.39375 51.357059)">testing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 115.854688, 45.355184)" x="115.854688" y="45.355184">No formal testing</text>
      </g>
     </g>
    </g>
@@ -182,16 +182,16 @@ L 388.850333 141.054687
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_10">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 161.604299, 127.313879)" x="161.604299" y="127.313879">8%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 147.090647, 127.313879)" x="147.090647" y="127.313879">3%</text>
    </g>
    <g id="text_11">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 207.784098, 99.642751)" x="207.784098" y="99.642751">22%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 391.183873, 99.642751)" x="391.183873" y="99.642751">81%</text>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 391.183873, 71.971624)" x="391.183873" y="71.971624">81%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 207.784098, 71.971624)" x="207.784098" y="71.971624">22%</text>
    </g>
    <g id="text_13">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 147.090647, 44.300496)" x="147.090647" y="44.300496">3%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 161.604299, 44.300496)" x="161.604299" y="44.300496">8%</text>
    </g>
    <g id="text_14">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 255.85251, 19.389375)" x="255.85251" y="19.389375">Testing strategies, United Kingdom</text>
@@ -208,32 +208,32 @@ z
    </g>
    <g id="patch_9">
     <path clip-path="url(#pc29d419dfa)" d="M 446.468546 135.797173 
-L 431.061167 135.797173 
-L 431.061167 113.660271 
+L 437.426018 135.797173 
+L 437.426018 113.660271 
 L 446.468546 113.660271 
 z
 " style="fill:#ffa500;"/>
    </g>
    <g id="patch_10">
     <path clip-path="url(#pc29d419dfa)" d="M 446.468546 108.126046 
-L 413.727867 108.126046 
-L 413.727867 85.989144 
+L 448.272756 108.126046 
+L 448.272756 85.989144 
 L 446.468546 85.989144 
-z
-" style="fill:#ffa500;"/>
-   </g>
-   <g id="patch_11">
-    <path clip-path="url(#pc29d419dfa)" d="M 446.468546 80.454919 
-L 448.272756 80.454919 
-L 448.272756 58.318017 
-L 446.468546 58.318017 
 z
 " style="fill:#008000;"/>
    </g>
+   <g id="patch_11">
+    <path clip-path="url(#pc29d419dfa)" d="M 446.468546 80.454919 
+L 413.727867 80.454919 
+L 413.727867 58.318017 
+L 446.468546 58.318017 
+z
+" style="fill:#ffa500;"/>
+   </g>
    <g id="patch_12">
     <path clip-path="url(#pc29d419dfa)" d="M 446.468546 52.783791 
-L 437.426018 52.783791 
-L 437.426018 30.646889 
+L 431.061167 52.783791 
+L 431.061167 30.646889 
 L 446.468546 30.646889 
 z
 " style="fill:#ffa500;"/>

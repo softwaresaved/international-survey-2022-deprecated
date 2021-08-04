@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:35:09.785987</dc:date>
+    <dc:date>2021-08-04T21:04:20.101711</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -505,7 +505,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_17">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 706.415102)" x="72.485938" y="706.415102">PHP</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 706.476039)" x="72.485938" y="706.476039">TypeScript</text>
      </g>
     </g>
     <g id="ytick_9">
@@ -515,7 +515,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_18">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 684.036595)" x="72.485938" y="684.036595">TypeScript</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 683.975657)" x="72.485938" y="683.975657">PHP</text>
      </g>
     </g>
     <g id="ytick_10">
@@ -535,7 +535,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_20">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 639.096769)" x="72.485938" y="639.096769">Scala</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 639.096769)" x="72.485938" y="639.096769">Ruby</text>
      </g>
     </g>
     <g id="ytick_12">
@@ -545,7 +545,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_21">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 616.657325)" x="72.485938" y="616.657325">Rust</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 616.718262)" x="72.485938" y="616.718262">Groovy</text>
      </g>
     </g>
     <g id="ytick_13">
@@ -555,7 +555,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_22">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 594.217881)" x="72.485938" y="594.217881">Fortran</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 594.217881)" x="72.485938" y="594.217881">Julia</text>
      </g>
     </g>
     <g id="ytick_14">
@@ -565,7 +565,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_23">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 571.778436)" x="72.485938" y="571.778436">Julia</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 571.778436)" x="72.485938" y="571.778436">Fortran</text>
      </g>
     </g>
     <g id="ytick_15">
@@ -575,7 +575,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_24">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 549.39993)" x="72.485938" y="549.39993">Groovy</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 549.338992)" x="72.485938" y="549.338992">Scala</text>
      </g>
     </g>
     <g id="ytick_16">
@@ -585,7 +585,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_25">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 526.899548)" x="72.485938" y="526.899548">Ruby</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 526.899548)" x="72.485938" y="526.899548">Rust</text>
      </g>
     </g>
     <g id="ytick_17">
@@ -615,7 +615,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_28">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.581215)" x="72.485938" y="459.581215">F#</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 459.581215)" x="72.485938" y="459.581215">C#</text>
      </g>
     </g>
     <g id="ytick_20">
@@ -625,7 +625,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_29">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.141771)" x="72.485938" y="437.141771">C#</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 437.141771)" x="72.485938" y="437.141771">Smalltalk</text>
      </g>
     </g>
     <g id="ytick_21">
@@ -695,7 +695,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_36">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 280.065662)" x="72.485938" y="280.065662">Smalltalk</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 72.485938, 280.065662)" x="72.485938" y="280.065662">F#</text>
      </g>
     </g>
     <g id="ytick_28">

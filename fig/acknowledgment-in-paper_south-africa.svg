@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:34:07.798580</dc:date>
+    <dc:date>2021-08-04T21:03:12.765143</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,16 +39,16 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p80e2401ad6)" d="M 181.779688 158.712912 
-L 306.85558 158.712912 
-L 306.85558 137.57366 
+L 206.794866 158.712912 
+L 206.794866 137.57366 
 L 181.779688 137.57366 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#p80e2401ad6)" d="M 181.779688 132.288847 
-L 206.794866 132.288847 
-L 206.794866 111.149595 
+L 431.931473 132.288847 
+L 431.931473 111.149595 
 L 181.779688 111.149595 
 z
 " style="fill:#1f77b4;"/>
@@ -63,16 +63,16 @@ z
    </g>
    <g id="patch_6">
     <path clip-path="url(#p80e2401ad6)" d="M 181.779688 79.440717 
-L 431.931473 79.440717 
-L 431.931473 58.301465 
+L 206.794866 79.440717 
+L 206.794866 58.301465 
 L 181.779688 58.301465 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
     <path clip-path="url(#p80e2401ad6)" d="M 181.779688 53.016652 
-L 206.794866 53.016652 
-L 206.794866 31.877401 
+L 306.85558 53.016652 
+L 306.85558 31.877401 
 L 181.779688 31.877401 
 z
 " style="fill:#1f77b4;"/>
@@ -157,7 +157,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 151.722192)" x="174.779688" y="151.722192">Not mentioned at all</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 151.722192)" x="174.779688" y="151.722192">Named as main author</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -167,8 +167,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(82.5 120.666877)">Acknowledged in the</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(134.210938 131.36094)">main text</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 125.298127)" x="174.779688" y="125.298127">Named as co-author</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -189,7 +188,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 72.449998)" x="174.779688" y="72.449998">Named as co-author</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(82.5 67.818748)">Acknowledged in the</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(134.210938 78.51281)">main text</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -199,7 +199,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 46.025933)" x="174.779688" y="46.025933">Named as main author</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 174.779688, 46.025933)" x="174.779688" y="46.025933">Not mentioned at all</text>
      </g>
     </g>
    </g>

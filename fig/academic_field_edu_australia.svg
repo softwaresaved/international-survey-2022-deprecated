@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:34:36.898774</dc:date>
+    <dc:date>2021-08-04T21:03:45.039838</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -262,7 +262,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 241.912488)" x="134.19375" y="241.912488"> Earth Sciences</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 241.912488)" x="134.19375" y="241.912488"> Mathematical Sciences</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -272,7 +272,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 218.356713)" x="134.19375" y="218.356713"> Mathematical Sciences</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 218.356713)" x="134.19375" y="218.356713"> Earth Sciences</text>
      </g>
     </g>
     <g id="ytick_7">
@@ -293,8 +293,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(47.489063 166.672506)"> Studies in Creative</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.239063 177.249381)">Arts and Writing</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(19.126563 166.613912)"> Philosophy and Religious</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.840625 177.307975)">Studies</text>
      </g>
     </g>
     <g id="ytick_9">
@@ -304,8 +304,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(16.353125 143.119075)"> Psychology and Cognitive</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.61875 153.813137)">Sciences</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 147.689387)" x="134.19375" y="147.689387"> Technology</text>
      </g>
     </g>
     <g id="ytick_10">
@@ -315,7 +314,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_16">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 124.133612)" x="134.19375" y="124.133612"> Technology</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 124.133612)" x="134.19375" y="124.133612"> Environmental Sciences</text>
      </g>
     </g>
     <g id="ytick_11">
@@ -325,8 +324,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_17">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(19.126563 95.946587)"> Philosophy and Religious</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.840625 106.64065)">Studies</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(47.489063 96.005181)"> Studies in Creative</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(63.239063 106.582056)">Arts and Writing</text>
      </g>
     </g>
     <g id="ytick_12">
@@ -346,7 +345,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_19">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 134.19375, 53.466287)" x="134.19375" y="53.466287"> Environmental Sciences</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(16.353125 48.895975)"> Psychology and Cognitive</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(93.61875 59.590037)">Sciences</text>
      </g>
     </g>
    </g>

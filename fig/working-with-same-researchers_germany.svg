@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:33:28.256528</dc:date>
+    <dc:date>2021-08-04T21:02:31.177553</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,8 +39,8 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p16b4aeb551)" d="M 157.853125 112.89473 
-L 239.001938 112.89473 
-L 239.001938 89.123545 
+L 378.332918 112.89473 
+L 378.332918 89.123545 
 L 157.853125 89.123545 
 z
 " style="fill:#1f77b4;"/>
@@ -55,8 +55,8 @@ z
    </g>
    <g id="patch_5">
     <path clip-path="url(#p16b4aeb551)" d="M 157.853125 53.466767 
-L 378.332918 53.466767 
-L 378.332918 29.695582 
+L 239.001938 53.466767 
+L 239.001938 29.695582 
 L 157.853125 29.695582 
 z
 " style="fill:#1f77b4;"/>
@@ -141,8 +141,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 100.015388)">Different researchers,</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 110.592263)">same research group</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 104.648981)" x="150.853125" y="104.648981">Same researcher(s)</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -162,7 +161,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.853125, 45.221019)" x="150.853125" y="45.221019">Same researcher(s)</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(54.8875 40.587425)">Different researchers,</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(56.36875 51.1643)">same research group</text>
      </g>
     </g>
    </g>
@@ -172,13 +172,13 @@ L 389.356908 117.054688
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_10">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.001938, 103.594294)" x="254.001938" y="103.594294">18%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 393.332918, 103.594294)" x="393.332918" y="103.594294">49%</text>
    </g>
    <g id="text_11">
     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 322.901873, 73.880312)" x="322.901873" y="73.880312">33%</text>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 393.332918, 44.166331)" x="393.332918" y="44.166331">49%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 254.001938, 44.166331)" x="254.001938" y="44.166331">18%</text>
    </g>
    <g id="text_13">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.605017, 19.535625)" x="273.605017" y="19.535625">Working with same researchers, Germany</text>
@@ -194,7 +194,10 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#pd3cbb2fc0d)" d="M 0 0 
+    <path clip-path="url(#pd3cbb2fc0d)" d="M 447.219531 112.89473 
+L 415.722418 112.89473 
+L 415.722418 89.123545 
+L 447.219531 89.123545 
 z
 " style="fill:#ffa500;"/>
    </g>
@@ -207,10 +210,7 @@ z
 " style="fill:#ffa500;"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#pd3cbb2fc0d)" d="M 447.219531 53.466767 
-L 415.722418 53.466767 
-L 415.722418 29.695582 
-L 447.219531 29.695582 
+    <path clip-path="url(#pd3cbb2fc0d)" d="M 0 0 
 z
 " style="fill:#ffa500;"/>
    </g>

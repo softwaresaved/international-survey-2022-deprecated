@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:34:34.226780</dc:date>
+    <dc:date>2021-08-04T21:03:41.995851</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,16 +39,16 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p77c0d5e739)" d="M 157.29375 158.712912 
-L 380.686521 158.712912 
-L 380.686521 137.57366 
+L 165.567556 158.712912 
+L 165.567556 137.57366 
 L 157.29375 137.57366 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#p77c0d5e739)" d="M 157.29375 132.288847 
-L 322.769877 132.288847 
-L 322.769877 111.149595 
+L 182.115169 132.288847 
+L 182.115169 111.149595 
 L 157.29375 111.149595 
 z
 " style="fill:#1f77b4;"/>
@@ -63,16 +63,16 @@ z
    </g>
    <g id="patch_6">
     <path clip-path="url(#p77c0d5e739)" d="M 157.29375 79.440717 
-L 182.115169 79.440717 
-L 182.115169 58.301465 
+L 322.769877 79.440717 
+L 322.769877 58.301465 
 L 157.29375 58.301465 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_7">
     <path clip-path="url(#p77c0d5e739)" d="M 157.29375 53.016652 
-L 165.567556 53.016652 
-L 165.567556 31.877401 
+L 380.686521 53.016652 
+L 380.686521 31.877401 
 L 157.29375 31.877401 
 z
 " style="fill:#1f77b4;"/>
@@ -157,7 +157,8 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.29375, 151.722192)" x="150.29375" y="151.722192">PhD</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 147.155005)">HBO (Hoger beroepsonderwijs)</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(110.828125 157.849067)">Bachelor</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -168,7 +169,7 @@ L -3.5 0
      </g>
      <g id="text_8">
       <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(48.773438 120.670002)">WO (Wetenschappelijk</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(71.3875 131.510315)">onderwijs) Master</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(62.48125 131.510315)">onderwijs) Bachelor</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -190,7 +191,7 @@ L -3.5 0
      </g>
      <g id="text_10">
       <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(48.773438 67.821873)">WO (Wetenschappelijk</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(62.48125 78.662185)">onderwijs) Bachelor</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(71.3875 78.662185)">onderwijs) Master</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -200,8 +201,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 41.458745)">HBO (Hoger beroepsonderwijs)</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(110.828125 52.152808)">Bachelor</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 150.29375, 46.025933)" x="150.29375" y="46.025933">PhD</text>
      </g>
     </g>
    </g>
@@ -211,19 +211,19 @@ L 391.856159 165.054688
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 395.686521, 150.728442)" x="395.686521" y="150.728442">50%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 180.567556, 150.728442)" x="180.567556" y="150.728442">2%</text>
    </g>
    <g id="text_13">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 337.769877, 124.304377)" x="337.769877" y="124.304377">37%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 197.115169, 124.304377)" x="197.115169" y="124.304377">6%</text>
    </g>
    <g id="text_14">
     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 197.115169, 97.880313)" x="197.115169" y="97.880313">6%</text>
    </g>
    <g id="text_15">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 197.115169, 71.456248)" x="197.115169" y="71.456248">6%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 337.769877, 71.456248)" x="337.769877" y="71.456248">37%</text>
    </g>
    <g id="text_16">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 180.567556, 45.032183)" x="180.567556" y="45.032183">2%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 395.686521, 45.032183)" x="395.686521" y="45.032183">50%</text>
    </g>
    <g id="text_17">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 274.574955, 19.535625)" x="274.574955" y="19.535625">Highest level of education, Netherlands</text>
@@ -240,16 +240,16 @@ z
    </g>
    <g id="patch_10">
     <path clip-path="url(#p6bf5a2d3c7)" d="M 437.346284 158.712912 
-L 418.014217 158.712912 
-L 418.014217 137.57366 
+L 435.198276 158.712912 
+L 435.198276 137.57366 
 L 437.346284 137.57366 
 z
 " style="fill:#ffa500;"/>
    </g>
    <g id="patch_11">
     <path clip-path="url(#p6bf5a2d3c7)" d="M 437.346284 132.288847 
-L 440.080111 132.288847 
-L 440.080111 111.149595 
+L 444.961946 132.288847 
+L 444.961946 111.149595 
 L 437.346284 111.149595 
 z
 " style="fill:#008000;"/>
@@ -264,16 +264,16 @@ z
    </g>
    <g id="patch_13">
     <path clip-path="url(#p6bf5a2d3c7)" d="M 437.346284 79.440717 
-L 444.961946 79.440717 
-L 444.961946 58.301465 
+L 440.080111 79.440717 
+L 440.080111 58.301465 
 L 437.346284 58.301465 
 z
 " style="fill:#008000;"/>
    </g>
    <g id="patch_14">
     <path clip-path="url(#p6bf5a2d3c7)" d="M 437.346284 53.016652 
-L 435.198276 53.016652 
-L 435.198276 31.877401 
+L 418.014217 53.016652 
+L 418.014217 31.877401 
 L 437.346284 31.877401 
 z
 " style="fill:#ffa500;"/>

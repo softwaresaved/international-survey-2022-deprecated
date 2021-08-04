@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-07-09T14:32:25.386465</dc:date>
+    <dc:date>2021-08-04T21:01:25.954732</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,16 +39,16 @@ z
    </g>
    <g id="patch_3">
     <path clip-path="url(#p53c4b2d07a)" d="M 34.11875 61.349276 
-L 113.268484 61.349276 
-L 113.268484 46.190058 
+L 358.632659 61.349276 
+L 358.632659 46.190058 
 L 34.11875 46.190058 
 z
 " style="fill:#1f77b4;"/>
    </g>
    <g id="patch_4">
     <path clip-path="url(#p53c4b2d07a)" d="M 34.11875 42.400254 
-L 358.632659 42.400254 
-L 358.632659 27.241037 
+L 113.268484 42.400254 
+L 113.268484 27.241037 
 L 34.11875 27.241037 
 z
 " style="fill:#1f77b4;"/>
@@ -163,7 +163,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 27.11875, 57.348573)" x="27.11875" y="57.348573">Yes</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 27.11875, 57.348573)" x="27.11875" y="57.348573">No</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -173,7 +173,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 27.11875, 38.399552)" x="27.11875" y="38.399552">No</text>
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 27.11875, 38.399552)" x="27.11875" y="38.399552">Yes</text>
      </g>
     </g>
    </g>
@@ -183,10 +183,10 @@ L 374.858354 63.054688
 " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
    </g>
    <g id="text_12">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 128.268484, 56.354823)" x="128.268484" y="56.354823">20%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 373.632659, 56.354823)" x="373.632659" y="56.354823">80%</text>
    </g>
    <g id="text_13">
-    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 373.632659, 37.405802)" x="373.632659" y="37.405802">80%</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 128.268484, 37.405802)" x="128.268484" y="37.405802">20%</text>
    </g>
    <g id="text_14">
     <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 204.488552, 19.535625)" x="204.488552" y="19.535625">Presence of transition plan, Netherlands</text>
@@ -203,19 +203,19 @@ z
    </g>
    <g id="patch_7">
     <path clip-path="url(#p9afeff1d7b)" d="M 423.683498 61.349276 
-L 401.55755 61.349276 
-L 401.55755 46.190058 
+L 445.809446 61.349276 
+L 445.809446 46.190058 
 L 423.683498 46.190058 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#008000;"/>
    </g>
    <g id="patch_8">
     <path clip-path="url(#p9afeff1d7b)" d="M 423.683498 42.400254 
-L 445.809446 42.400254 
-L 445.809446 27.241037 
+L 401.55755 42.400254 
+L 401.55755 27.241037 
 L 423.683498 27.241037 
 z
-" style="fill:#008000;"/>
+" style="fill:#ffa500;"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_10">
