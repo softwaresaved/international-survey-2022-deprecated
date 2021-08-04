@@ -79,7 +79,7 @@ def run(survey_year, data="data/public_merged.csv"):
                 country, category, survey_year, multi_choice=True, disable_past_year=True
             )
             countries[-1].update(table_country(country, "ethnicity", ethnicity_data))
-            plot_cat_comparison(results, country=country, category=category)
+            plot_cat_comparison(ethnicity_data, country=country, category=category)
             countries[-1].update(figure_country(country, "ethnicity", plt))
 
             disability_data = count_diff(
