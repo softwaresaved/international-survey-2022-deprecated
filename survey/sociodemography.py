@@ -94,6 +94,7 @@ def run(survey_year, data="data/public_merged.csv"):
             plot_cat_comparison(disability_data, country=country, category=category)
             countries[-1].update(figure_country(country, "disability", plt))
         if country == "United States":
+            category = 'Whether Hispanic or Latino'
             hispanic_latino_data = count_diff(
                 ethnicity_df, ethn_us, country, category, survey_year, y_n=True
             )
