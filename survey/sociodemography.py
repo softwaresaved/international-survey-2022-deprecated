@@ -28,7 +28,7 @@ age_order = [
     "Prefer not to say",
 ]
 
-gender = ["socio2. Please select your gender"]
+gender = ["socio2._.Please select your gender"]
 
 ethn_us = ["socio5usqus._.Do you consider yourself Hispanic or Latino"]
 
@@ -37,8 +37,10 @@ disability = [
 ]
 
 
-def read_anonymised_data(survey_year, data, fillna='No'):
-    df = pd.read_csv(data).fillna(fillna)
+def read_anonymised_data(survey_year, data, fillna=None):
+    df = pd.read_csv(data)
+    if fillna:
+        df = df.fillna(fillna)
     df["socio1._.In which country do you work?"].replace(
         {
             "United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
@@ -53,24 +55,21 @@ def read_anonymised_data(survey_year, data, fillna='No'):
 
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
-    df = read_cache("processed_data").fillna('')
     ethnicity_df = read_anonymised_data(survey_year, 'data/2018_ethnicity.csv')
-    disability_df = read_anonymised_data(survey_year, 'data/2018_disability.csv')
+    disability_df = read_anonymised_data(survey_year, 'data/2018_disability.csv', fillna='No')
+    gender_df = read_anonymised_data(survey_year, 'data/2018_gender.csv')
     countries = []
     for country in COUNTRIES_WITH_WORLD:
         countries.append({"country": country})
-        for category, columns, order_index in [
-            ("Age", age, age_order),
-            ("Gender", gender, False),
-        ]:
-            results = count_diff(
-                df, columns, country, category, survey_year, order_index=order_index
-            )
-            countries[-1].update(table_country(country, slugify(category), results))
-            plot_cat_comparison(
-                results, country=country, category=category, order_index=order_index
-            )
-            countries[-1].update(figure_country(country, slugify(category), plt))
+        results = count_diff(
+            gender_df, gender, country, "Gender", survey_year,
+            order_index=False, disable_past_year=True
+        )
+        countries[-1].update(table_country(country, "gender", results))
+        plot_cat_comparison(
+            results, country=country, category="Gender", order_index=False
+        )
+        countries[-1].update(figure_country(country, "gender", plt))
         if country == "United Kingdom":
             category = 'Ethnicity'
             ethnicity_data = count_diff(
