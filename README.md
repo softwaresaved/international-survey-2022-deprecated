@@ -30,10 +30,12 @@ python -m pip install -r requirements.txt
 ```
 
 The survey analysis configuration is
-via environment variables. Use the following to set the environment variables on macOS and Linux. If you are on Windows, use the documentation linked [here](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1).
+via optional environment variables. If you have cloned this repository, then you shouldn't need to set any configuration, as the defaults are fine.
+
+Use the following to set the environment variables on macOS and Linux. If you are on Windows, use the documentation linked [here](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1).
 
 ```bash
-export RSE_SURVEY_YEAR=2018  # required
+export RSE_SURVEY_YEAR=2018  # optional, this is detected automatically if in a folder like *-2018
 export RSE_SURVEY_YEAR_PREV=2017  # optional, only needed if previous year != current year - 1
 export RSE_SURVEY_FIGURE_TYPE=svg  # optional, set to pdf or png to generate figures in that format
 export RSE_SURVEY_FIGURE_DPI=300  # optional, set dpi for png or pdf output formats
