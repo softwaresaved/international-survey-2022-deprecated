@@ -11,6 +11,9 @@ tags
 
 # Whitelist only cherry-picked csv files
 
+# 2022 survey data preparation scripts
+!/prep_scripts/*
+
 # 2018 survey
 !/2018/data/public_merged.csv
 !/2018/data/public_data.csv
