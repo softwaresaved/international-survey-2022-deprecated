@@ -1,5 +1,7 @@
 Testing strategies for World,Count,Percentage
-No formal testing,6,10.909090909090908
-No formal testing but users provide feedback,14,25.454545454545453
-The developers do their own testing,35,63.63636363636363
-Test engineers conduct testing,4,7.2727272727272725
+No formal testing,110.0,11.156186612576064
+No formal testing but users provide feedback,236.0,23.935091277890468
+The developers do their own testing,592.0,60.04056795131846
+Test engineers conduct testing,33.0,3.3468559837728193
+Automated testing with continuous integration,494.0,50.10141987829615
+Don't know,10.0,1.0141987829614605

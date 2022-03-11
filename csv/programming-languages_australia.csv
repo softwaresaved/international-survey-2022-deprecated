@@ -1,37 +1,43 @@
 Programming languages for Australia,Count,Percentage
-Python,68.0,68.68686868686868
-R,39.0,39.39393939393939
-SQL,34.0,34.34343434343434
-C++,32.0,32.323232323232325
-C,31.0,31.313131313131315
-JavaScript,26.0,26.262626262626267
-Fortran,22.0,22.22222222222222
-Java,20.0,20.2020202020202
-C#,12.0,12.121212121212121
-Matlab,12.0,12.121212121212121
-PHP,9.0,9.090909090909092
-Perl,8.0,8.080808080808081
-Ruby,5.0,5.05050505050505
-Go,5.0,5.05050505050505
-Julia,3.0,3.0303030303030303
-VB.NET,2.0,2.0202020202020203
-VBA,2.0,2.0202020202020203
-Lua,2.0,2.0202020202020203
-Visual Basic,2.0,2.0202020202020203
-Groovy,2.0,2.0202020202020203
-Haskell,1.0,1.0101010101010102
-Scala,1.0,1.0101010101010102
-Clojure,1.0,1.0101010101010102
-TypeScript,1.0,1.0101010101010102
-Rust,1.0,1.0101010101010102
-F#,1.0,1.0101010101010102
+Python,23.0,71.875
+R,12.0,37.5
+SQL,8.0,25.0
+C++,7.0,21.875
+C,6.0,18.75
+JavaScript,6.0,18.75
+Fortran,6.0,18.75
+Julia,4.0,12.5
+Perl,3.0,9.375
+Java,3.0,9.375
+PHP,2.0,6.25
+Assembly,2.0,6.25
+Groovy,1.0,3.125
+Rust,1.0,3.125
+Matlab,1.0,3.125
+Ruby,0.0,0.0
+Smalltalk,0.0,0.0
+TypeScript,0.0,0.0
+VB.NET,0.0,0.0
+VBA,0.0,0.0
+Scala,0.0,0.0
+Visual Basic,0.0,0.0
+other. What programming languages do you use at work? Please select all that apply. ,0.0,0.0
+CUDA,0.0,0.0
+FORTRAN,0.0,0.0
+"Markup languages (HTML, markdown,..)",0.0,0.0
+Swift,0.0,0.0
+,0.0,0.0
+Objective-C,0.0,0.0
+Lua,0.0,0.0
+Haskell,0.0,0.0
+Hack,0.0,0.0
+Go,0.0,0.0
+F#,0.0,0.0
+Erlang,0.0,0.0
 Elixir,0.0,0.0
 Dart,0.0,0.0
-Hack,0.0,0.0
-Erlang,0.0,0.0
-Smalltalk,0.0,0.0
 Common Lisp,0.0,0.0
-Swift,0.0,0.0
 CoffeeScript,0.0,0.0
-Objective-C,0.0,0.0
-Assembly,0.0,0.0
+Clojure,0.0,0.0
+C#,0.0,0.0
+Unix Shell Scripting,0.0,0.0

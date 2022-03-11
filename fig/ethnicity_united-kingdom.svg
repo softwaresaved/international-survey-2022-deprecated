@@ -1,258 +1,274 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="528pt" version="1.1" viewBox="0 0 460.8 528" width="460.8pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="576pt" viewBox="0 0 460.8 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
-  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-08-06T01:15:20.657411</dc:date>
+    <dc:date>2022-03-08T15:12:11.914180</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
   </rdf:RDF>
  </metadata>
  <defs>
-  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 528 
-L 460.8 528 
+   <path d="M 0 576 
+L 460.8 576 
 L 460.8 0 
 L 0 0 
 z
-" style="fill:#ffffff;"/>
+" style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 145.085938 501.054688 
-L 450 501.054688 
-L 450 25.389375 
-L 145.085938 25.389375 
+    <path d="M 145.085938 548.942188 
+L 450 548.942188 
+L 450 25.43625 
+L 145.085938 25.43625 
 z
-" style="fill:#ffffff;"/>
+" style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 479.433537 
-L 435.480283 479.433537 
-L 435.480283 461.032558 
-L 145.085938 461.032558 
+    <path d="M 145.085938 525.146463 
+L 435.480283 525.146463 
+L 435.480283 506.84206 
+L 145.085938 506.84206 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 456.432313 
-L 280.915551 456.432313 
-L 280.915551 438.031334 
-L 145.085938 438.031334 
+    <path d="M 145.085938 502.265959 
+L 280.915551 502.265959 
+L 280.915551 483.961555 
+L 145.085938 483.961555 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 433.431089 
-L 168.504836 433.431089 
-L 168.504836 415.03011 
-L 145.085938 415.03011 
+    <path d="M 145.085938 479.385455 
+L 168.504836 479.385455 
+L 168.504836 461.081051 
+L 145.085938 461.081051 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 410.429865 
-L 161.479167 410.429865 
-L 161.479167 392.028886 
-L 145.085938 392.028886 
+    <path d="M 145.085938 456.50495 
+L 161.479167 456.50495 
+L 161.479167 438.200547 
+L 145.085938 438.200547 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 387.428641 
-L 154.453497 387.428641 
-L 154.453497 369.027662 
-L 145.085938 369.027662 
+    <path d="M 145.085938 433.624446 
+L 154.453497 433.624446 
+L 154.453497 415.320043 
+L 145.085938 415.320043 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 364.427417 
-L 149.769717 364.427417 
-L 149.769717 346.026438 
-L 145.085938 346.026438 
+    <path d="M 145.085938 410.743942 
+L 149.769717 410.743942 
+L 149.769717 392.439538 
+L 145.085938 392.439538 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 341.426193 
-L 149.769717 341.426193 
-L 149.769717 323.025214 
-L 145.085938 323.025214 
+    <path d="M 145.085938 387.863438 
+L 149.769717 387.863438 
+L 149.769717 369.559034 
+L 145.085938 369.559034 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 318.424969 
-L 147.427827 318.424969 
-L 147.427827 300.02399 
-L 145.085938 300.02399 
+    <path d="M 145.085938 364.982933 
+L 147.427827 364.982933 
+L 147.427827 346.67853 
+L 145.085938 346.67853 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_11">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 295.423745 
-L 147.427827 295.423745 
-L 147.427827 277.022766 
-L 145.085938 277.022766 
+    <path d="M 145.085938 342.102429 
+L 147.427827 342.102429 
+L 147.427827 323.798026 
+L 145.085938 323.798026 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_12">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 272.422521 
-L 147.427827 272.422521 
-L 147.427827 254.021542 
-L 145.085938 254.021542 
+    <path d="M 145.085938 319.221925 
+L 147.427827 319.221925 
+L 147.427827 300.917521 
+L 145.085938 300.917521 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_13">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 249.421297 
-L 145.085938 249.421297 
-L 145.085938 231.020318 
-L 145.085938 231.020318 
+    <path d="M 145.085938 296.34142 
+L 145.085938 296.34142 
+L 145.085938 278.037017 
+L 145.085938 278.037017 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_14">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 226.420073 
-L 145.085938 226.420073 
-L 145.085938 208.019094 
-L 145.085938 208.019094 
+    <path d="M 145.085938 273.460916 
+L 145.085938 273.460916 
+L 145.085938 255.156513 
+L 145.085938 255.156513 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_15">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 203.418849 
-L 145.085938 203.418849 
-L 145.085938 185.01787 
-L 145.085938 185.01787 
+    <path d="M 145.085938 250.580412 
+L 145.085938 250.580412 
+L 145.085938 232.276009 
+L 145.085938 232.276009 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_16">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 180.417625 
-L 145.085938 180.417625 
-L 145.085938 162.016646 
-L 145.085938 162.016646 
+    <path d="M 145.085938 227.699908 
+L 145.085938 227.699908 
+L 145.085938 209.395504 
+L 145.085938 209.395504 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_17">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 157.416401 
-L 145.085938 157.416401 
-L 145.085938 139.015422 
-L 145.085938 139.015422 
+    <path d="M 145.085938 204.819403 
+L 145.085938 204.819403 
+L 145.085938 186.515 
+L 145.085938 186.515 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_18">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 134.415177 
-L 145.085938 134.415177 
-L 145.085938 116.014198 
-L 145.085938 116.014198 
+    <path d="M 145.085938 181.938899 
+L 145.085938 181.938899 
+L 145.085938 163.634496 
+L 145.085938 163.634496 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_19">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 111.413953 
-L 145.085938 111.413953 
-L 145.085938 93.012974 
-L 145.085938 93.012974 
+    <path d="M 145.085938 159.058395 
+L 145.085938 159.058395 
+L 145.085938 140.753991 
+L 145.085938 140.753991 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_20">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 88.412729 
-L 145.085938 88.412729 
-L 145.085938 70.01175 
-L 145.085938 70.01175 
+    <path d="M 145.085938 136.177891 
+L 145.085938 136.177891 
+L 145.085938 117.873487 
+L 145.085938 117.873487 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_21">
-    <path clip-path="url(#p24fab2c69a)" d="M 145.085938 65.411505 
-L 145.085938 65.411505 
-L 145.085938 47.010526 
-L 145.085938 47.010526 
+    <path d="M 145.085938 113.297386 
+L 145.085938 113.297386 
+L 145.085938 94.992983 
+L 145.085938 94.992983 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 145.085938 90.416882 
+L 145.085938 90.416882 
+L 145.085938 72.112479 
+L 145.085938 72.112479 
+z
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 145.085938 67.536378 
+L 145.085938 67.536378 
+L 145.085938 49.231974 
+L 145.085938 49.231974 
+z
+" clip-path="url(#p809b9ff644)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path d="M 0 0 
+       <path id="m4c99cd72f3" d="M 0 0 
 L 0 3.5 
-" id="mc3a356a46d" style="stroke:#000000;stroke-width:0.8;"/>
+" style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="145.085938" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 145.085938, 515.2125)" x="145.085938" y="515.2125">0</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="145.085938" y="563.115625" transform="rotate(-0, 145.085938, 563.115625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="200.354539" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="200.354539" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 200.354539, 515.2125)" x="200.354539" y="515.2125">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="200.354539" y="563.115625" transform="rotate(-0, 200.354539, 563.115625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="255.62314" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="255.62314" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 255.62314, 515.2125)" x="255.62314" y="515.2125">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="255.62314" y="563.115625" transform="rotate(-0, 255.62314, 563.115625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="310.891741" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="310.891741" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 310.891741, 515.2125)" x="310.891741" y="515.2125">30</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="310.891741" y="563.115625" transform="rotate(-0, 310.891741, 563.115625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="366.160342" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="366.160342" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 366.160342, 515.2125)" x="366.160342" y="515.2125">40</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="366.160342" y="563.115625" transform="rotate(-0, 366.160342, 563.115625)">40</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="421.428943" xlink:href="#mc3a356a46d" y="501.054688"/>
+       <use xlink:href="#m4c99cd72f3" x="421.428943" y="548.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 421.428943, 515.2125)" x="421.428943" y="515.2125">50</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="421.428943" y="563.115625" transform="rotate(-0, 421.428943, 563.115625)">50</text>
      </g>
     </g>
    </g>
@@ -260,230 +276,250 @@ L 0 3.5
     <g id="ytick_1">
      <g id="line2d_7">
       <defs>
-       <path d="M 0 0 
+       <path id="m8e343aef83" d="M 0 0 
 L -3.5 0 
-" id="m82278324de" style="stroke:#000000;stroke-width:0.8;"/>
+" style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="470.233047"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="515.994261" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.229687 463.953204)">White: English / Welsh</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(49.721875 474.647266)">/ Scottish / Northern</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(83.078125 485.224141)">Irish / British</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(38.054688 509.55348)">White: English / Welsh</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(49.721875 520.374105)">/ Scottish / Northern</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(83.078125 531.066605)">Irish / British</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_8">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="447.231823"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="493.113757" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(36.379687 446.17948)">White: Any other White</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(85.829688 456.873542)">background</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(35.829687 492.041882)">White: Any other White</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(85.829688 502.821882)">background</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_9">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="424.230599"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="470.233253" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 138.085938, 427.809506)" x="138.085938" y="427.809506">White: Irish</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="138.085938" y="473.819972" transform="rotate(-0, 138.085938, 473.819972)">White: Irish</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_10">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="401.229375"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="447.352749" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 138.085938, 404.808282)" x="138.085938" y="404.808282">Do not wish to declare</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="138.085938" y="450.939467" transform="rotate(-0, 138.085938, 450.939467)">Do not wish to declare</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_11">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="378.228151"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="424.472244" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.051562 371.88737)">Mixed / Multiple Ethnic</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(30.254687 382.464245)">groups: Any other Mixed</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(10.8 393.304558)">/ Multiple ethnic background,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(38.051562 418.005682)">Mixed / Multiple Ethnic</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(29.704687 428.726307)">groups: Any other Mixed</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 439.575057)">/ Multiple ethnic background,</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_12">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="355.226927"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="401.59174" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(46.934375 354.233177)">Asian / Asian British:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(110.842187 364.810052)">Indian</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(51.378125 400.583146)">Other Ethnic group:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(116.964062 411.403771)">Arab</text>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_13">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="332.225703"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="378.711236" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(51.378125 331.237422)">Other Ethnic group:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(116.964062 341.931485)">Arab</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(46.384375 377.669048)">Asian / Asian British:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(110.842187 388.361548)">Indian</text>
      </g>
     </g>
     <g id="ytick_8">
      <g id="line2d_14">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="309.224479"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="355.830732" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(46.934375 308.230729)">Asian / Asian British:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(83.045312 318.807604)">Bangladeshi</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(19.703125 354.788544)">Black / African / Caribbean</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(25.820312 365.481044)">/ Black British: Caribbean</text>
      </g>
     </g>
     <g id="ytick_9">
      <g id="line2d_15">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="286.223255"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="332.950227" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.051562 285.290443)">Mixed / Multiple Ethnic</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(29.692187 295.867318)">groups: White and Asian</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(38.051562 331.90804)">Mixed / Multiple Ethnic</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(29.142187 342.628665)">groups: White and Asian</text>
      </g>
     </g>
     <g id="ytick_10">
      <g id="line2d_16">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="263.222031"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="310.069723" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(20.253125 262.228281)">Black / African / Caribbean</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(25.820312 272.805156)">/ Black British: Caribbean</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(46.384375 309.015817)">Asian / Asian British:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(83.045312 319.736442)">Bangladeshi</text>
      </g>
     </g>
     <g id="ytick_11">
      <g id="line2d_17">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="240.220807"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="287.189219" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_17">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(51.378125 239.232526)">Other Ethnic group:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(37.473437 249.926588)">Any other ethnic group</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="138.085938" y="290.775937" transform="rotate(-0, 138.085938, 290.775937)">Other</text>
      </g>
     </g>
     <g id="ytick_12">
      <g id="line2d_18">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="217.219583"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="264.308714" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.051562 210.939739)">Mixed / Multiple Ethnic</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(29.703125 221.516614)">groups: White and Black</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(91.946875 232.210677)">Caribbean</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(45.292187 263.334496)">White: Gypsy or Irish</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(99.192187 274.086371)">Traveller</text>
      </g>
     </g>
     <g id="ytick_13">
      <g id="line2d_19">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="194.218359"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="241.42821" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_19">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.051562 187.938515)">Mixed / Multiple Ethnic</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(29.703125 198.51539)">groups: White and Black</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(106.964062 209.209453)">African</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(19.703125 240.386023)">Black / African / Caribbean</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(38.059375 251.078523)">/ Black British:  African</text>
      </g>
     </g>
     <g id="ytick_14">
      <g id="line2d_20">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="171.217135"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="218.547706" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_20">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(45.292187 170.225729)">White: Gypsy or Irish</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(99.567187 180.919791)">Traveller</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(51.378125 217.527393)">Other Ethnic group:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(37.473437 228.376143)">Any other ethnic group</text>
      </g>
     </g>
     <g id="ytick_15">
      <g id="line2d_21">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="148.215911"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="195.667202" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_21">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(46.934375 147.222161)">Asian / Asian British:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(101.398438 157.799036)">Chinese</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(19.703125 183.791108)">Black / African / Caribbean</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(54.728125 194.511733)">/ Black British: Any</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(48.607812 205.263608)">other Black / African</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(31.35625 216.190483)">/ Caribbean background</text>
      </g>
     </g>
     <g id="ytick_16">
      <g id="line2d_22">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="125.214687"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="172.786697" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_22">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(46.934375 124.220937)">Asian / Asian British:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(13.009375 134.797812)">Any other Asian background</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(46.384375 171.74451)">Asian / Asian British:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(97.510937 182.43701)">Pakistani</text>
      </g>
     </g>
     <g id="ytick_17">
      <g id="line2d_23">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="102.213463"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="149.906193" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_23">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(20.253125 101.219713)">Black / African / Caribbean</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(38.609375 111.796588)">/ Black British:  African</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(46.384375 148.852287)">Asian / Asian British:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(12.459375 159.572912)">Any other Asian background</text>
      </g>
     </g>
     <g id="ytick_18">
      <g id="line2d_24">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="79.212239"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="127.025689" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_24">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(20.253125 67.448958)">Black / African / Caribbean</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(55.278125 78.172083)">/ Black British: Any</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(49.157812 88.866145)">other Black / African</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(31.35625 99.58927)">/ Caribbean background</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(46.384375 125.983501)">Asian / Asian British:</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(101.398438 136.676001)">Chinese</text>
      </g>
     </g>
     <g id="ytick_19">
      <g id="line2d_25">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="145.085938" xlink:href="#m82278324de" y="56.211015"/>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="104.145185" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_25">
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(46.934375 55.217265)">Asian / Asian British:</text>
-      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(97.510937 65.79414)">Pakistani</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(38.051562 97.690341)">Mixed / Multiple Ethnic</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(29.703125 108.410966)">groups: White and Black</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(106.964062 119.231591)">African</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="81.26468" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 10px 'sans-serif'" transform="translate(38.051562 74.809837)">Mixed / Multiple Ethnic</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(29.703125 85.530462)">groups: White and Black</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(91.946875 96.351087)">Caribbean</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m8e343aef83" x="145.085938" y="58.384176" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="138.085938" y="61.970895" transform="rotate(-0, 138.085938, 61.970895)">Year</text>
      </g>
     </g>
    </g>
-   <g id="text_26">
-    <text style="font-family:Arial;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 297.542969, 19.389375)" x="297.542969" y="19.389375">Ethnicity, United Kingdom</text>
+   <g id="text_28">
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="297.542969" y="19.43625" transform="rotate(-0, 297.542969, 19.43625)">Ethnicity, United Kingdom</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p24fab2c69a">
-   <rect height="475.665312" width="304.914062" x="145.085938" y="25.389375"/>
+  <clipPath id="p809b9ff644">
+   <rect x="145.085938" y="25.43625" width="304.914062" height="523.505938"/>
   </clipPath>
  </defs>
 </svg>

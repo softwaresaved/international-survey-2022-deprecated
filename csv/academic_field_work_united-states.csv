@@ -1,47 +1,66 @@
-field of work for United States,Count,Percentage,Percentage in 2017,Difference with previous year
-Physics and Astronomy,63,42.857142857142854,24.539877300613497,18.317265556529357
-Computer Science,59,40.136054421768705,56.44171779141104,-16.305663369642332
-Biological Sciences,39,26.53061224489796,32.515337423312886,-5.9847251784149265
-Geography & Environmental Sciences,23,15.646258503401361,12.269938650306749,3.3763198530946124
-Mathematics,15,10.204081632653061,14.11042944785276,-3.906347815199698
-Medicine,9,6.122448979591836,7.975460122699387,-1.8530111431075502
-Economics,8,5.442176870748299,3.6809815950920246,1.7611952756562745
-Electrical & Electronic Engineering,8,5.442176870748299,7.975460122699387,-2.5332832519510875
-Geology,6,4.081632653061225,14.11042944785276,-10.028796794791536
-Chemical Engineering,6,4.081632653061225,5.521472392638037,-1.4398397395768123
-Materials Technology,5,3.4013605442176873,7.975460122699387,-4.574099578481699
-Education,5,3.4013605442176873,6.134969325153374,-2.733608780935687
-Social Policy,5,3.4013605442176873,0.6134969325153374,2.78786361170235
-Sociology,5,3.4013605442176873,3.6809815950920246,-0.2796210508743373
-Chemistry,4,2.7210884353741496,14.11042944785276,-11.38934101247861
-Pharmacology & Pharmacy,4,2.7210884353741496,1.2269938650306749,1.4940945703434747
-Anthropology,4,2.7210884353741496,1.8404907975460123,0.8805976378281373
-Mechanical Engineering,4,2.7210884353741496,12.269938650306749,-9.5488502149326
-Politics,3,2.0408163265306123,2.4539877300613497,-0.41317140353073745
-Communication & Media Studies,3,2.0408163265306123,0.6134969325153374,1.4273193940152749
-Anatomy & Physiology,3,2.0408163265306123,1.2269938650306749,0.8138224614999374
-Psychology,3,2.0408163265306123,3.6809815950920246,-1.6401652685614123
-Business & Management Studies,3,2.0408163265306123,1.2269938650306749,0.8138224614999374
-History,3,2.0408163265306123,0.6134969325153374,1.4273193940152749
-Librarianship & Information Management,3,2.0408163265306123,3.6809815950920246,-1.6401652685614123
-Linguistics,3,2.0408163265306123,1.2269938650306749,0.8138224614999374
-Robotics,2,1.3605442176870748,4.294478527607362,-2.9339343099202875
-Theology & Religious Studies,2,1.3605442176870748,,
-Middle Eastern and African Studies,2,1.3605442176870748,,
-Accounting & Finance,2,1.3605442176870748,0.6134969325153374,0.7470472851717374
-General Engineering,2,1.3605442176870748,5.521472392638037,-4.160928174950962
-Agriculture & Forestry,2,1.3605442176870748,3.067484662576687,-1.7069404448896124
-Civil Engineering,2,1.3605442176870748,5.521472392638037,-4.160928174950962
-Art & Design,2,1.3605442176870748,0.6134969325153374,0.7470472851717374
-Architecture,2,1.3605442176870748,0.6134969325153374,0.7470472851717374
-American Studies,2,1.3605442176870748,,
-Veterinary Medicine,2,1.3605442176870748,1.2269938650306749,0.13355035265639992
-Marketing,1,0.6802721088435374,1.8404907975460123,-1.160218688702475
-Law,1,0.6802721088435374,,
-Land & Property Management,1,0.6802721088435374,,
-English,1,0.6802721088435374,,
-Philosophy,1,0.6802721088435374,,
-Criminology,1,0.6802721088435374,,
-Complementary Medicine,1,0.6802721088435374,,
-Classics & Ancient History,1,0.6802721088435374,,
-Town & Country Planning and Landscape Design,1,0.6802721088435374,0.6134969325153374,0.06677517632819996
+field of work for United States,Count,Percentage
+SQ017. Please select the discipline(s) in which you work. Please select all that apply. ,75.0,46.875
+SQ009. Please select the discipline(s) in which you work. Please select all that apply. ,43.0,26.875
+SQ052. Please select the discipline(s) in which you work. Please select all that apply. ,42.0,26.25
+SQ029. Please select the discipline(s) in which you work. Please select all that apply. ,23.0,14.374999999999998
+SQ043. Please select the discipline(s) in which you work. Please select all that apply. ,21.0,13.125
+SQ042. Please select the discipline(s) in which you work. Please select all that apply. ,16.0,10.0
+SQ012. Please select the discipline(s) in which you work. Please select all that apply. ,13.0,8.125
+SQ045. Please select the discipline(s) in which you work. Please select all that apply. ,13.0,8.125
+SQ055. Please select the discipline(s) in which you work. Please select all that apply. ,12.0,7.5
+SQ060. Please select the discipline(s) in which you work. Please select all that apply. ,12.0,7.5
+SQ022. Please select the discipline(s) in which you work. Please select all that apply. ,11.0,6.875000000000001
+SQ039. Please select the discipline(s) in which you work. Please select all that apply. ,10.0,6.25
+SQ030. Please select the discipline(s) in which you work. Please select all that apply. ,9.0,5.625
+SQ044. Please select the discipline(s) in which you work. Please select all that apply. ,9.0,5.625
+SQ003. Please select the discipline(s) in which you work. Please select all that apply. ,9.0,5.625
+SQ013. Please select the discipline(s) in which you work. Please select all that apply. ,9.0,5.625
+SQ054. Please select the discipline(s) in which you work. Please select all that apply. ,8.0,5.0
+SQ040. Please select the discipline(s) in which you work. Please select all that apply. ,8.0,5.0
+SQ011. Please select the discipline(s) in which you work. Please select all that apply. ,8.0,5.0
+SQ031. Please select the discipline(s) in which you work. Please select all that apply. ,8.0,5.0
+SQ033. Please select the discipline(s) in which you work. Please select all that apply. ,8.0,5.0
+SQ023. Please select the discipline(s) in which you work. Please select all that apply. ,7.0,4.375
+SQ024. Please select the discipline(s) in which you work. Please select all that apply. ,7.0,4.375
+SQ006. Please select the discipline(s) in which you work. Please select all that apply. ,6.0,3.75
+SQ025. Please select the discipline(s) in which you work. Please select all that apply. ,5.0,3.125
+SQ038. Please select the discipline(s) in which you work. Please select all that apply. ,5.0,3.125
+SQ058. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ056. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ002. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ001. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ010. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ019. Please select the discipline(s) in which you work. Please select all that apply. ,4.0,2.5
+SQ028. Please select the discipline(s) in which you work. Please select all that apply. ,3.0,1.875
+SQ021. Please select the discipline(s) in which you work. Please select all that apply. ,3.0,1.875
+SQ008. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ034. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ063. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ005. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ014. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ051. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ004. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ015. Please select the discipline(s) in which you work. Please select all that apply. ,2.0,1.25
+SQ047. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ059. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ032. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ016. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ046. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ057. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ018. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ041. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ020. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ027. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ007. Please select the discipline(s) in which you work. Please select all that apply. ,1.0,0.625
+SQ061. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ062. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ064. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ048. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ053. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ050. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ049. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ026. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ037. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ036. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ035. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0
+SQ065. Please select the discipline(s) in which you work. Please select all that apply. ,0.0,0.0

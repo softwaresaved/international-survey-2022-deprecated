@@ -1,5 +1,7 @@
-Testing strategies for South Africa,Count,Percentage,Percentage in 2017,Difference with previous year
-No formal testing,3,13.043478260869565,26.31578947368421,-13.272311212814644
-No formal testing but users provide feedback,11,47.82608695652174,42.10526315789473,5.720823798627009
-The developers do their own testing,14,60.86956521739131,57.89473684210527,2.9748283752860445
-Test engineers conduct testing,1,4.3478260869565215,10.526315789473683,-6.178489702517162
+Testing strategies for South Africa,Count,Percentage
+No formal testing,1.0,50.0
+No formal testing but users provide feedback,2.0,100.0
+The developers do their own testing,2.0,100.0
+Test engineers conduct testing,0.0,0.0
+Automated testing with continuous integration,0.0,0.0
+Don't know,0.0,0.0
