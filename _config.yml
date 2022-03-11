@@ -24,7 +24,6 @@ kramdown:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-
 footer_content: "Copyright &copy; 2022 Software Sustainability Institute, <a href=\"https://github.com/softwaresaved/international-survey-2018/blob/main/LICENSE\">BSD 3-Clause License</a>"
 
 aux_links:
