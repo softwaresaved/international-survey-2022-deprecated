@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
+from lib.analysis import get_previous_survey_year
 from lib.report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
 SALARY_COL = 'socio4. Please select the range of your salary'
@@ -33,12 +34,14 @@ def read_salary(data="data/2018_salary.csv"):
 
 
 @make_report(__file__)
-def run(survey_year, survey_prev_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
+def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     """Prepares overview report and sampling.
 
     This function creates the figures and tables, as well as doing data
     transformations that are used in the other sections.
     """
+
+    survey_prev_year = get_previous_survey_year(survey_year)
 
     df_year = pd.read_csv(data_year)
     #df_year = df_year.merge(read_salary(), on='startdate. Date started')
