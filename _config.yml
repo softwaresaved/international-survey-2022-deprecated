@@ -1,5 +1,5 @@
 title: RSE International Survey 2022
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 description: >- # this means to ignore newlines until "baseurl:"
   International Research Software Engineering survey (2022)
 baseurl: "/international-survey-2022" # the subpath of your site, e.g. /blog
