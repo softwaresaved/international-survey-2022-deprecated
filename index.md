@@ -22,10 +22,10 @@ Henwood (Canada), Stephan Janosch and Martin Hammitzsch (Germany), Ben van
 Werkhoven and Tom Bakker (Netherlands), Anelda van der Walt (South Africa) and
 Daniel Katz and Sandra Gesing (USA).
 
-In **2018** we have worked differently and created a survey for all countries
+Since **2018** we have worked differently and created a survey for all countries
 (rather than one survey for each one).
 
-This site covers the **2018** survey.
+This site covers the **2022** survey.
 
 ## Composition of the survey
 
