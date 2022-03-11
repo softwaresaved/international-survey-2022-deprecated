@@ -28,6 +28,8 @@ order_testing = [
     "No formal testing but users provide feedback",
     "The developers do their own testing",
     "Test engineers conduct testing",
+    "Automated testing with continuous integration",
+    "Don't know",
 ]
 
 repo_tool = [
@@ -38,6 +40,7 @@ repo_tool = [
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
     df = read_cache("processed_data")
+
     version_control = [x for x in df.columns if x[:8] == "proj5zaf"]
     testing = [x for x in df.columns if x[:8] == "proj4can"]
     countries = []

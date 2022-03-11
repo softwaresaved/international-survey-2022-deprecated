@@ -47,8 +47,9 @@ def run(survey_year, data="data/public_merged.csv"):
         ]:
             results = count_diff(df, columns, country, category, survey_year, **kwargs)
             countries[-1].update(table_country(country, slugify(category), results))
-            plot_cat_comparison(results, country=country, category=category)
-            countries[-1].update(figure_country(country, slugify(category), plt))
+            if len(results.columns) > 0:
+                plot_cat_comparison(results, country=country, category=category)
+                countries[-1].update(figure_country(country, slugify(category), plt))
 
         plot_wordcloud(
             df, skill_learn, country, "Learning skill to become a RSE/RSD", survey_year

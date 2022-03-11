@@ -41,13 +41,15 @@ def run(survey_year, data="data/public_merged.csv"):
         countries[-1].update(figure_country(country, "where-previous-job-based", plt))
         ranking_cat = "Reasons to choose current job"
         ranking = count_ranking(df, reason_choice, country, ranking_cat, survey_year)
+
         countries[-1].update(
             table_country(country, "reasons-to-choose-current-job", ranking)
         )
-        plot_ranking(ranking, ranking_cat, country)
-        countries[-1].update(
-            figure_country(country, "reasons-to-choose-current-job", plt)
-        )
+        if len(ranking.index) > 0:
+            plot_ranking(ranking, ranking_cat, country)
+            countries[-1].update(
+                figure_country(country, "reasons-to-choose-current-job", plt)
+            )
     return {"countries": countries}
 
 

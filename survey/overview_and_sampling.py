@@ -9,6 +9,15 @@ from lib.report import table, figure, make_report, convert_time, write_cache, CO
 
 SALARY_COL = 'socio4. Please select the range of your salary'
 
+PROJ5ZAF_GIT1_COL = 'proj5zaf. Which version control tools do you use for software development?. [Git]'
+PROJ5ZAF_GIT2_COL = 'proj5zaf. Which version control tools do you use for software development?. [GIT]'
+
+PREVEMP2_COLS = [
+    'prevEmp2. Rank the following factors dependent on how strongly they influenced your decision to accept your current position. [Rank 6]',
+    'prevEmp2. Rank the following factors dependent on how strongly they influenced your decision to accept your current position. [Rank 7]',
+    'prevEmp2. Rank the following factors dependent on how strongly they influenced your decision to accept your current position. [Rank 8]',
+]
+
 def read_salary(data="data/2018_salary.csv"):
     """Merges salary information from countries into a single column"""
     df = pd.read_csv(data, dtype=str)
@@ -24,7 +33,7 @@ def read_salary(data="data/2018_salary.csv"):
 
 
 @make_report(__file__)
-def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
+def run(survey_year, survey_prev_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     """Prepares overview report and sampling.
 
     This function creates the figures and tables, as well as doing data
@@ -32,9 +41,10 @@ def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
     """
 
     df_year = pd.read_csv(data_year)
-    df_year = df_year.merge(read_salary(), on='startdate. Date started')
+    #df_year = df_year.merge(read_salary(), on='startdate. Date started')
     df_prev_year = pd.read_csv(data_prev_year)
-    df_prev_year[SALARY_COL] = ''
+    df_prev_year = df_prev_year.merge(read_salary(), on='startdate. Date started')
+    #df_prev_year[SALARY_COL] = ''
     df = pd.concat([df_year, df_prev_year], ignore_index=True)
 
     # The cleaning is about renaming some countries and create a globa category
@@ -49,6 +59,13 @@ def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
         inplace=True,
     )
     df = df[df["socio1. In which country do you work?"] != "Canada"]
+
+    # Fix: extra cleaning, to move a duplicated column's contents into the actual column
+    df[PROJ5ZAF_GIT1_COL] = df[PROJ5ZAF_GIT1_COL] + df[PROJ5ZAF_GIT2_COL]
+    df.drop(columns=[PROJ5ZAF_GIT2_COL], inplace=True)
+
+    # Fix: remove superfluous previous employment ranking options
+    df = df.drop(PREVEMP2_COLS, axis=1)
 
     # Create a category world
 
@@ -115,8 +132,8 @@ def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
         axes[i].set_title("{}".format(name))
         # axes[a, b].set_xticklabels(labels=idx)
 
-        axes[i].xaxis.set_major_locator(mdates.DayLocator(interval=10))  # every 10 days
-        axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=1))  # every day
+        axes[i].xaxis.set_major_locator(mdates.DayLocator(interval=30))  # every 10 days
+        axes[i].xaxis.set_minor_locator(mdates.DayLocator(interval=7))  # every day
         for label in axes[i].get_xticklabels():
             label.set_rotation(90)
         list_plots.append(axes[i])
@@ -135,21 +152,22 @@ def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
     # difference in the amount of participants.
 
     results = dict()
-    for country in df[df["Year"] == survey_year - 1]["Country"].unique():
+    #print(df[df['Year'] == survey_prev_year])
+    for country in df[df["Year"] == survey_prev_year]["Country"].unique():
         current_year = df[df["Year"] == survey_year]["Country"].value_counts()[country]
-        previous_year = df[df["Year"] == survey_year - 1]["Country"].value_counts()[
+        previous_year = df[df["Year"] == survey_prev_year]["Country"].value_counts()[
             country
         ]
         results[country] = {
-            "%d" % (survey_year - 1): previous_year,
+            "%d" % survey_prev_year: previous_year,
             "%d" % survey_year: current_year,
         }
     diff_year_participants = pd.DataFrame.from_dict(results, orient="index")
     diff_year_participants[
-        "Difference between %d and %d" % (survey_year - 1, survey_year)
+        "Difference between %d and %d" % (survey_prev_year, survey_year)
     ] = (
         diff_year_participants["%d" % survey_year]
-        - diff_year_participants["%d" % (survey_year - 1)]
+        - diff_year_participants["%d" % survey_prev_year]
     )
     report.update(table("difference_with_previous_year", diff_year_participants))
 
@@ -237,12 +255,13 @@ def run(survey_year, data_year="data/2018.csv", data_prev_year="data/2017.csv"):
         [
             {
                 "Participants in %d"
-                % (survey_year - 1): len(df[df["Year"] == survey_year - 1]),
+                % (survey_prev_year): len(df[df["Year"] == survey_prev_year]),
                 "Participants in %d" % survey_year: len(df[df["Year"] == survey_year]),
             }
         ]
     )
     report.update(table("participant_analysed", results))
+
     return report
 
 
