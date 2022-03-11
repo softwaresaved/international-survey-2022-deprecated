@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 description: >- # this means to ignore newlines until "baseurl:"
   International Research Software Engineering survey (2022)
 baseurl: "/international-survey-2022" # the subpath of your site, e.g. /blog
-url: "https://softwaresaved.github.io"
+url: "https://steve-crouch.github.io"
 
 #theme: just-the-docs
 search_enabled: true
