@@ -2,6 +2,7 @@
 
 import sys
 import re
+import numpy as np
 import pandas as pd
 
 # So we can load the survey and lib stuff
@@ -41,7 +42,7 @@ def search_replace_column_name(fix_df, col, ref_df, arg):
 
 
 def rename_column_name(fix_df, col, arg):
-    col_to_rename = [c for c in fix_df.columns if c.startswith(col)]
+    col_to_rename = [c for c in fix_df.columns if c.startswith(col + '.')]
     if len(col_to_rename) == 0:
         print("**** Couldn't find column to rename", col)
         sys.exit(1)
@@ -50,7 +51,7 @@ def rename_column_name(fix_df, col, arg):
 
 
 def delete_column(fix_df, col):
-    col_to_delete = [c for c in fix_df.columns if c.startswith(col)]
+    col_to_delete = [c for c in fix_df.columns if c.startswith(col + '.')]
     if len(col_to_delete) == 1:
         print("Deleting", col)
         fix_df.drop(columns=[col_to_delete[0]], inplace=True)
@@ -81,5 +82,21 @@ for _, row in mapping_df.iterrows():
     elif action == 'Ignore':
         pass
 
+# Broad-spectrum cleaning
+
+# Clean all prefer not to answer type answers
+fix_df.replace('Prefer not to answer', np.NaN, inplace=True)
+fix_df.replace('Do not wish to declare', np.NaN, inplace=True)
+fix_df.replace('Do not wish to answer', np.NaN, inplace=True)
+fix_df.replace("I don't know", np.NaN, inplace=True)
+fix_df.replace("Don't want to answer", np.NaN, inplace=True)
+
+# Clean all 'Other' answers, collapse them all into 'Yes'
+# This also applies to a single socio5usqus question
+# Applies to multiple-choice and single answer style questions
+for col in fix_df.columns:
+    if col[-7:] == '[Other]':
+        # Replace all the values with 'Yes'
+        fix_df[col] = fix_df[col].apply(lambda x: 'Yes' if not pd.isnull(x) else np.nan)
 
 fix_df.to_csv('data/2022.csv', index=False)

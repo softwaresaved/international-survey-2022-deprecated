@@ -1,12 +1,13 @@
 # Sociodemography
 import sys
 import matplotlib
+import numpy as np
 import pandas as pd
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-from lib.analysis import count_diff, plot_cat_comparison
+from lib.analysis import get_previous_survey_year, count_diff, plot_cat_comparison
 from lib.report import (
     slugify,
     make_report,
@@ -55,9 +56,25 @@ def read_anonymised_data(survey_year, data, fillna=None):
 
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
-    ethnicity_df = read_anonymised_data(survey_year, 'data/2018_ethnicity.csv')
-    disability_df = read_anonymised_data(survey_year, 'data/2018_disability.csv', fillna='No')
-    gender_df = read_anonymised_data(survey_year, 'data/2018_gender.csv')
+
+    survey_prev_year = get_previous_survey_year(survey_year)
+
+    ethnicity_df_year = read_anonymised_data(survey_year, 'data/' + str(survey_year) + '_ethnicity.csv')
+    ethnicity_df_prev_year = read_anonymised_data(survey_prev_year, 'data/' + str(survey_prev_year) + '_ethnicity.csv')
+    ethnicity_df = pd.concat([ethnicity_df_year, ethnicity_df_prev_year], ignore_index=True)
+    # Fix: collapse multi-choice for socio5usqus into 'Yes' or 'No'
+    ethnicity_df[ethn_us[0]] = ethnicity_df[ethn_us[0]].apply(lambda x: 'Yes' if not pd.isnull(x) and x.startswith('Yes,') else x)
+    ethnicity_df[ethn_us[0]] = ethnicity_df[ethn_us[0]].apply(lambda x: 'No' if not pd.isnull(x) and x.startswith('No,') else x)
+    ethnicity_df[ethn_us[0]] = ethnicity_df[ethn_us[0]].apply(lambda x: np.nan if not pd.isnull(x) and x == 'Do not wish to answer' else x)
+
+    disability_df_year = read_anonymised_data(survey_year, 'data/' + str(survey_year) + '_disability.csv', fillna='No')
+    disability_df_prev_year = read_anonymised_data(survey_prev_year, 'data/' + str(survey_prev_year) + '_disability.csv', fillna='No')
+    disability_df = pd.concat([disability_df_year, disability_df_prev_year], ignore_index=True)
+
+    gender_df_year = read_anonymised_data(survey_year, 'data/' + str(survey_year) + '_gender.csv')
+    gender_df_prev_year = read_anonymised_data(survey_prev_year, 'data/' + str(survey_prev_year) + '_gender.csv')
+    gender_df = pd.concat([gender_df_year, gender_df_prev_year], ignore_index=True)
+
     countries = []
     for country in COUNTRIES_WITH_WORLD:
         countries.append({"country": country})

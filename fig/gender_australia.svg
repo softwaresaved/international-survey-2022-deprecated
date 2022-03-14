@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-08T15:12:11.123341</dc:date>
+    <dc:date>2022-03-14T13:07:17.764811</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -47,16 +47,16 @@ z
    </g>
    <g id="patch_4">
     <path d="M 91.164063 83.062697 
-L 150.598586 83.062697 
-L 150.598586 59.287616 
+L 143.740757 83.062697 
+L 143.740757 59.287616 
 L 91.164063 59.287616 
 z
 " clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 91.164063 53.343845 
-L 106.022693 53.343845 
-L 106.022693 29.568764 
+L 104.308236 53.343845 
+L 104.308236 29.568764 
 L 91.164063 29.568764 
 z
 " clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
@@ -80,81 +80,81 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="132.768229" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="131.911" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="132.768229" y="131.115625" transform="rotate(-0, 132.768229, 131.115625)">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="131.911" y="131.115625" transform="rotate(-0, 131.911, 131.115625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="174.372396" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="172.657938" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="174.372396" y="131.115625" transform="rotate(-0, 174.372396, 131.115625)">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="172.657938" y="131.115625" transform="rotate(-0, 172.657938, 131.115625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="215.976562" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="213.404876" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="215.976562" y="131.115625" transform="rotate(-0, 215.976562, 131.115625)">30</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="213.404876" y="131.115625" transform="rotate(-0, 213.404876, 131.115625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="257.580729" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="254.151814" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="257.580729" y="131.115625" transform="rotate(-0, 257.580729, 131.115625)">40</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="254.151814" y="131.115625" transform="rotate(-0, 254.151814, 131.115625)">40</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="299.184896" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="294.898752" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="299.184896" y="131.115625" transform="rotate(-0, 299.184896, 131.115625)">50</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="294.898752" y="131.115625" transform="rotate(-0, 294.898752, 131.115625)">50</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="340.789062" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="335.64569" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="340.789062" y="131.115625" transform="rotate(-0, 340.789062, 131.115625)">60</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="335.64569" y="131.115625" transform="rotate(-0, 335.64569, 131.115625)">60</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="382.393229" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="376.392628" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="382.393229" y="131.115625" transform="rotate(-0, 382.393229, 131.115625)">70</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="376.392628" y="131.115625" transform="rotate(-0, 376.392628, 131.115625)">70</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="423.997396" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="417.139566" y="116.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="423.997396" y="131.115625" transform="rotate(-0, 423.997396, 131.115625)">80</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="417.139566" y="131.115625" transform="rotate(-0, 417.139566, 131.115625)">80</text>
      </g>
     </g>
    </g>
