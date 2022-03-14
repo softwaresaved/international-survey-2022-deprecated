@@ -46,7 +46,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     df_year = pd.read_csv(data_year)
     #df_year = df_year.merge(read_salary(), on='startdate. Date started')
     df_prev_year = pd.read_csv(data_prev_year)
-    df_prev_year = df_prev_year.merge(read_salary(), on='startdate. Date started')
+    df_prev_year = df_prev_year.merge(read_salary(data_prev_year[:-4] + '_salary.csv'), on='startdate. Date started')
     #df_prev_year[SALARY_COL] = ''
     df = pd.concat([df_year, df_prev_year], ignore_index=True)
 
