@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-07T12:18:26.354445</dc:date>
+    <dc:date>2022-03-14T17:31:29.681880</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,42 +38,42 @@ z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 290.034375 158.152202 
-L 290.034375 158.152202 
-L 290.034375 137.118916 
-L 290.034375 137.118916 
+    <path d="M 130.06875 158.152202 
+L 434.765179 158.152202 
+L 434.765179 137.118916 
+L 130.06875 137.118916 
 z
 " clip-path="url(#pde68049ccb)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 290.034375 131.860594 
-L 290.034375 131.860594 
-L 290.034375 110.827308 
-L 290.034375 110.827308 
+    <path d="M 130.06875 131.860594 
+L 427.210722 131.860594 
+L 427.210722 110.827308 
+L 130.06875 110.827308 
 z
 " clip-path="url(#pde68049ccb)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 290.034375 105.568987 
-L 290.034375 105.568987 
-L 290.034375 84.535701 
-L 290.034375 84.535701 
+    <path d="M 130.06875 105.568987 
+L 155.250273 105.568987 
+L 155.250273 84.535701 
+L 130.06875 84.535701 
 z
 " clip-path="url(#pde68049ccb)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 290.034375 79.277379 
-L 290.034375 79.277379 
-L 290.034375 58.244093 
-L 290.034375 58.244093 
+    <path d="M 130.06875 79.277379 
+L 142.659512 79.277379 
+L 142.659512 58.244093 
+L 130.06875 58.244093 
 z
 " clip-path="url(#pde68049ccb)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 290.034375 52.985772 
-L 290.034375 52.985772 
-L 290.034375 31.952486 
-L 290.034375 31.952486 
+    <path d="M 130.06875 52.985772 
+L 140.141359 52.985772 
+L 140.141359 31.952486 
+L 130.06875 31.952486 
 z
 " clip-path="url(#pde68049ccb)" style="fill: #1f77b4"/>
    </g>
@@ -86,51 +86,51 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="173.695739" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="130.06875" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="173.695739" y="178.635625" transform="rotate(-0, 173.695739, 178.635625)">−0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="130.06875" y="178.635625" transform="rotate(-0, 130.06875, 178.635625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="231.865057" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="195.037079" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="231.865057" y="178.635625" transform="rotate(-0, 231.865057, 178.635625)">−0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="195.037079" y="178.635625" transform="rotate(-0, 195.037079, 178.635625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="290.034375" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="260.005409" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="290.034375" y="178.635625" transform="rotate(-0, 290.034375, 178.635625)">0.00</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="260.005409" y="178.635625" transform="rotate(-0, 260.005409, 178.635625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="348.203693" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="324.973738" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="348.203693" y="178.635625" transform="rotate(-0, 348.203693, 178.635625)">0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="324.973738" y="178.635625" transform="rotate(-0, 324.973738, 178.635625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="406.373011" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="389.942068" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="406.373011" y="178.635625" transform="rotate(-0, 406.373011, 178.635625)">0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="389.942068" y="178.635625" transform="rotate(-0, 389.942068, 178.635625)">40</text>
      </g>
     </g>
    </g>
@@ -147,7 +147,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="151.222277" transform="rotate(-0, 123.06875, 151.222277)">Other</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="151.233996" transform="rotate(-0, 123.06875, 151.233996)">Master degree</text>
      </g>
     </g>
     <g id="ytick_2">
@@ -157,10 +157,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'" transform="translate(20.248438 109.436607)">Final secondary-school</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(25.239063 120.188482)">examinations, general</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(10.8 131.130982)">qualification for university</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(84.15625 141.882857)">entrance</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="124.93067" transform="rotate(-0, 123.06875, 124.93067)">Doctorate</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -180,7 +177,10 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="72.347455" transform="rotate(-0, 123.06875, 72.347455)">Doctorate</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(20.248438 56.853393)">Final secondary-school</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(25.239063 67.605268)">examinations, general</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 78.547768)">qualification for university</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(84.15625 89.299643)">entrance</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -190,7 +190,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="46.067566" transform="rotate(-0, 123.06875, 46.067566)">Master degree</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="123.06875" y="46.055848" transform="rotate(-0, 123.06875, 46.055848)">Other</text>
      </g>
     </g>
    </g>

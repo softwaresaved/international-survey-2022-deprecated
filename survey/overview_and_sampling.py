@@ -19,6 +19,10 @@ PREVEMP2_COLS = [
     'prevEmp2. Rank the following factors dependent on how strongly they influenced your decision to accept your current position. [Rank 8]',
 ]
 
+EDU1_COL = "edu1. What is the highest level of education you have attained?"
+EDU2_COL = "edu2. In which discipline is your highest academic qualification?"
+
+
 def read_salary(data="data/2018_salary.csv"):
     """Merges salary information from countries into a single column"""
     df = pd.read_csv(data, dtype=str)
@@ -69,6 +73,26 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
 
     # Fix: remove superfluous previous employment ranking options
     df = df.drop(PREVEMP2_COLS, axis=1)
+
+    # Fix: merge multiple 2022 edu1 by-country columns into singular edu1 column, like 2018
+    """
+    df[EDU1_COL] = (
+        df.loc[:, df.columns.str.startswith("edu1")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+    """
+
+    # Fix: merge both edu2 columns, to ensure Australia data is included in analysis
+    """
+    df[EDU2_COL] = (
+        df.loc[:, df.columns.str.startswith("edu2")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+    """
 
     # Create a category world
 
@@ -251,6 +275,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     df = df[df["any_rse"] == "Yes"]
     # drop the column `any_rse` as no use anymore
     df.drop(["any_rse"], axis=1, inplace=True)
+
     write_cache("processed_data", df)
 
     # This brings the number of participants analysed to:

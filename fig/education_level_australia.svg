@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-07T12:18:26.156552</dc:date>
+    <dc:date>2022-03-14T17:31:29.471878</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,34 +38,34 @@ z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 299.205469 135.467088 
-L 299.205469 135.467088 
-L 299.205469 113.424564 
-L 299.205469 113.424564 
+    <path d="M 148.410938 135.467088 
+L 435.638616 135.467088 
+L 435.638616 113.424564 
+L 148.410938 113.424564 
 z
 " clip-path="url(#pdf809f7d4b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 299.205469 107.913933 
-L 299.205469 107.913933 
-L 299.205469 85.871409 
-L 299.205469 85.871409 
+    <path d="M 148.410938 107.913933 
+L 254.231661 107.913933 
+L 254.231661 85.871409 
+L 148.410938 85.871409 
 z
 " clip-path="url(#pdf809f7d4b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 299.205469 80.360778 
-L 299.205469 80.360778 
-L 299.205469 58.318254 
-L 299.205469 58.318254 
+    <path d="M 148.410938 80.360778 
+L 208.879922 80.360778 
+L 208.879922 58.318254 
+L 148.410938 58.318254 
 z
 " clip-path="url(#pdf809f7d4b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 299.205469 52.807623 
-L 299.205469 52.807623 
-L 299.205469 30.765099 
-L 299.205469 30.765099 
+    <path d="M 148.410938 52.807623 
+L 178.64543 52.807623 
+L 178.64543 30.765099 
+L 148.410938 30.765099 
 z
 " clip-path="url(#pdf809f7d4b)" style="fill: #1f77b4"/>
    </g>
@@ -78,57 +78,77 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="189.536719" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="148.410938" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="189.536719" y="154.875625" transform="rotate(-0, 189.536719, 154.875625)">−0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="148.410938" y="154.875625" transform="rotate(-0, 148.410938, 154.875625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="244.371094" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="196.786125" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="244.371094" y="154.875625" transform="rotate(-0, 244.371094, 154.875625)">−0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="196.786125" y="154.875625" transform="rotate(-0, 196.786125, 154.875625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="299.205469" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="245.161313" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="299.205469" y="154.875625" transform="rotate(-0, 299.205469, 154.875625)">0.00</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="245.161313" y="154.875625" transform="rotate(-0, 245.161313, 154.875625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="354.039844" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="293.536501" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="354.039844" y="154.875625" transform="rotate(-0, 354.039844, 154.875625)">0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="293.536501" y="154.875625" transform="rotate(-0, 293.536501, 154.875625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="408.874219" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="341.911689" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="408.874219" y="154.875625" transform="rotate(-0, 408.874219, 154.875625)">0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="341.911689" y="154.875625" transform="rotate(-0, 341.911689, 154.875625)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="390.286877" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="390.286877" y="154.875625" transform="rotate(-0, 390.286877, 154.875625)">50</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="438.662065" y="140.702187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="438.662065" y="154.875625" transform="rotate(-0, 438.662065, 154.875625)">60</text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_6">
+     <g id="line2d_8">
       <defs>
        <path id="m8e343aef83" d="M 0 0 
 L -3.5 0 
@@ -138,44 +158,44 @@ L -3.5 0
        <use xlink:href="#m8e343aef83" x="148.410938" y="124.445826" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="128.130201" transform="rotate(-0, 141.410938, 128.130201)">AQF 7 - Bachelor Degree</text>
+     <g id="text_8">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="128.130201" transform="rotate(-0, 141.410938, 128.130201)">AQF 10 - Doctoral Degree</text>
      </g>
     </g>
     <g id="ytick_2">
-     <g id="line2d_7">
+     <g id="line2d_9">
       <g>
        <use xlink:href="#m8e343aef83" x="148.410938" y="96.892671" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="100.577046" transform="rotate(-0, 141.410938, 100.577046)">AQF 9 - Masters Degree</text>
+     <g id="text_9">
+      <text style="font: 10px 'sans-serif'" transform="translate(23.590625 90.225327)">AQF 8 - Bachelor Honours</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 101.152202)">Degree / Graduate Certificate</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(54.707813 112.207202)">/ Graduate Diploma</text>
      </g>
     </g>
     <g id="ytick_3">
-     <g id="line2d_8">
+     <g id="line2d_10">
       <g>
        <use xlink:href="#m8e343aef83" x="148.410938" y="69.339516" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_8">
-      <text style="font: 10px 'sans-serif'" transform="translate(23.590625 62.672173)">AQF 8 - Bachelor Honours</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(10.8 73.599048)">Degree / Graduate Certificate</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(54.707813 84.654048)">/ Graduate Diploma</text>
+     <g id="text_10">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="73.023891" transform="rotate(-0, 141.410938, 73.023891)">AQF 9 - Masters Degree</text>
      </g>
     </g>
     <g id="ytick_4">
-     <g id="line2d_9">
+     <g id="line2d_11">
       <g>
        <use xlink:href="#m8e343aef83" x="148.410938" y="41.786361" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_9">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="45.470736" transform="rotate(-0, 141.410938, 45.470736)">AQF 10 - Doctoral Degree</text>
+     <g id="text_11">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="141.410938" y="45.470736" transform="rotate(-0, 141.410938, 45.470736)">AQF 7 - Bachelor Degree</text>
      </g>
     </g>
    </g>
-   <g id="text_10">
+   <g id="text_12">
     <text style="font: 12px 'sans-serif'; text-anchor: middle" x="299.205469" y="19.53" transform="rotate(-0, 299.205469, 19.53)">Highest level of education, Australia</text>
    </g>
   </g>

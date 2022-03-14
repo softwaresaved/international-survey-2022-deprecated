@@ -8,13 +8,14 @@ C,191.0,19.371196754563893
 Fortran,168.0,17.038539553752535
 Java,143.0,14.503042596348884
 Matlab,130.0,13.184584178498987
+other. What programming languages do you use at work? Please select all that apply. ,110.0,11.156186612576064
 PHP,73.0,7.403651115618662
 Perl,68.0,6.896551724137931
 TypeScript,62.0,6.288032454361055
 Julia,62.0,6.288032454361055
 C#,41.0,4.158215010141988
-Ruby,27.0,2.738336713995943
 Rust,27.0,2.738336713995943
+Ruby,27.0,2.738336713995943
 Go,21.0,2.129817444219067
 Scala,14.0,1.4198782961460445
 Lua,13.0,1.3184584178498986
@@ -32,12 +33,3 @@ Dart,3.0,0.3042596348884381
 Clojure,2.0,0.2028397565922921
 CoffeeScript,1.0,0.10141987829614604
 Elixir,1.0,0.10141987829614604
-CUDA,0.0,0.0
-"Markup languages (HTML, markdown,..)",0.0,0.0
-other. What programming languages do you use at work? Please select all that apply. ,0.0,0.0
-FORTRAN,0.0,0.0
-,0.0,0.0
-Smalltalk,0.0,0.0
-Hack,0.0,0.0
-Erlang,0.0,0.0
-Unix Shell Scripting,0.0,0.0

@@ -13,6 +13,8 @@ from lib.report import (
     COUNTRIES,
 )
 
+EDU1_COL = "edu1. What is the highest level of education you have attained?"
+EDU2_COL = "edu2. In which discipline is your highest academic qualification?"
 
 @make_report(__file__)
 def run(survey_year, data="data/public_merged.csv"):
@@ -23,6 +25,23 @@ def run(survey_year, data="data/public_merged.csv"):
     education_level_category = "Highest level of education"
     education_level = []
     df = read_cache("processed_data")
+
+    # Fix: merge multiple 2022 edu1 by-country columns into singular edu1 column, like 2018
+    df[EDU1_COL] = (
+        df.loc[:, df.columns.str.startswith("edu1")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+
+    # Fix: merge both edu2 columns, to ensure Australia data is included in analysis
+    df[EDU2_COL] = (
+        df.loc[:, df.columns.str.startswith("edu2")]
+        .fillna("")
+        .agg("".join, axis=1)
+        .map(str.strip)
+    )
+
     for country in COUNTRIES:
         education_level.append({"country": country})
         result = count_diff(
@@ -196,6 +215,7 @@ def run(survey_year, data="data/public_merged.csv"):
     ]
 
     for country in COUNTRIES + ["World"]:
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ", country)
         academic_field_edu.append({"country": country})
         result = count_diff(
             df,
@@ -207,10 +227,11 @@ def run(survey_year, data="data/public_merged.csv"):
         academic_field_edu[-1].update(
             table_country(country, "academic_field_edu", result)
         )
-        plot_cat_comparison(result, country, academic_field_edu_cat)
-        academic_field_edu[-1].update(
-            figure_country(country, "academic_field_edu", plt)
-        )
+        if len(result.index) > 0:
+            plot_cat_comparison(result, country, academic_field_edu_cat)
+            academic_field_edu[-1].update(
+                figure_country(country, "academic_field_edu", plt)
+            )
         plot_wordcloud(
             df,
             country=country,

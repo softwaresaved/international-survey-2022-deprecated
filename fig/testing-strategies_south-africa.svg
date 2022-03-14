@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-08T15:12:04.772824</dc:date>
+    <dc:date>2022-03-14T17:19:39.071040</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,50 +38,41 @@ z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 122.854688 181.519474 
-L 122.854688 181.519474 
-L 122.854688 161.043025 
-L 122.854688 161.043025 
+    <path d="M 0 0 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 122.854688 155.923912 
-L 122.854688 155.923912 
-L 122.854688 135.447462 
-L 122.854688 135.447462 
+    <path d="M 0 0 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 122.854688 130.32835 
-L 122.854688 130.32835 
-L 122.854688 109.8519 
-L 122.854688 109.8519 
+    <path d="M 0 0 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 122.854688 104.732788 
-L 434.421652 104.732788 
-L 434.421652 84.256338 
-L 122.854688 84.256338 
+    <path d="M 122.854688 112.303345 
+L 434.421652 112.303345 
+L 434.421652 88.722163 
+L 122.854688 88.722163 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 122.854688 79.137225 
-L 434.421652 79.137225 
-L 434.421652 58.660775 
-L 122.854688 58.660775 
+    <path d="M 122.854688 82.826867 
+L 434.421652 82.826867 
+L 434.421652 59.245685 
+L 122.854688 59.245685 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path d="M 122.854688 53.541663 
-L 278.63817 53.541663 
-L 278.63817 33.065213 
-L 122.854688 33.065213 
+    <path d="M 122.854688 53.350389 
+L 278.63817 53.350389 
+L 278.63817 29.769207 
+L 122.854688 29.769207 
 z
 " clip-path="url(#pab4c297068)" style="fill: #1f77b4"/>
    </g>
@@ -161,65 +152,65 @@ L -3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="171.28125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="115.854688" y="174.867968" transform="rotate(-0, 115.854688, 174.867968)">Don't know</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="115.854688" y="192.528906" transform="rotate(-0, 115.854688, 192.528906)">Don't know</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="145.685687" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="159.46571" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'" transform="translate(14.69375 144.591156)">Automated testing with</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(18.015625 155.411781)">continuous integration</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(14.69375 158.371178)">Automated testing with</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(18.015625 169.191803)">continuous integration</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="120.090125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="129.989232" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'sans-serif'" transform="translate(11.9125 118.995594)">Test engineers conduct</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(86.39375 129.816219)">testing</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(11.9125 128.8947)">Test engineers conduct</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(86.39375 139.715325)">testing</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="94.494563" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="100.512754" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'sans-serif'" transform="translate(10.8 93.464094)">The developers do their</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(65.271875 104.156594)">own testing</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 99.482285)">The developers do their</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(65.271875 110.174785)">own testing</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="68.899" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="71.036276" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 10px 'sans-serif'" transform="translate(23.595313 67.79275)">No formal testing but</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(12.46875 78.73525)">users provide feedback</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(23.595313 69.930026)">No formal testing but</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(12.46875 80.872526)">users provide feedback</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="122.854688" y="43.303438" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="122.854688" y="41.559798" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="115.854688" y="46.940938" transform="rotate(-0, 115.854688, 46.940938)">No formal testing</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="115.854688" y="45.197298" transform="rotate(-0, 115.854688, 45.197298)">No formal testing</text>
      </g>
     </g>
    </g>

@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-07T12:18:26.491253</dc:date>
+    <dc:date>2022-03-14T17:31:29.815170</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,42 +38,42 @@ z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 303.646875 158.147088 
-L 303.646875 158.147088 
-L 303.646875 137.096757 
-L 303.646875 137.096757 
+    <path d="M 157.29375 158.147088 
+L 436.061607 158.147088 
+L 436.061607 137.096757 
+L 157.29375 137.096757 
 z
 " clip-path="url(#p8a4a01d089)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 303.646875 131.834174 
-L 303.646875 131.834174 
-L 303.646875 110.783842 
-L 303.646875 110.783842 
+    <path d="M 157.29375 131.834174 
+L 370.46917 131.834174 
+L 370.46917 110.783842 
+L 157.29375 110.783842 
 z
 " clip-path="url(#p8a4a01d089)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 303.646875 105.521259 
-L 303.646875 105.521259 
-L 303.646875 84.470928 
-L 303.646875 84.470928 
+    <path d="M 157.29375 105.521259 
+L 181.890914 105.521259 
+L 181.890914 84.470928 
+L 157.29375 84.470928 
 z
 " clip-path="url(#p8a4a01d089)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 303.646875 79.208345 
-L 303.646875 79.208345 
-L 303.646875 58.158014 
-L 303.646875 58.158014 
+    <path d="M 157.29375 79.208345 
+L 173.691859 79.208345 
+L 173.691859 58.158014 
+L 157.29375 58.158014 
 z
 " clip-path="url(#p8a4a01d089)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 303.646875 52.895431 
-L 303.646875 52.895431 
-L 303.646875 31.845099 
-L 303.646875 31.845099 
+    <path d="M 157.29375 52.895431 
+L 165.492805 52.895431 
+L 165.492805 31.845099 
+L 157.29375 31.845099 
 z
 " clip-path="url(#p8a4a01d089)" style="fill: #1f77b4"/>
    </g>
@@ -86,57 +86,67 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="197.208239" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="157.29375" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="197.208239" y="178.635625" transform="rotate(-0, 197.208239, 178.635625)">−0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="157.29375" y="178.635625" transform="rotate(-0, 157.29375, 178.635625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="250.427557" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="211.407511" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="250.427557" y="178.635625" transform="rotate(-0, 250.427557, 178.635625)">−0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="211.407511" y="178.635625" transform="rotate(-0, 211.407511, 178.635625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="303.646875" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="265.521271" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="303.646875" y="178.635625" transform="rotate(-0, 303.646875, 178.635625)">0.00</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="265.521271" y="178.635625" transform="rotate(-0, 265.521271, 178.635625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="356.866193" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="319.635032" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="356.866193" y="178.635625" transform="rotate(-0, 356.866193, 178.635625)">0.02</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="319.635032" y="178.635625" transform="rotate(-0, 319.635032, 178.635625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="410.085511" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="373.748792" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="410.085511" y="178.635625" transform="rotate(-0, 410.085511, 178.635625)">0.04</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="373.748792" y="178.635625" transform="rotate(-0, 373.748792, 178.635625)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="427.862553" y="164.462187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="427.862553" y="178.635625" transform="rotate(-0, 427.862553, 178.635625)">50</text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_6">
+     <g id="line2d_7">
       <defs>
        <path id="m8e343aef83" d="M 0 0 
 L -3.5 0 
@@ -146,56 +156,56 @@ L -3.5 0
        <use xlink:href="#m8e343aef83" x="157.29375" y="147.621922" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_6">
-      <text style="font: 10px 'sans-serif'" transform="translate(10.8 146.613329)">HBO (Hoger beroepsonderwijs)</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(110.828125 157.433954)">Bachelor</text>
+     <g id="text_7">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="150.29375" y="151.208641" transform="rotate(-0, 150.29375, 151.208641)">PhD</text>
      </g>
     </g>
     <g id="ytick_2">
-     <g id="line2d_7">
+     <g id="line2d_8">
       <g>
        <use xlink:href="#m8e343aef83" x="157.29375" y="121.309008" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_7">
+     <g id="text_8">
       <text style="font: 10px 'sans-serif'" transform="translate(48.598438 120.293383)">WO (Wetenschappelijk</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(62.48125 131.151508)">onderwijs) Bachelor</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(71.3875 131.151508)">onderwijs) Master</text>
      </g>
     </g>
     <g id="ytick_3">
-     <g id="line2d_8">
+     <g id="line2d_9">
       <g>
        <use xlink:href="#m8e343aef83" x="157.29375" y="94.996094" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_8">
+     <g id="text_9">
       <text style="font: 10px 'sans-serif'" transform="translate(10.8 93.9875)">HBO (Hoger beroepsonderwijs)</text>
       <text style="font: 10px 'sans-serif'" transform="translate(119.734375 104.808125)">Master</text>
      </g>
     </g>
     <g id="ytick_4">
-     <g id="line2d_9">
+     <g id="line2d_10">
       <g>
        <use xlink:href="#m8e343aef83" x="157.29375" y="68.683179" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_9">
-      <text style="font: 10px 'sans-serif'" transform="translate(48.598438 67.667554)">WO (Wetenschappelijk</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(71.3875 78.525679)">onderwijs) Master</text>
+     <g id="text_10">
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 67.674586)">HBO (Hoger beroepsonderwijs)</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(110.828125 78.495211)">Bachelor</text>
      </g>
     </g>
     <g id="ytick_5">
-     <g id="line2d_10">
+     <g id="line2d_11">
       <g>
        <use xlink:href="#m8e343aef83" x="157.29375" y="42.370265" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_10">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="150.29375" y="45.956984" transform="rotate(-0, 150.29375, 45.956984)">PhD</text>
+     <g id="text_11">
+      <text style="font: 10px 'sans-serif'" transform="translate(48.598438 41.35464)">WO (Wetenschappelijk</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(62.48125 52.212765)">onderwijs) Bachelor</text>
      </g>
     </g>
    </g>
-   <g id="text_11">
+   <g id="text_12">
     <text style="font: 12px 'sans-serif'; text-anchor: middle" x="303.646875" y="19.53" transform="rotate(-0, 303.646875, 19.53)">Highest level of education, Netherlands</text>
    </g>
   </g>

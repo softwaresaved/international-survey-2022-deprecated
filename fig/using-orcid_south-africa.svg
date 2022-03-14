@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-08T15:13:43.673576</dc:date>
+    <dc:date>2022-03-14T17:21:36.048262</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -38,15 +38,10 @@ z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 35.03125 61.906085 
-L 430.239583 61.906085 
-L 430.239583 41.184036 
-L 35.03125 41.184036 
-z
-" clip-path="url(#p7e3678d028)" style="fill: #1f77b4"/>
-   </g>
-   <g id="patch_4">
-    <path d="M 0 0 
+    <path d="M 35.03125 61.246747 
+L 430.239583 61.246747 
+L 430.239583 27.33794 
+L 35.03125 27.33794 
 z
 " clip-path="url(#p7e3678d028)" style="fill: #1f77b4"/>
    </g>
@@ -126,25 +121,15 @@ L -3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8e343aef83" x="35.03125" y="51.545061" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="35.03125" y="44.292344" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="28.03125" y="55.13178" transform="rotate(-0, 28.03125, 55.13178)">Yes</text>
-     </g>
-    </g>
-    <g id="ytick_2">
-     <g id="line2d_8">
-      <g>
-       <use xlink:href="#m8e343aef83" x="35.03125" y="25.6425" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_8">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="28.03125" y="29.229219" transform="rotate(-0, 28.03125, 29.229219)">No</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="28.03125" y="47.879063" transform="rotate(-0, 28.03125, 47.879063)">Yes</text>
      </g>
     </g>
    </g>
-   <g id="text_9">
+   <g id="text_8">
     <text style="font: 12px 'sans-serif'; text-anchor: middle" x="242.515625" y="19.6425" transform="rotate(-0, 242.515625, 19.6425)">Using ORCID, South Africa</text>
    </g>
   </g>

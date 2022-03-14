@@ -2,6 +2,6 @@ Testing strategies for South Africa,Count,Percentage
 No formal testing,1.0,50.0
 No formal testing but users provide feedback,2.0,100.0
 The developers do their own testing,2.0,100.0
-Test engineers conduct testing,0.0,0.0
-Automated testing with continuous integration,0.0,0.0
-Don't know,0.0,0.0
+Test engineers conduct testing,,
+Automated testing with continuous integration,,
+Don't know,,
