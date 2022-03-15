@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="264pt" viewBox="0 0 460.8 264" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="263.52pt" viewBox="0 0 460.8 263.52" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-02-17T13:32:06.221108</dc:date>
+    <dc:date>2022-03-15T11:14:17.999138</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,8 +21,8 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 264 
-L 460.8 264 
+   <path d="M 0 263.52 
+L 460.8 263.52 
 L 460.8 0 
 L 0 0 
 z
@@ -30,76 +30,76 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 141.192188 236.942187 
-L 450 236.942187 
+    <path d="M 157.2875 236.462187 
+L 450 236.462187 
 L 450 25.6425 
-L 141.192188 25.6425 
+L 157.2875 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 141.192188 227.337656 
-L 435.294866 227.337656 
-L 435.294866 207.636054 
-L 141.192188 207.636054 
+    <path d="M 157.2875 226.879474 
+L 436.06131 226.879474 
+L 436.06131 207.222627 
+L 157.2875 207.222627 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 141.192188 202.710653 
-L 435.294866 202.710653 
-L 435.294866 183.00905 
-L 141.192188 183.00905 
+    <path d="M 157.2875 202.308415 
+L 426.921185 202.308415 
+L 426.921185 182.651568 
+L 157.2875 182.651568 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 141.192188 178.08365 
-L 300.007634 178.08365 
-L 300.007634 158.382047 
-L 141.192188 158.382047 
+    <path d="M 157.2875 177.737356 
+L 244.118687 177.737356 
+L 244.118687 158.080509 
+L 157.2875 158.080509 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 141.192188 153.456647 
-L 205.894777 153.456647 
-L 205.894777 133.755044 
-L 141.192188 133.755044 
+    <path d="M 157.2875 153.166297 
+L 180.137812 153.166297 
+L 180.137812 133.50945 
+L 157.2875 133.50945 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 141.192188 128.829643 
-L 164.720402 128.829643 
-L 164.720402 109.128041 
-L 141.192188 109.128041 
+    <path d="M 157.2875 128.595238 
+L 170.997687 128.595238 
+L 170.997687 108.938391 
+L 157.2875 108.938391 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path d="M 141.192188 104.20264 
-L 152.956295 104.20264 
-L 152.956295 84.501038 
-L 141.192188 84.501038 
+    <path d="M 157.2875 104.024179 
+L 170.997687 104.024179 
+L 170.997687 84.367331 
+L 157.2875 84.367331 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
-    <path d="M 141.192188 79.575637 
-L 152.956295 79.575637 
-L 152.956295 59.874034 
-L 141.192188 59.874034 
+    <path d="M 157.2875 79.45312 
+L 166.427625 79.45312 
+L 166.427625 59.796272 
+L 157.2875 59.796272 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
-    <path d="M 141.192188 54.948634 
-L 147.074241 54.948634 
-L 147.074241 35.247031 
-L 141.192188 35.247031 
+    <path d="M 157.2875 54.88206 
+L 166.427625 54.88206 
+L 166.427625 35.225213 
+L 157.2875 35.225213 
 z
-" clip-path="url(#pd5f2c72fb6)" style="fill: #1f77b4"/>
+" clip-path="url(#p17faab7a37)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -110,186 +110,198 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="141.192188" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="157.2875" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="141.192188" y="251.115625" transform="rotate(-0, 141.192188, 251.115625)">0</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="157.2875" y="250.635625" transform="rotate(-0, 157.2875, 250.635625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="184.425281" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="192.476981" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="184.425281" y="251.115625" transform="rotate(-0, 184.425281, 251.115625)">5</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="192.476981" y="250.635625" transform="rotate(-0, 192.476981, 250.635625)">5</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="227.658375" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="227.666462" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="227.658375" y="251.115625" transform="rotate(-0, 227.658375, 251.115625)">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="227.666462" y="250.635625" transform="rotate(-0, 227.666462, 250.635625)">10</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="270.891469" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="262.855943" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="270.891469" y="251.115625" transform="rotate(-0, 270.891469, 251.115625)">15</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="262.855943" y="250.635625" transform="rotate(-0, 262.855943, 250.635625)">15</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="314.124563" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="298.045423" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="314.124563" y="251.115625" transform="rotate(-0, 314.124563, 251.115625)">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="298.045423" y="250.635625" transform="rotate(-0, 298.045423, 250.635625)">20</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="357.357656" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="333.234904" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="357.357656" y="251.115625" transform="rotate(-0, 357.357656, 251.115625)">25</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="333.234904" y="250.635625" transform="rotate(-0, 333.234904, 250.635625)">25</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="400.59075" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="368.424385" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="400.59075" y="251.115625" transform="rotate(-0, 400.59075, 251.115625)">30</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="368.424385" y="250.635625" transform="rotate(-0, 368.424385, 250.635625)">30</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="443.823844" y="236.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="403.613866" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="443.823844" y="251.115625" transform="rotate(-0, 443.823844, 251.115625)">35</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="403.613866" y="250.635625" transform="rotate(-0, 403.613866, 250.635625)">35</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="438.803347" y="236.462187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="438.803347" y="250.635625" transform="rotate(-0, 438.803347, 250.635625)">40</text>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_9">
+     <g id="line2d_10">
       <defs>
        <path id="m8e343aef83" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="217.486855" style="stroke: #000000; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_9">
-      <text style="font: 10px 'sans-serif'" transform="translate(42.48125 216.393886)">Permanent -- funded</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(63.601563 227.208261)">by project funds</text>
-     </g>
-    </g>
-    <g id="ytick_2">
-     <g id="line2d_10">
-      <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="192.859852" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="217.051051" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'sans-serif'" transform="translate(42.48125 186.376883)">Permanent -- funded</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(55.823438 197.097508)">by Institution core</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(101.3875 207.971258)">funding</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(58.576563 210.568082)">Permanent -- funded</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(71.91875 221.288707)">by Institution core</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(117.482813 232.162457)">funding</text>
      </g>
     </g>
-    <g id="ytick_3">
+    <g id="ytick_2">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="168.232849" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="192.479992" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 10px 'sans-serif'" transform="translate(44.165625 167.13988)">Fixed term -- funded</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(63.601563 177.954255)">by project funds</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(58.576563 191.387023)">Permanent -- funded</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(79.696875 202.201398)">by project funds</text>
      </g>
     </g>
-    <g id="ytick_4">
+    <g id="ytick_3">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="143.605845" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="167.908932" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.192188" y="147.192564" transform="rotate(-0, 134.192188, 147.192564)">Research/Student Assistant</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(60.260938 166.815964)">Fixed term -- funded</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(79.696875 177.630339)">by project funds</text>
      </g>
     </g>
-    <g id="ytick_5">
+    <g id="ytick_4">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="118.978842" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="143.337873" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 10px 'sans-serif'" transform="translate(32.48125 117.936655)">Freelancer, consultant,</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(89.732813 128.629155)">contractor</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="150.2875" y="146.975373" transform="rotate(-0, 150.2875, 146.975373)">Prefer not to say</text>
      </g>
     </g>
-    <g id="ytick_6">
+    <g id="ytick_5">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="94.351839" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="118.766814" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.192188" y="97.989339" transform="rotate(-0, 134.192188, 97.989339)">Agency staff</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 117.724627)">Fixed term -- Research/Student</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(109.717188 128.417127)">Assistant</text>
      </g>
     </g>
-    <g id="ytick_7">
+    <g id="ytick_6">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="69.724836" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="94.195755" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
-      <text style="font: 10px 'sans-serif'" transform="translate(44.165625 63.241867)">Fixed term -- funded</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(55.823438 73.962492)">by Institution core</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(101.3875 84.836242)">funding</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(60.260938 87.712786)">Fixed term -- funded</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(71.91875 98.433411)">by Institution core</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(117.482813 109.307161)">funding</text>
      </g>
     </g>
-    <g id="ytick_8">
+    <g id="ytick_7">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m8e343aef83" x="141.192188" y="45.097833" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="69.624696" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.192188" y="48.735333" transform="rotate(-0, 134.192188, 48.735333)">Prefer not to say</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(57.490625 68.530165)">Fixed term -- Agency</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(131.392188 79.35079)">staff</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m8e343aef83" x="157.2875" y="45.053637" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'sans-serif'" transform="translate(40.271875 44.011449)">Fixed term -- Freelancer,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(54.689063 54.703949)">consultant, contractor</text>
      </g>
     </g>
    </g>
-   <g id="text_17">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="295.596094" y="19.6425" transform="rotate(-0, 295.596094, 19.6425)">Nature of employment, United States</text>
+   <g id="text_18">
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="303.64375" y="19.6425" transform="rotate(-0, 303.64375, 19.6425)">Nature of employment, United States</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pd5f2c72fb6">
-   <rect x="141.192188" y="25.6425" width="308.807812" height="211.299687"/>
+  <clipPath id="p17faab7a37">
+   <rect x="157.2875" y="25.6425" width="292.7125" height="210.819687"/>
   </clipPath>
  </defs>
 </svg>

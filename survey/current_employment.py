@@ -71,6 +71,7 @@ germany_netherlands_salary_range = [
     "Between 55.000 and 65.999 EUR",
     "Between 66.000 and 76.999 EUR",
     "Between 77.000 and 109.999 EUR",
+    "More than 110.000 EUR",
     "Prefer not to say",
 ]
 
@@ -120,6 +121,7 @@ salary_ranges = {
         "From \\$110,000 to \\$129,999",
         "From \\$130,000 to \\$149,999",
         "More than \\$150,000",
+        "More than \\$200,000",
         "Prefer not to say",
     ],
 }
@@ -157,6 +159,7 @@ def run(survey_year, data="data/public_merged.csv"):
                 order_question = salary_ranges[country]
                 try:
                     df_salary = get_sampled_df(df, salary)
+                    sl = df_salary[df_salary["Country"] == country]["socio4. Please select the range of your salary"].unique()
                     assert (
                         len(order_question)
                         - len(
@@ -164,7 +167,7 @@ def run(survey_year, data="data/public_merged.csv"):
                                 "socio4. Please select the range of your salary"
                             ].unique()
                         )
-                        in [-1, 0]
+                        in [-2, -1, 0]
                     )
                 except AssertionError:
                     print(

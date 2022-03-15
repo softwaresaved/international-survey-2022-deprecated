@@ -215,7 +215,6 @@ def run(survey_year, data="data/public_merged.csv"):
     ]
 
     for country in COUNTRIES + ["World"]:
-        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ", country)
         academic_field_edu.append({"country": country})
         result = count_diff(
             df,

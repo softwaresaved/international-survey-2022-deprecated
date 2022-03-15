@@ -8,6 +8,7 @@ import matplotlib.dates as mdates
 from lib.analysis import get_previous_survey_year
 from lib.report import table, figure, make_report, convert_time, write_cache, COUNTRIES
 
+US_SALARY_COL = 'socio4qus._.Please select the range of your salary'
 SALARY_COL = 'socio4. Please select the range of your salary'
 
 PROJ5ZAF_GIT1_COL = 'proj5zaf. Which version control tools do you use for software development?. [Git]'
@@ -24,8 +25,22 @@ EDU2_COL = "edu2. In which discipline is your highest academic qualification?"
 
 
 def read_salary(data="data/2018_salary.csv"):
-    """Merges salary information from countries into a single column"""
+    """Converts US 2018 salary ranges to 2022 format and merges salary information from countries into a single column"""
     df = pd.read_csv(data, dtype=str)
+    df[US_SALARY_COL].replace(
+        {
+            "Less than $30,000":         "< $30,000",
+            "From $30,000 to $49,999":   "≥ $30,000 and < $49,999",
+            "From $50,000 to $69,999":   "≥ $50,000 and < $69,999",
+            "From $70,000 to $89,999":   "≥ $70,000 and < $89,999",
+            "From $90,000 to $109,999":  "≥ $90,000 and < $109,999",
+            "From $110,000 to $129,999": "≥ $110,000 and < $129,999",
+            "From $130,000 to $149,999": "≥ $130,000 and < $149,999",
+            "From $150,000 to $199,999": "≥ $150,000 and < $199,999",
+            "More than $150,000":        "≥ $150,000",
+        },
+        inplace=True
+    )
     df["socio4"] = (
         df.loc[:, df.columns.str.startswith("socio4")]
         .fillna("")
@@ -68,7 +83,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     df = df[df["socio1. In which country do you work?"] != "Canada"]
 
     # Fix: extra cleaning, to move a duplicated column's contents into the actual column
-    df[PROJ5ZAF_GIT1_COL] = df[PROJ5ZAF_GIT1_COL] + df[PROJ5ZAF_GIT2_COL]
+    #df[PROJ5ZAF_GIT1_COL] = df[PROJ5ZAF_GIT1_COL] + df[PROJ5ZAF_GIT2_COL]
     df.drop(columns=[PROJ5ZAF_GIT2_COL], inplace=True)
 
     # Fix: remove superfluous previous employment ranking options
@@ -179,7 +194,6 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
     # difference in the amount of participants.
 
     results = dict()
-    #print(df[df['Year'] == survey_prev_year])
     for country in df[df["Year"] == survey_prev_year]["Country"].unique():
         current_year = df[df["Year"] == survey_year]["Country"].value_counts()[country]
         previous_year = df[df["Year"] == survey_prev_year]["Country"].value_counts()[

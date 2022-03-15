@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-02-17T13:31:59.594125</dc:date>
+    <dc:date>2022-03-15T11:14:11.356938</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -47,40 +47,40 @@ z
    </g>
    <g id="patch_4">
     <path d="M 118.959375 155.923912 
-L 344.157079 155.923912 
-L 344.157079 135.447462 
+L 245.070089 155.923912 
+L 245.070089 135.447462 
 L 118.959375 135.447462 
 z
 " clip-path="url(#p1289576b0b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 118.959375 130.32835 
-L 254.077997 130.32835 
-L 254.077997 109.8519 
+L 245.070089 130.32835 
+L 245.070089 109.8519 
 L 118.959375 109.8519 
 z
 " clip-path="url(#p1289576b0b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 118.959375 104.732788 
-L 186.518686 104.732788 
-L 186.518686 84.256338 
+L 245.070089 104.732788 
+L 245.070089 84.256338 
 L 118.959375 84.256338 
 z
 " clip-path="url(#p1289576b0b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
     <path d="M 118.959375 79.137225 
-L 186.518686 79.137225 
-L 186.518686 58.660775 
+L 213.542411 79.137225 
+L 213.542411 58.660775 
 L 118.959375 58.660775 
 z
 " clip-path="url(#p1289576b0b)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
     <path d="M 118.959375 53.541663 
-L 141.479145 53.541663 
-L 141.479145 33.065213 
+L 182.014732 53.541663 
+L 182.014732 33.065213 
 L 118.959375 33.065213 
 z
 " clip-path="url(#p1289576b0b)" style="fill: #1f77b4"/>
@@ -104,71 +104,71 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="160.62095" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="161.521741" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="160.62095" y="203.115625" transform="rotate(-0, 160.62095, 203.115625)">5</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="161.521741" y="203.115625" transform="rotate(-0, 161.521741, 203.115625)">5</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="202.282526" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="204.084107" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="202.282526" y="203.115625" transform="rotate(-0, 202.282526, 203.115625)">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="204.084107" y="203.115625" transform="rotate(-0, 204.084107, 203.115625)">10</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="243.944101" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="246.646473" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="243.944101" y="203.115625" transform="rotate(-0, 243.944101, 203.115625)">15</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="246.646473" y="203.115625" transform="rotate(-0, 246.646473, 203.115625)">15</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="285.605676" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="289.208839" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="285.605676" y="203.115625" transform="rotate(-0, 285.605676, 203.115625)">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="289.208839" y="203.115625" transform="rotate(-0, 289.208839, 203.115625)">20</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="327.267251" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="331.771205" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="327.267251" y="203.115625" transform="rotate(-0, 327.267251, 203.115625)">25</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="331.771205" y="203.115625" transform="rotate(-0, 331.771205, 203.115625)">25</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="368.928827" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="374.333571" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="368.928827" y="203.115625" transform="rotate(-0, 368.928827, 203.115625)">30</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="374.333571" y="203.115625" transform="rotate(-0, 374.333571, 203.115625)">30</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="410.590402" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="416.895937" y="188.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="410.590402" y="203.115625" transform="rotate(-0, 410.590402, 203.115625)">35</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="416.895937" y="203.115625" transform="rotate(-0, 416.895937, 203.115625)">35</text>
      </g>
     </g>
    </g>
@@ -195,7 +195,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="149.284125" transform="rotate(-0, 111.959375, 149.284125)">National laboratory</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="149.272406" transform="rotate(-0, 111.959375, 149.272406)">Other</text>
      </g>
     </g>
     <g id="ytick_3">
@@ -205,7 +205,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="123.676844" transform="rotate(-0, 111.959375, 123.676844)">Government</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="123.688562" transform="rotate(-0, 111.959375, 123.688562)">National laboratory</text>
      </g>
     </g>
     <g id="ytick_4">
@@ -215,7 +215,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="98.081281" transform="rotate(-0, 111.959375, 98.081281)">Private company</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="98.132063" transform="rotate(-0, 111.959375, 98.132063)">Non-profit organization</text>
      </g>
     </g>
     <g id="ytick_5">
@@ -225,7 +225,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="72.485719" transform="rotate(-0, 111.959375, 72.485719)">Other</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="72.485719" transform="rotate(-0, 111.959375, 72.485719)">Government</text>
      </g>
     </g>
     <g id="ytick_6">
@@ -235,7 +235,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="46.940938" transform="rotate(-0, 111.959375, 46.940938)">Non-profit organization</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="111.959375" y="46.890157" transform="rotate(-0, 111.959375, 46.890157)">Private company</text>
      </g>
     </g>
    </g>

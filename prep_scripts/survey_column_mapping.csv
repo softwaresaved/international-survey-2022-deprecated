@@ -149,7 +149,7 @@ proj5zaf[SQ005],SearchReplace,proj5zaf\..*None,Multiple choice question,,,,,Whic
 proj5zaf[other],Delete,,,,,,,Which version control tools do you use for software development? [Other],,,,,,
 proj6zaf,,proj6zaf,,,,,,Which online collaboration tools and open repositories do you use for software development?,,,,,,
 train2,,train2,,,,,,"On average, how many times a year do you take part in providing training?",,,,,,
-train3,,train3,,,,,,What training programs are you involved with,,,,,,
+train3,SearchReplace,train3,,,,,,What training programs are you involved with,,,,,,
 fund2[SQ001],Delete,fund2,Multiple choice question,,,,,Which of the following sources are used to pay for your effort as a Research Software Engineer? [I volunteer my time],,,,,,
 fund2[SQ002],SearchReplace,fund2\..*Donation button,Multiple choice question,,,,,Which of the following sources are used to pay for your effort as a Research Software Engineer? [Donation button],,,,,,
 fund2[SQ003],SearchReplace,fund2\..*Crowdfunding \(one-time\),Multiple choice question,,,,,Which of the following sources are used to pay for your effort as a Research Software Engineer? [Crowdfunding (one-time)],,,,,,
