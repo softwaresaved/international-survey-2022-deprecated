@@ -317,7 +317,7 @@ tool5[SQ009],Ignore,,Multiple choice question,,,,,On which platform(s) is your m
 tool5[SQ008],Ignore,,,,,,,On which platform(s) is your most recent research software project deployed? Please select all that apply. [Other],,,,,,
 ukrse3,SearchReplace,ukrse3,,,,,,How did you learn the skills you need to become a Research Software Engineer / Research Software Developer?,,,,,,
 ukrse12de,,ukrse12de,,,,,,Would you like to attend a conference about software development in academia?,,,,,,
-skill2,,skill2,,,,,,What three skills would you like to acquire or improve to help your work as a Research Software Engineer / Research Software Developer? The skills can be technical and non-technical,,,,,,
+skill2,SearchReplace,skill2\..*non-technical.$,,,,,,What three skills would you like to acquire or improve to help your work as a Research Software Engineer / Research Software Developer? The skills can be technical and non-technical,,,,,,
 interviewtime,Delete,,,,,,,,,,,,,
 groupTime1563,Delete,,,,,,,,,,,,,
 socio1Time,Delete,,,,,,,,,,,,,
