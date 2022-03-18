@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="360pt" viewBox="0 0 460.8 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-03-18T13:48:09.493478</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 460.8 360 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 149.525 332.942187 
+L 450 332.942187 
+L 450 25.43625 
+L 149.525 25.43625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 149.525 318.964645 
+L 435.691667 318.964645 
+L 435.691667 300.012045 
+L 149.525 300.012045 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 149.525 295.273895 
+L 364.15 295.273895 
+L 364.15 276.321295 
+L 149.525 276.321295 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 149.525 271.583145 
+L 364.15 271.583145 
+L 364.15 252.630544 
+L 149.525 252.630544 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 149.525 247.892394 
+L 221.066667 247.892394 
+L 221.066667 228.939794 
+L 149.525 228.939794 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 149.525 224.201644 
+L 221.066667 224.201644 
+L 221.066667 205.249044 
+L 149.525 205.249044 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 149.525 200.510894 
+L 221.066667 200.510894 
+L 221.066667 181.558294 
+L 149.525 181.558294 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 149.525 176.820144 
+L 221.066667 176.820144 
+L 221.066667 157.867544 
+L 149.525 157.867544 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 149.525 153.129394 
+L 221.066667 153.129394 
+L 221.066667 134.176793 
+L 149.525 134.176793 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 149.525 129.438643 
+L 221.066667 129.438643 
+L 221.066667 110.486043 
+L 149.525 110.486043 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 149.525 105.747893 
+L 221.066667 105.747893 
+L 221.066667 86.795293 
+L 149.525 86.795293 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 149.525 82.057143 
+L 221.066667 82.057143 
+L 221.066667 63.104543 
+L 149.525 63.104543 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 149.525 58.366393 
+L 221.066667 58.366393 
+L 221.066667 39.413793 
+L 149.525 39.413793 
+z
+" clip-path="url(#p85a893f49e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4c99cd72f3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="149.525" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="149.525" y="347.115625" transform="rotate(-0, 149.525, 347.115625)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="183.507292" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="183.507292" y="347.115625" transform="rotate(-0, 183.507292, 347.115625)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="217.489583" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="217.489583" y="347.115625" transform="rotate(-0, 217.489583, 347.115625)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="251.471875" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="251.471875" y="347.115625" transform="rotate(-0, 251.471875, 347.115625)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="285.454167" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="285.454167" y="347.115625" transform="rotate(-0, 285.454167, 347.115625)">10.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="319.436458" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="319.436458" y="347.115625" transform="rotate(-0, 319.436458, 347.115625)">12.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="353.41875" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="353.41875" y="347.115625" transform="rotate(-0, 353.41875, 347.115625)">15.0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="387.401042" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="387.401042" y="347.115625" transform="rotate(-0, 387.401042, 347.115625)">17.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="421.383333" y="332.942187" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="421.383333" y="347.115625" transform="rotate(-0, 421.383333, 347.115625)">20.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m8e343aef83" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="309.488345" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'sans-serif'" transform="translate(41.925 308.463345)">Queensland University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(79.7125 319.337095)">of Technology</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="285.797595" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="289.435095" transform="rotate(-0, 142.525, 289.435095)">The University of Melbourne</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="262.106844" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'sans-serif'" transform="translate(38.585938 261.064657)">The Australian National</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(98.629688 271.757157)">University</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="238.416094" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="242.053594" transform="rotate(-0, 142.525, 242.053594)">University of Newcastle</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="214.725344" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="218.409719" transform="rotate(-0, 142.525, 218.409719)">The University of Sydney</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="191.034594" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="194.621313" transform="rotate(-0, 142.525, 194.621313)">Macquarie University</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="167.343844" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="170.981344" transform="rotate(-0, 142.525, 170.981344)">University of Tasmania</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="143.653093" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'sans-serif'" transform="translate(58.060938 142.667156)">Curtin University of</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(90.829688 153.447156)">Technology</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="119.962343" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="123.646718" transform="rotate(-0, 142.525, 123.646718)">The University of Queensland</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="96.271593" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'sans-serif'" transform="translate(47.504688 95.152843)">University of Western</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(109.171875 106.139093)">Sydney</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="72.580843" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'sans-serif'" transform="translate(48.603125 71.555843)">Swinburne University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(79.7125 82.429593)">of Technology</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m8e343aef83" x="149.525" y="48.890093" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="142.525" y="52.574468" transform="rotate(-0, 142.525, 52.574468)">University of Canberra</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="299.7625" y="19.43625" transform="rotate(-0, 299.7625, 19.43625)">Which university, Australia</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p85a893f49e">
+   <rect x="149.525" y="25.43625" width="300.475" height="307.505937"/>
+  </clipPath>
+ </defs>
+</svg>

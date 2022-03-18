@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="767.52pt" viewBox="0 0 460.8 767.52" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-03-18T13:48:22.192602</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 767.52 
+L 460.8 767.52 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 141.157813 740.462188 
+L 450 740.462188 
+L 450 25.43625 
+L 141.157813 25.43625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 141.157813 707.961009 
+L 435.293229 707.961009 
+L 435.293229 689.904798 
+L 141.157813 689.904798 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 141.157813 685.390745 
+L 390.041627 685.390745 
+L 390.041627 667.334535 
+L 141.157813 667.334535 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 141.157813 662.820482 
+L 390.041627 662.820482 
+L 390.041627 644.764272 
+L 141.157813 644.764272 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 141.157813 640.250219 
+L 367.415825 640.250219 
+L 367.415825 622.194008 
+L 141.157813 622.194008 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 141.157813 617.679956 
+L 367.415825 617.679956 
+L 367.415825 599.623745 
+L 141.157813 599.623745 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 141.157813 595.109693 
+L 322.164223 595.109693 
+L 322.164223 577.053482 
+L 141.157813 577.053482 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 141.157813 572.539429 
+L 299.538421 572.539429 
+L 299.538421 554.483219 
+L 141.157813 554.483219 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 141.157813 549.969166 
+L 299.538421 549.969166 
+L 299.538421 531.912956 
+L 141.157813 531.912956 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 141.157813 527.398903 
+L 276.91262 527.398903 
+L 276.91262 509.342693 
+L 141.157813 509.342693 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 141.157813 504.82864 
+L 276.91262 504.82864 
+L 276.91262 486.772429 
+L 141.157813 486.772429 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 141.157813 482.258377 
+L 276.91262 482.258377 
+L 276.91262 464.202166 
+L 141.157813 464.202166 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 141.157813 459.688114 
+L 254.286819 459.688114 
+L 254.286819 441.631903 
+L 141.157813 441.631903 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 141.157813 437.11785 
+L 231.661018 437.11785 
+L 231.661018 419.06164 
+L 141.157813 419.06164 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 141.157813 414.547587 
+L 231.661018 414.547587 
+L 231.661018 396.491377 
+L 141.157813 396.491377 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 141.157813 391.977324 
+L 186.409415 391.977324 
+L 186.409415 373.921113 
+L 141.157813 373.921113 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 141.157813 369.407061 
+L 186.409415 369.407061 
+L 186.409415 351.35085 
+L 141.157813 351.35085 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 141.157813 346.836798 
+L 186.409415 346.836798 
+L 186.409415 328.780587 
+L 141.157813 328.780587 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 141.157813 324.266534 
+L 186.409415 324.266534 
+L 186.409415 306.210324 
+L 141.157813 306.210324 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 141.157813 301.696271 
+L 186.409415 301.696271 
+L 186.409415 283.640061 
+L 141.157813 283.640061 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 141.157813 279.126008 
+L 186.409415 279.126008 
+L 186.409415 261.069798 
+L 141.157813 261.069798 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 141.157813 256.555745 
+L 163.783614 256.555745 
+L 163.783614 238.499534 
+L 141.157813 238.499534 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 141.157813 233.985482 
+L 163.783614 233.985482 
+L 163.783614 215.929271 
+L 141.157813 215.929271 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 141.157813 211.415219 
+L 163.783614 211.415219 
+L 163.783614 193.359008 
+L 141.157813 193.359008 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 141.157813 188.844955 
+L 163.783614 188.844955 
+L 163.783614 170.788745 
+L 141.157813 170.788745 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 141.157813 166.274692 
+L 163.783614 166.274692 
+L 163.783614 148.218482 
+L 141.157813 148.218482 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 141.157813 143.704429 
+L 163.783614 143.704429 
+L 163.783614 125.648219 
+L 141.157813 125.648219 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 141.157813 121.134166 
+L 163.783614 121.134166 
+L 163.783614 103.077955 
+L 141.157813 103.077955 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 141.157813 98.563903 
+L 163.783614 98.563903 
+L 163.783614 80.507692 
+L 141.157813 80.507692 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 141.157813 75.99364 
+L 163.783614 75.99364 
+L 163.783614 57.937429 
+L 141.157813 57.937429 
+z
+" clip-path="url(#p7ac8d0adde)" style="fill: #1f77b4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4c99cd72f3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="141.157813" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="141.157813" y="754.635625" transform="rotate(-0, 141.157813, 754.635625)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="199.53238" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="199.53238" y="754.635625" transform="rotate(-0, 199.53238, 754.635625)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="257.906947" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="257.906947" y="754.635625" transform="rotate(-0, 257.906947, 754.635625)">4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="316.281514" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="316.281514" y="754.635625" transform="rotate(-0, 316.281514, 754.635625)">6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="374.656082" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="374.656082" y="754.635625" transform="rotate(-0, 374.656082, 754.635625)">8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="433.030649" y="740.462188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="433.030649" y="754.635625" transform="rotate(-0, 433.030649, 754.635625)">10</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m8e343aef83" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="698.932903" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="702.570403" transform="rotate(-0, 134.157813, 702.570403)">University of Edinburgh</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="676.36264" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="680.047015" transform="rotate(-0, 134.157813, 680.047015)">University of Cambridge</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="653.792377" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="657.476752" transform="rotate(-0, 134.157813, 657.476752)">University of Oxford</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="631.222114" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'sans-serif'" transform="translate(17.43125 630.137739)">University College London</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(107.49375 641.140239)">(UCL)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="608.651851" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 602.147788)">Durham University, Durham</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(35.776562 612.899663)">and Stockton-on-Tees</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(50.554688 623.826538)">(Queen's Campus)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="586.081587" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="589.719087" transform="rotate(-0, 134.157813, 589.719087)">University of Manchester</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="563.511324" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="567.195699" transform="rotate(-0, 134.157813, 567.195699)">Imperial College London</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="540.941061" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="544.52778" transform="rotate(-0, 134.157813, 544.52778)">Newcastle University</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="518.370798" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="522.008298" transform="rotate(-0, 134.157813, 522.008298)">University of Birmingham</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="495.800535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="499.48491" transform="rotate(-0, 134.157813, 499.48491)">University of Sheffield</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="473.230271" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="476.867771" transform="rotate(-0, 134.157813, 476.867771)">University of Nottingham</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="450.660008" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="454.297508" transform="rotate(-0, 134.157813, 454.297508)">University of Bristol</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="428.089745" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="431.77412" transform="rotate(-0, 134.157813, 431.77412)">King's College London</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="405.519482" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="409.203857" transform="rotate(-0, 134.157813, 409.203857)">University of Southampton</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="382.949219" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="386.633594" transform="rotate(-0, 134.157813, 386.633594)">Swansea University</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="360.378956" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="364.063331" transform="rotate(-0, 134.157813, 364.063331)">Queen's University Belfast</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="337.808692" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 10px 'sans-serif'" transform="translate(56.3625 336.689942)">University of Hull,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(37.435937 347.676192)">Hull and Scarborough</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="315.238429" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="318.922804" transform="rotate(-0, 134.157813, 318.922804)">Cardiff University</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="292.668166" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="296.305666" transform="rotate(-0, 134.157813, 296.305666)">University of York</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="270.097903" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="273.684622" transform="rotate(-0, 134.157813, 273.684622)">Lancaster University</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="247.52764" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 10px 'sans-serif'" transform="translate(40.2375 246.553421)">The Open University,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(71.353125 257.305296)">Milton Keynes</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="224.957376" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font: 10px 'sans-serif'" transform="translate(23.004688 223.901908)">University of East Anglia,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(98.040625 234.722533)">Norwich</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="202.387113" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="206.024613" transform="rotate(-0, 134.157813, 206.024613)">University of Reading</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="179.81685" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="183.45435" transform="rotate(-0, 134.157813, 183.45435)">University of Leicester</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="157.246587" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font: 10px 'sans-serif'" transform="translate(35.815625 156.127837)">University of Warwick,</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(94.145313 167.114087)">Coventry</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="134.676324" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="138.360699" transform="rotate(-0, 134.157813, 138.360699)">University of St Andrews</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="112.106061" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="115.743561" transform="rotate(-0, 134.157813, 115.743561)">University of Leeds</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="89.535797" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font: 10px 'sans-serif'" transform="translate(28.567188 88.527204)">OtherUniversity College</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(100.792187 99.347829)">London</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m8e343aef83" x="141.157813" y="66.965534" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="134.157813" y="70.649909" transform="rotate(-0, 134.157813, 70.649909)">University of Glasgow</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="295.578906" y="19.43625" transform="rotate(-0, 295.578906, 19.43625)">Which university, United Kingdom</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7ac8d0adde">
+   <rect x="141.157813" y="25.43625" width="308.842188" height="715.025938"/>
+  </clipPath>
+ </defs>
+</svg>

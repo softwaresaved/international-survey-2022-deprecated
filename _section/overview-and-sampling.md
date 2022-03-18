@@ -30,50 +30,50 @@ We developed specific questions for the following countries:
 
 We can see the distribution of participants among the countries as follow:
 
-| index            |   socio1. In which country do you work? |
-|:-----------------|----------------------------------------:|
-| Germany          |                                     258 |
-| United Kingdom   |                                     176 |
-| United States    |                                     161 |
-| France           |                                      77 |
-| Netherlands      |                                      66 |
-| Finland          |                                      58 |
-| Australia        |                                      33 |
-| New Zealand      |                                      28 |
-| Sweden           |                                      22 |
-| Belgium          |                                      17 |
-| Norway           |                                      12 |
-| Italy            |                                      11 |
-| Denmark          |                                       9 |
-| Spain            |                                       8 |
-| Switzerland      |                                       7 |
-| Argentina        |                                       5 |
-| Austria          |                                       4 |
-| Greece           |                                       3 |
-| Israel           |                                       3 |
-| Luxembourg       |                                       3 |
-| Portugal         |                                       3 |
-| Afghanistan      |                                       2 |
-| Brazil           |                                       2 |
-| Iceland          |                                       2 |
-| Poland           |                                       2 |
-| South Africa     |                                       2 |
-| Ukraine          |                                       2 |
-| Chile            |                                       1 |
-| Colombia         |                                       1 |
-| Czech Republic   |                                       1 |
-| Egypt            |                                       1 |
-| India            |                                       1 |
-| Japan            |                                       1 |
-| Liechtenstein    |                                       1 |
-| Mexico           |                                       1 |
-| Pakistan         |                                       1 |
-| Puerto Rico      |                                       1 |
-| Saint Barthélemy |                                       1 |
-| Saudi Arabia     |                                       1 |
-| Singapore        |                                       1 |
-| Uruguay          |                                       1 |
-| Åland Islands    |                                       1 |
+| Country          |   Count |
+|:-----------------|--------:|
+| Germany          |     258 |
+| United Kingdom   |     176 |
+| United States    |     161 |
+| France           |      77 |
+| Netherlands      |      66 |
+| Finland          |      58 |
+| Australia        |      33 |
+| New Zealand      |      28 |
+| Sweden           |      22 |
+| Belgium          |      17 |
+| Norway           |      12 |
+| Italy            |      11 |
+| Denmark          |       9 |
+| Spain            |       8 |
+| Switzerland      |       7 |
+| Argentina        |       5 |
+| Austria          |       4 |
+| Greece           |       3 |
+| Israel           |       3 |
+| Luxembourg       |       3 |
+| Portugal         |       3 |
+| Afghanistan      |       2 |
+| Brazil           |       2 |
+| Iceland          |       2 |
+| Poland           |       2 |
+| South Africa     |       2 |
+| Ukraine          |       2 |
+| Chile            |       1 |
+| Colombia         |       1 |
+| Czech Republic   |       1 |
+| Egypt            |       1 |
+| India            |       1 |
+| Japan            |       1 |
+| Liechtenstein    |       1 |
+| Mexico           |       1 |
+| Pakistan         |       1 |
+| Puerto Rico      |       1 |
+| Saint Barthélemy |       1 |
+| Saudi Arabia     |       1 |
+| Singapore        |       1 |
+| Uruguay          |       1 |
+| Åland Islands    |       1 |
 
 [Download CSV](/international-survey-2021/csv/participant.csv){: .button}
 
@@ -90,7 +90,7 @@ We can see the distribution of participants among the countries as follow:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-15T12:18:09.015335</dc:date>
+    <dc:date>2022-03-18T10:31:50.533101</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -7361,7 +7361,7 @@ Several countries did the survey last year, here a summary of the difference in 
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-15T12:18:09.875157</dc:date>
+    <dc:date>2022-03-18T10:31:51.563779</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>

@@ -24,11 +24,8 @@ current_emp = ["currentEmp1. Please select your organization type"]
 
 which_uni = ["currentEmp2. Which university do you work for?"]
 
-
 title_job = ["currentEmp5. What is your official job title?"]
-diff_title = [
-    "currentEmp6. Are you known in your group by a different job title? If so, please enter the job title you use"
-]
+diff_title = ["currentEmp6. Are you known in your group by a different job title?"]
 
 contract_time = ["currentEmp12. Do you work full time or part time"]
 
@@ -40,6 +37,7 @@ duration_contract = [
     "currentEmp11. What is the expected duration (in years) of your current position (in total)?"
 ]
 
+# Note: not used
 german_orga = [
     "currentEmp20de. Which Fraunhofer institute do you work for?",
     "currentEmp21de. Which Helmholtz institute do you work for?",
@@ -54,6 +52,7 @@ salary_de = [
     "socio10de. Please select your renumeration group according to your collective bargaining agreement"
 ]
 
+# Note: not used
 salary_ausnzl = [
     "socio11ausnzl. What is the category of your pay-scale?",
     "socio12ausnzl. What is your academic pay-level?",
@@ -113,15 +112,24 @@ salary_ranges = {
         "≥ £58,172",
     ],
     "United States": [
-        "Less than \\$30,000",
-        "From \\$30,000 to \\$49,999",
-        "From \\$50,000 to \\$69,999",
-        "From \\$70,000 to \\$89,999",
-        "From \\$90,000 to \\$109,999",
-        "From \\$110,000 to \\$129,999",
-        "From \\$130,000 to \\$149,999",
-        "More than \\$150,000",
-        "More than \\$200,000",
+        "< $30,000",
+        "≥ $30,000 and < $49,999",
+        "≥ $50,000 and < $69,999",
+        "≥ $70,000 and < $89,999",
+        "≥ $90,000 and < $109,999",
+        "≥ $110,000 and < $129,999",
+        "≥ $130,000 and < $149,999",
+        "≥ $150,000 and < $199,999",
+        "≥ $150,000",
+        #"Less than \\$30,000",
+        #"From \\$30,000 to \\$49,999",
+        #"From \\$50,000 to \\$69,999",
+        #"From \\$70,000 to \\$89,999",
+        #"From \\$90,000 to \\$109,999",
+        #"From \\$110,000 to \\$129,999",
+        #"From \\$130,000 to \\$149,999",
+        #"More than \\$150,000",
+        #"More than \\$200,000",
         "Prefer not to say",
     ],
 }
@@ -149,6 +157,8 @@ def run(survey_year, data="data/public_merged.csv"):
             (duration_contract, "Duration of contract in year"),
             (salary, "Salary"),
             (fund, "Type of funding"),
+            (title_job, "Official job title"),
+            (diff_title, "Different job title"),
         ]:
             name = slugify(category)
             # Disable salary and type of funding sections for world
@@ -221,8 +231,8 @@ def run(survey_year, data="data/public_merged.csv"):
                     multi_choice=multi_choice,
                 )
                 try:
+                    countries[-1].update(table_country(country, name, result))
                     if not result.empty:
-                        countries[-1].update(table_country(country, name, result))
                         plot_cat_comparison(result, country, category)
                         countries[-1].update(figure_country(country, name, plt))
                 except KeyError:

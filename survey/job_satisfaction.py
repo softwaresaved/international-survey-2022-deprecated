@@ -26,9 +26,7 @@ recog = [
 ]
 
 turn_over1 = ["turnOver3. How often do you consider leaving your job?"]
-turn_over2 = [
-    "turnOver6. I would accept another job at the same compensation level if I was offered it"
-]
+turn_over2 = ["turnOver6. I would accept another job at the same compensation level if I was offered it"]
 
 perc_emp = [
     "percEmp1. It would not be very difficult for me to get an equivalent job in a different institution",
@@ -67,8 +65,9 @@ def run(survey_year, data="data/public_merged.csv"):
             ("Perceived employability", perc_emp, agree_scale),
             ("Progression in the current role", prog_rse, agree_scale),
         ]:
+            # Fix: always assumed a number_scale and satis_gen columns, set to loop variables
             plotting_likert(
-                df, country, category, satis_gen, survey_year, order_scale=number_scale
+                df, country, category, columns, survey_year, order_scale=order_scale
             )
             countries[-1].update(figure_country(country, slugify(category), plt))
     return {"countries": countries}

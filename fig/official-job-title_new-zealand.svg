@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="671.76pt" viewBox="0 0 460.8 671.76" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-03-18T13:48:19.103416</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 671.76 
+L 460.8 671.76 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 146.729688 644.702188 
+L 450 644.702188 
+L 450 25.6425 
+L 146.729688 25.6425 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 146.729688 616.563111 
+L 435.558557 616.563111 
+L 435.558557 598.408868 
+L 146.729688 598.408868 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 146.729688 593.870307 
+L 435.558557 593.870307 
+L 435.558557 575.716064 
+L 146.729688 575.716064 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 146.729688 571.177503 
+L 435.558557 571.177503 
+L 435.558557 553.02326 
+L 146.729688 553.02326 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 146.729688 548.484699 
+L 435.558557 548.484699 
+L 435.558557 530.330456 
+L 146.729688 530.330456 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 146.729688 525.791896 
+L 435.558557 525.791896 
+L 435.558557 507.637653 
+L 146.729688 507.637653 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 146.729688 503.099092 
+L 435.558557 503.099092 
+L 435.558557 484.944849 
+L 146.729688 484.944849 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 146.729688 480.406288 
+L 435.558557 480.406288 
+L 435.558557 462.252045 
+L 146.729688 462.252045 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 146.729688 457.713484 
+L 435.558557 457.713484 
+L 435.558557 439.559241 
+L 146.729688 439.559241 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 146.729688 435.02068 
+L 435.558557 435.02068 
+L 435.558557 416.866437 
+L 146.729688 416.866437 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 146.729688 412.327877 
+L 435.558557 412.327877 
+L 435.558557 394.173634 
+L 146.729688 394.173634 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 146.729688 389.635073 
+L 435.558557 389.635073 
+L 435.558557 371.48083 
+L 146.729688 371.48083 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 146.729688 366.942269 
+L 435.558557 366.942269 
+L 435.558557 348.788026 
+L 146.729688 348.788026 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 146.729688 344.249465 
+L 435.558557 344.249465 
+L 435.558557 326.095222 
+L 146.729688 326.095222 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 146.729688 321.556661 
+L 435.558557 321.556661 
+L 435.558557 303.402418 
+L 146.729688 303.402418 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 146.729688 298.863858 
+L 435.558557 298.863858 
+L 435.558557 280.709615 
+L 146.729688 280.709615 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 146.729688 276.171054 
+L 435.558557 276.171054 
+L 435.558557 258.016811 
+L 146.729688 258.016811 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 146.729688 253.47825 
+L 435.558557 253.47825 
+L 435.558557 235.324007 
+L 146.729688 235.324007 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 146.729688 230.785446 
+L 435.558557 230.785446 
+L 435.558557 212.631203 
+L 146.729688 212.631203 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 146.729688 208.092643 
+L 435.558557 208.092643 
+L 435.558557 189.938399 
+L 146.729688 189.938399 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 146.729688 185.399839 
+L 435.558557 185.399839 
+L 435.558557 167.245596 
+L 146.729688 167.245596 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 146.729688 162.707035 
+L 435.558557 162.707035 
+L 435.558557 144.552792 
+L 146.729688 144.552792 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 146.729688 140.014231 
+L 435.558557 140.014231 
+L 435.558557 121.859988 
+L 146.729688 121.859988 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 146.729688 117.321427 
+L 435.558557 117.321427 
+L 435.558557 99.167184 
+L 146.729688 99.167184 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 146.729688 94.628624 
+L 435.558557 94.628624 
+L 435.558557 76.47438 
+L 146.729688 76.47438 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 146.729688 71.93582 
+L 435.558557 71.93582 
+L 435.558557 53.781577 
+L 146.729688 53.781577 
+z
+" clip-path="url(#p8d9fded475)" style="fill: #1f77b4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4c99cd72f3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="146.729688" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="146.729688" y="658.875625" transform="rotate(-0, 146.729688, 658.875625)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="182.833296" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="182.833296" y="658.875625" transform="rotate(-0, 182.833296, 658.875625)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="218.936905" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="218.936905" y="658.875625" transform="rotate(-0, 218.936905, 658.875625)">1.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="255.040513" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="255.040513" y="658.875625" transform="rotate(-0, 255.040513, 658.875625)">1.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="291.144122" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="291.144122" y="658.875625" transform="rotate(-0, 291.144122, 658.875625)">2.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="327.247731" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="327.247731" y="658.875625" transform="rotate(-0, 327.247731, 658.875625)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="363.351339" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="363.351339" y="658.875625" transform="rotate(-0, 363.351339, 658.875625)">3.0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="399.454948" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="399.454948" y="658.875625" transform="rotate(-0, 399.454948, 658.875625)">3.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m4c99cd72f3" x="435.558557" y="644.702188" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="435.558557" y="658.875625" transform="rotate(-0, 435.558557, 658.875625)">4.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m8e343aef83" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="607.485989" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'sans-serif'" transform="translate(36.365625 606.443802)">HPC research software</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(100.8125 617.136302)">engineer</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="584.793185" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="588.391623" transform="rotate(-0, 139.729688, 588.391623)">Pedologist</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="562.100382" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="565.784757" transform="rotate(-0, 139.729688, 565.784757)">Software Engineer</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="539.407578" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'sans-serif'" transform="translate(48.010938 538.36539)">Applications Support</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(96.932813 549.292265)">Specialist</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="516.714774" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="520.301493" transform="rotate(-0, 139.729688, 520.301493)">Research assistant</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="494.02197" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="497.608689" transform="rotate(-0, 139.729688, 497.608689)">Data Science Informatician</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="471.329167" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 10px 'sans-serif'" transform="translate(10.8 470.384635)">Scientist/Expert Mathematics</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(83.0375 481.077135)">and Staistics</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="448.636363" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="452.2348" transform="rotate(-0, 139.729688, 452.2348)">Research Data Analyst</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="425.943559" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="429.627934" transform="rotate(-0, 139.729688, 429.627934)">Senior Scientific Engineer</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="403.250755" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 10px 'sans-serif'" transform="translate(27.460938 402.144505)">Supercomputing services</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(36.334375 413.199505)">and support Consultant</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="380.557951" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="384.14467" transform="rotate(-0, 139.729688, 384.14467)">Senior Scientist</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="357.865148" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 10px 'sans-serif'" transform="translate(20.232813 356.834679)">Applications &amp; Architecture</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(100.265625 367.527179)">Manager</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="335.172344" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="338.759063" transform="rotate(-0, 139.729688, 338.759063)">Data scientist </text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="312.47954" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="316.066259" transform="rotate(-0, 139.729688, 316.066259)">Data Software Architect</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="289.786736" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 10px 'sans-serif'" transform="translate(54.685938 288.744549)">IT Applications and</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(44.135938 299.465174)">Architecture Manager</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="267.093932" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="270.680651" transform="rotate(-0, 139.729688, 270.680651)">Bioinformatician</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="244.401129" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="248.085504" transform="rotate(-0, 139.729688, 248.085504)">Research Software Engineer</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="221.708325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="225.295044" transform="rotate(-0, 139.729688, 225.295044)">Senior Research Fellow</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="199.015521" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="202.60224" transform="rotate(-0, 139.729688, 202.60224)">data scientist</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="176.322717" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="179.909436" transform="rotate(-0, 139.729688, 179.909436)">Postdoc Research Fellow</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="153.629913" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="157.216632" transform="rotate(-0, 139.729688, 157.216632)">Climate Scientist</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="130.93711" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font: 10px 'sans-serif'" transform="translate(38.015625 129.894922)">Data Science Software</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(99.703125 140.587422)">Engineer</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="108.244306" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="111.928681" transform="rotate(-0, 139.729688, 111.928681)">Computer Officer</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="85.551502" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="89.235877" transform="rotate(-0, 139.729688, 89.235877)">Digital Sciences Engineer</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m8e343aef83" x="146.729688" y="62.858698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="139.729688" y="66.445417" transform="rotate(-0, 139.729688, 66.445417)">Section Head</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_35">
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="298.364844" y="19.6425" transform="rotate(-0, 298.364844, 19.6425)">Official job title, New Zealand</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8d9fded475">
+   <rect x="146.729688" y="25.6425" width="303.270312" height="619.059687"/>
+  </clipPath>
+ </defs>
+</svg>

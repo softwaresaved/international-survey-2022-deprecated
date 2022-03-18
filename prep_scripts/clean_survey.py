@@ -14,6 +14,9 @@ from survey.sociodemography import read_anonymised_data
 
 SALARY_COL = 'socio4. Please select the range of your salary'
 DEVEXP_COL = 'soft1can. How many years of software development experience do you have?'
+PREVEMP1_COL = 'prevEmp1. Where was your previous job based?'
+PREVEMP1_DE_COL = 'prevEmp1qde. Where was your previous job based?'
+CURRENTEMP2_COL = 'currentEmp2. Which university do you work for?'
 
 # Pre-cleaning
 with open('cache/2022-precleaned.csv', 'w') as fout:
@@ -98,6 +101,24 @@ fix_df[SALARY_COL] = (
     .map(str.strip)
 )
 fix_df = fix_df.loc[:, ~fix_df.columns.str.startswith("socio4q")]
+
+# Merge prevEmp1 into single column, as per 2018.csv
+fix_df[PREVEMP1_COL] = (
+    fix_df.loc[:, [PREVEMP1_COL, PREVEMP1_DE_COL]]
+    .fillna("")
+    .agg("".join, axis=1)
+    .map(str.strip)
+)
+fix_df = fix_df.loc[:, ~fix_df.columns.str.startswith(PREVEMP1_DE_COL)]
+
+# Merge currentEmp2 into single column, as per 2018.csv
+fix_df[CURRENTEMP2_COL] = (
+    fix_df.loc[:, fix_df.columns.str.startswith("currentEmp2q")]
+    .fillna("")
+    .agg("".join, axis=1)
+    .map(str.strip)
+)
+fix_df = fix_df.loc[:, ~fix_df.columns.str.startswith("currentEmp2q")]
 
 # Clean all prefer not to answer type answers
 fix_df.replace('Prefer not to answer', np.NaN, inplace=True)

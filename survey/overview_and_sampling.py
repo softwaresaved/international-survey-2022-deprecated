@@ -150,6 +150,7 @@ def run(survey_year, data_year="data/2022.csv", data_prev_year="data/2018.csv"):
         # ^^ Sort descending by counts, but then ascending by country
         #    This makes the CSV reproducible
     )
+    df_countries.columns = ["Country", "Count"]
     report.update(table("participant", df_countries, index=False))
     df_countries.columns = ["name", "count"]
 

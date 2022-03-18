@@ -1,7 +1,7 @@
-Testing strategies for World,Count,Percentage
-No formal testing,110.0,11.156186612576064
-No formal testing but users provide feedback,236.0,23.935091277890468
-The developers do their own testing,592.0,60.04056795131846
-Test engineers conduct testing,33.0,3.3468559837728193
-Automated testing with continuous integration,494.0,50.10141987829615
-Don't know,10.0,1.0141987829614605
+Testing strategies for World,Count,Percentage,Percentage in 2018,Difference with previous year
+No formal testing,110.0,11.156186612576064,10.975609756097562,0.18057685647850263
+No formal testing but users provide feedback,236.0,23.935091277890468,31.300813008130078,-7.36572173023961
+The developers do their own testing,592.0,60.04056795131846,77.9471544715447,-17.90658652022625
+Test engineers conduct testing,33.0,3.3468559837728193,4.776422764227642,-1.4295667804548229
+Automated testing with continuous integration,494.0,50.10141987829615,0.0,50.10141987829615
+Don't know,10.0,1.0141987829614605,0.0,1.0141987829614605
