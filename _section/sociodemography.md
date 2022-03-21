@@ -28,7 +28,7 @@ Questions in this section:
 | Female                 |       4 |     12.9032  |
 | Prefer not to say      |       1 |      3.22581 |
 
-[Download CSV](/international-survey-2021/csv/gender_australia.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_australia.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="144pt" viewBox="0 0 460.8 144" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -36,7 +36,7 @@ Questions in this section:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:45.474393</dc:date>
+    <dc:date>2022-03-21T11:49:02.827994</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -73,7 +73,7 @@ L 432.912574 112.781548
 L 432.912574 89.006467 
 L 91.164063 89.006467 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 91.164063 83.062697 
@@ -81,7 +81,7 @@ L 143.740757 83.062697
 L 143.740757 59.287616 
 L 91.164063 59.287616 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 91.164063 53.343845 
@@ -89,7 +89,7 @@ L 104.308236 53.343845
 L 104.308236 29.568764 
 L 91.164063 29.568764 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -231,15 +231,15 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p242cea0531">
-   <rect x="91.164063" y="25.408125" width="358.835937" height="91.534062"/>
+  <clipPath id="pb40904cd83">
+   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534063"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_australia.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_australia.png){: .button} [SVG](/international-survey-2022/fig/gender_australia.svg){: .button}
 
 
 
@@ -255,7 +255,7 @@ L -3.5 0
 | Prefer not to say       |       4 |     1.94175  |
 | Prefer to self describe |       1 |     0.485437 |
 
-[Download CSV](/international-survey-2021/csv/gender_germany.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_germany.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="168pt" viewBox="0 0 460.8 168" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -263,7 +263,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:45.610643</dc:date>
+    <dc:date>2022-03-21T11:49:03.125513</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -300,7 +300,7 @@ L 434.050446 135.701293
 L 434.050446 113.634367 
 L 115.059375 113.634367 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.117635 
@@ -308,7 +308,7 @@ L 164.55799 108.117635
 L 164.55799 86.050709 
 L 115.059375 86.050709 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.533978 
@@ -316,7 +316,7 @@ L 122.392503 80.533978
 L 122.392503 58.467052 
 L 115.059375 58.467052 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.950321 
@@ -324,7 +324,7 @@ L 116.892657 52.950321
 L 116.892657 30.883395 
 L 115.059375 30.883395 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -471,12 +471,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529687" y="19.6425" transform="rotate(-0, 282.529687, 19.6425)">Gender, Germany</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529688" y="19.6425" transform="rotate(-0, 282.529688, 19.6425)">Gender, Germany</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p052ccbff43">
+  <clipPath id="p8c84bf2dfe">
    <rect x="115.059375" y="25.6425" width="334.940625" height="115.299687"/>
   </clipPath>
  </defs>
@@ -484,7 +484,7 @@ L -3.5 0
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_germany.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_germany.png){: .button} [SVG](/international-survey-2022/fig/gender_germany.svg){: .button}
 
 
 
@@ -499,7 +499,7 @@ L -3.5 0
 | Female                   |       7 |     12.069   |
 | Prefer not to say        |       3 |      5.17241 |
 
-[Download CSV](/international-survey-2021/csv/gender_netherlands.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_netherlands.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="144pt" viewBox="0 0 460.8 144" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -507,7 +507,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:45.727370</dc:date>
+    <dc:date>2022-03-21T11:49:03.385195</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -544,7 +544,7 @@ L 432.912574 112.781548
 L 432.912574 89.006467 
 L 91.164063 89.006467 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 91.164063 83.062697 
@@ -552,7 +552,7 @@ L 141.002387 83.062697
 L 141.002387 59.287616 
 L 91.164063 59.287616 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 91.164063 53.343845 
@@ -560,7 +560,7 @@ L 112.523344 53.343845
 L 112.523344 29.568764 
 L 91.164063 29.568764 
 z
-" clip-path="url(#p242cea0531)" style="fill: #1f77b4"/>
+" clip-path="url(#pb40904cd83)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -702,15 +702,15 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p242cea0531">
-   <rect x="91.164063" y="25.408125" width="358.835937" height="91.534062"/>
+  <clipPath id="pb40904cd83">
+   <rect x="91.164063" y="25.408125" width="358.835938" height="91.534063"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_netherlands.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_netherlands.png){: .button} [SVG](/international-survey-2022/fig/gender_netherlands.svg){: .button}
 
 
 
@@ -726,7 +726,7 @@ L -3.5 0
 | Prefer not to say        |       1 |      3.84615 |
 | Prefer to self describe  |       1 |      3.84615 |
 
-[Download CSV](/international-survey-2021/csv/gender_new-zealand.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_new-zealand.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="168pt" viewBox="0 0 460.8 168" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -734,7 +734,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:45.848009</dc:date>
+    <dc:date>2022-03-21T11:49:03.670583</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -759,43 +759,43 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 115.059375 140.942187 
-L 447.840205 140.942187 
-L 447.840205 25.408125 
+L 447.607859 140.942187 
+L 447.607859 25.408125 
 L 115.059375 25.408125 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 115.059375 135.690639 
-L 431.993499 135.690639 
-L 431.993499 113.578857 
+L 431.772216 135.690639 
+L 431.772216 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#pa6089a2f38)" style="fill: #1f77b4"/>
+" clip-path="url(#p53927c8341)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
-L 178.4462 108.050911 
-L 178.4462 85.939129 
+L 178.401943 108.050911 
+L 178.401943 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#pa6089a2f38)" style="fill: #1f77b4"/>
+" clip-path="url(#p53927c8341)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
-L 130.906081 80.411183 
-L 130.906081 58.299401 
+L 130.895017 80.411183 
+L 130.895017 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#pa6089a2f38)" style="fill: #1f77b4"/>
+" clip-path="url(#p53927c8341)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
-L 130.906081 52.771456 
-L 130.906081 30.659673 
+L 130.895017 52.771456 
+L 130.895017 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#pa6089a2f38)" style="fill: #1f77b4"/>
+" clip-path="url(#p53927c8341)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -816,81 +816,81 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="156.260811" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="156.232044" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="156.260811" y="155.115625" transform="rotate(-0, 156.260811, 155.115625)">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="156.232044" y="155.115625" transform="rotate(-0, 156.232044, 155.115625)">10</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="197.462247" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="197.404714" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="197.462247" y="155.115625" transform="rotate(-0, 197.462247, 155.115625)">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="197.404714" y="155.115625" transform="rotate(-0, 197.404714, 155.115625)">20</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="238.663683" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="238.577383" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="238.663683" y="155.115625" transform="rotate(-0, 238.663683, 155.115625)">30</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="238.577383" y="155.115625" transform="rotate(-0, 238.577383, 155.115625)">30</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="279.86512" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="279.750053" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="279.86512" y="155.115625" transform="rotate(-0, 279.86512, 155.115625)">40</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="279.750053" y="155.115625" transform="rotate(-0, 279.750053, 155.115625)">40</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="321.066556" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="320.922722" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="321.066556" y="155.115625" transform="rotate(-0, 321.066556, 155.115625)">50</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="320.922722" y="155.115625" transform="rotate(-0, 320.922722, 155.115625)">50</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="362.267992" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="362.095391" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="362.267992" y="155.115625" transform="rotate(-0, 362.267992, 155.115625)">60</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="362.095391" y="155.115625" transform="rotate(-0, 362.095391, 155.115625)">60</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="403.469428" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="403.268061" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="403.469428" y="155.115625" transform="rotate(-0, 403.469428, 155.115625)">70</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="403.268061" y="155.115625" transform="rotate(-0, 403.268061, 155.115625)">70</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="444.670864" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="444.44073" y="140.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="444.670864" y="155.115625" transform="rotate(-0, 444.670864, 155.115625)">80</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="444.44073" y="155.115625" transform="rotate(-0, 444.44073, 155.115625)">80</text>
      </g>
     </g>
    </g>
@@ -942,20 +942,20 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="281.44979" y="19.408125" transform="rotate(-0, 281.44979, 19.408125)">Gender, New Zealand</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="281.333617" y="19.408125" transform="rotate(-0, 281.333617, 19.408125)">Gender, New Zealand</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pa6089a2f38">
-   <rect x="115.059375" y="25.408125" width="332.78083" height="115.534062"/>
+  <clipPath id="p53927c8341">
+   <rect x="115.059375" y="25.408125" width="332.548484" height="115.534062"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_new-zealand.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_new-zealand.png){: .button} [SVG](/international-survey-2022/fig/gender_new-zealand.svg){: .button}
 
 
 
@@ -968,7 +968,7 @@ L -3.5 0
 |:--------------------------|--------:|-------------:|
 | Female                    |       2 |          100 |
 
-[Download CSV](/international-survey-2021/csv/gender_south-africa.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_south-africa.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="90pt" viewBox="0 0 460.8 90" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -976,7 +976,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:45.977356</dc:date>
+    <dc:date>2022-03-21T11:49:03.877350</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1013,7 +1013,7 @@ L 431.006771 61.236094
 L 431.006771 27.114219 
 L 51.142187 27.114219 
 z
-" clip-path="url(#pddb2fd127f)" style="fill: #1f77b4"/>
+" clip-path="url(#p26152554de)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1105,15 +1105,15 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="pddb2fd127f">
-   <rect x="51.142187" y="25.408125" width="398.857812" height="37.534062"/>
+  <clipPath id="p26152554de">
+   <rect x="51.142187" y="25.408125" width="398.857813" height="37.534062"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_south-africa.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_south-africa.png){: .button} [SVG](/international-survey-2022/fig/gender_south-africa.svg){: .button}
 
 
 
@@ -1129,7 +1129,7 @@ L -3.5 0
 | Prefer not to say           |       9 |      6.16438 |
 | Prefer to self describe     |       4 |      2.73973 |
 
-[Download CSV](/international-survey-2021/csv/gender_united-kingdom.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_united-kingdom.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="168pt" viewBox="0 0 460.8 168" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -1137,7 +1137,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.092718</dc:date>
+    <dc:date>2022-03-21T11:49:04.154556</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1174,7 +1174,7 @@ L 434.050446 135.701293
 L 434.050446 113.634367 
 L 115.059375 113.634367 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.117635 
@@ -1182,7 +1182,7 @@ L 204.008808 108.117635
 L 204.008808 86.050709 
 L 115.059375 86.050709 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.533978 
@@ -1190,7 +1190,7 @@ L 142.664372 80.533978
 L 142.664372 58.467052 
 L 115.059375 58.467052 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.950321 
@@ -1198,7 +1198,7 @@ L 127.328262 52.950321
 L 127.328262 30.883395 
 L 115.059375 30.883395 
 z
-" clip-path="url(#p052ccbff43)" style="fill: #1f77b4"/>
+" clip-path="url(#p8c84bf2dfe)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1335,12 +1335,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_13">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529687" y="19.6425" transform="rotate(-0, 282.529687, 19.6425)">Gender, United Kingdom</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529688" y="19.6425" transform="rotate(-0, 282.529688, 19.6425)">Gender, United Kingdom</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p052ccbff43">
+  <clipPath id="p8c84bf2dfe">
    <rect x="115.059375" y="25.6425" width="334.940625" height="115.299687"/>
   </clipPath>
  </defs>
@@ -1348,7 +1348,7 @@ L -3.5 0
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_united-kingdom.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_united-kingdom.png){: .button} [SVG](/international-survey-2022/fig/gender_united-kingdom.svg){: .button}
 
 
 ### Ethnicity
@@ -1366,7 +1366,7 @@ L -3.5 0
 | Mixed / Multiple Ethnic groups: White and Asian                               |       1 |     0.568182 |
 | Asian / Asian British: Bangladeshi                                            |       1 |     0.568182 |
 
-[Download CSV](/international-survey-2021/csv/ethnicity_united-kingdom.csv){: .button}
+[Download CSV](/international-survey-2022/csv/ethnicity_united-kingdom.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="312pt" viewBox="0 0 460.8 312" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -1374,7 +1374,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.273195</dc:date>
+    <dc:date>2022-03-21T11:49:04.654196</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1411,7 +1411,7 @@ L 435.480283 273.146463
 L 435.480283 253.888137 
 L 145.085938 253.888137 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 145.085938 249.073556 
@@ -1419,7 +1419,7 @@ L 241.884053 249.073556
 L 241.884053 229.81523 
 L 145.085938 229.81523 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 145.085938 225.000649 
@@ -1427,7 +1427,7 @@ L 166.260525 225.000649
 L 166.260525 205.742323 
 L 145.085938 205.742323 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 145.085938 200.927742 
@@ -1435,7 +1435,7 @@ L 160.210643 200.927742
 L 160.210643 181.669416 
 L 145.085938 181.669416 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
     <path d="M 145.085938 176.854835 
@@ -1443,7 +1443,7 @@ L 154.160761 176.854835
 L 154.160761 157.596509 
 L 145.085938 157.596509 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
     <path d="M 145.085938 152.781928 
@@ -1451,7 +1451,7 @@ L 151.13582 152.781928
 L 151.13582 133.523602 
 L 145.085938 133.523602 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
     <path d="M 145.085938 128.709021 
@@ -1459,7 +1459,7 @@ L 151.13582 128.709021
 L 151.13582 109.450695 
 L 145.085938 109.450695 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
     <path d="M 145.085938 104.636114 
@@ -1467,7 +1467,7 @@ L 148.110879 104.636114
 L 148.110879 85.377788 
 L 145.085938 85.377788 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_11">
     <path d="M 145.085938 80.563207 
@@ -1475,7 +1475,7 @@ L 148.110879 80.563207
 L 148.110879 61.304881 
 L 145.085938 61.304881 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_12">
     <path d="M 145.085938 56.4903 
@@ -1483,7 +1483,7 @@ L 148.110879 56.4903
 L 148.110879 37.231974 
 L 145.085938 37.231974 
 z
-" clip-path="url(#p9216ce5acd)" style="fill: #1f77b4"/>
+" clip-path="url(#p03eb37df4d)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1675,7 +1675,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p9216ce5acd">
+  <clipPath id="p03eb37df4d">
    <rect x="145.085938" y="25.43625" width="304.914062" height="259.505938"/>
   </clipPath>
  </defs>
@@ -1683,7 +1683,7 @@ L -3.5 0
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/ethnicity_united-kingdom.svg){: .button}
+[PNG](/international-survey-2022/fig/ethnicity_united-kingdom.png){: .button} [SVG](/international-survey-2022/fig/ethnicity_united-kingdom.svg){: .button}
 
 
 
@@ -1699,7 +1699,7 @@ L -3.5 0
 | Prefer not to say          |       4 |      2.91971 |
 | Prefer to self describe    |       2 |      1.45985 |
 
-[Download CSV](/international-survey-2021/csv/gender_united-states.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_united-states.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="168pt" viewBox="0 0 460.8 168" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -1707,7 +1707,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.549982</dc:date>
+    <dc:date>2022-03-21T11:49:05.194290</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1744,7 +1744,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -1752,7 +1752,7 @@ L 186.608774 108.050911
 L 186.608774 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -1760,7 +1760,7 @@ L 126.984275 80.411183
 L 126.984275 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -1768,7 +1768,7 @@ L 121.021825 52.771456
 L 121.021825 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -1915,12 +1915,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529687" y="19.408125" transform="rotate(-0, 282.529687, 19.408125)">Gender, United States</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529688" y="19.408125" transform="rotate(-0, 282.529688, 19.408125)">Gender, United States</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4291b4c3d9">
+  <clipPath id="p0edbea60aa">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>
@@ -1928,7 +1928,7 @@ L -3.5 0
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_united-states.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_united-states.png){: .button} [SVG](/international-survey-2022/fig/gender_united-states.svg){: .button}
 
 
 ### Hispanic or Latino
@@ -1938,7 +1938,7 @@ L -3.5 0
 | Yes                                            |       3 |      2.29008 |                  6.4 |                        -4.10992 |
 | No                                             |     128 |     97.7099  |                 93.6 |                         4.10992 |
 
-[Download CSV](/international-survey-2021/csv/hispanic-or-latino_united-states.csv){: .button}
+[Download CSV](/international-survey-2022/csv/hispanic-or-latino_united-states.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="90pt" viewBox="0 0 460.8 90" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -1946,7 +1946,7 @@ L -3.5 0
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.666188</dc:date>
+    <dc:date>2022-03-21T11:49:05.444443</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1971,27 +1971,27 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 35.03125 62.942187 
-L 376.02063 62.942187 
-L 376.02063 25.6425 
+L 381.213836 62.942187 
+L 381.213836 25.6425 
 L 35.03125 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
     <path d="M 35.03125 61.246747 
-L 359.783041 61.246747 
-L 359.783041 46.176166 
+L 364.728951 61.246747 
+L 364.728951 46.176166 
 L 35.03125 46.176166 
 z
-" clip-path="url(#p588b785835)" style="fill: #1f77b4"/>
+" clip-path="url(#p3a0f21b7cd)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 35.03125 42.408521 
-L 42.64262 42.408521 
-L 42.64262 27.33794 
+L 42.75854 42.408521 
+L 42.75854 27.33794 
 L 35.03125 27.33794 
 z
-" clip-path="url(#p588b785835)" style="fill: #1f77b4"/>
+" clip-path="url(#p3a0f21b7cd)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -2012,51 +2012,51 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="101.503882" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="102.516248" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="101.503882" y="77.115625" transform="rotate(-0, 101.503882, 77.115625)">20</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="102.516248" y="77.115625" transform="rotate(-0, 102.516248, 77.115625)">20</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="167.976514" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="170.001246" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="167.976514" y="77.115625" transform="rotate(-0, 167.976514, 77.115625)">40</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="170.001246" y="77.115625" transform="rotate(-0, 170.001246, 77.115625)">40</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="234.449146" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="237.486244" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="234.449146" y="77.115625" transform="rotate(-0, 234.449146, 77.115625)">60</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="237.486244" y="77.115625" transform="rotate(-0, 237.486244, 77.115625)">60</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="300.921779" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="304.971242" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="300.921779" y="77.115625" transform="rotate(-0, 300.921779, 77.115625)">80</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="304.971242" y="77.115625" transform="rotate(-0, 304.971242, 77.115625)">80</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="367.394411" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="372.456241" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="367.394411" y="77.115625" transform="rotate(-0, 367.394411, 77.115625)">100</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="372.456241" y="77.115625" transform="rotate(-0, 372.456241, 77.115625)">100</text>
      </g>
     </g>
    </g>
@@ -2089,73 +2089,73 @@ L -3.5 0
    </g>
    <g id="patch_5">
     <path d="M 35.03125 62.942187 
-L 376.02063 62.942187 
+L 381.213836 62.942187 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_9">
-    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="374.783041" y="56.255988" transform="rotate(-0, 374.783041, 56.255988)">98%</text>
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="379.728951" y="56.255988" transform="rotate(-0, 379.728951, 56.255988)">98%</text>
    </g>
    <g id="text_10">
-    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="57.64262" y="37.417762" transform="rotate(-0, 57.64262, 37.417762)">2%</text>
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="57.75854" y="37.417762" transform="rotate(-0, 57.75854, 37.417762)">2%</text>
    </g>
    <g id="text_11">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="205.52594" y="19.6425" transform="rotate(-0, 205.52594, 19.6425)">Whether Hispanic or Latino, United States</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="208.122543" y="19.6425" transform="rotate(-0, 208.122543, 19.6425)">Whether Hispanic or Latino, United States</text>
    </g>
   </g>
   <g id="axes_2">
    <g id="patch_6">
-    <path d="M 401.287231 62.942187 
+    <path d="M 400.545345 62.942187 
 L 450 62.942187 
 L 450 25.6425 
-L 401.287231 25.6425 
+L 400.545345 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_7">
-    <path d="M 425.643616 61.246747 
-L 447.785783 61.246747 
-L 447.785783 46.176166 
-L 425.643616 46.176166 
+    <path d="M 425.272672 61.246747 
+L 447.752061 61.246747 
+L 447.752061 46.176166 
+L 425.272672 46.176166 
 z
-" clip-path="url(#pa965716569)" style="fill: #008000"/>
+" clip-path="url(#pde0eb6f9b9)" style="fill: #008000"/>
    </g>
    <g id="patch_8">
-    <path d="M 425.643616 42.408521 
-L 403.501448 42.408521 
-L 403.501448 27.33794 
-L 425.643616 27.33794 
+    <path d="M 425.272672 42.408521 
+L 402.793284 42.408521 
+L 402.793284 27.33794 
+L 425.272672 27.33794 
 z
-" clip-path="url(#pa965716569)" style="fill: #ffa500"/>
+" clip-path="url(#pde0eb6f9b9)" style="fill: #ffa500"/>
    </g>
    <g id="matplotlib.axis_3">
     <g id="xtick_7">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="412.174894" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="411.598824" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="412.174894" y="77.115625" transform="rotate(-0, 412.174894, 77.115625)">−2.5</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="411.598824" y="77.115625" transform="rotate(-0, 411.598824, 77.115625)">−2.5</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="425.643616" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="425.272672" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="425.643616" y="77.115625" transform="rotate(-0, 425.643616, 77.115625)">0.0</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="425.272672" y="77.115625" transform="rotate(-0, 425.272672, 77.115625)">0.0</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="439.112338" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="438.946521" y="62.942187" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="439.112338" y="77.115625" transform="rotate(-0, 439.112338, 77.115625)">2.5</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="438.946521" y="77.115625" transform="rotate(-0, 438.946521, 77.115625)">2.5</text>
      </g>
     </g>
    </g>
@@ -2163,41 +2163,41 @@ z
     <g id="ytick_3">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="401.287231" y="53.711457" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="400.545345" y="53.711457" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8e343aef83" x="401.287231" y="34.873231" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="400.545345" y="34.873231" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
     </g>
    </g>
    <g id="patch_9">
-    <path d="M 401.287231 62.942187 
+    <path d="M 400.545345 62.942187 
 L 450 62.942187 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_15">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="425.643616" y="19.6425" transform="rotate(-0, 425.643616, 19.6425)">Δ</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="425.272672" y="19.6425" transform="rotate(-0, 425.272672, 19.6425)">Δ</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p588b785835">
-   <rect x="35.03125" y="25.6425" width="340.98938" height="37.299687"/>
+  <clipPath id="p3a0f21b7cd">
+   <rect x="35.03125" y="25.6425" width="346.182586" height="37.299687"/>
   </clipPath>
-  <clipPath id="pa965716569">
-   <rect x="401.287231" y="25.6425" width="48.712769" height="37.299687"/>
+  <clipPath id="pde0eb6f9b9">
+   <rect x="400.545345" y="25.6425" width="49.454655" height="37.299687"/>
   </clipPath>
  </defs>
 </svg>
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/hispanic-or-latino_united-states.svg){: .button}
+[PNG](/international-survey-2022/fig/hispanic-or-latino_united-states.png){: .button} [SVG](/international-survey-2022/fig/hispanic-or-latino_united-states.svg){: .button}
 
 
 
@@ -2213,7 +2213,7 @@ L 450 62.942187
 | Prefer not to say       |      29 |      3.60697 |
 | Prefer to self describe |       9 |      1.1194  |
 
-[Download CSV](/international-survey-2021/csv/gender_world.csv){: .button}
+[Download CSV](/international-survey-2022/csv/gender_world.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="168pt" viewBox="0 0 460.8 168" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -2221,7 +2221,7 @@ L 450 62.942187
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.913085</dc:date>
+    <dc:date>2022-03-21T11:49:05.840975</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -2258,7 +2258,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -2266,7 +2266,7 @@ L 178.458226 108.050911
 L 178.458226 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -2274,7 +2274,7 @@ L 129.536278 80.411183
 L 129.536278 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -2282,7 +2282,7 @@ L 119.552207 52.771456
 L 119.552207 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -2429,12 +2429,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529687" y="19.408125" transform="rotate(-0, 282.529687, 19.408125)">Gender, World</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529688" y="19.408125" transform="rotate(-0, 282.529688, 19.408125)">Gender, World</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4291b4c3d9">
+  <clipPath id="p0edbea60aa">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>
@@ -2442,7 +2442,7 @@ L -3.5 0
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/gender_world.svg){: .button}
+[PNG](/international-survey-2022/fig/gender_world.png){: .button} [SVG](/international-survey-2022/fig/gender_world.svg){: .button}
 
 
 

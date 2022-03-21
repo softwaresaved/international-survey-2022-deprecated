@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T13:48:18.121985</dc:date>
+    <dc:date>2022-03-21T11:51:18.301353</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,7 +43,7 @@ L 435.823065 181.510099
 L 435.823065 161.007788 
 L 152.284375 161.007788 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 152.284375 155.88221 
@@ -51,7 +51,7 @@ L 294.05372 155.88221
 L 294.05372 135.379898 
 L 152.284375 135.379898 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 152.284375 130.25432 
@@ -59,7 +59,7 @@ L 223.169048 130.25432
 L 223.169048 109.752008 
 L 152.284375 109.752008 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 152.284375 104.62643 
@@ -67,7 +67,7 @@ L 223.169048 104.62643
 L 223.169048 84.124118 
 L 152.284375 84.124118 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
     <path d="M 152.284375 78.99854 
@@ -75,7 +75,7 @@ L 223.169048 78.99854
 L 223.169048 58.496228 
 L 152.284375 58.496228 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
     <path d="M 152.284375 53.37065 
@@ -83,7 +83,7 @@ L 223.169048 53.37065
 L 223.169048 32.868338 
 L 152.284375 32.868338 
 z
-" clip-path="url(#p1667407ff5)" style="fill: #1f77b4"/>
+" clip-path="url(#p4ec73cc46a)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -257,7 +257,7 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="p1667407ff5">
+  <clipPath id="p4ec73cc46a">
    <rect x="152.284375" y="25.43625" width="297.715625" height="163.505938"/>
   </clipPath>
  </defs>

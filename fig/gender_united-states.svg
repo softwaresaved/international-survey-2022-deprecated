@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:06:46.549982</dc:date>
+    <dc:date>2022-03-21T11:49:05.194290</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,7 +43,7 @@ L 434.050446 135.690639
 L 434.050446 113.578857 
 L 115.059375 113.578857 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
     <path d="M 115.059375 108.050911 
@@ -51,7 +51,7 @@ L 186.608774 108.050911
 L 186.608774 85.939129 
 L 115.059375 85.939129 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
     <path d="M 115.059375 80.411183 
@@ -59,7 +59,7 @@ L 126.984275 80.411183
 L 126.984275 58.299401 
 L 115.059375 58.299401 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
     <path d="M 115.059375 52.771456 
@@ -67,7 +67,7 @@ L 121.021825 52.771456
 L 121.021825 30.659673 
 L 115.059375 30.659673 
 z
-" clip-path="url(#p4291b4c3d9)" style="fill: #1f77b4"/>
+" clip-path="url(#p0edbea60aa)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -214,12 +214,12 @@ L -3.5 0
     </g>
    </g>
    <g id="text_14">
-    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529687" y="19.408125" transform="rotate(-0, 282.529687, 19.408125)">Gender, United States</text>
+    <text style="font: 12px 'sans-serif'; text-anchor: middle" x="282.529688" y="19.408125" transform="rotate(-0, 282.529688, 19.408125)">Gender, United States</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4291b4c3d9">
+  <clipPath id="p0edbea60aa">
    <rect x="115.059375" y="25.408125" width="334.940625" height="115.534062"/>
   </clipPath>
  </defs>

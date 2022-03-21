@@ -75,7 +75,7 @@ We can see the distribution of participants among the countries as follow:
 | Uruguay          |       1 |
 | Åland Islands    |       1 |
 
-[Download CSV](/international-survey-2021/csv/participant.csv){: .button}
+[Download CSV](/international-survey-2022/csv/participant.csv){: .button}
 
 
 ## Visual representation of countries repartition   
@@ -90,7 +90,7 @@ We can see the distribution of participants among the countries as follow:
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:31:50.533101</dc:date>
+    <dc:date>2022-03-21T12:21:50.371584</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -7335,7 +7335,7 @@ L 485.235 550.8
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/participation_date.svg){: .button}
+[SVG](/international-survey-2022/fig/participation_date.svg){: .button} [PNG](/international-survey-2022/fig/participation_date.png){: .button}
 
 
 ## Difference with the previous year
@@ -7353,7 +7353,7 @@ Several countries did the survey last year, here a summary of the difference in 
 | South Africa   |     23 |      2 |                                -21 |
 | Netherlands    |     54 |     66 |                                 12 |
 
-[Download CSV](/international-survey-2021/csv/difference_with_previous_year.csv){: .button}
+[Download CSV](/international-survey-2022/csv/difference_with_previous_year.csv){: .button}
 
 {% raw %}
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -7361,7 +7361,7 @@ Several countries did the survey last year, here a summary of the difference in 
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T10:31:51.563779</dc:date>
+    <dc:date>2022-03-21T12:21:52.614809</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -7822,7 +7822,7 @@ z
 
 {% endraw %}
 
-[SVG](/international-survey-2021/fig/difference_with_previous_year.svg){: .button}
+[SVG](/international-survey-2022/fig/difference_with_previous_year.svg){: .button} [PNG](/international-survey-2022/fig/difference_with_previous_year.png){: .button}
 
 
 ## Subsetting
@@ -7844,7 +7844,7 @@ We will only select the participants who answered `Yes` to at least one question
 | (2022, 'Yes') |              933 |                                  180 |                       986 |
 | (2022, 'No')  |               55 |                                  760 |                       327 |
 
-[Download CSV](/international-survey-2021/csv/valid_participants.csv){: .button}
+[Download CSV](/international-survey-2022/csv/valid_participants.csv){: .button}
 
 For any further analysis, we remove the participants that answered 'No' at both of the question to only keep the ones that have work involving software development for both year to ensure a proper comparison. This brings the number of participants analysed to:
 
@@ -7852,4 +7852,4 @@ For any further analysis, we remove the participants that answered 'No' at both 
 |---:|-----------------------:|-----------------------:|
 |  0 |                    984 |                    986 |
 
-[Download CSV](/international-survey-2021/csv/participant_analysed.csv){: .button}
+[Download CSV](/international-survey-2022/csv/participant_analysed.csv){: .button}

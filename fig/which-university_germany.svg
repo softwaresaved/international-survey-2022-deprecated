@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="839.52pt" viewBox="0 0 460.8 839.52" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="840pt" viewBox="0 0 460.8 840" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-03-18T13:48:12.186738</dc:date>
+    <dc:date>2022-03-21T11:50:56.220755</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,8 +21,8 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 839.52 
-L 460.8 839.52 
+   <path d="M 0 840 
+L 460.8 840 
 L 460.8 0 
 L 0 0 
 z
@@ -30,268 +30,268 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 168.9625 812.462188 
-L 450 812.462188 
+    <path d="M 168.9625 812.942188 
+L 450 812.942188 
 L 450 25.6425 
 L 168.9625 25.6425 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 168.9625 776.697656 
-L 436.617262 776.697656 
-L 436.617262 758.702924 
-L 168.9625 758.702924 
+    <path d="M 168.9625 777.155838 
+L 436.617262 777.155838 
+L 436.617262 759.150128 
+L 168.9625 759.150128 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path d="M 168.9625 754.20424 
-L 387.95276 754.20424 
-L 387.95276 736.209508 
-L 168.9625 736.209508 
+    <path d="M 168.9625 754.6487 
+L 387.95276 754.6487 
+L 387.95276 736.64299 
+L 168.9625 736.64299 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path d="M 168.9625 731.710824 
-L 363.620509 731.710824 
-L 363.620509 713.716092 
-L 168.9625 713.716092 
+    <path d="M 168.9625 732.141562 
+L 363.620509 732.141562 
+L 363.620509 714.135852 
+L 168.9625 714.135852 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path d="M 168.9625 709.217409 
-L 363.620509 709.217409 
-L 363.620509 691.222676 
-L 168.9625 691.222676 
+    <path d="M 168.9625 709.634424 
+L 363.620509 709.634424 
+L 363.620509 691.628714 
+L 168.9625 691.628714 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path d="M 168.9625 686.723993 
-L 339.288258 686.723993 
-L 339.288258 668.72926 
-L 168.9625 668.72926 
+    <path d="M 168.9625 687.127286 
+L 339.288258 687.127286 
+L 339.288258 669.121576 
+L 168.9625 669.121576 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path d="M 168.9625 664.230577 
-L 314.956006 664.230577 
-L 314.956006 646.235844 
-L 168.9625 646.235844 
+    <path d="M 168.9625 664.620148 
+L 314.956006 664.620148 
+L 314.956006 646.614438 
+L 168.9625 646.614438 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
-    <path d="M 168.9625 641.737161 
-L 290.623755 641.737161 
-L 290.623755 623.742428 
-L 168.9625 623.742428 
+    <path d="M 168.9625 642.11301 
+L 290.623755 642.11301 
+L 290.623755 624.1073 
+L 168.9625 624.1073 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
-    <path d="M 168.9625 619.243745 
-L 266.291504 619.243745 
-L 266.291504 601.249012 
-L 168.9625 601.249012 
+    <path d="M 168.9625 619.605872 
+L 266.291504 619.605872 
+L 266.291504 601.600162 
+L 168.9625 601.600162 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_11">
-    <path d="M 168.9625 596.750329 
-L 241.959253 596.750329 
-L 241.959253 578.755597 
-L 168.9625 578.755597 
+    <path d="M 168.9625 597.098734 
+L 241.959253 597.098734 
+L 241.959253 579.093024 
+L 168.9625 579.093024 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_12">
-    <path d="M 168.9625 574.256913 
-L 241.959253 574.256913 
-L 241.959253 556.262181 
-L 168.9625 556.262181 
+    <path d="M 168.9625 574.591596 
+L 241.959253 574.591596 
+L 241.959253 556.585886 
+L 168.9625 556.585886 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_13">
-    <path d="M 168.9625 551.763497 
-L 217.627002 551.763497 
-L 217.627002 533.768765 
-L 168.9625 533.768765 
+    <path d="M 168.9625 552.084458 
+L 217.627002 552.084458 
+L 217.627002 534.078748 
+L 168.9625 534.078748 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_14">
-    <path d="M 168.9625 529.270082 
-L 217.627002 529.270082 
-L 217.627002 511.275349 
-L 168.9625 511.275349 
+    <path d="M 168.9625 529.57732 
+L 217.627002 529.57732 
+L 217.627002 511.57161 
+L 168.9625 511.57161 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_15">
-    <path d="M 168.9625 506.776666 
-L 217.627002 506.776666 
-L 217.627002 488.781933 
-L 168.9625 488.781933 
+    <path d="M 168.9625 507.070182 
+L 217.627002 507.070182 
+L 217.627002 489.064472 
+L 168.9625 489.064472 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_16">
-    <path d="M 168.9625 484.28325 
-L 193.294751 484.28325 
-L 193.294751 466.288517 
-L 168.9625 466.288517 
+    <path d="M 168.9625 484.563044 
+L 193.294751 484.563044 
+L 193.294751 466.557334 
+L 168.9625 466.557334 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_17">
-    <path d="M 168.9625 461.789834 
-L 193.294751 461.789834 
-L 193.294751 443.795101 
-L 168.9625 443.795101 
+    <path d="M 168.9625 462.055906 
+L 193.294751 462.055906 
+L 193.294751 444.050196 
+L 168.9625 444.050196 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_18">
-    <path d="M 168.9625 439.296418 
-L 193.294751 439.296418 
-L 193.294751 421.301685 
-L 168.9625 421.301685 
+    <path d="M 168.9625 439.548768 
+L 193.294751 439.548768 
+L 193.294751 421.543058 
+L 168.9625 421.543058 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_19">
-    <path d="M 168.9625 416.803002 
-L 193.294751 416.803002 
-L 193.294751 398.808269 
-L 168.9625 398.808269 
+    <path d="M 168.9625 417.04163 
+L 193.294751 417.04163 
+L 193.294751 399.03592 
+L 168.9625 399.03592 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_20">
-    <path d="M 168.9625 394.309586 
-L 193.294751 394.309586 
-L 193.294751 376.314854 
-L 168.9625 376.314854 
+    <path d="M 168.9625 394.534492 
+L 193.294751 394.534492 
+L 193.294751 376.528782 
+L 168.9625 376.528782 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_21">
-    <path d="M 168.9625 371.81617 
-L 193.294751 371.81617 
-L 193.294751 353.821438 
-L 168.9625 353.821438 
+    <path d="M 168.9625 372.027354 
+L 193.294751 372.027354 
+L 193.294751 354.021644 
+L 168.9625 354.021644 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_22">
-    <path d="M 168.9625 349.322755 
-L 193.294751 349.322755 
-L 193.294751 331.328022 
-L 168.9625 331.328022 
+    <path d="M 168.9625 349.520216 
+L 193.294751 349.520216 
+L 193.294751 331.514506 
+L 168.9625 331.514506 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_23">
-    <path d="M 168.9625 326.829339 
-L 193.294751 326.829339 
-L 193.294751 308.834606 
-L 168.9625 308.834606 
+    <path d="M 168.9625 327.013078 
+L 193.294751 327.013078 
+L 193.294751 309.007368 
+L 168.9625 309.007368 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_24">
-    <path d="M 168.9625 304.335923 
-L 193.294751 304.335923 
-L 193.294751 286.34119 
-L 168.9625 286.34119 
+    <path d="M 168.9625 304.50594 
+L 193.294751 304.50594 
+L 193.294751 286.50023 
+L 168.9625 286.50023 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_25">
-    <path d="M 168.9625 281.842507 
-L 193.294751 281.842507 
-L 193.294751 263.847774 
-L 168.9625 263.847774 
+    <path d="M 168.9625 281.998802 
+L 193.294751 281.998802 
+L 193.294751 263.993091 
+L 168.9625 263.993091 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_26">
-    <path d="M 168.9625 259.349091 
-L 193.294751 259.349091 
-L 193.294751 241.354358 
-L 168.9625 241.354358 
+    <path d="M 168.9625 259.491664 
+L 193.294751 259.491664 
+L 193.294751 241.485953 
+L 168.9625 241.485953 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_27">
-    <path d="M 168.9625 236.855675 
-L 193.294751 236.855675 
-L 193.294751 218.860942 
-L 168.9625 218.860942 
+    <path d="M 168.9625 236.984526 
+L 193.294751 236.984526 
+L 193.294751 218.978815 
+L 168.9625 218.978815 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_28">
-    <path d="M 168.9625 214.362259 
-L 193.294751 214.362259 
-L 193.294751 196.367527 
-L 168.9625 196.367527 
+    <path d="M 168.9625 214.477388 
+L 193.294751 214.477388 
+L 193.294751 196.471677 
+L 168.9625 196.471677 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_29">
-    <path d="M 168.9625 191.868843 
-L 193.294751 191.868843 
-L 193.294751 173.874111 
-L 168.9625 173.874111 
+    <path d="M 168.9625 191.97025 
+L 193.294751 191.97025 
+L 193.294751 173.964539 
+L 168.9625 173.964539 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_30">
-    <path d="M 168.9625 169.375427 
-L 193.294751 169.375427 
-L 193.294751 151.380695 
-L 168.9625 151.380695 
+    <path d="M 168.9625 169.463112 
+L 193.294751 169.463112 
+L 193.294751 151.457401 
+L 168.9625 151.457401 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_31">
-    <path d="M 168.9625 146.882012 
-L 193.294751 146.882012 
-L 193.294751 128.887279 
-L 168.9625 128.887279 
+    <path d="M 168.9625 146.955974 
+L 193.294751 146.955974 
+L 193.294751 128.950263 
+L 168.9625 128.950263 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_32">
-    <path d="M 168.9625 124.388596 
-L 193.294751 124.388596 
-L 193.294751 106.393863 
-L 168.9625 106.393863 
+    <path d="M 168.9625 124.448836 
+L 193.294751 124.448836 
+L 193.294751 106.443125 
+L 168.9625 106.443125 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_33">
-    <path d="M 168.9625 101.89518 
-L 193.294751 101.89518 
-L 193.294751 83.900447 
-L 168.9625 83.900447 
+    <path d="M 168.9625 101.941698 
+L 193.294751 101.941698 
+L 193.294751 83.935987 
+L 168.9625 83.935987 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_34">
-    <path d="M 168.9625 79.401764 
-L 193.294751 79.401764 
-L 193.294751 61.407031 
-L 168.9625 61.407031 
+    <path d="M 168.9625 79.43456 
+L 193.294751 79.43456 
+L 193.294751 61.428849 
+L 168.9625 61.428849 
 z
-" clip-path="url(#pc7726f94b1)" style="fill: #1f77b4"/>
+" clip-path="url(#p6e019c5605)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
@@ -302,71 +302,71 @@ L 0 3.5
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4c99cd72f3" x="168.9625" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="168.9625" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="168.9625" y="826.635625" transform="rotate(-0, 168.9625, 826.635625)">0</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="168.9625" y="827.115625" transform="rotate(-0, 168.9625, 827.115625)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="212.273907" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="212.273907" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="212.273907" y="826.635625" transform="rotate(-0, 212.273907, 826.635625)">2</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="212.273907" y="827.115625" transform="rotate(-0, 212.273907, 827.115625)">2</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="255.585314" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="255.585314" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="255.585314" y="826.635625" transform="rotate(-0, 255.585314, 826.635625)">4</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="255.585314" y="827.115625" transform="rotate(-0, 255.585314, 827.115625)">4</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="298.896721" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="298.896721" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="298.896721" y="826.635625" transform="rotate(-0, 298.896721, 826.635625)">6</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="298.896721" y="827.115625" transform="rotate(-0, 298.896721, 827.115625)">6</text>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="342.208128" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="342.208128" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="342.208128" y="826.635625" transform="rotate(-0, 342.208128, 826.635625)">8</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="342.208128" y="827.115625" transform="rotate(-0, 342.208128, 827.115625)">8</text>
      </g>
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="385.519535" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="385.519535" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="385.519535" y="826.635625" transform="rotate(-0, 385.519535, 826.635625)">10</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="385.519535" y="827.115625" transform="rotate(-0, 385.519535, 827.115625)">10</text>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m4c99cd72f3" x="428.830942" y="812.462188" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m4c99cd72f3" x="428.830942" y="812.942188" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
-      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="428.830942" y="826.635625" transform="rotate(-0, 428.830942, 826.635625)">12</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: middle" x="428.830942" y="827.115625" transform="rotate(-0, 428.830942, 827.115625)">12</text>
      </g>
     </g>
    </g>
@@ -379,328 +379,328 @@ L -3.5 0
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="767.70029" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="768.152983" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <text style="font: 10px 'sans-serif'" transform="translate(60.815625 766.658102)">Technische Universität</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(115.842187 777.350602)">Darmstadt</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(60.815625 767.110795)">Technische Universität</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(115.842187 777.803295)">Darmstadt</text>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="745.206874" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="745.645845" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="748.891249" transform="rotate(-0, 161.9625, 748.891249)">OtherTU Braunschweig</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="749.33022" transform="rotate(-0, 161.9625, 749.33022)">OtherTU Braunschweig</text>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="722.713458" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="723.138707" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="726.397833" transform="rotate(-0, 161.9625, 726.397833)">University of Stuttgart</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="726.823082" transform="rotate(-0, 161.9625, 726.823082)">University of Stuttgart</text>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="700.220042" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="700.631569" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="703.857542" transform="rotate(-0, 161.9625, 703.857542)">University of Potsdam</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="704.269069" transform="rotate(-0, 161.9625, 704.269069)">University of Potsdam</text>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="677.726626" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="678.124431" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="681.411001" transform="rotate(-0, 161.9625, 681.411001)">University of Göttingen</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="681.808806" transform="rotate(-0, 161.9625, 681.808806)">University of Göttingen</text>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="655.23321" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="655.617293" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
-      <text style="font: 10px 'sans-serif'" transform="translate(35.807812 654.179304)">OtherTechnische Universität</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(99.153125 664.899929)">Braunschweig</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(35.807812 654.563387)">OtherTechnische Universität</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(99.153125 665.284012)">Braunschweig</text>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="632.739795" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="633.110155" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="636.326513" transform="rotate(-0, 161.9625, 636.326513)">TU Dresden</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="636.696874" transform="rotate(-0, 161.9625, 636.696874)">TU Dresden</text>
      </g>
     </g>
     <g id="ytick_8">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="610.246379" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="610.603017" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
-      <text style="font: 10px 'sans-serif'" transform="translate(81.371875 609.15341)">Karlsruhe Institute</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(99.15 619.967785)">of Technology</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(81.371875 609.510048)">Karlsruhe Institute</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(99.15 620.324423)">of Technology</text>
      </g>
     </g>
     <g id="ytick_9">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="587.752963" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="588.095879" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="591.390463" transform="rotate(-0, 161.9625, 591.390463)">University of Jena</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="591.733379" transform="rotate(-0, 161.9625, 591.733379)">University of Jena</text>
      </g>
     </g>
     <g id="ytick_10">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="565.259547" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="565.588741" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_17">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="568.897047" transform="rotate(-0, 161.9625, 568.897047)">University of Würzburg</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="569.226241" transform="rotate(-0, 161.9625, 569.226241)">University of Würzburg</text>
      </g>
     </g>
     <g id="ytick_11">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="542.766131" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="543.081603" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="546.403631" transform="rotate(-0, 161.9625, 546.403631)">University of Bonn</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="546.719103" transform="rotate(-0, 161.9625, 546.719103)">University of Bonn</text>
      </g>
     </g>
     <g id="ytick_12">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="520.272715" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="520.574465" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_19">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="523.910215" transform="rotate(-0, 161.9625, 523.910215)">University of Hamburg</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="524.211965" transform="rotate(-0, 161.9625, 524.211965)">University of Hamburg</text>
      </g>
     </g>
     <g id="ytick_13">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="497.779299" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="498.067327" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_20">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="501.366018" transform="rotate(-0, 161.9625, 501.366018)">TU Dortmund</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="501.654046" transform="rotate(-0, 161.9625, 501.654046)">TU Dortmund</text>
      </g>
     </g>
     <g id="ytick_14">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="475.285883" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="475.560189" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_21">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="478.884321" transform="rotate(-0, 161.9625, 478.884321)">Heidelberg University</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="479.158626" transform="rotate(-0, 161.9625, 479.158626)">Heidelberg University</text>
      </g>
     </g>
     <g id="ytick_15">
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="452.792468" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="453.053051" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_22">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="456.379186" transform="rotate(-0, 161.9625, 456.379186)">OtherUK</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="456.63977" transform="rotate(-0, 161.9625, 456.63977)">OtherUK</text>
      </g>
     </g>
     <g id="ytick_16">
      <g id="line2d_23">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="430.299052" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="430.545913" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_23">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="433.88577" transform="rotate(-0, 161.9625, 433.88577)">Leipzig University</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="434.132632" transform="rotate(-0, 161.9625, 434.132632)">Leipzig University</text>
      </g>
     </g>
     <g id="ytick_17">
      <g id="line2d_24">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="407.805636" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="408.038775" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_24">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="411.404073" transform="rotate(-0, 161.9625, 411.404073)">RWTH Aachen University</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="411.637212" transform="rotate(-0, 161.9625, 411.637212)">RWTH Aachen University</text>
      </g>
     </g>
     <g id="ytick_18">
      <g id="line2d_25">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="385.31222" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="385.531637" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_25">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="388.94972" transform="rotate(-0, 161.9625, 388.94972)">University of Erlangen-Nuremberg</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="389.169137" transform="rotate(-0, 161.9625, 389.169137)">University of Erlangen-Nuremberg</text>
      </g>
     </g>
     <g id="ytick_19">
      <g id="line2d_26">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="362.818804" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="363.024499" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_26">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="366.503179" transform="rotate(-0, 161.9625, 366.503179)">Goethe University Frankfurt</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="366.708874" transform="rotate(-0, 161.9625, 366.708874)">Goethe University Frankfurt</text>
      </g>
     </g>
     <g id="ytick_20">
      <g id="line2d_27">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="340.325388" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="340.517361" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_27">
-      <text style="font: 10px 'sans-serif'" transform="translate(33.59375 339.230857)">Ludwig Maximilian University</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(118.610938 350.051482)">of Munich</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(33.59375 339.422829)">Ludwig Maximilian University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(118.610937 350.243454)">of Munich</text>
      </g>
     </g>
     <g id="ytick_21">
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="317.831972" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="318.010223" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_28">
-      <text style="font: 10px 'sans-serif'" transform="translate(72.49375 316.771816)">Technical University</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(118.610938 327.523691)">of Munich</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(72.49375 316.950066)">Technical University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(118.610937 327.701941)">of Munich</text>
      </g>
     </g>
     <g id="ytick_22">
      <g id="line2d_29">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="295.338556" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="295.503085" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_29">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="298.976056" transform="rotate(-0, 161.9625, 298.976056)">University of Kiel</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="299.140585" transform="rotate(-0, 161.9625, 299.140585)">University of Kiel</text>
      </g>
     </g>
     <g id="ytick_23">
      <g id="line2d_30">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="272.845141" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="272.995947" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_30">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="276.482641" transform="rotate(-0, 161.9625, 276.482641)">University of Freiburg</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="276.633447" transform="rotate(-0, 161.9625, 276.633447)">University of Freiburg</text>
      </g>
     </g>
     <g id="ytick_24">
      <g id="line2d_31">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="250.351725" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="250.488809" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_31">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="253.989225" transform="rotate(-0, 161.9625, 253.989225)">University of Konstanz</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="254.126309" transform="rotate(-0, 161.9625, 254.126309)">University of Konstanz</text>
      </g>
     </g>
     <g id="ytick_25">
      <g id="line2d_32">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="227.858309" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="227.981671" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_32">
-      <text style="font: 10px 'sans-serif'" transform="translate(34.69375 226.88409)">OtherBundeswehr University</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(129.728125 237.635965)">Munich</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(34.69375 227.007452)">OtherBundeswehr University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(129.728125 237.759327)">Munich</text>
      </g>
     </g>
     <g id="ytick_26">
      <g id="line2d_33">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="205.364893" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="205.474533" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_33">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="209.002393" transform="rotate(-0, 161.9625, 209.002393)">University of Hanover</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="209.112033" transform="rotate(-0, 161.9625, 209.112033)">University of Hanover</text>
      </g>
     </g>
     <g id="ytick_27">
      <g id="line2d_34">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="182.871477" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="182.967395" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_34">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="186.508977" transform="rotate(-0, 161.9625, 186.508977)">Free University of Berlin</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="186.604895" transform="rotate(-0, 161.9625, 186.604895)">Free University of Berlin</text>
      </g>
     </g>
     <g id="ytick_28">
      <g id="line2d_35">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="160.378061" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="160.460257" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_35">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="164.015561" transform="rotate(-0, 161.9625, 164.015561)">University of Trier</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="164.097757" transform="rotate(-0, 161.9625, 164.097757)">University of Trier</text>
      </g>
     </g>
     <g id="ytick_29">
      <g id="line2d_36">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="137.884645" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="137.953119" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_36">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="141.522145" transform="rotate(-0, 161.9625, 141.522145)">University of Duisburg-Essen</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="141.590619" transform="rotate(-0, 161.9625, 141.590619)">University of Duisburg-Essen</text>
      </g>
     </g>
     <g id="ytick_30">
      <g id="line2d_37">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="115.391229" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="115.445981" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_37">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="119.028729" transform="rotate(-0, 161.9625, 119.028729)">University of Münster</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="119.083481" transform="rotate(-0, 161.9625, 119.083481)">University of Münster</text>
      </g>
     </g>
     <g id="ytick_31">
      <g id="line2d_38">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="92.897813" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="92.938843" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_38">
-      <text style="font: 10px 'sans-serif'" transform="translate(73.054688 91.872813)">Chemnitz University</text>
-      <text style="font: 10px 'sans-serif'" transform="translate(99.15 102.746563)">of Technology</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(73.054687 91.913843)">Chemnitz University</text>
+      <text style="font: 10px 'sans-serif'" transform="translate(99.15 102.787593)">of Technology</text>
      </g>
     </g>
     <g id="ytick_32">
      <g id="line2d_39">
       <g>
-       <use xlink:href="#m8e343aef83" x="168.9625" y="70.404398" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m8e343aef83" x="168.9625" y="70.431705" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_39">
-      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="74.041898" transform="rotate(-0, 161.9625, 74.041898)">University of Bremen</text>
+      <text style="font: 10px 'sans-serif'; text-anchor: end" x="161.9625" y="74.069205" transform="rotate(-0, 161.9625, 74.069205)">University of Bremen</text>
      </g>
     </g>
    </g>
@@ -710,8 +710,8 @@ L -3.5 0
   </g>
  </g>
  <defs>
-  <clipPath id="pc7726f94b1">
-   <rect x="168.9625" y="25.6425" width="281.0375" height="786.819688"/>
+  <clipPath id="p6e019c5605">
+   <rect x="168.9625" y="25.6425" width="281.0375" height="787.299688"/>
   </clipPath>
  </defs>
 </svg>
