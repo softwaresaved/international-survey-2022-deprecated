@@ -8,11 +8,11 @@ def sha256sum(fn: Path) -> str:
     m.update(fn.read_text().encode("utf-8"))
     return m.hexdigest()
 
-HASH = "8774105529acabd90625728f00374a65bd65854b5ed440ee02badcdd06d3fe99"
+HASH = "6fbc60cee4b175976e81e03c1c1107982246ace34afa5619380628d1a536c151"
 CACHED_DATA = Path("cache/processed_data.csv")
 
 def test_overview_and_sampling():
-    os.environ["RSE_SURVEY_YEAR"] = "2018"
+    os.environ["RSE_SURVEY_YEAR"] = "2022"
     sys.path.insert(1, str(Path(__file__).parent.parent))
     import survey.overview_and_sampling
     survey.overview_and_sampling.run()
