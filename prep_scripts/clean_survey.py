@@ -1,5 +1,6 @@
 """Cleaning tool to do basic cleaning and amend the column names in a survey data CSV file to match the 2018 survey data."""
 
+import os
 import sys
 import re
 import numpy as np
@@ -19,6 +20,9 @@ PREVEMP1_DE_COL = 'prevEmp1qde. Where was your previous job based?'
 CURRENTEMP2_COL = 'currentEmp2. Which university do you work for?'
 
 # Pre-cleaning
+if not os.path.exists('cache'):
+    os.makedirs('cache')
+
 with open('cache/2022-precleaned.csv', 'w') as fout:
     with open('data/2022-raw.csv', 'r') as fin:
         for line in fin:
