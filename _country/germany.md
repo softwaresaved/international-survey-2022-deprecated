@@ -23,7 +23,7 @@ selected at least one option.
 
 * What is the highest level of education you have attained? (one choice list)
 * In which discipline is your highest academic qualification? (one choice list)
-* Which professional qualification do you hold? (free text)
+* List any professional qualifications you hold (free text)
 
 ### Levels of education 
 
@@ -271,7 +271,7 @@ position among 8 different ones:
 ### Questions in this section
 
 * Where was your previous job based? (single choice)
-* What were the reasons to choose the current job? (ranking)
+* Rank the following factors dependent on how strongly they influenced your decision to accept your current position (ranking)
 
 ### Where the previous job was based
 
@@ -320,11 +320,10 @@ Questions in this section:
 * Are you part of a dedicated research software group within your institution?
   (yes-no)
 * How many software projects are you currently involved in? (numeric)
-* How many software developers typically work on your projects? (numeric)
+* How many people who develop software typically work on your projects? (numeric)
 * On average, how many times a year do you take part in providing training?
   (numeric)
-* What training programs are you involved with (comma separated list, e.g.,
-  Software Carpentry, local university training, etc.)? (free text)
+* What training programs are you involved with? (free text)
 
 ### Developing code for others
 
@@ -612,12 +611,13 @@ academia.
 For testing, we asked the participants to choose any of the following testing
 methods:
 
+* Automated testing with continuous integration
 * Test engineers conduct testing
-* Developers conduct testing
-* Users conduct testing
+* Developers conduct own testing
+* No formal testing but users provide feedback
 * No formal testing
 
-Obviously, the test engineers conduct testing is the most robust testing method
+Test engineers conducting testing is the most robust testing method
 but may not be possible in smaller projects while no formal testing should not
 occur in any ideal scenario, regardless of the size of the project.
 
