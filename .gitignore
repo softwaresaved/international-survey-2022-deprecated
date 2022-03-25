@@ -4,6 +4,10 @@ __pycache__
 tags
 *.swp
 *.egg-info
+.DS_Store
+.idea/
+_site
+venv/
 
 # Blacklists all csv files in analysis
 **/*.csv
