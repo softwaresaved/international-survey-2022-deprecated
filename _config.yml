@@ -7,7 +7,7 @@ url: "https://steve-crouch.github.io"
 
 search_enabled: true
 color_scheme: survey
-exclude: ["*.py", "vendor", "survey", "docs", "cache", "data", "venv", "lib"]
+exclude: ["*.py", "vendor", "survey", "docs", "cache", "data", "venv", "lib", "templates"]
 
 collections:
   section:
