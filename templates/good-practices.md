@@ -52,7 +52,7 @@ methods:
 * No formal testing but users provide feedback
 * No formal testing
 
-The test engineers conduct testing is the most robust testing method
+Test engineers conducting testing is the most robust testing method
 but may not be possible in smaller projects while no formal testing should not
 occur in any ideal scenario, regardless of the size of the project.
 

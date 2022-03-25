@@ -22,7 +22,7 @@ selected at least one option.
 
 * What is the highest level of education you have attained? (one choice list)
 * In which discipline is your highest academic qualification? (one choice list)
-* List any professional qualifications you hold? (free text)
+* List any professional qualifications you hold (free text)
 
 ## Levels of education 
 

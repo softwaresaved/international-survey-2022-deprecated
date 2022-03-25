@@ -19,7 +19,7 @@ Questions in this section:
 * How many people who develop software typically work on your projects? (numeric)
 * On average, how many times a year do you take part in providing training?
   (numeric)
-* What training programs are you involved with
+* What training programs are you involved with? (free text)
 
 {{#countries}}
 

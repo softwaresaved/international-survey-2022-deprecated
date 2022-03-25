@@ -63,8 +63,7 @@ All questions were asked in a Likert scale.
 * There are many opportunities within my chosen career plan
 * It is likely that my next position will be an Research Software Engineer / Research Software Developer role
 
-References
-----------
+# References
 
 1. B. Aziri, “Job satisfaction: A literature review,” vol. 3, no. 4, pp. 77–86.
 2. N. De Cuyper, S. Mauno, U. Kinnunen, and A. Mkikangas, “The role of job resources in the relation
