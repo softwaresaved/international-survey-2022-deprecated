@@ -107,6 +107,9 @@ corresponding to the section. The template file uses the
 [chevron](https://pypi.org/project/chevron/) module.
 
 ## Citations
+The citation for the 2022 version is:
+> TBD
+
 The citation for the 2018 version is:
 > Olivier Philippe, Martin Hammitzsch, Stephan Janosch, Anelda van der Walt, Ben van Werkhoven, Simon Hettrick, … Manodeep Sinha. (2019, March 6). softwaresaved/international-survey: Public release for 2018 results (Version 2018-v.1.0.2). Zenodo. http://doi.org/10.5281/zenodo.2585783
 
