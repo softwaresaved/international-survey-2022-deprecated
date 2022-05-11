@@ -5,18 +5,18 @@ title: Home
 # RSE International Survey
 
 The Research Software Engineering (RSE) International Survey is a survey conducted
-by the [Software Sustainability Institute](https://www.software.ac.uk) that comprises 8 countries
+by the UK [Software Sustainability Institute](https://www.software.ac.uk) since 2016 and now comprises 8 countries
 and covers all aspects of the practice of research software engineering.
 
 We ran the **first survey in 2016**, which provided an insight into the
 demographics, job satisfaction, and practices of research software engineers
-(RSEs). To support and broaden this work, the institute will conduct the survey
-at regular intervals, and extend the geographical coverage, which will
-facilitate inter-country comparison. The results of the surveys, the anonymised
-version of which is under a open license, will act as a a valuable resource to
+(RSEs) in the UK. To support and broaden this work, the institute will conduct the survey
+at regular intervals and extend the geographical coverage to
+facilitate inter-country comparisons. The results of the surveys, anonymised
+and open licensed, will act as a a valuable resource to
 understand and improve the working conditions for RSEs.
 
-In **2017** we also surveyed Canadian RSEs and we added four further countries,
+In **2017** we also surveyed Canadian RSEs and we added four countries,
 Germany, Netherlands, South Africa and USA. Our thanks to our partners: Scott
 Henwood (Canada), Stephan Janosch and Martin Hammitzsch (Germany), Ben van
 Werkhoven and Tom Bakker (Netherlands), Anelda van der Walt (South Africa) and
@@ -25,7 +25,7 @@ Daniel Katz and Sandra Gesing (USA).
 Since **2018** we have worked differently and created a survey for all countries
 (rather than one survey for each one).
 
-This site covers the **2022** survey.
+This site covers the **2022** survey results.
 
 ## Composition of the survey
 
@@ -62,7 +62,7 @@ Here is a list of contributors for the 2017/2018 version of the survey (alphabet
 
 ## Licence 
 
-This repository contains code and public data. We have different licence for each
+This repository contains code and public data. We have different licences for each
 * The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE).
 * The data stored in this repository is under the [CC BY 2.5 SCOTLAND](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE_FOR_DATA).
 
